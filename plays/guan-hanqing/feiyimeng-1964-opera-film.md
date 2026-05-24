@@ -184,6 +184,7 @@ The final scene of exposure and denouement brings together all the threads of th
     <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip4','zh')">Chinese</button>
     <button class="sub-btn" data-lang="en" onclick="switchSub('clip4','en')">English</button>
     <button class="sub-btn" data-lang="off" onclick="switchSub('clip4','off')">Off</button>
+    <button class="sub-btn" data-lang="ad" onclick="toggleAD('clip4',this)">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 4: The scene of denouement (1:11:40–1:14:06). Source: The film on Youtube.</p>
 </div>
@@ -233,13 +234,26 @@ function switchSub(clipId, lang) {
   if (!video) return;
   var tracks = video.textTracks;
   for (var i = 0; i < tracks.length; i++) {
+    if (tracks[i].kind === 'descriptions') continue;
     tracks[i].mode = (lang !== 'off' && tracks[i].language === lang) ? 'showing' : 'hidden';
   }
   var section = video.closest('.clip-section');
   if (section) {
-    section.querySelectorAll('.sub-btn').forEach(function(btn) {
+    section.querySelectorAll('.sub-btn:not([data-lang="ad"])').forEach(function(btn) {
       btn.classList.toggle('active', btn.dataset.lang === lang);
     });
+  }
+}
+function toggleAD(clipId, btn) {
+  var video = document.getElementById(clipId);
+  if (!video) return;
+  var tracks = video.textTracks;
+  for (var i = 0; i < tracks.length; i++) {
+    if (tracks[i].kind === 'descriptions') {
+      var on = tracks[i].mode !== 'showing';
+      tracks[i].mode = on ? 'showing' : 'hidden';
+      btn.classList.toggle('active', on);
+    }
   }
 }
 document.addEventListener('DOMContentLoaded', function() {
