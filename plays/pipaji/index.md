@@ -11,11 +11,11 @@ play_title: "The Lute"
 
 You can find modules that analyze various adaptations of *The Lute* at the links below. To get a sense of the main themes and historical import of the original *The Lute*, please consult the "General Background" below.
 
-- [New Year's Print of The Lute 《琵琶记》年画连环画 (1958)](/plays/pipaji/1958-comic/)
+- [New Year's Print of The Lute 《琵琶记》年画连环画 (1958)](1958-comic/)
   - "Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* (narrative comic) New Year's print of *The Lute*.
-- [The Lute 琵琶记 (1985/1986)](/plays/pipaji/1985-comic/)
+- [The Lute 琵琶记 (1985/1986)](1985-comic/)
   - "Creating Emotional Atmospheres," a module on a *lianhuanhua* adaptation of *The Lute*.
-- [The Lute 全本琵琶记 (2012)](/plays/pipaji/2012-recorded-perf/)
+- [The Lute 全本琵琶记 (2012)](2012-recorded-perf/)
   - "Techniques for Creating Sadness and Comic Relief," a module on a live performance of *The Lute* by the Shanghai Kunqu Opera Troupe.
 
 ## General Background

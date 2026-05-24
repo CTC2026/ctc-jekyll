@@ -13,23 +13,23 @@ General background about the playwright Guan Hanqing can be found below. You can
 
 **The Injustice to Dou E and Other Courtroom Dramas 感天動地竇娥冤與其他公案劇**
 
-1. [Snow in June 六月雪 (1959)](/plays/guan-hanqing/doue-1959-opera-film1/)
+1. [Snow in June 六月雪 (1959)](doue-1959-opera-film1/)
    - "Constructing Shared Repertoires with Sign Language and Chinese Opera," a module on the Cantonese opera film adaptation of *The Injustice to Dou E*.
-2. [The Injustice to Dou E 窦娥冤 (1959)](/plays/guan-hanqing/doue-1959-opera-film2/)
+2. [The Injustice to Dou E 窦娥冤 (1959)](doue-1959-opera-film2/)
    - "Creating A Socialist Revolutionary Subject," a module on the Pu opera film adaptation of *The Injustice to Dou E*.
-3. [The Crimson Palm 血手印 (1964)](/plays/guan-hanqing/feiyimeng-1964-opera-film/)
+3. [The Crimson Palm 血手印 (1964)](feiyimeng-1964-opera-film/)
    - "From Love Story to Film Noir," a module on a Hong Kong Huangmei opera film adaptation of *The Dream of the Crimson Robe* 緋衣夢.
 
 **Saving a Courtesan 趙盼兒風月救風塵**
 
-1. [Rescuing One's Sister in the Wind and Dust (2021)](/plays/guan-hanqing/jiufengchen-2021-modern-theater/)
+1. [Rescuing One's Sister in the Wind and Dust (2021)](jiufengchen-2021-modern-theater/)
    - "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.
-2. [A Dream of Splendor 梦华录 (2022)](/plays/guan-hanqing/jiufengchen-2022-tv/)
+2. [A Dream of Splendor 梦华录 (2022)](jiufengchen-2022-tv/)
    - "Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.
 
 **A Clever Maid Maneuvers Her Way into Romance 詐妮子調風月**
 
-1. [Yanyan 燕燕 (2016)](/plays/guan-hanqing/zhanizi-2016-recorded-perf/)
+1. [Yanyan 燕燕 (2016)](zhanizi-2016-recorded-perf/)
    - "The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation of *Clever Maid*.
 
 ## General Background

@@ -11,25 +11,25 @@ play_title: "The Story of the Western Wing"
 
 You can find modules that analyze various adaptations of The Western Wing at the links below. To get a sense of the main themes and historical import of the original The Western Wing, please consult the "General Background" below.
 
-- [The Story of the Western Wing 西廂記 (1640)](/plays/xixiangji/1640-print/)
+- [The Story of the Western Wing 西廂記 (1640)](1640-print/)
   — "Beyond Text: Objects in Pictures and Pictures on Objects," a module on Min Qiji's 閔齊伋 1640 album of woodblock illustrations of The Western Wing.
-- [The Western Wing 西厢 (~1920s)](/plays/xixiangji/1920-card/)
+- [The Western Wing 西厢 (~1920s)](1920-card/)
   — "Peeking into Miniature Worlds," a module on Republican-period cigarette cards of The Western Wing.
-- [The Romance of the Western Chamber 西廂記 (1927)](/plays/xixiangji/1927-film/)
+- [The Romance of the Western Chamber 西廂記 (1927)](1927-film/)
   — "Focusing the Gaze," a module on the 1927 silent film adaptation of The Western Wing.
-- [The Western Wing 西廂記 (1940)](/plays/xixiangji/1940-film/)
+- [The Western Wing 西廂記 (1940)](1940-film/)
   — "Zhou Xuan's Hongniang, the Intermedial Songstress," a module on the 1940 musical film adaptation of The Western Wing.
-- [The Western Wing 西厢记 (1958)](/plays/xixiangji/1958-comic/)
+- [The Western Wing 西厢记 (1958)](1958-comic/)
   — "How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s lianhuanhua (narrative comic) of The Western Wing.
-- [The Story of the Western Wing 西廂記 (1965)](/plays/xixiangji/1965-opera-film/)
+- [The Story of the Western Wing 西廂記 (1965)](1965-opera-film/)
   — "The Importance of Hongniang," a module on the 1965 Shaw Brothers Huangmei opera film of The Western Wing.
-- [Crimson 红娘 (1976)](/plays/xixiangji/1976-opera-film1/)
+- [Crimson 红娘 (1976)](1976-opera-film1/)
   — "Crimson's Vocal Imitation of Other Characters," a module on the 1976 PRC Beijing opera film of The Western Wing.
-- [Crimson 红娘 (1976)](/plays/xixiangji/1976-opera-film2/)
+- [Crimson 红娘 (1976)](1976-opera-film2/)
   — "The Western Wing as Revolutionary Opera," a module on the 1976 PRC Beijing opera film of The Western Wing.
-- [Hongniang (a.k.a. Soubrette) 红娘 (1999)](/plays/xixiangji/1999-film/)
+- [Hongniang (a.k.a. Soubrette) 红娘 (1999)](1999-film/)
   — "Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation of The Western Wing.
-- [The Story of the Western Wing 西厢记 (2011)](/plays/xixiangji/2011-recorded-perf/)
+- [The Story of the Western Wing 西厢记 (2011)](2011-recorded-perf/)
   — "Striking a Balance Between Propriety and Playfulness," a module on a 2011 Shaoxing/Yue opera stage recording of The Western Wing.
 
 ## General Background

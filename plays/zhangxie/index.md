@@ -11,7 +11,7 @@ play_title: "Top Graduate Zhang Xie"
 
 You can find modules that analyze various adaptations of *Top Graduate Zhang Xie* at the links below. To get a sense of the main themes and historical import of the original *Top Graduate Zhang Xie*, please consult the "General Background" below.
 
-1. [*Top Graduate Zhang Xie* 張協狀元 (2017)](/plays/zhangxie/2017-recorded-perf/)
+1. [*Top Graduate Zhang Xie* 張協狀元 (2017)](2017-recorded-perf/)
    - "Humorous Techniques," a module on a Yongjia Style Kunqu live stage adaptation of *Top Graduate Zhang Xie.*
 
 ## General Background

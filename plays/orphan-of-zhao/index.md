@@ -11,19 +11,19 @@ play_title: Orphan of Zhao
 ## Contents
 You can find modules that analyze various adaptations of *The Orphan of Zhao* at the links below. To get a sense of the main themes and historical import of the original *The Orphan of Zhao*, please consult the \"General Background\" below.
 
-1.  [*The Orphan of Zhao* 赵氏孤儿 (2003)](/plays/orphan-of-zhao/2003-performance/)
+1.  [*The Orphan of Zhao* 赵氏孤儿 (2003)](2003-performance/)
 
     - \"Dramaturgical Techniques to Turn A Commoner Into a Hero,\" a module on a live Beijing opera performance of *The Orphan of Zhao*.
 
-2.  [*The Orphan of Zhao* 赵氏孤儿 (2005)](/plays/orphan-of-zhao/2005-performance/)
+2.  [*The Orphan of Zhao* 赵氏孤儿 (2005)](2005-performance/)
 
     - \"Cheng Ying's Vulnerability and Benevolent Heart,\" a module on a Yue opera stage recording of *The Orphan of Zhao*.
 
-3.  [*Sacrifice* 赵氏孤儿 (2010)](/plays/orphan-of-zhao/2010-film/)
+3.  [*Sacrifice* 赵氏孤儿 (2010)](2010-film/)
 
     - \"Father-Son Love,\" a module on a film adaptation of *The Orphan of Zhao* by director Chen Kaige 陈凯歌.
 
-4.  [The Ink and Vermilion Edition of *The Orphan of Zhao* 墨本丹青版赵氏孤儿 (2011)](/plays/orphan-of-zhao/2011-tv/)
+4.  [The Ink and Vermilion Edition of *The Orphan of Zhao* 墨本丹青版赵氏孤儿 (2011)](2011-tv/)
 
     - \"Stage as a Narrator,\" a module on a TV recording of the \"Ink and Vermilion\" edition adapted by Wang Peiyu 王珮瑜.
 
