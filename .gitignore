@@ -19,14 +19,10 @@ assets/plays/**/*.gif
 assets/plays/**/*.webp
 assets/plays/**/*.pdf
 
-# Large site images (banner/background images)
-assets/images/*.png
-assets/images/*.jpg
-assets/media/*.png
-assets/media/*.jpg
-assets/media/*.jpeg
-assets/about/*.jpg
-assets/about/*.png
+# Large background images only (2MB+)
+assets/images/flower-bg.png
+assets/images/CTC_HomeBG.png
+assets/images/CTC_StaticBG.png
 
 # Source Word documents (not needed for Jekyll)
 *.docx
