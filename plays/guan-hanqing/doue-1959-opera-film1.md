@@ -1,0 +1,207 @@
+---
+layout: play
+title: "Snow in June 六月雪 (1959)"
+heading: "Snow in June 六月雪 (1959)"
+permalink: /plays/guan-hanqing/doue-1959-opera-film1/
+play_id: guan-hanqing
+play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
+---
+
+## Links to the Film
+
+- [The film with Cantonese Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s)
+
+<figure class="module-figure-right">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png' | relative_url }}" alt="Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in Snow in June (1959). Source: The production.">
+  <figcaption><strong>Fig. 1.</strong> Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+</figure>
+
+<div class="module-info">
+<dl>
+<div><dt>Title</dt><dd>Snow in June 六月雪</dd></div>
+<div><dt>Year</dt><dd>1959</dd></div>
+<div><dt>Cast</dt><dd>Yam Kim-fai 任劍輝 (1913-1989) as Scholar Choi 蔡昌宗, Fong Yim-Fen 芳艷芬 as Tau Ngo 竇娥, Leung Xing Poh 梁醒波 (1908-1981) as Zhang 張驢兒, Poon Yat An 半日安 (1902-1964) as Madam Choi 蔡母, Yim Tou Hong 艷桃紅 as Lai Heung 荔香</dd></div>
+<div><dt>Screenplay</dt><dd>Mang Kong-Lung 孟江龍, adapted from the 1956 script by 唐滌生 Tong Tik-sang</dd></div>
+<div><dt>Producer</dt><dd>Tai Seng Film Company 大成影片公司 (with the Sam Yim Yeung Opera Troupe 新豔陽劇團)</dd></div>
+<div><dt>Director</dt><dd>Lee Tit 李鐵 (1913—1996)</dd></div>
+<div><dt>Script</dt><dd>Mang Kong-Lung 孟江龍</dd></div>
+<div><dt>Language</dt><dd>Cantonese</dd></div>
+<div><dt>Duration</dt><dd>113 minutes</dd></div>
+</dl>
+</div>
+
+## Introduction
+
+<figure class="module-figure-right">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png' | relative_url }}" alt="Fong Yim-Fen 芳艷芬 as Tau Ngo in Snow in June (1959). Source: The production.">
+  <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen 芳艷芬 as Tau Ngo in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+</figure>
+
+Regional Sinophone films of the Cold War explored linguistic traditions beyond that of the state-sponsored "Putonghua" (普通話, modern Mandarin Chinese) that was mandated in mainland China and culturally dominated the Hong Kong and Taiwan film industries in the 1950s and 60s. The 1959 Hong Kong film *Snow in June* offers a complex sociolinguistic commentary on Cold War Hong Kong. It is not only a Cantonese-language opera film that reflects the city's local language, but a production that further broadens the linguistic representation by including a Deaf character and recognizing sign language as part of Hong Kong's multilingual environment. In the film, sign language works metaphorically to reflect the tensions and communicative difficulties between Mandarin and regional forms of speech. Moreover, the addition of sign language to the film's linguistic palette showcases post-war Hong Kong's attempts to bring together a linguistically fragmented community through social welfare efforts.
+
+*Snow in June* showcased some of the biggest stars in Cantonese opera. Famed for her male roles, Yam Kim-fai 任劍輝 (1913—1989) was a beloved Cantonese opera star and actress with a remarkable career on both stage and silver screen. *Snow in June* (1959) was not the first time she collaborated with Fong Yim-Fen 芳艷芬 (b. 1929), another popular opera performer in the 1950s. Now retired, Fong Yim-Fen is a Cantonese opera performer and actress celebrated for her performance and contribution to Cantonese opera. A distinctive singing style, named after her, came to be known as "Fong style" (Fang qiang 芳腔). In 1953, she founded the Sun Yim Yeong Opera troupe 新豔陽劇團. It was the troupe that staged *Snow in June* in 1956 as well as performed in its film adaptation in 1959. In addition, Yim Tou Hong 艷桃紅, who plays the maid Lai Heung 荔香, had worked on many projects outside of Hong Kong prior to making the film and was part of Fong Yim-Fen's entourage. *Snow in June* is one of Fong Yim-Fen's last films and collaborations with Yam Kim-fai.
+
+*Snow in June* was conceived in a cultural space strongly influenced by Mandarin language cultural norms and Shanghainese cultural imports. After 1949, many émigrés from the pre-war Shanghai film world enriched Hong Kong's film industry and Mandarin-language production became an industry standard. In its embrace of Cantonese and sign language, the film reflects the sociolinguistic complexity of Hong Kong that is repressed in typical Mandarin-language films. This production recasts the classic tragedy of Dou E, whose innocence and unjust punishment led to snowfall in the middle of summer in the original drama, *The Injustice to Dou E*. Following earlier theatrical adaptions in Peking opera 京劇 and Yue opera 越劇 that blend Guan Hanqing's original zaju with later versions like *The Romance of the Golden Lock* 金鎖記, *Snow in June* transforms the tragic tale into a romantic comedy where Dou E does not die and return as a ghost. A midsummer night's dream to Guan Hanqing's chilling original, the film's happy ending is not just a romantic triumph, but also a celebration of Hong Kong, in which a multilingual chorus that "spells out" truth and delivers justice. The film's indulgence in the romance between Tau Ngo and Scholar Choi further creates a backdrop and model for a relationship and community fostered by love and empathy. This module explores the civic and moral dimension of the film by focusing on the newly added character of Lai Heung. Her role as a pivotal witness to Dou E's injustice is not only a dramatic device, but also serves a social purpose. The inclusion of sign language and the Deaf into society provides a voice for the previously marginalized.
+
+## Plot Summary
+
+The well-off Madam Choi 蔡母 takes pity on a destitute Dou E 竇娥 (Tau Ngo in Cantonese, hereafter used as the primary designation for this character) and takes her in as a future wife to her son, Scholar Choi 蔡昌宗. At her new home, Tau Ngo is introduced to the maid Lai Heung 荔香, who is deaf and mute. In a case of mistaken identity typical of romantic comedies, Tau Ngo catches the attention of a loan shark, Cheung Lou, and mistakes him for her future husband. Tau Ngo finally meets and falls for the real Scholar Choi, but the two love birds are separated after their marriage when he departs for the imperial examinations. The devious Cheung Lou tampers with the bridge that Scholar Choi must cross to reach the examinations, leading to his apparent death. As a result of losing their son, the Choi household falls victim to crippling debt. Cheung Lou exploits the debt they owe him to court the widowed Tau Ngo. He is, however, unsuccessful, as she has vowed staunch loyalty to her deceased husband.
+
+One day, the ailing Madam Choi has a sudden craving for mutton soup, which Lai Heung, with Tau Ngo's instructions, is able to procure despite the family's poverty. However, at the market, Cheung Lou lures Lai Heung away with a snack and doctors the soup with the intention of murdering Madam Choi. In a moment of poetic justice, Cheung Lou's own mother is poisoned in her stead after guzzling down the soup during a mean-spirited visit to the Choi house. Cheung Lou frames Madam Choi as the culprit, but Tau Ngo goes on trial on her behalf. Tau Ngo announces that Heaven shall send snow in June to prove her innocence to the world. Before the titular midsummer snow appears in the wake of a wrongful conviction, Tau Ngo's husband Scholar Choi returns, not only alive but also as a newly minted government official. He takes over the court hearings and interprets Lai Heung's sign-gestures and their critical message that proves Tau Ngo and Madam Choi's innocence. The film ends on a note of happy reunion.
+
+## Theme: Constructing Shared Repertoires with Sign Language and Chinese Opera
+
+*Snow in June* (1959)'s Lai Heung is but one example of media representations of the Deaf in 1950s Hong Kong. While the actress who plays Lai Heung, Yim Tou Hung, did not have a hearing disability, deaf and/or mute actors did take the opera stage. In a festival held in December 1955, Deaf and Mute performers from both Hong Kong and Macau put on a silent opera of *The Hunchback Visits Mother-in-Law* (*Tozi huimun* 駝子回門). Moreover, throughout the 1950s, Cantonese opera stars, including the stars of the film, were promoters of various social welfare efforts and charity programs aimed at helping disadvantaged groups. *Snow in June*, with a stellar cast of opera veterans like Yam Kim-Fai and Fong Yim-fen, was a star-studded production looking to make an impact.
+
+The variety of sign language developed in Shanghai in the 1920s was brought to Hong Kong and adopted in Hong Kong's deaf education. The 1950s saw an expansion of deaf schools, including a new branch of the Overseas Chinese School for the Deaf that opened in Kowloon in 1956. The sign language used in the film is (imperfectly) modeled on a form of Chinese signing; at the same time, the film also makes use of the distinct iconography of operatic sign-gestures. Sign language in the film converges with what theater scholar Siyuan Liu calls "gestic theatricality" (Liu 2021) following Brecht's interpretation of gestures in Chinese acting. In Chinese opera, actors draw on a vast repertoire of hand and other movements to express feelings. In this film, artificial but accessible signing gestures play on the gestic aesthetics of musical theater. At the same time, those among the audience familiar with sign language would likely have recognized and understood the underlying referents of these gestures, given the film's attempt to incorporate an approximation of actual sign language.
+
+From its 1956 live opera debut to its 1959 film production, *Snow in June* mirrored historical currents. The film's thematization of deafness and communication aligns with Hong Kong's increased attention to disability welfare in the late 50s. In 1958, the Social Welfare Office gained departmental status in the government of Hong Kong, establishing the first permanent government agency tasked with social welfare efforts, including disability services. Prior efforts were mostly voluntary and philanthropic. Lai Heung's presence in the film thus invites reflection on deafness and muteness and the community of characters created through communication among differently abled citizens. Lai Heung performs a crucial role as a "deus ex machina" — the key witness to undo the injustice to Tau Ngo. This narrative function in turn gestures to her social integration as a Deaf member of a linguistically diverse community beyond the confines of the film itself.
+
+### Scene 1: Tau Ngo is introduced to Lai Heung by Madam Choi
+
+<figure class="module-figure-right">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png' | relative_url }}" alt="Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.">
+  <figcaption><strong>Fig. 3.</strong> Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.</figcaption>
+</figure>
+
+In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi tells the two girls to split the chores, affirming their equal status in the household through simultaneous speech and signing. The sign-gesture the Madam composes is a plausible signing variety. While the sign-gestures used in the film do not appear to be representative of an existing, formalized standard language, the film's handling of signing nevertheless echoes sign language education. Given that sign language was still being implemented in Hong Kong's deaf education, it is difficult to ascertain their accuracy vis-a-vis signing varieties used in Hong Kong at the time. But it is safe to say that there was a conscious effort in the emulation of actual sign language. Madam Choi's gesture almost mirror the signs for SHARING, SPLITTING, and their synonyms across sign language varieties, including in contemporary American Sign Language (ASL). This points to the possibility that the film did not merely use evocative sign gestures but made an effort to correlate such gestures to the sign language as it was developing at the time.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_1.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 1: Tau Ngo is introduced to Lai Heung by Madam Choi. Source: The film on YouTube.</p>
+</div>
+
+Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enacts the process of deaf education. Learning is reciprocal for both the Deaf and the hearing, and Tau Ngo humbly says that she would like to learn from Lai Heung. In Madam Choi's household, Lai Heung's disability clearly does not relegate her to a lower social position, and it is not until Tau Ngo marries Scholar Choi that Tau Ngo becomes the maid's mistress. By taking two disadvantaged children (Tau Ngo and Lei Heung) into her home, Madam Choi exemplifies a figure of charitable benevolence and a model citizen of postwar Hong Kong.
+
+### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
+
+<figure class="module-figure-right">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png' | relative_url }}" alt="Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.">
+  <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.</figcaption>
+</figure>
+
+Although Tau Ngo suspects that her intended is coming home, she is too shy to ask Madam Choi directly about her prospective husband's arrival. Antsy to confirm the news, she decides on the spur of the moment to use a pet parrot as a "mouthpiece" for her question. Tau Ngo tells Madam Choi that the parrot has been calling "Choi has come back," hoping Madam Choi would verify the statement. But Madam Choi sees through her. She asks Tau Ngo how that could be, since the parrot came into the household only after Scholar Choi departure and doesn't know what the young man looks like! Tau Ngo's ploy is thus comically exposed.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_2.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 2: Tau Ngo uses the parrot to ask about Scholar Choi's return. Source: The film on YouTube.</p>
+</div>
+
+Like the two young women, the parrot is yet another wartime adoptee. White-feathered in the film, it is likely a yellow-crested cockatoo. This foreign species is the byproduct of war: according to urban legend, they were exotic pets of the British colonial governor that were released into the wild prior to the Japanese occupation of Hong Kong in 1942. The comical sequence with the parrot was calculated to align with the tastes and sensibilities of the audience. Such scenes of miscommunication contrast with Lai Heung's effective expression and ultimately successful signing at the film's climax.
+
+### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
+
+<figure class="module-figure">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png' | relative_url }}" alt="Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.">
+  <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
+</figure>
+
+<figure class="module-figure">
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png' | relative_url }}" alt="Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.">
+  <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
+</figure>
+
+Giddy with excitement over Scholar Choi's arrival, the two girls imitate what they imagine might be his handsome stride. Lai Heung informs her friend of a gentleman's arrival, but Tau Ngo is disappointed when she realizes that Lai Heung has mistaken Cheung Lou for Scholar Choi. Similar to the parrot, Lai Heung was taken into the home after Scholar Choi left, and so does not know what he looks like. In this case, Lai Heung's misinterpretation of information is not directly caused by her disability. The girl accurately and comically relates the arrival of a new character.
+
+In this extended scene, phonocentric expression is replaced with bodily forms of communication. Far from depriving the two young women from communicating with one another, sensorial disability instead brings upon a gregarious and animated exchange between the girls. The signing space fills the screen, and stylized gestures integral to semantic expression in Chinese opera come into conversation with sign gestures. In addition to the manual motions (of the hand), non-manual signs (of the body) mime the possible gaits of Scholar Choi. This sequence that the two coordinate is a display of friendship and collaborative meaning-making. As *Snow* is a sound film with synchronized dialogue and music that no longer relies on the eloquent gestures of silent film, the sequence of protracted verbal silence also spotlights both the gestic performance of opera and the soundless expressivity of sign language.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_3.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on YouTube.</p>
+</div>
+
+<figure>
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png' | relative_url }}" alt="Lai Heung's animated exchange with Tau Ngo. Source: The film.">
+  <figcaption><strong>Fig. 7.</strong> Lai Heung's animated exchange with Tau Ngo. Source: The film.</figcaption>
+</figure>
+
+### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
+
+As in Scene 3, this is another confidential exchange, where the usual clarity the audience obtains through familiarity with the gestic repertoire of opera is occluded by the inclusion of real sign language. The gestic conversation in the scene is opaque, but eventually, the audience can make out that Tau Ngo gives up her hairpin so Lai Heung can buy mutton soup for Madam Choi and that Tau Ngo seems to be giving directions to Lai Heung. The audience is brought into the gestural conversation in a negotiation between inclusion and exclusion. While the audience may view these gestures primarily through the reigning conventions of opera, *Snow in June*'s invocation of the novel form of sign language threatens to overshadow this familiar code. Eventually, in the climatic court scene at the end of the film, Scholar Choi will lexicalize these coded gestures.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_4.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase mutton soup. Source: The film on YouTube.</p>
+</div>
+
+<figure>
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png' | relative_url }}" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
+  <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
+</figure>
+
+### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
+
+In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understands and falls into his trap. While she is a dupe here, a sensitive audience might tell that it is not so much her disability but dire poverty and hunger that causes her to be distracted by food as Cheung Lou doctors the mutton soup. If she seems vulnerable and careless here, the film redeems her in its finale in the courtroom when she provides crucial evidence to undo the injustice done to Tau Ngo. Cheung Lou's condescending attitude towards Lai Heung is even more explicit in the relatively recent adaptation by Guangzhou Cantonese Opera Troupe 廣州粵劇團 of the 1956 original, where Cheung Lou mocks her voice. His contempt contrasts with Scholar Choi's elegance and patient interpretation in the next scene.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_5.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 5: The cunning Cheung Lou takes advantage of Lai Heung. Source: The film on YouTube.</p>
+</div>
+
+<figure>
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png' | relative_url }}" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
+  <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png' | relative_url }}" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
+  <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
+</figure>
+
+### Scene 6: Scholar Choi interprets signing gestures
+
+The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations.
+
+<div class="clip-section">
+  <div class="video-wrap">
+    <video controls>
+      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_6.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <p class="clip-caption">Clip 6: Scholar Choi interprets Lai Heung's signing gestures in court. Source: The film on YouTube.</p>
+</div>
+
+## Conclusion
+
+In the final scene, it becomes clear that knowledge of operatic gesture is insufficient to decode sign language, thus demarcating sign language from gestic performance. On the one hand, through most of the film, gestic signs from opera are used in tandem with sign language. However, in the courtroom scene, Scholar Choi's skillful interpretation makes visible and palpable the need to recognize sign language as an important language to be learned and understood in its own right.
+
+The opera film's "gestic" signing illuminates "deaf signing" for a hearing audience by ways of contrast with a familiar analogy. Sign language is introduced into the interpretive space of operatic gestures that are creative, appreciated, and comprehended. Throughout the process of interpretation performed by Lai Heung and Scholar Choi, repeated gestures solidify into signs, forming a repertoire shared and understood by the community. The broken bridge of communication and cooperation has been mended. *Snow in June* turns the classic tale of Dou E into a poignant vehicle to call for equality and fairness for the disabled and disadvantaged.
+
+In line with Hong Kong's increased attention to disability welfare, Lai Heung's introduction into this story invites reflection on deafness and muteness. In a dialogue with the stylized repertoire of Chinese opera, the film's portrayal of sensorial disability endows sign language with the potential for multimodal meaning-making. Through the character of Lai Heung and her community, the opera film tests the expressive spectrum of signing systems and shows how constructing shared repertoires can solve an impossible case. In the film's world, a multilingual chorus consisting of sign language along with the gestic performance of Cantonese opera is able to spell out truth and deliver justice in post-war Hong Kong.
+
+<details class="works-consulted" markdown="1">
+<summary>Works Consulted</summary>
+
+"Gongou lungaajan zoktin jau lyunfun" 港澳聾啞人昨天有聯歡 (The Deaf and Mute from Hong Kong and Macau Celebrates at a Party Yesterday). *Ta Kung Pao* 大公報. 26 December 1955: 4.
+
+Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and the Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.
+
+Li, Jia, Jia He, and Gladys Tang. "Investigating Sign Languages in the Chinese Context." In *The Routledge Handbook of Chinese Applied Linguistics*, pp. 747-772. New York: Routledge, 2019.
+
+"Toiwaansuk ngozouging kokding zunggwok lingtou batjung fanlit" 台灣屬我早經確定中國領土不容分裂. *Ta Kung Pao* 大公報. 26 December 1957: 1.
+
+Sze, Felix, Connie Lo, Lisa Lo, and Kenny Chu. "Historical Development of Hong Kong Sign Language." *Sign Language Studies* 13, no. 2 (2013): 155-185.
+
+</details>
+
+<p class="module-authors"><strong>Author:</strong> <a href="https://ealc.uchicago.edu/people/ka-kei-lau">Ka Kei Lau</a></p>

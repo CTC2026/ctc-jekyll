@@ -1,0 +1,34 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.DS_Store
+
+# Video files (host on Cloudflare R2 instead)
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Images and PDFs in play modules (host on CDN)
+assets/plays/**/*.jpg
+assets/plays/**/*.jpeg
+assets/plays/**/*.png
+assets/plays/**/*.gif
+assets/plays/**/*.webp
+assets/plays/**/*.pdf
+
+# Large site images (banner/background images)
+assets/images/*.png
+assets/images/*.jpg
+assets/media/*.png
+assets/media/*.jpg
+assets/media/*.jpeg
+assets/about/*.jpg
+assets/about/*.png
+
+# Source Word documents (not needed for Jekyll)
+*.docx
+Modules*/
+test.srt

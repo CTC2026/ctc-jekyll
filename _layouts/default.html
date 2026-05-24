@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<div class="content-card">
+
+  <header role="banner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <img src="{{ '/assets/images/CTC_LogoThumb.png' | relative_url }}" alt="Chinese Theater Collaborative home">
+      <span class="site-title-en">Chinese Theater Collaborative</span>
+    </a>
+    <button class="nav-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="main-nav">
+      <span aria-hidden="true">&#9776;</span>
+    </button>
+    <nav id="main-nav" aria-label="Main navigation">
+      <ul>
+        {% for item in site.navigation %}
+        <li>
+          <a href="{{ item.url | relative_url }}"
+             {% if page.url == item.url %}class="active" aria-current="page"{% endif %}>
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+        <li>
+          <a href="{{ '/search/' | relative_url }}"
+             {% if page.url == '/search/' %}class="active" aria-current="page"{% endif %}
+             aria-label="Search">&#128269;</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <script>
+    (function() {
+      var btn = document.querySelector('.nav-toggle');
+      var nav = document.getElementById('main-nav');
+      if (!btn || !nav) return;
+      btn.addEventListener('click', function() {
+        var open = nav.classList.toggle('nav-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        btn.setAttribute('aria-label', open ? 'Close navigation menu' : 'Open navigation menu');
+      });
+    })();
+  </script>
+
+  <main id="main-content" tabindex="-1">
+    {{ content }}
+  </main>
+
+  <footer role="contentinfo">
+    <p>© {{ site.title }} · <a href="{{ '/' | relative_url }}">Home</a> · <a href="{{ '/search/' | relative_url }}">Search</a></p>
+  </footer>
+
+</div><!-- .content-card -->
+</body>
+</html>

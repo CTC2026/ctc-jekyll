@@ -1,0 +1,17 @@
+title: Chinese Theater Collaborative
+description: Resources for teaching and studying Chinese theater
+baseurl: ""
+url: "https://chinesetheatercollaborative.org"
+
+markdown: kramdown
+permalink: pretty
+
+navigation:
+  - title: About
+    url: /about/
+  - title: Resources for Plays
+    url: /resources/
+  - title: Media Types and Opera Styles
+    url: /media/
+  - title: How to Teach
+    url: /how-to-teach/

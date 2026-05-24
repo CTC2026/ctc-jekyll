@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% if page.banner_image %}
+<div class="page-banner">
+  <img src="{{ page.banner_image | relative_url }}" alt="" aria-hidden="true">
+  <div class="page-banner-title">{{ page.title }}</div>
+</div>
+{% endif %}
+
+<div class="ctc-sidebar-layout">
+
+  <nav class="ctc-sidebar" aria-label="{{ page.play_title }} navigation">
+    <ul>
+      {% assign nav = site.data.play_nav[page.play_id] %}
+      {% for item in nav %}
+      <li>
+        <a href="{{ item.url | relative_url }}"
+           {% if page.url == item.url %}class="sidebar-active" aria-current="page"{% endif %}>
+          {{ item.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <div class="ctc-sidebar-main page-content">
+    {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
+    {{ content }}
+  </div>
+
+</div>

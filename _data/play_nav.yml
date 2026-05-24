@@ -1,0 +1,99 @@
+mulan:
+  - title: Intro
+    url: /plays/mulan/
+  - title: "Hua Mu Lan (1939)"
+    url: /plays/mulan/1939-film/
+  - title: "Hua Mulan (1956)"
+    url: /plays/mulan/1956-opera-film/
+  - title: "Lady General (1964)"
+    url: /plays/mulan/1964-opera-film/
+  - title: "Mulan (1998)"
+    url: /plays/mulan/1998-film/
+
+mudanting:
+  - title: Intro
+    url: /plays/mudanting/
+  - title: "Opera Film (1986)"
+    url: /plays/mudanting/1986-opera-film/
+  - title: "Lianhuanhua (1986)"
+    url: /plays/mudanting/1986-comic/
+  - title: "Peony Pavilion (2001)"
+    url: /plays/mudanting/2001-film/
+  - title: "Youth Edition (2007)"
+    url: /plays/mudanting/2007-recorded-perf/
+  - title: "Return of the Soul (2009)"
+    url: /plays/mudanting/2009-tv/
+
+pipaji:
+  - title: Intro
+    url: /plays/pipaji/
+  - title: "New Year's Print (1958)"
+    url: /plays/pipaji/1958-comic/
+  - title: "Lianhuanhua (1985/1986)"
+    url: /plays/pipaji/1985-comic/
+  - title: "Shanghai Kunqu (2012)"
+    url: /plays/pipaji/2012-recorded-perf/
+
+xixiangji:
+  - title: Intro
+    url: /plays/xixiangji/
+  - title: "Woodblock (1640)"
+    url: /plays/xixiangji/1640-print/
+  - title: "Cards (~1920s)"
+    url: /plays/xixiangji/1920-card/
+  - title: "Silent Film (1927)"
+    url: /plays/xixiangji/1927-film/
+  - title: "Musical Film (1940)"
+    url: /plays/xixiangji/1940-film/
+  - title: "Lianhuanhua (1958)"
+    url: /plays/xixiangji/1958-comic/
+  - title: "Huangmei (1965)"
+    url: /plays/xixiangji/1965-opera-film/
+  - title: "Vocal Imitation (1976)"
+    url: /plays/xixiangji/1976-opera-film1/
+  - title: "Revolutionary Opera (1976)"
+    url: /plays/xixiangji/1976-opera-film2/
+  - title: "Hongniang (1999)"
+    url: /plays/xixiangji/1999-film/
+  - title: "Yue Opera (2011)"
+    url: /plays/xixiangji/2011-recorded-perf/
+
+zhangxie:
+  - title: Intro
+    url: /plays/zhangxie/
+  - title: 2017 Recording
+    url: /plays/zhangxie/2017-recorded-perf/
+
+guan-hanqing:
+  - title: Intro
+    url: /plays/guan-hanqing/
+  - title: "Dou E: Intro"
+    url: /plays/guan-hanqing/doue/
+  - title: Snow in June (1959)
+    url: /plays/guan-hanqing/doue-1959-opera-film1/
+  - title: Dou E Yuan (1959)
+    url: /plays/guan-hanqing/doue-1959-opera-film2/
+  - title: Crimson Palm (1964)
+    url: /plays/guan-hanqing/feiyimeng-1964-opera-film/
+  - title: "Courtesan: Intro"
+    url: /plays/guan-hanqing/jiufengchen/
+  - title: Rescuing a Sister (2021)
+    url: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
+  - title: Dream of Splendor (2022)
+    url: /plays/guan-hanqing/jiufengchen-2022-tv/
+  - title: "Clever Maid: Intro"
+    url: /plays/guan-hanqing/zhanizi/
+  - title: Yanyan (2016)
+    url: /plays/guan-hanqing/zhanizi-2016-recorded-perf/
+
+orphan-of-zhao:
+  - title: Intro
+    url: /plays/orphan-of-zhao/
+  - title: 2003 Performance
+    url: /plays/orphan-of-zhao/2003-performance/
+  - title: 2005 Performance
+    url: /plays/orphan-of-zhao/2005-performance/
+  - title: "2010 Film"
+    url: /plays/orphan-of-zhao/2010-film/
+  - title: "2011 TV"
+    url: /plays/orphan-of-zhao/2011-tv/

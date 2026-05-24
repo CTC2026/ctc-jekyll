@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% if page.banner_image %}
+<div class="page-banner">
+  <img src="{{ page.banner_image | relative_url }}" alt="" aria-hidden="true">
+  <div class="page-banner-title">{{ page.title }}</div>
+</div>
+{% endif %}
+
+<div class="ctc-sidebar-layout">
+
+  <nav class="ctc-sidebar" aria-label="About section navigation">
+    <ul>
+      <li><a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="sidebar-active" aria-current="page"{% endif %}>Overview</a></li>
+      <li><a href="{{ '/about/project-team/' | relative_url }}"{% if page.url == '/about/project-team/' %} class="sidebar-active" aria-current="page"{% endif %}>Project Team</a></li>
+      <li><a href="{{ '/contributors/' | relative_url }}"{% if page.url == '/contributors/' %} class="sidebar-active" aria-current="page"{% endif %}>Contributors</a></li>
+      <li><a href="{{ '/about/organization/' | relative_url }}"{% if page.url == '/about/organization/' %} class="sidebar-active" aria-current="page"{% endif %}>Organization</a></li>
+      <li><a href="{{ '/about/anthology/' | relative_url }}"{% if page.url == '/about/anthology/' %} class="sidebar-active" aria-current="page"{% endif %}>Anthology</a></li>
+      <li><a href="{{ '/about/how-to-use/' | relative_url }}"{% if page.url == '/about/how-to-use/' %} class="sidebar-active" aria-current="page"{% endif %}>How To Use</a></li>
+      <li><a href="{{ '/about/contribute/' | relative_url }}"{% if page.url == '/about/contribute/' %} class="sidebar-active" aria-current="page"{% endif %}>Contribute</a></li>
+      <li><a href="{{ '/about/permissions/' | relative_url }}"{% if page.url == '/about/permissions/' %} class="sidebar-active" aria-current="page"{% endif %}>Permissions</a></li>
+    </ul>
+  </nav>
+
+  <div class="ctc-sidebar-main page-content">
+    {% unless page.banner_image %}<h1>{{ page.title }}</h1>{% endunless %}
+    {{ content }}
+  </div>
+
+</div>
