@@ -102,9 +102,9 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip2','zh')">中文字幕</button>
+    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip2','zh')">Chinese</button>
     <button class="sub-btn" data-lang="en" onclick="switchSub('clip2','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip2','off')">关闭</button>
+    <button class="sub-btn" data-lang="off" onclick="switchSub('clip2','off')">Off</button>
   </div>
   <p class="clip-caption">Clip 2: "Path on the Outskirts" (26:40–29:08). Source: The film on Youtube.</p>
 </div>
@@ -139,9 +139,9 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip3','zh')">中文字幕</button>
+    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip3','zh')">Chinese</button>
     <button class="sub-btn" data-lang="en" onclick="switchSub('clip3','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip3','off')">关闭</button>
+    <button class="sub-btn" data-lang="off" onclick="switchSub('clip3','off')">Off</button>
   </div>
   <p class="clip-caption">Clip 3: Qianjin as femme fatale (1:09:12–1:11:18). Source: The film on Youtube.</p>
 </div>
@@ -180,9 +180,9 @@ The final scene of exposure and denouement brings together all the threads of th
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip4','zh')">中文字幕</button>
+    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip4','zh')">Chinese</button>
     <button class="sub-btn" data-lang="en" onclick="switchSub('clip4','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip4','off')">关闭</button>
+    <button class="sub-btn" data-lang="off" onclick="switchSub('clip4','off')">Off</button>
   </div>
   <p class="clip-caption">Clip 4: The scene of denouement (1:11:40–1:14:06). Source: The film on Youtube.</p>
 </div>
