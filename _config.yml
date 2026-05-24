@@ -1,7 +1,7 @@
 title: Chinese Theater Collaborative
 description: Resources for teaching and studying Chinese theater
-baseurl: ""
-url: "https://chinesetheatercollaborative.org"
+baseurl: "/ctc-jekyll"
+url: "https://ctc2026.github.io"
 
 markdown: kramdown
 permalink: pretty
