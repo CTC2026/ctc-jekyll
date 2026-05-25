@@ -175,9 +175,9 @@ The final scene of exposure and denouement brings together all the threads of th
   <div class="video-wrap">
     <video id="clip4" controls crossorigin="anonymous">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_4.mp4" type="video/mp4">
-      <track kind="captions" srclang="zh" label="中文" src="{{ '/assets/subtitles/feiyimeng-clip4-zh.vtt' | relative_url }}" default>
-      <track kind="captions" srclang="en" label="English" src="{{ '/assets/subtitles/feiyimeng-clip4-en.vtt' | relative_url }}">
-      <track kind="descriptions" label="Audio Description" src="{{ '/assets/subtitles/feiyimeng-clip4-audiodesc.vtt' | relative_url }}">
+      <track kind="subtitles" srclang="zh" label="中文" src="{{ '/assets/subtitles/feiyimeng-clip4-zh.vtt?v=2' | relative_url }}" default>
+      <track kind="subtitles" srclang="en" label="English" src="{{ '/assets/subtitles/feiyimeng-clip4-en.vtt?v=2' | relative_url }}">
+      <track kind="descriptions" label="Audio Description" src="{{ '/assets/subtitles/feiyimeng-clip4-audiodesc.vtt?v=2' | relative_url }}">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
