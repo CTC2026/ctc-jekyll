@@ -5,7 +5,7 @@ title: Home
 
 <div class="home-hero">
   <video class="home-hero-bg" autoplay muted loop playsinline aria-hidden="true">
-    <source src="{{ '/assets/videos/CTC_HomeBG_v5.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/CTC_HomeBG_v5.mp4" type="video/mp4">
   </video>
   <button class="video-pause-btn" aria-label="Pause background video" onclick="
     var v = this.closest('.home-hero').querySelector('video');
