@@ -28,14 +28,14 @@ play_title: "The Female Mulan Joins the Army"
 ## Introduction
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png' | relative_url }}" alt="Chang Xiangyu 常香玉 in the role of Hua Mulan.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="Chang Xiangyu 常香玉 in the role of Hua Mulan.">
   <figcaption><strong>Fig. 1.</strong> Chang Xiangyu 常香玉 in the role of Hua Mulan.</figcaption>
 </figure>
 
 The main actress Chang Xiangyu 常香玉 (1923-2004) was a famous Yu opera (豫, Henan clapper opera) performer. In 1950, the Korean War (1950-1953) war broke out between North and South Korea to gain control over the Korean peninsula. The two sides were backed by the PR China and the US respectively. Starting in 1951, Chang Xiangyu performed renditions of Hua Mulan in her distinctive style of Henan clapper opera to support Chinese war efforts. The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang 陳憲章 (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio 長春電影製片廠 adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_2.png' | relative_url }}" alt="A scene from the 1956 Yu opera film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_2.png" alt="A scene from the 1956 Yu opera film.">
   <figcaption><strong>Fig. 2.</strong> A scene from the 1956 Yu opera film.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ The first transformation scene (29:43-31:40) takes place at Mulan's home. Mulan'
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -68,7 +68,7 @@ The second transformation scene, albeit an imaginary one, takes place when she s
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -80,7 +80,7 @@ The third transformation scene takes place after Mulan's return home. Instead of
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>

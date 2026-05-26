@@ -14,7 +14,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 - [The film with traditional Chinese subtitles on the Chinese streaming site bilibili.](https://www.bilibili.com/video/BV1Jt42187Rs/?spm_id_from=333.337.search-card.all.click)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg' | relative_url }}" alt="Film poster of The Crimson Palm. Source: 千寻亿选, '血手印的海报.' 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg" alt="Film poster of The Crimson Palm. Source: 千寻亿选, '血手印的海报.' 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.">
   <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: 千寻亿选, "血手印的海报." 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ The Hong Kong context is important here. By 1964, Hong Kong cinema was a sophist
 The film opens with a night sequence of stark visual economy. Against a dark background, a rider on horseback moves along a road on the outskirts of the city. The scene lasts only about twenty-five seconds, but it establishes the film's noir atmosphere immediately: the darkness, the solitary rider, the sense of furtive and illicit movement. This is not the bright, sunny world of conventional Huangmei opera; it is a world of shadows and secrets.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg' | relative_url }}" alt="The title card of The Crimson Palm. Source: The film on Youtube. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg" alt="The title card of The Crimson Palm. Source: The film on Youtube. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. Source: The film on Youtube. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 The final scene of exposure and denouement brings together all the threads of the plot. Zhang Peisan, confronted with the testimony of witnesses and the physical evidence of the crimson palm print, is forced to confess to his crimes. The scene is structured as a formal trial, with the gathered characters serving as both jury and audience for the revelation of the truth.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg' | relative_url }}" alt="Qianjin impersonates her maid in The Crimson Palm. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="Qianjin impersonates her maid in The Crimson Palm. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.">
   <figcaption><strong>Fig. 3.</strong> Qianjin impersonates her maid in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.</figcaption>
 </figure>
 

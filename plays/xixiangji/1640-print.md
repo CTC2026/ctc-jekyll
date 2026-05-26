@@ -22,7 +22,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_1.jpg' | relative_url }}" alt="Title sheet of the Min Qiji album of woodblock prints of The Story of the Western Wing.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_1.jpg" alt="Title sheet of the Min Qiji album of woodblock prints of The Story of the Western Wing.">
   <figcaption><strong>Fig. 1.</strong> Title sheet of the Min Qiji album of woodblock prints of <em>The Story of the Western Wing</em>.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ In this unit, we will consider how the Min Qiji album presents a dense network o
 ## Theme: Beyond Text: Objects in Pictures and Pictures on Objects
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_2.jpg' | relative_url }}" alt="Print 1: Scholar Zhang's journey rendered on the picture plane of a handscroll.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_2.jpg" alt="Print 1: Scholar Zhang's journey rendered on the picture plane of a handscroll.">
   <figcaption><strong>Fig. 2.</strong> Print 1: Scholar Zhang's journey rendered on the picture plane of a handscroll.</figcaption>
 </figure>
 
@@ -44,19 +44,19 @@ In the first print, the scene of Scholar Zhang heading towards Universal Salvati
 As an object held in the hands, handscrolls are also suited for intimate viewing by oneself or with only a few intimates, in contrast to hanging scrolls or European framed paintings whose images are revealed all at once and hung for all to see. In contrast to experiencing the story amidst a crowd at the theater, a viewer of the Min Qiji album experiences the tale as a private experience; that intimacy is emphasized in the imagined handling of the handscroll.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_3.png' | relative_url }}" alt="Print 2: Scholar Zhang meets Crimson, rendered on a porcelain bowl.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_3.png" alt="Print 2: Scholar Zhang meets Crimson, rendered on a porcelain bowl.">
   <figcaption><strong>Fig. 3.</strong> Print 2: Scholar Zhang meets Crimson, rendered on a porcelain bowl.</figcaption>
 </figure>
 
 As early as the thirteenth century, scenes from Western Wing appear as surface ornamentation on the glazed bodies of ceramics. The second print, therefore, refers to the world of image-bearing porcelain ceramics with which its viewers would be familiar, and likely even own themselves. Here, Scholar Zhang meets with Crimson in the garden of the monastery and asks after her mistress, Oriole; unbeknownst to both, they are spied upon by the resident monks, one on the left hiding behind a potted pine, the other on the right peering out from a sliding door. This scene wraps around the body of a porcelain bowl. A decorative band of scrolling lotus flowers, a common motif in Buddhism, circles the lip of the bowl, and complements the narrative setting within a Buddhist monastery. The bowl appears next to a red stand—the viewer is encouraged to imagine picking up this bowl, rotating it to look at its other side, and setting it on its stand. As the bowl is picked up and held up to eye level to be admired, the viewer also takes on the position of actively spying on the meeting between Scholar Zhang and Crimson. We see one side of the ceramic bowl—we are encouraged to imagine how the story may continue on the other side when the bowl is rotated in the hands. The viewer is therefore not a passive onlooker, but actively sets the narrative into motion.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_5.jpg' | relative_url }}" alt="Print 4: The density of references within the Min Qiji album.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_5.jpg" alt="Print 4: The density of references within the Min Qiji album.">
   <figcaption><strong>Fig. 4.</strong> Print 4: The density of references within the Min Qiji album.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_6.jpg' | relative_url }}" alt="Print 5: Oriole receiving Scholar Zhang's love letter, in dialogue with Chen Hongshou's design.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_6.jpg" alt="Print 5: Oriole receiving Scholar Zhang's love letter, in dialogue with Chen Hongshou's design.">
   <figcaption><strong>Fig. 5.</strong> Print 5: Oriole receiving Scholar Zhang's love letter, in dialogue with Chen Hongshou's design.</figcaption>
 </figure>
 
@@ -65,28 +65,28 @@ The density of references within the Min Qiji album is not limited to the materi
 The corresponding print in the Min Qiji album preserves Chen's central motif of a screen that serves as both an architectural room divider—i.e., a physical barrier that enables hiding and spying—and also as a painted surface. In contrast to Chen's design, the print here inverts our viewing relationship to the characters: We see the scene from behind, so that Oriole's seated body is almost entirely hidden by the screen, while we get a clear view of Crimson peeking around the screen to observe her mistress's reaction to Scholar Zhang's letter. Instead of birds-and-flowers of the four seasons on a four-panel folding screen, the single panel standing screen in this print displays a monochrome river landscape with a lone boatman rowing towards a thatched hut on the shore. The position of the boatman on the screen corresponds to where Oriole's head would be, so that it appears that as Oriole reads his letter, she is also thinking about Scholar Zhang's loneliness, his metaphorical distance from her, and his striving to reach her.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_7.jpg' | relative_url }}" alt="Print 6: Oriole's face revealed in the reflection of her mirror.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_7.jpg" alt="Print 6: Oriole's face revealed in the reflection of her mirror.">
   <figcaption><strong>Fig. 6.</strong> Print 6: Oriole's face revealed in the reflection of her mirror.</figcaption>
 </figure>
 
 The standing screen hides Oriole's body from view, but her face is revealed in the reflection of her mirror. This print seems to visually quote a scene from the handscroll, *Admonitions of the Instructress to the Court Ladies* 女史箴圖 attributed to the Eastern Jin painter Gu Kaizhi 顧愷之 (c. 344–c. 406 CE). The Admonitions scroll presents alternating lines of text and image that relate to the proper conduct of a virtuous woman. A scene in the middle of the scroll depicts a woman seated with her back to us; her face is revealed as a reflection in her mirror as she applies her makeup. Alongside the image, lines of calligraphic text read "People know how to adorn their faces, but there is none who knows how to adorn their character." By visually quoting this scene from Admonitions, the print may indicate that Oriole is also reflecting upon the dangers of transgressing the rules of conduct by pursuing her unsanctioned romance with Scholar Zhang.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_8.jpg' | relative_url }}" alt="Print 7: Scholar Zhang contemplating jumping over the garden wall, reflected in water.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_8.jpg" alt="Print 7: Scholar Zhang contemplating jumping over the garden wall, reflected in water.">
   <figcaption><strong>Fig. 7.</strong> Print 7: Scholar Zhang contemplating jumping over the garden wall, reflected in water.</figcaption>
 </figure>
 
 The visual motif of reflection continues in the next print. As Scholar Zhang contemplates jumping over the garden wall to rendezvous with Oriole, his body is hidden behind a Lake Tai rock. His presence is made visible in two ways, both related to the optical effects of light: as a reflection in the water and as a shadow cast behind him. The prints of the Min Qiji album thus not only play with tactility of objects, but also the visual effects of reflective surfaces and cast shadows. Scholar Zhang's reflection is paired with the reflection of the moon in the water. A common motif in Zen Buddhist art is a long-armed gibbon reaching for the moon's reflection, which of course, can never actually be grasped; the visual metaphor refers to both the presence of the real, but also the futility of reaching for illusions. By depicting Scholar Zhang as a reflection, it is possible that the print is also alluding to what immediately follows in the narrative—Oriole and Zhang do not physically meet that night as her resolve wavers and she sends him away.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_9.jpg' | relative_url }}" alt="Print 8: The consummation scene, with a series of gazes-upon-gazes.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_9.jpg" alt="Print 8: The consummation scene, with a series of gazes-upon-gazes.">
   <figcaption><strong>Fig. 8.</strong> Print 8: The consummation scene, with a series of gazes-upon-gazes.</figcaption>
 </figure>
 
 Oriole does not stay away from Zhang for long though. In this climactic scene of Oriole and Scholar Zhang's consummation, the print artist enhances the voyeurism of the scene by wrapping the bed in a screen, like a gift box tantalizingly opened. We are presented with a series of spying-upon-spying: Crimson stands by the open bed and eavesdrops on the couple; she herself is spied upon by Oriole's little brother peeping at her from around the corner. As the viewer, we also peek into the entire scene and into the bed, where the couple's tryst is shown as bodies completely hidden under the bedsheets.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_11.jpg' | relative_url }}" alt="Print 10: A puppet theater scene with Crimson and Cousin Zheng Heng as marionettes.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_11.jpg" alt="Print 10: A puppet theater scene with Crimson and Cousin Zheng Heng as marionettes.">
   <figcaption><strong>Fig. 9.</strong> Print 10: A puppet theater scene with Crimson and Cousin Zheng Heng as marionettes.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ The presentation of their illicit lovemaking may be a deliberate reference to si
 The penultimate print draws its viewer's attention directly to staged performance—in this case, a marionette puppet show. The characters of Crimson and Cousin Zheng Heng appear on a miniature theater stage as miniature puppets inhabiting a miniature room furnished with miniature objects of late Ming material culture. Above them, two puppeteers lean over the standing screen and reveal themselves as the manipulators of the characters' movements and voices; behind them, a musician beats a drum and plays a clapper. Puppet theater is one mode of dramatic performance that would be familiar to a late Ming audience, and is thus also a mode in which an audience would encounter Story of the Western Wing. But the print uses the format of puppet theater to "tell" the narrative of this scene: Crimson is trying to convince Cousin Zheng Heng, Oriole's original betrothed, to let Oriole marry Scholar Zhang; Cousin Zheng Heng will soon spread the false news that Scholar Zhang has married another woman. As each character "pulls the strings," we see literally see behind the scene to the puppeteers pulling the actual strings of the marionettes. To the left of the stage, the marionettes of Oriole, Scholar Zhang, General White Horse, and a Buddhist monk hang from the eaves, so that even though they are technically not active within the scene, their presence remains felt. The two young lovers are literally suspended in anticipation and currently helpless against the machinations of others.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_12.jpg' | relative_url }}" alt="Print 11 (final): Scholar Zhang &quot;returning home in glory,&quot; escorted by the Four Cardinal Directions animals.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_12.jpg" alt="Print 11 (final): Scholar Zhang &quot;returning home in glory,&quot; escorted by the Four Cardinal Directions animals.">
   <figcaption><strong>Fig. 10.</strong> Print 11 (final): Scholar Zhang "returning home in glory," escorted by the Four Cardinal Directions animals.</figcaption>
 </figure>
 

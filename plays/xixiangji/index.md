@@ -35,7 +35,7 @@ You can find modules that analyze various adaptations of The Western Wing at the
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/general-intro/Xixiangji_General_Intro_1.jpg' | relative_url }}" alt="The Story of the Western Wing.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/general-intro/Xixiangji_General_Intro_1.jpg" alt="The Story of the Western Wing.">
   <figcaption><strong>Fig. 1.</strong> Blue and white porcelain vase with scenes from <em>The Story of the Western Wing</em>, late 17th century. The panel shown here depicts the first encounter between Student Zhang (second right), Cui Yingying (farthest left), Hongniang (center), and the monk Facong (farthest to the right).</figcaption>
 </figure>
 

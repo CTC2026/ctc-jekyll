@@ -25,7 +25,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_1.jpg' | relative_url }}" alt="The 2011 Shanghai Yue Opera Troupe performance of The Story of the Western Wing.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_1.jpg" alt="The 2011 Shanghai Yue Opera Troupe performance of The Story of the Western Wing.">
   <figcaption><strong>Fig. 1.</strong> The 2011 Shanghai Yue Opera Troupe performance of <em>The Story of the Western Wing</em>.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ A three-way comparison between the earliest edition of Wang Shifu's text (1499),
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -63,7 +63,7 @@ When Zhang sees Hongniang, he describes her as "behaving in a respectable and di
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -73,7 +73,7 @@ When Hongniang refuses to help Zhang to send his letter to Cui, Zhang offers her
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -89,7 +89,7 @@ When Hongniang and Cui come to the garden, they both comment on the scenery. Whi
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_4.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
 

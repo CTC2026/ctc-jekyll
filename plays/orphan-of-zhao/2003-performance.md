@@ -8,7 +8,7 @@ play_title: Orphan of Zhao
 
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_1.jpg' | relative_url }}" alt="Wang Peiyu in a scholarly outfit she wears when reaching out to younger generations through lectures and social media. Source: Sohu.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_1.jpg" alt="Wang Peiyu in a scholarly outfit she wears when reaching out to younger generations through lectures and social media. Source: Sohu.">
   <figcaption><strong>Fig. 1.</strong> Wang Peiyu in a scholarly outfit she wears when reaching out to younger generations through lectures and social media. Source: <a href="https://www.sohu.com/a/200985095_780427">Sohu</a>.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ play_title: Orphan of Zhao
 The star of the Beijing Opera rendition of the *Orphan* discussed in this module is a young Wang Peiyu 王珮瑜 (1978-present), a female performer who specializes in the "old male role" (*laosheng* 老生) in the famed Yu school lineage named for Yu Shuyan (余叔岩, 1890-1943) (Fig. 1). She has so distinguished herself that her nickname is the homophonous "Yu Laoban" 瑜老板 ("Boss Yu"), a name that she has also adopted as her [Weibo](https://weibo.com/yulaoban) handle. Almost as soon as she began theatrical training, she studied the Yu-style version of the four-scene *Searching For The Orphan and Saving the Orphan* (*Sougu jiugu* 搜孤救孤), a play known for the demands it makes on the performer's vocal and speaking abilities. Somewhat later, she began learning the Ma \[Lianliang\]-style *The Orphan of Zhao* (*Zhaoshi gu'er* 赵氏孤儿), a play that stressed plot details and acting. Over a period of twenty years, she fine-tuned her role as Cheng Ying in the *Orphan* (Fig. 3). Eventually, she blended the two plays into her own signature version entitled *The Ink and Vermillion Edition of The Orphan of Zhao* (*Moben danqing ban Zhao shi gu'er* 墨本丹青版赵氏孤儿), a style of Beijing opera performance that incorporates traditional Chinese painting into its mise-en-scène (see CTC \"Zhao shi gu\'er,\" Module #3). In 2011, this new interpretation earned her the prestigious "Plum Prize" (*Zhongguo xiju Meihuajiang* 中国戏剧梅花奖), the People's Republic of China's equivalent of a Tony Award for traditional Chinese opera (Wang, 2019).
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_2.jpeg' | relative_url }}" alt="DVD of Forever Enthralled (梅蘭芳). Zhang Ziyi, who played Meng Xiaodong, was dubbed with Wang Peiyu's voice in performance scenes. Credit: CTC Project Team.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_2.jpeg" alt="DVD of Forever Enthralled (梅蘭芳). Zhang Ziyi, who played Meng Xiaodong, was dubbed with Wang Peiyu's voice in performance scenes. Credit: CTC Project Team.">
   <figcaption><strong>Fig. 2.</strong> DVD of <em>Forever Enthralled</em> (梅蘭芳). Zhang Ziyi, who played Meng Xiaodong, was dubbed with Wang Peiyu's voice in performance scenes. Credit: CTC Project Team.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ In her career as a performer, Wang also paid tribute to her female predecessor o
 The despotic Duke Ling of Jin 晋灵公 (played by Xiao Runnian 萧润年) favors a military general Tu'an Gu 屠岸贾 (played by Gao Mingbo 高明博), who builds a luxury garden with a tower for the duke. To celebrate the completion of the garden and to please Duke Ling, Tu'an suggests a slingshot game that targets people within their view. Whoever hits the head of a person wins; if they miss, they have to drink liquor as a penalty. Zhao Dun 赵盾 (played by Fan Yongliang 范永亮), a prime minister with a reputation for integrity and incorruptibility, criticizes Tu'an\'s cruel plan and persuades Duke Ling not to proceed in order not to lose his subjects\' support. Tu'an has borne a grudge against Zhao for a long time, so he takes this opportunity to assassinate Zhao Dun and his family. All of Zhao\'s family members and their servants are killed, 300 people in all. Only Zhao Shuo's 赵朔 wife and sister of Duke Ling, Princess Zhuangji 庄姬 (played by Zhao Qun 赵群), is spared. She escapes into the palace and gives birth to a son, who is rescued by Zhao's retainer Cheng Ying 程婴 (Wang Peiyu 王佩瑜, cast in the role of the senior male 老生) thanks to general Han Jue's 韩厥 (played by Bo Xiru 博希如) magnanimity. 
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_3.png' | relative_url }}" alt="Wang Peiyu as Cheng Ying smuggling the orphan out of the palace. Source: Bilibili. Credit: Screenshot by CTC team.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_3.png" alt="Wang Peiyu as Cheng Ying smuggling the orphan out of the palace. Source: Bilibili. Credit: Screenshot by CTC team.">
   <figcaption><strong>Fig. 3.</strong> Wang Peiyu as Cheng Ying smuggling the orphan out of the palace. Source: <a href="https://www.bilibili.com/video/BV1LW411y7pG/">Bilibili</a>. Credit: Screenshot by CTC team.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ In the scene "Massacre" ("Chaojia" 抄家), Cheng Ying is the messenger tipping 
   <h3><a href='https://www.bilibili.com/video/BV1LW411y7pG/?spm_id_from=333.788.videocard.0'>A video of the performance with Mandarin Chinese subtitles (simplified) on bilibili.</a></h3>
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -72,7 +72,7 @@ The second part of first act of the original *zaju* relays the encounter between
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>

@@ -15,7 +15,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 ## General Background
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_1.png' | relative_url }}" alt="A painting of literati and courtesans meeting in a private mansion or courtesan house. Source: The image.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_1.png" alt="A painting of literati and courtesans meeting in a private mansion or courtesan house. Source: The image.">
   <figcaption><strong>Fig. 1.</strong> A painting of literati and courtesans meeting in a private mansion or courtesan house. Source: The image.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Female entertainers were prominent participants in the cultural life of Chinese 
 During the Yuan dynasty (1271–1368), when Guan Hanqing (c. 1230–c. 1300) wrote his plays, the status of female entertainers was fixed in law. Government policy classified people into hereditary occupational categories, and the category of "entertainers" (yue 樂) was among the lowest. Women born into entertainer households were registered as such and could not freely leave the profession. The question of whether a courtesan could "ascend to commoner status" (cong liang 從良) — that is, leave the pleasure quarter by marrying a man of respectable standing — was one of the central preoccupations of Yuan drama, and it animates the plot of *Saving a Courtesan*.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_2.jpg' | relative_url }}" alt="The Bodhisattva Guanyin manifesting as a courtesan. Source: The image.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_2.jpg" alt="The Bodhisattva Guanyin manifesting as a courtesan. Source: The image.">
   <figcaption><strong>Fig. 2.</strong> The Bodhisattva Guanyin manifesting as a courtesan. Source: The image.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Yuan zaju plays set in the pleasure quarters often drew on Buddhist tropes of co
 The name "Pan'er" (盼兒, literally "one who hopes" or "one who longs") signals her character's orientation toward the future and toward the wellbeing of others. Pan'er is a former courtesan who has already managed to leave the pleasure quarter, likely through her own efforts, when the play begins. Her sworn sister Song Yinzhang (宋引章), a young musician still working in the pleasure quarter of Kaifeng, has rashly agreed to marry a man named Zhou She (周舍) against the advice of her elders. Pan'er suspects that Zhou She is a rake and a bully, and her suspicions prove correct: once Yinzhang is married and out of the pleasure quarter, Zhou She reveals himself to be cruel and abusive. The main conflict of the play turns on Pan'er's plan to rescue Yinzhang from this marriage.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_3.jpg' | relative_url }}" alt="A depiction of physical altercations in earlier comic skit traditions. Source: The image.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen/Jiufengchen_General_Intro_3.jpg" alt="A depiction of physical altercations in earlier comic skit traditions. Source: The image.">
   <figcaption><strong>Fig. 3.</strong> A depiction of physical altercations in earlier comic skit traditions. Source: The image.</figcaption>
 </figure>
 

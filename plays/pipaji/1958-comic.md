@@ -31,21 +31,21 @@ The *nianhua* was illustrated by Zheng Mukang 郑慕康 (1901-1982) and Zhou Chu
 ## Theme: Reconciling Auspicious and Inauspicious Color Contrasts
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg' | relative_url }}" alt="Cover of the 2010 reprint of the 1958 nianhua lianhuanhua of The Lute.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg" alt="Cover of the 2010 reprint of the 1958 nianhua lianhuanhua of The Lute.">
   <figcaption><strong>Fig. 1.</strong> Cover of the 2010 reprint of the 1958 <em>nianhua lianhuanhua</em> of <em>The Lute</em>.</figcaption>
 </figure>
 
 Although a print of the 1958 *nianhua lianhuanhua* of *The Lute* is not readily available, consulting a similar adaptation of *The Western Wing* from 1958 can give us a sense of what the original looked like.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_2.jpg' | relative_url }}" alt="A 1958 nianhua lianhuanhua adaptation of The Western Wing, shown for comparison.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_2.jpg" alt="A 1958 nianhua lianhuanhua adaptation of The Western Wing, shown for comparison.">
   <figcaption><strong>Fig. 2.</strong> A 1958 <em>nianhua lianhuanhua</em> adaptation of <em>The Western Wing</em>, shown for comparison.</figcaption>
 </figure>
 
 *The Western Wing* is rendered here in sixteen panels printed on four vertical strips; according to the 2010 reprint, *The Lute*'s 18 panels were originally printed on three strips. Captions to each panel would have appeared beneath the image.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_3.png' | relative_url }}" alt="The booklet's introductory essay by Liu Yongsheng.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_3.png" alt="The booklet's introductory essay by Liu Yongsheng.">
   <figcaption><strong>Fig. 3.</strong> The booklet's introductory essay by Liu Yongsheng.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ The booklet's introductory essay by Liu Yongsheng 刘永胜, author of *The Illu
 Translation notes before image 4
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_4.png' | relative_url }}" alt="Panel 4: Cai Yong's residence in the capital, with a monochrome landscape painting behind him.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_4.png" alt="Panel 4: Cai Yong's residence in the capital, with a monochrome landscape painting behind him.">
   <figcaption><strong>Fig. 4.</strong> Panel 4: Cai Yong's residence in the capital, with a monochrome landscape painting behind him.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Indeed, the somber gray tones of the landscape painting are a contrast to the ri
 Translation notes before image 5
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_5.png' | relative_url }}" alt="Panel 5: The countryside in winter, with barren trees covered in snow.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_5.png" alt="Panel 5: The countryside in winter, with barren trees covered in snow.">
   <figcaption><strong>Fig. 5.</strong> Panel 5: The countryside in winter, with barren trees covered in snow.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Following on the heels of the matchmaker scene in the capital, the fifth panel r
 Translation notes before image 6
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png' | relative_url }}" alt="Panel 8: The wedding scene, the most saturated of the nianhua's panels.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png" alt="Panel 8: The wedding scene, the most saturated of the nianhua's panels.">
   <figcaption><strong>Fig. 6.</strong> Panel 8: The wedding scene, the most saturated of the <em>nianhua</em>'s panels.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Cai's gaze is, after all, directed past the edge of the frame, suggesting that h
 Translation notes before image 7
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png' | relative_url }}" alt="Panel 12: Cai Yong playing the zither next to a lotus pond.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Panel 12: Cai Yong playing the zither next to a lotus pond.">
   <figcaption><strong>Fig. 7.</strong> Panel 12: Cai Yong playing the zither next to a lotus pond.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ The next time we return to Cai, in panel 12, he is once again melancholic, now p
 Translation notes before image 8
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png' | relative_url }}" alt="Panel 16: Cai Yong stunned to find his parents' ancestral portrait in a temple.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Panel 16: Cai Yong stunned to find his parents' ancestral portrait in a temple.">
   <figcaption><strong>Fig. 8.</strong> Panel 16: Cai Yong stunned to find his parents' ancestral portrait in a temple.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ In panel 16, Cai finally "encounters" the parents he has been fretting over when
 Translation notes before image 9
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_9.png' | relative_url }}" alt="Panel 18: Cai Yong returns to his hometown to pay respects at his parents' grave.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_9.png" alt="Panel 18: Cai Yong returns to his hometown to pay respects at his parents' grave.">
   <figcaption><strong>Fig. 9.</strong> Panel 18: Cai Yong returns to his hometown to pay respects at his parents' grave.</figcaption>
 </figure>
 

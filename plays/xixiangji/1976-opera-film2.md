@@ -24,7 +24,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png' | relative_url }}" alt="The 1976 Beijing opera film Crimson.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="The 1976 Beijing opera film Crimson.">
   <figcaption><strong>Fig. 1.</strong> The 1976 Beijing opera film <em>Crimson</em>.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Before Hongniang can take the lead as the film's revolutionary hero, it first es
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_1.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -58,7 +58,7 @@ The film introduces Madam Cui as a character beholden to a feudal, anti-revoluti
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_2.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -68,7 +68,7 @@ Madam Cui promises that whoever can turn away the rebels attacking the monastery
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_3.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -78,7 +78,7 @@ After Hongniang witnesses what she knows to be an injustice to Student Zhang and
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_4.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -87,7 +87,7 @@ Although this scene is ostensibly presented as an opportunity for Student Zhang 
 ### Scene 5: Hongniang's Revolutionary Victory
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png' | relative_url }}" alt="Hongniang confronts Madam Cui in the film's climax.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Hongniang confronts Madam Cui in the film's climax.">
   <figcaption><strong>Fig. 2.</strong> Hongniang confronts Madam Cui in the film's climax.</figcaption>
 </figure>
 

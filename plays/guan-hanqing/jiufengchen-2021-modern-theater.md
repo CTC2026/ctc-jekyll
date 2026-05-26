@@ -12,7 +12,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 - [The production on YouTube](https://www.youtube.com/watch?v=M_NHOGEpCVc)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_1.jpg' | relative_url }}" alt="Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_1.jpg" alt="Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 1.</strong> Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ In the play's opening, Pan'er prepares food offerings for the Ghost courtesans. 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: Pan'er prepares food offerings for the ghost courtesans (08:55–10:12). Source: The production on Youtube.</p>
@@ -83,7 +83,7 @@ In Act 1, the Ghosts serve as guides who introduce the world of the play to the 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: Ghost guides in Act 1 (28:50–31:20). Source: The production on Youtube.</p>
@@ -94,7 +94,7 @@ In Act 3, the Ghosts take on a more active role. They are present during Pan'er'
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 3: Ghost guides in Act 3 (56:03–57:01). Source: The production on Youtube.</p>
@@ -109,7 +109,7 @@ Scholar An stages a play-within-a-play: a conventional romantic drama in which a
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 4: Ghost critics mock Scholar An's play (13:25–14:52). Source: The production on Youtube.</p>
@@ -122,7 +122,7 @@ The institution of sworn brotherhood — a formal bond of loyalty between men, s
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 5: "All for one and one for all" (14:54–15:03). Source: The production on Youtube.</p>
@@ -133,7 +133,7 @@ The bond of sworn sisterhood is tested by the events of the play. When Pan'er re
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 6: Ghosts encourage Pan'er to rescue Yinzhang (43:55–45:26). Source: The production on Youtube.</p>
@@ -148,7 +148,7 @@ The Ghosts appear in court alongside Pan'er. Their presence is, in the strictest
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_7.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 7: Ghosts appear in court (1:15:55–1:16:57). Source: The production on Youtube.</p>
@@ -159,7 +159,7 @@ Pan'er's victory in court is not achieved through the Ghosts' testimony alone; i
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_8.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_8.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 8: Pan'er wins the case (1:20:40–1:21:41). Source: The production on Youtube.</p>

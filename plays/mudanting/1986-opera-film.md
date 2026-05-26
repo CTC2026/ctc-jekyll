@@ -12,7 +12,7 @@ play_title: "The Peony Pavilion"
 - The film with Chinese subtitles (simplified) on YouTube.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_1.jpg' | relative_url }}" alt="Zhang Jiqing 张继青 as Du Liniang 杜丽娘 in the 1986 Kunqu opera film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_1.jpg" alt="Zhang Jiqing 张继青 as Du Liniang 杜丽娘 in the 1986 Kunqu opera film.">
   <figcaption><strong>Fig. 1.</strong> Zhang Jiqing 张继青 as Du Liniang 杜丽娘 in the 1986 Kunqu opera film.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ The *Peony Pavilion*'s constantly fluctuating emotional atmosphere produces part
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -61,7 +61,7 @@ Having just returned from the garden, Du Liniang has now had a taste of freedom.
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -73,7 +73,7 @@ Adamant about reclaiming the unprecedented joy that she experienced during her i
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>

@@ -25,7 +25,7 @@ You can find modules that analyze various adaptations of *The Peony Pavilion* at
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mudanting/general-intro/Mudanting_General_Intro_1.jpg' | relative_url }}" alt="A scene from The Peony Pavilion.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/general-intro/Mudanting_General_Intro_1.jpg" alt="A scene from The Peony Pavilion.">
   <figcaption><strong>Fig. 1.</strong> A scene from <em>The Peony Pavilion</em>.</figcaption>
 </figure>
 

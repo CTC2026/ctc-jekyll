@@ -12,7 +12,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 - [The film with Cantonese Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png' | relative_url }}" alt="Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in Snow in June (1959). Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png" alt="Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in Snow in June (1959). Source: The production.">
   <figcaption><strong>Fig. 1.</strong> Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in <em>Snow in June</em> (1959). Source: The production.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png' | relative_url }}" alt="Fong Yim-Fen 芳艷芬 as Tau Ngo in Snow in June (1959). Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png" alt="Fong Yim-Fen 芳艷芬 as Tau Ngo in Snow in June (1959). Source: The production.">
   <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen 芳艷芬 as Tau Ngo in <em>Snow in June</em> (1959). Source: The production.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ From its 1956 live opera debut to its 1959 film production, *Snow in June* mirro
 ### Scene 1: Tau Ngo is introduced to Lai Heung by Madam Choi
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png' | relative_url }}" alt="Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png" alt="Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.">
   <figcaption><strong>Fig. 3.</strong> Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: Tau Ngo is introduced to Lai Heung by Madam Choi. Source: The film on YouTube.</p>
@@ -80,7 +80,7 @@ Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enact
 ### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png' | relative_url }}" alt="Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png" alt="Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.">
   <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Although Tau Ngo suspects that her intended is coming home, she is too shy to as
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: Tau Ngo uses the parrot to ask about Scholar Choi's return. Source: The film on YouTube.</p>
@@ -100,12 +100,12 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png' | relative_url }}" alt="Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt="Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.">
   <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png' | relative_url }}" alt="Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt="Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.">
   <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
 </figure>
 
@@ -116,14 +116,14 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on YouTube.</p>
 </div>
 
 <figure>
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png' | relative_url }}" alt="Lai Heung's animated exchange with Tau Ngo. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung's animated exchange with Tau Ngo. Source: The film.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung's animated exchange with Tau Ngo. Source: The film.</figcaption>
 </figure>
 
@@ -134,14 +134,14 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase mutton soup. Source: The film on YouTube.</p>
 </div>
 
 <figure>
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png' | relative_url }}" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
   <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
 </figure>
 
@@ -152,19 +152,19 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 5: The cunning Cheung Lou takes advantage of Lai Heung. Source: The film on YouTube.</p>
 </div>
 
 <figure>
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png' | relative_url }}" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
   <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png' | relative_url }}" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
   <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ The trial at the end of the film dramatizes and amplifies Lai Heung's disability
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 6: Scholar Choi interprets Lai Heung's signing gestures in court. Source: The film on YouTube.</p>

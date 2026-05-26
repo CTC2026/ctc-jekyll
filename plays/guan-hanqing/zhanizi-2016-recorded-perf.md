@@ -12,7 +12,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 - The Chuanju adaptation *Yanyan* is available on Tencent QQ with simplified Chinese subtitles: [Part 1](https://v.qq.com/x/page/k00229z1dbx.html), [Part 2](https://v.qq.com/x/page/v00222a8jni.html), [Part 3](https://v.qq.com/x/page/m0022gblaow.html), [Part 4](https://v.qq.com/x/page/u0022la2aka.html).
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_1.png' | relative_url }}" alt="A scene from the 2016 Chuanju Yanyan performance. Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_1.png" alt="A scene from the 2016 Chuanju Yanyan performance. Source: The production.">
   <figcaption><strong>Fig. 1.</strong> A scene from the 2016 Chuanju <em>Yanyan</em> performance. Source: The production.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The physical gesture that crystallizes Yanyan's defiance is one of the most memo
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: Rather Die than Get Married — Yanyan rejects the proposed marriage (defiant gesture with the cane). Source: The production.</p>
@@ -78,7 +78,7 @@ The music that accompanies this scene draws on the Gaoqiang tradition's characte
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: A Heart in Turmoil — Yanyan's romantic passions expressed through quilt and lamp. Source: The production.</p>
@@ -95,7 +95,7 @@ The scene culminates in a moment of stillness: after the frantic movement of the
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 3: Fear and Worry — percussion-driven chase and evasion. Source: The production.</p>
@@ -112,7 +112,7 @@ The physical pain of heartbreak is rendered with particular specificity. Wang Yu
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 4: Pain and Anger — Yanyan's heartbreak expressed through rapid lyrics and physical performance. Source: The production.</p>
@@ -127,7 +127,7 @@ This scene represents a significant departure from the original zaju, in which t
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 5: Unspeakable Sadness — the moth symbol and Yanyan's slow, anguished singing. Source: The production.</p>
@@ -136,7 +136,7 @@ This scene represents a significant departure from the original zaju, in which t
 ### Clip 6: Yanyan's Ultimate Defiance — Suicide
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_2.png' | relative_url }}" alt="Yanyan's suicide in the nuptial bed in the 2016 Yanyan performance. Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_2.png" alt="Yanyan's suicide in the nuptial bed in the 2016 Yanyan performance. Source: The production.">
   <figcaption><strong>Fig. 2.</strong> Yanyan's suicide in the nuptial bed in the 2016 <em>Yanyan</em> performance. Source: The production.</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ Mei Hua (梅花), Yingying's servant, weeps at the side of the stage. Her grief 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 6: Yanyan's ultimate defiance — suicide in the nuptial bed. Source: The production.</p>

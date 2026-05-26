@@ -23,7 +23,7 @@ You can find modules that analyze various adaptations of *The Female Mulan Joins
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg' | relative_url }}" alt="&quot;Four Paragons of Filial Piety&quot; (&quot;Sixiao tu&quot; 四孝圖), Yuan dynasty painting.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg" alt="&quot;Four Paragons of Filial Piety&quot; (&quot;Sixiao tu&quot; 四孝圖), Yuan dynasty painting.">
   <figcaption><strong>Fig. 1.</strong> "Four Paragons of Filial Piety" ("Sixiao tu" 四孝圖), Yuan dynasty painting.</figcaption>
 </figure>
 

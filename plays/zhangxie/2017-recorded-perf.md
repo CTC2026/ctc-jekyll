@@ -37,7 +37,7 @@ In his adaptation, Zhang Lie considerably streamlined the original version of *T
 ## Plot Summary
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_1.png' | relative_url }}" alt="Lin Meimei (left, as Zhang Xie) and Wang Chenghu (right, as Wang Deyong) in Top Graduate Zhang Xie. Source: This image is sourced from an article on Sohu.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_1.png" alt="Lin Meimei (left, as Zhang Xie) and Wang Chenghu (right, as Wang Deyong) in Top Graduate Zhang Xie. Source: This image is sourced from an article on Sohu.">
   <figcaption><strong>Fig. 1.</strong> Lin Meimei (left, as Zhang Xie) and Wang Chenghu (right, as Wang Deyong) in <em>Top Graduate Zhang Xie</em>. Source: This image is sourced from an article on Sohu.</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ In the opening scene, Divine Judge (cast as the comic, *jing* 净) and Little De
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) horsing around on stage. Source: The production on Bilibili.</p>
 </div>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_2.jpg' | relative_url }}" alt="Divine Judge (in red, right) and Little Demon (in purple, left) horsing around on stage. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_2.jpg" alt="Divine Judge (in red, right) and Little Demon (in purple, left) horsing around on stage. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 2.</strong> Divine Judge (in red, right) and Little Demon (in purple, left) horsing around on stage. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Divine Judge explains why he refuses to let Poorlass into the temple. He has som
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: Divine Judge explains why he refuses to let Poorless into the temple. Source: The production on Bilibili.</p>
@@ -93,14 +93,14 @@ Divine Judge explains why he refuses to let Poorlass into the temple. He has som
 Similarly, when Little Demon later suggests that he hopes that Poorlass and Zhang Xie could get married and raise children together so that the temple may be bustling with excitement, his vivid facial expression foreshadows his passion in matchmaking.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_3.jpg' | relative_url }}" alt="Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) are gossiping about Zhang Xie and Poorlass. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_3.jpg" alt="Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) are gossiping about Zhang Xie and Poorlass. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 3.</strong> Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) are gossiping about Zhang Xie and Poorlass. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 3: Little Demon and Divine Judge speculate about Poorlass and Zhang Xie. Source: The production on Bilibili.</p>
@@ -113,19 +113,19 @@ Xiao'er (cast in the role of *chou* 丑) attempts to break the door played by Di
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 4: Xiao'er breaks the door played by Divine Judge and Little Demon. Source: The production on Bilibili.</p>
 </div>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_4.jpg' | relative_url }}" alt="Xiao'er (left) is trying to dash to the door performed by Divine Judge (middle) and Little Demon (left). Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_4.jpg" alt="Xiao'er (left) is trying to dash to the door performed by Divine Judge (middle) and Little Demon (left). Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 4.</strong> Xiao'er (left) is trying to dash to the door performed by Divine Judge (middle) and Little Demon (left). Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_5.jpg' | relative_url }}" alt="Xiao'er (middle front), Divine Judge (right), and Little Demon (left) all fall to the ground. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_5.jpg" alt="Xiao'er (middle front), Divine Judge (right), and Little Demon (left) all fall to the ground. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 5.</strong> Xiao'er (middle front), Divine Judge (right), and Little Demon (left) all fall to the ground. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ In this interlude, Divine Judge and Little Demon "assume the role of a door" (*z
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 5: Divine Judge (right) and Little Demon (left) perform a door. Source: The production on Bilibili.</p>
@@ -155,7 +155,7 @@ Zhang Xie asks the Little Demon and Divine Judge to perform a door for the new h
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 6: Feeling exploited, Little Demon and Divine Judge use jokes to complain. Source: The production on Bilibili.</p>
@@ -168,7 +168,7 @@ Here, Zhang Xie meets up with a eunuch from the palace. After hearing that he is
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_7.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 7: Zhang Xie meets up with a eunuch from the palace. Source: The production on Bilibili.</p>
@@ -185,7 +185,7 @@ In Chinese, the severity shown during the first encounter is called "*xiama wei*
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_8.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_8.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 8: Wang Deyong requests that Zhang Xie dismount from his horse. Source: The production on Bilibili.</p>
@@ -198,7 +198,7 @@ The following excerpt plays with the double meaning of the character *ku* 苦. O
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_9.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_9.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 9: Wang Deyong is asking his assistant clerk to perform a chair. Source: The production on Bilibili.</p>
@@ -221,14 +221,14 @@ To add to the humor, Wang Deyong suddenly realizes the inappropriate nature of h
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_10.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_10.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 10: Wang Deyong sets up a parallel between the solemn matter of marriage and the mundane activity of purchasing a salted fish. Source: The production on Bilibili.</p>
 </div>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_6.jpg' | relative_url }}" alt="Wang Deyong pretends to smell the salted fish. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_6.jpg" alt="Wang Deyong pretends to smell the salted fish. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 6.</strong> Wang Deyong pretends to smell the salted fish. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -243,7 +243,7 @@ While gods and deities should typically present themselves as imposing authoriti
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_11.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_11.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 11: Two deities reveal themselves as greedy gluttons who seek to gobble up the meat. Source: The production on Bilibili.</p>
@@ -256,7 +256,7 @@ Zhang Xie discusses the importance of life and reputation several times in the c
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_12.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_12.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 12: When Zhang Xie was robbed and first understood that life is more important than reputation, Poorlass corrects him, saying that the old saying says that "reputation matters (名节事大)." Source: The production on Bilibili.</p>
@@ -265,7 +265,7 @@ Zhang Xie discusses the importance of life and reputation several times in the c
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_13.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_13.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 13: Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili.</p>
@@ -274,17 +274,17 @@ Zhang Xie discusses the importance of life and reputation several times in the c
 Officials are supposed to be steadfast in their adherence to Confucian principles. While rationalizing his hesitation, the inconsistency of Zhang Xie's beliefs reveals his character flaws. His opportunistic embrace of different stances satirically discloses just how hypocritical Zhang Xie as well as other officials could be.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_7.jpg' | relative_url }}" alt="Zhang Xie is persuading himself to marry Poorlass because ostensibly reputation is less important than saving one's life. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_7.jpg" alt="Zhang Xie is persuading himself to marry Poorlass because ostensibly reputation is less important than saving one's life. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 7.</strong> Zhang Xie is persuading himself to marry Poorlass because ostensibly reputation is less important than saving one's life. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_8.jpg' | relative_url }}" alt="Poorlass corrects Zhang Xie, suggesting the old saying that &quot;reputation matters more than one's life.&quot; Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_8.jpg" alt="Poorlass corrects Zhang Xie, suggesting the old saying that &quot;reputation matters more than one's life.&quot; Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 8.</strong> Poorlass corrects Zhang Xie, suggesting the old saying that "reputation matters more than one's life." Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_9.jpg' | relative_url }}" alt="Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_9.jpg" alt="Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 9.</strong> Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -299,7 +299,7 @@ When Xiao'er breaks the door, which is played by Divine Judge and Little Demon, 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_14.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_14.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 14: "The door is so soft that it is not steady today." Source: The production on Bilibili.</p>
@@ -322,7 +322,7 @@ As a narrator, Little Demon is aware of the entire plot; as a character, he is p
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_15.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_15.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 15: "He and I are both characters in a play now!" Source: The production on Bilibili.</p>
@@ -333,7 +333,7 @@ As a narrator, Little Demon is aware of the entire plot; as a character, he is p
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_16.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_16.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 16: Fake sitting. Source: The production on Bilibili.</p>
@@ -346,7 +346,7 @@ Wang Deyong is played by the same clown role actor (*chou* 丑) who played Xiao'
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_17.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_17.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 17: Costume (identity) changes on the stage. Source: The production on Bilibili.</p>

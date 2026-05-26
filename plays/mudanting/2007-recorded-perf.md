@@ -12,7 +12,7 @@ play_title: "The Peony Pavilion"
 - A video of the performance with Mandarin Chinese Subtitles on bilibili.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg' | relative_url }}" alt="Shen Fengying 沈豐英 (as Du Liniang) and Yu Jiulin 俞玖林 (as Liu Mengmei) in the Youth Edition.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Shen Fengying 沈豐英 (as Du Liniang) and Yu Jiulin 俞玖林 (as Liu Mengmei) in the Youth Edition.">
   <figcaption><strong>Fig. 1.</strong> Shen Fengying 沈豐英 (as Du Liniang) and Yu Jiulin 俞玖林 (as Liu Mengmei) in the Youth Edition.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The video clips listed below are arranged around the representation of "*qing*" 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -77,7 +77,7 @@ The first encounter between Du Liniang and Liu Mengmei is a memorable moment in 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -94,7 +94,7 @@ In Kunqu, sleeves are often considered an extension of the actor's body. In this
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -108,7 +108,7 @@ This is their "first glance" the second time around. However, the physical conta
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -124,7 +124,7 @@ This physical contact between their bodies, sleeves, and hands implies an increa
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -132,7 +132,7 @@ This physical contact between their bodies, sleeves, and hands implies an increa
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -148,7 +148,7 @@ On the stage, eye contact is another common strategy for expressing love. In thi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_7.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -165,7 +165,7 @@ In the scene "Union in the Shades" (*You gou* 幽媾), Liu Mengmei imagines the 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_8.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_8.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -179,7 +179,7 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_9.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_9.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -196,7 +196,7 @@ The two major characters, Du Liniang and Liu Mengmei, also engage in joint chora
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_10.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_10.mp4" type="video/mp4">
     </video>
   </div>
 </div>

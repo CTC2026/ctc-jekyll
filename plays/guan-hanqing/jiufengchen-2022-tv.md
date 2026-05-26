@@ -12,7 +12,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 [In Chinese with English and simplified Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1–6.)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png' | relative_url }}" alt="A promotional image for A Dream of Splendor (2022). Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="A promotional image for A Dream of Splendor (2022). Source: The production.">
   <figcaption><strong>Fig. 1.</strong> A promotional image for <em>A Dream of Splendor</em> (2022). Source: The production.</figcaption>
 </figure>
 
@@ -56,21 +56,21 @@ San-niang is Pan'er's sworn sister and business partner. She is older than Pan'e
 In Episode 4, Pan'er puts her rescue plan into action. She approaches Zhou She and, in an elaborate performance of infatuation, claims that she has fallen irresistibly in love with him. Zhou She, vain and susceptible to flattery, is immediately taken in. Pan'er's performance is skillful; if the viewer were watching the scene without any prior knowledge of her intentions, they might momentarily be uncertain whether her expressions of love are genuine.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_2.png' | relative_url }}" alt="Pan'er and San-niang confront Zhou She. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_2.png" alt="Pan'er and San-niang confront Zhou She. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 2.</strong> Pan'er and San-niang confront Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 San-niang's presence in this scene is what decisively anchors the viewer's understanding of Pan'er's performance as a performance. San-niang stands slightly behind and to the side, positioned between Pan'er and Zhou She, and her face — visible to the viewer but not to Zhou She — registers a sequence of reactions: amusement at Pan'er's audacity, admiration for her acting skill, and a barely suppressed alarm at the danger of the undertaking. The editing cuts between close-ups of Pan'er's performance, Zhou She's credulous face, and San-niang's knowing reactions, creating a triangular structure of dramatic irony.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_3.png' | relative_url }}" alt="San-niang as intermediary between Pan'er and Zhou She. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_3.png" alt="San-niang as intermediary between Pan'er and Zhou She. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 3.</strong> San-niang as intermediary between Pan'er and Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 Later in the same episode, when Pan'er is alone in a carriage with San-niang, she drops her performance and reveals her true feelings: exhaustion, disgust, and fierce determination to see the plan through. This moment of private revelation — made possible by the presence of a trusted companion who already knows the truth — confirms for the viewer that the performance they witnessed was exactly that: a performance. The contrast between Pan'er's public face and her private face is made possible by San-niang's role as the one person to whom Pan'er does not need to perform.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png' | relative_url }}" alt="Pan'er in the carriage revealing her true feelings. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png" alt="Pan'er in the carriage revealing her true feelings. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 4.</strong> Pan'er in the carriage revealing her true feelings. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
@@ -79,21 +79,21 @@ Later in the same episode, when Pan'er is alone in a carriage with San-niang, sh
 Later in Episode 4, Zhou She arrives at the tea house where Pan'er and San-niang are working, ostensibly to return a hairpin that Pan'er had dropped during their earlier encounter. The pretext is transparent — Zhou She has come because he cannot stop thinking about Pan'er — but Pan'er plays along with the fiction, receiving the hairpin with elaborate gratitude and using the occasion to further inflame his interest.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_5.png' | relative_url }}" alt="Pan'er and San-niang exchange glances. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_5.png" alt="Pan'er and San-niang exchange glances. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 5.</strong> Pan'er and San-niang exchange glances. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 San-niang is present throughout this encounter. She and Pan'er exchange several quick glances during the scene — brief, coded communications that Zhou She does not notice but that the viewer reads as confirmation that the two women are collaborating in the manipulation of their guest. These glances are a form of silent communication between sworn sisters, and the editing lingers on them just long enough to ensure that the viewer registers their significance.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_6.png' | relative_url }}" alt="Pan'er and Zhou She with San-niang at a distance. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_6.png" alt="Pan'er and Zhou She with San-niang at a distance. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 6.</strong> Pan'er and Zhou She with San-niang at a distance. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: Zhou She comes to return Pan'er's hairpin; San-niang facilitates dramatic irony (Episode 4). Source: <em>A Dream of Splendor</em> (2022).</p>
@@ -102,7 +102,7 @@ San-niang is present throughout this encounter. She and Pan'er exchange several 
 The sequence that follows the hairpin scene reveals the emotional cost of Pan'er's performance. Once Zhou She has left, the camera lingers on San-niang's face as she watches Pan'er. San-niang's expression in this moment is complex: there is admiration for Pan'er's skill, concern for her wellbeing, and a quiet sadness at the necessity of what they are doing. The close-up of San-niang's face is not merely a reaction shot; it is a moral commentary on the scene that has just concluded.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_7.png' | relative_url }}" alt="Close-up of San-niang's reactions. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_7.png" alt="Close-up of San-niang's reactions. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 7.</strong> Close-up of San-niang's reactions. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ San-niang's presence in this scene is particularly important. She is positioned 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: Zhou She files for divorce; the sworn sisters exchange glances (Episode 5). Source: <em>A Dream of Splendor</em> (2022).</p>
@@ -124,14 +124,14 @@ San-niang's presence in this scene is particularly important. She is positioned 
 After the divorce is completed and Zhou She has left, Pan'er and Yinzhang embrace. The embrace is a moment of pure emotional release — the plan has worked, Yinzhang is free — and San-niang watches with an expression of quiet, satisfied joy.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_8.png' | relative_url }}" alt="The two sisters embrace after the plan succeeds. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_8.png" alt="The two sisters embrace after the plan succeeds. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 8.</strong> The two sisters embrace after the plan succeeds. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 San-niang does not join the embrace immediately; she holds back, giving Pan'er and Yinzhang the space to have their moment. In the framing of the shot, she is positioned slightly further from the camera, at a secondary level in the composition. This spatial arrangement — which might seem like a diminishment of San-niang's importance — is in fact a confirmation of her character: she is the sworn sister who facilitates others' happiness without demanding recognition for her own contribution.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_9.png' | relative_url }}" alt="San-niang's secondary position in the frame. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_9.png" alt="San-niang's secondary position in the frame. Source: A Dream of Splendor (2022).">
   <figcaption><strong>Fig. 9.</strong> San-niang's secondary position in the frame. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 

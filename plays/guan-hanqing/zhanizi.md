@@ -14,7 +14,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg' | relative_url }}" alt="A page from the Yuankan zaju sanshi zhong (Thirty Yuan-Printed Plays), one of our earliest extant dramatic imprints. Source: The image.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg" alt="A page from the Yuankan zaju sanshi zhong (Thirty Yuan-Printed Plays), one of our earliest extant dramatic imprints. Source: The image.">
   <figcaption><strong>Fig. 1.</strong> A page from the <em>Yuankan zaju sanshi zhong</em> (Thirty Yuan-Printed Plays), one of our earliest extant dramatic imprints. Source: The image.</figcaption>
 </figure>
 

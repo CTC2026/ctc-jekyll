@@ -13,7 +13,7 @@ play_title: Orphan of Zhao
 - A video of the production with Chinese (simplified) subtitles on [Bilibili](https://www.bilibili.com/video/BV1Nx411H7H1/?spm_id_from=333.337.search-card.all.click).
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png' | relative_url }}" alt="&quot;Prince of Yue opera&quot; Zhao Zhigang. Source: Xinmin Evening Newspaper, Dec. 22, 2024.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt="&quot;Prince of Yue opera&quot; Zhao Zhigang. Source: Xinmin Evening Newspaper, Dec. 22, 2024.">
   <figcaption><strong>Fig. 1.</strong> "Prince of Yue opera" Zhao Zhigang. Source: <a href="https://paper.xinmin.cn/html/xmwb/2024-12-22/9/199520.html">Xinmin Evening Newspaper</a>, Dec. 22, 2024.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ In fact, it was this level of emotional intensity and complexity in this play th
 In his role as Cheng Ying, Zhao Zhigang sought to carve out a space for an alternate aesthetics of masculinity. His rendition was distinct from three other types of male portrayals. First, it contrasted with the soft/"feminine" masculinity crafted by the all-female Yue opera casts; at the same time, it also set itself apart from the convention of the "fragile scholar" characteristic of traditional scholar-beauty (*caizi jiaren* 才子佳人)" narratives; finally, it differed from the "old male role" (*laosheng* 老生) found in Beijing opera renditions of Cheng Ying (see CTC \"The Orphan of Zhao\" module [2003](/plays/orphan-of-zhao/2003-performance/) and [2011](/plays/orphan-of-zhao/2011-tv/)). To realize such an alternate male identity, Zhao adopted an unconventional blend of male role types. Zhao was first trained in the "old male role" before specializing in the \"young male role\" (*xiaosheng* 小生) later in his career. In *The Orphan*, Zhao mixed the style of young male role type with the expressivity of the old male role type. Specifically, for the young Cheng Ying, Zhao leaned into the young male role. Later in the play, Zhao tapped into the moral aesthetics of the old male role to bring out Cheng Ying's grounded, thoughtful, and often emotionally restrained temperament amidst political turmoil. Costuming is one way in which such a change manifests itself. The young male lead never wears a beard onstage; breaking with this convention, Zhao Zhigang wore a black-and-grey beard towards the end of play to indicate how much Cheng Ying had aged both due to the passage of time and on account of his emotional ordeals. 
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_2.jpg' | relative_url }}" alt="Yin Guifang's portrayal of Qu Yuan in 1954, winning First Prize for Actors at the East China Opera Joint Showcase. Source: Meili Yueju WeChat.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_2.jpg" alt="Yin Guifang's portrayal of Qu Yuan in 1954, winning First Prize for Actors at the East China Opera Joint Showcase. Source: Meili Yueju WeChat.">
   <figcaption><strong>Fig. 2.</strong> Yin Guifang's portrayal of Qu Yuan in 1954, winning First Prize for Actors at the East China Opera Joint Showcase. Source: <a href="https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ">Meili Yueju WeChat</a>.</figcaption>
 </figure>
 
@@ -50,12 +50,12 @@ Zhao's idiosyncratic mixing of role types had roots in his own training. Zhao's 
 Interestingly, it is worth noting that the costume and makeup design of Zhao Zhigang's Cheng Ying (see Fig. 2) closely resemble those of Yin Guifang's Qu Yuan. Their visual similarities not only speak to Zhao's efforts of honoring his teacher and carrying on the art of the Yin School, they also point to Zhao's search for artistic legitimacy in his experimental rendition: he aspired to win the hearts of older-generation Yue opera fans despite his bold and modern innovations. 
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_3.jpg' | relative_url }}" alt="Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. Source: Univ. of Leeds Digital Library of Chinese Theatre.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_3.jpg" alt="Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. Source: Univ. of Leeds Digital Library of Chinese Theatre.">
   <figcaption><strong>Fig. 3.</strong> Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. Source: <a href="https://ahc.leeds.ac.uk/research-project/93/school-of-languages-cultures-and-societies/795/chinese-theatre">Univ. of Leeds Digital Library of Chinese Theatre</a>.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_4.png' | relative_url }}" alt="Close-up of Zhao Zhigang's facial makeup, showing resemblance to Yin Guifang's Qu Yuan (Fig. 2). Source: Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_4.png" alt="Close-up of Zhao Zhigang's facial makeup, showing resemblance to Yin Guifang's Qu Yuan (Fig. 2). Source: Bilibili. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 4.</strong> Close-up of Zhao Zhigang's facial makeup, showing resemblance to Yin Guifang's Qu Yuan (Fig. 2). Source: <a href="https://www.bilibili.com/video/BV1ry4y1g7De/">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ The Yue opera version of *The Orphan of Zhao* effectively utilizes new masculi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -92,7 +92,7 @@ Translation notes for clip 1
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -102,7 +102,7 @@ The most critical departure from the *zaju* plot is the Yue opera play's ending:
 Strikingly, after much internal torment, Cheng Ying raises the sword, with which he is going to kill Tu'an Gu, and screams to the Heavens in agony: "How can I kill you \[Tu'an Gu\] with my own hands? How can I so cruelly take someone's life just like you did?\" 我怎么下得了手 我怎么下得了像你那样的毒手啊 Cheng Ying then thrusts the sword into the ground. The crowd quickly surrounds Tu'an Gu, and an enormous, towering sword slowly descends from above the stage into the center of the crowd as Tu'an Gu disappears amongst them. 
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_5.jpg' | relative_url }}" alt="A giant sword descends from above as Tu'an Gu disappears into the crowd.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_5.jpg" alt="A giant sword descends from above as Tu'an Gu disappears into the crowd.">
   <figcaption><strong>Fig. 5.</strong> A giant sword descends from above as Tu'an Gu disappears into the crowd.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Translation notes for clip 2
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -131,7 +131,7 @@ The onstage crowd --- rarely seen on Chinese opera stage --- assumes multiple fu
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_4_new.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_Clip_4_new.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -141,7 +141,7 @@ The value of non-violence is again reiterated during the standing ovation that t
 Significantly, after taking his bow as the actor at the standing ovation, Zhao Zhigang, while still wearing Cheng Ying's costume, picks up the sword and throws it away carelessly, signaling complete detachment from hatred and bloodshed. At this moment, Zhao is not just portraying the character of Cheng Ying within the story. He is simultaneously Cheng Ying and himself. This breaking yet \"doubling\" of character constitutes a Brechtian moment, powerfully extending the themes of *The Orphan of Zhao* into a critical anti-violence message to the contemporary audience, while bringing healing to the pain and trauma of the past.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_6.png' | relative_url }}" alt="Zhao Zhigang, still in costume as Cheng Ying, discards the sword during the standing ovation — a Brechtian moment of detachment from revenge.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_6.png" alt="Zhao Zhigang, still in costume as Cheng Ying, discards the sword during the standing ovation — a Brechtian moment of detachment from revenge.">
   <figcaption><strong>Fig. 6.</strong> Zhao Zhigang, still in costume as Cheng Ying, discards the sword during the standing ovation — a Brechtian moment of detachment from revenge.</figcaption>
 </figure>
 

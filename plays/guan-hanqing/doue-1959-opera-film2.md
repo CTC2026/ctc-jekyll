@@ -12,7 +12,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 - [The film with Chinese subtitles for arias (Traditional)](https://www.youtube.com/watch?v=1Gt3gdH2mfo)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_1.jpg' | relative_url }}" alt="Dou E (performed by Wang Xiulan 王秀蘭) gazes afar with great determination before being executed in the Pu Opera Film. Source: The film on Youtube. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_1.jpg" alt="Dou E (performed by Wang Xiulan 王秀蘭) gazes afar with great determination before being executed in the Pu Opera Film. Source: The film on Youtube. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 1.</strong> Dou E (performed by Wang Xiulan 王秀蘭) gazes afar with great determination before being executed in the Pu Opera Film. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Dou E, wronged by Tao Wu, the corrupt official who took Zhang Lü'er's bribe, de
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: An oppressed and virtuous Dou E in "feudal" society (1:07:34–1:12:40). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
@@ -107,7 +107,7 @@ This clip depicts the second version of Dou E. A ghost now, Dou E visits the hum
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 2: The female ghost as an extension of the earthly Dou E's suffering (1:21:40–1:31:29). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
@@ -176,7 +176,7 @@ This clip showcases the successful transformation of Dou E as a socialist revolu
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 3: Successful transformation of Dou E as a socialist revolutionary subject (1:38:11–1:38:45). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
@@ -184,14 +184,14 @@ This clip showcases the successful transformation of Dou E as a socialist revolu
 
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_2.jpg' | relative_url }}" alt="Dou E (performed by Wang Xiulan 王秀蘭) nods and smiles at the camera at the end of the Pu Opera Film. Source: The film on Youtube. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_2.jpg" alt="Dou E (performed by Wang Xiulan 王秀蘭) nods and smiles at the camera at the end of the Pu Opera Film. Source: The film on Youtube. Credit: Screenshot by author.">
   <figcaption><strong>Fig. 2.</strong> Dou E (performed by Wang Xiulan 王秀蘭) nods and smiles at the camera at the end of the Pu Opera Film. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Once the case is corrected by Dou Tianzhang, the end of the film shows a Dou E of a totally different status—no longer her old human self or a ghostly apparition. Dou E appears here in a red shirt, typical female garb of the 1950s, nodding and smiling at the camera. In sharp contrast with the previous Dou E, who constantly suffers and recounts her experiences in a tearful voice, Dou E, at this final stage, demonstrates a positive outlook. Her hair, two neat braids, is not evocative of a traditional woman in a feudal society, rather, it brings to mind a robust modern figure ready to participate in the socialist revolution. Her image resonates with women figures in propaganda posters during the 1950s.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_3.jpg' | relative_url }}" alt="A 1959 poster showing working women. The couplet of slogans reads: 'Study hard to become capable and dexterous,' and 'Revolutionary technologies enable great ambition and talent.' Source: PC-1959-029 (chineseposters.net, Private collection). Credit: chineseposters.net.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_3.jpg" alt="A 1959 poster showing working women. The couplet of slogans reads: 'Study hard to become capable and dexterous,' and 'Revolutionary technologies enable great ambition and talent.' Source: PC-1959-029 (chineseposters.net, Private collection). Credit: chineseposters.net.">
   <figcaption><strong>Fig. 3.</strong> A 1959 poster showing working women. The couplet of slogans reads: "Study hard to become capable and dexterous," and "Revolutionary technologies enable great ambition and talent." Source: PC-1959-029 (chineseposters.net, Private collection). Credit: <a target="_blank" href="https://chineseposters.net/posters/pc-1959-029">chineseposters.net</a>.</figcaption>
 </figure>
 

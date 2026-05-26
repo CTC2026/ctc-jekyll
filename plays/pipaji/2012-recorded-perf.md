@@ -12,7 +12,7 @@ play_title: "The Lute"
 - [A recording of the performance with Chinese subtitles on bilibili.](https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115)
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_1.jpg' | relative_url }}" alt="Liang Guyin 梁谷音 as Zhao Wuniang in the 2012 Shanghai Kunqu Opera Troupe production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_1.jpg" alt="Liang Guyin 梁谷音 as Zhao Wuniang in the 2012 Shanghai Kunqu Opera Troupe production.">
   <figcaption><strong>Fig. 1.</strong> Liang Guyin 梁谷音 as Zhao Wuniang in the 2012 Shanghai Kunqu Opera Troupe production.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Translation notes for clip 1
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -73,7 +73,7 @@ Translation notes for clip 2
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -87,13 +87,13 @@ Translation notes for clip 3
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_2.png' | relative_url }}" alt="Wuniang and Elder Zhang in symmetrical poses during joint singing.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_2.png" alt="Wuniang and Elder Zhang in symmetrical poses during joint singing.">
   <figcaption><strong>Fig. 2.</strong> Wuniang and Elder Zhang in symmetrical poses during joint singing.</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Translation notes for clip 4
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -122,14 +122,14 @@ Translation notes for clip 4
 Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to the capital, Zhao Wuniang comes to mediate the dispute and asks her mother-in-law to mollify her anger. Mother Cai responds, "I am starving so much so that my chest already clings to my back. There couldn't be any air/anger left in me anymore" 我饿得前胸贴后背，还有什么气！Here the humor rests on the double entendre of "qi" 气 as both "air/breath" and "anger." When Mother Cai delivers this line, she claps her hands twice to humorously parallel the situation in her line, "my chest already clings to my back." Her two palms figuratively represent her chest and her back.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_3.jpg' | relative_url }}" alt="Mother Cai clapping her hands to mime &quot;my chest clings to my back.&quot;">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_3.jpg" alt="Mother Cai clapping her hands to mime &quot;my chest clings to my back.&quot;">
   <figcaption><strong>Fig. 3.</strong> Mother Cai clapping her hands to mime "my chest clings to my back."</figcaption>
 </figure>
 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -141,18 +141,18 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_6.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
 </div>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_4.jpg' | relative_url }}" alt="Mother Cai's exaggerated expression of shock and regret.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_4.jpg" alt="Mother Cai's exaggerated expression of shock and regret.">
   <figcaption><strong>Fig. 4.</strong> Mother Cai's exaggerated expression of shock and regret.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_5.jpg' | relative_url }}" alt="Mother Cai using her fist to hit her head.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_5.jpg" alt="Mother Cai using her fist to hit her head.">
   <figcaption><strong>Fig. 5.</strong> Mother Cai using her fist to hit her head.</figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ Mother Cai swallows the husks and chokes to death. The death is shown in a sligh
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_7.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
 </div>

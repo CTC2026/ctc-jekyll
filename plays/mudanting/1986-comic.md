@@ -25,7 +25,7 @@ The publication numbers of *lianhuanhua* 连环画, a type of comics printed in 
 The exquisite Jiangsu Fine Arts Press box set *Chinese Classic Drama Picture Library* 中国古典戏剧画库 was published in 1986, just when *lianhuanhua* was beginning to lose readership to the visual medium of television.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_1.jpg' | relative_url }}" alt="Cover of the 1986 lianhuanhua adaptation of The Peony Pavilion.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_1.jpg" alt="Cover of the 1986 lianhuanhua adaptation of The Peony Pavilion.">
   <figcaption><strong>Fig. 1.</strong> Cover of the 1986 lianhuanhua adaptation of <em>The Peony Pavilion</em>.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ This *Peony Pavilion* adopts an emerging, hybrid visual style grounded in the hi
 When discussing narrative film, literature, and performance, the concept of "interiority" refers to a character's inner thoughts and experiences. The 1986 *Peony Pavilion* comic affords readers access to "interior" emotional landscapes, including dreams, in two ways. It delves into the feelings of its two romantic protagonists in its captions, identifying their thoughts explicitly. It also "exteriorizes" interiorities, representing affective states and dreamscapes visually.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_2.jpg' | relative_url }}" alt="Du Liniang in full body portrait, breaking the fourth wall.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_2.jpg" alt="Du Liniang in full body portrait, breaking the fourth wall.">
   <figcaption><strong>Fig. 2.</strong> Du Liniang in full body portrait, breaking the fourth wall.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ In a striking panel that illustrates Du Liniang's interiority, she appears in a 
 </details>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_3.jpg' | relative_url }}" alt="Du Liniang in her famous dream sequence.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_3.jpg" alt="Du Liniang in her famous dream sequence.">
   <figcaption><strong>Fig. 3.</strong> Du Liniang in her famous dream sequence.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Several panels into the dream, Du Liniang stands pictured to the left of the pan
 </details>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_4.jpg' | relative_url }}" alt="Du Liniang awakens to a realistic interior.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_4.jpg" alt="Du Liniang awakens to a realistic interior.">
   <figcaption><strong>Fig. 4.</strong> Du Liniang awakens to a realistic interior.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Once Du Liniang awakens, the comic reverts to a realistic style that is common i
 </details>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg' | relative_url }}" alt="Du Liniang stands thoughtfully next to the wooden sofa.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg" alt="Du Liniang stands thoughtfully next to the wooden sofa.">
   <figcaption><strong>Fig. 5.</strong> Du Liniang stands thoughtfully next to the wooden sofa.</figcaption>
 </figure>
 
@@ -86,12 +86,12 @@ In the subsequent panel, Du Liniang stands thoughtfully next to the wooden sofa.
 </details>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg' | relative_url }}" alt="Du Liniang stands between her portrait and lattice windows.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg" alt="Du Liniang stands between her portrait and lattice windows.">
   <figcaption><strong>Fig. 6.</strong> Du Liniang stands between her portrait and lattice windows.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_7.jpg' | relative_url }}" alt="Du Liniang on the far left, surrounded by abstracted lattice work.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_7.jpg" alt="Du Liniang on the far left, surrounded by abstracted lattice work.">
   <figcaption><strong>Fig. 7.</strong> Du Liniang on the far left, surrounded by abstracted lattice work.</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ She is featured on the far left of a panel otherwise occupied by abstracted latt
 </details>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_8.jpg' | relative_url }}" alt="Du Liniang clutching a blank wall, surrounded by abstract shapes.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_8.jpg" alt="Du Liniang clutching a blank wall, surrounded by abstract shapes.">
   <figcaption><strong>Fig. 8.</strong> Du Liniang clutching a blank wall, surrounded by abstract shapes.</figcaption>
 </figure>
 

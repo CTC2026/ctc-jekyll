@@ -24,7 +24,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg' | relative_url }}" alt="Zhao Yanxia as Crimson in the 1976 Beijing opera film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg" alt="Zhao Yanxia as Crimson in the 1976 Beijing opera film.">
   <figcaption><strong>Fig. 1.</strong> Zhao Yanxia as Crimson in the 1976 Beijing opera film.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Madam Cui sends Crimson to ask the abbot when the funerary mass for Oriole's fat
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_1.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -60,7 +60,7 @@ Soon after Student Zhang and Oriole's first accidental encounter, Sun Feihu, a b
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_2.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -72,7 +72,7 @@ After Crimson complains about Madam Cui's breach of promise, she feels sympathy 
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_3.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -84,7 +84,7 @@ One night, Crimson and Oriole go to the garden to pray for Madam Cui's health an
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_4.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -96,7 +96,7 @@ In front of Crimson and Student Zhang, Oriole "clarifies" that they are merely b
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_5.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_5.mp4" type="video/mp4">
   </video>
 </div>
 

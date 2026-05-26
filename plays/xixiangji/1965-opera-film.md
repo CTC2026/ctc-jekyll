@@ -23,7 +23,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_1.png' | relative_url }}" alt="Poster of Shaw Brothers' West Chamber (1965).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_1.png" alt="Poster of Shaw Brothers' West Chamber (1965).">
   <figcaption><strong>Fig. 1.</strong> Poster of Shaw Brothers' <em>West Chamber</em> (1965).</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Upon its founding in 1958, Shaw Brothers (Hong Kong) Ltd. constructed the most a
 In 1962, three years prior to the release of West Chamber, in their official publication Southern Screen (Nanguo Dianying 南國電影), Shaw Brothers introduced the in-progress production of a film entitled Hongniang 紅娘 and named after Crimson, the maid prominently featured in the original Western Wing play. However, work on Hongniang was temporarily suspended in late 1962 as the studio devoted resources to the production of another Huangmei opera film, The Love Eterne (Liang Shanbo yu Zhu Yingtai 梁山伯與祝英台). Released in 1963, this film was a huge box office success, quickly turning into an audience favorite in Hong Kong, Taiwan, Singapore, and other Chinese-speaking regions. Ling Po's impressive cross-gender performance as male scholar Liang Shangbo 梁山伯 turned her into a star and earned her the first of many best-actress awards at the Taipei Golden Horse Awards, Taiwan's "Oscars" for Chinese-language cinema.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png' | relative_url }}" alt="Ivy Ling Po (left) as Student Zhang and Li Ching as Hongniang in West Chamber.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png" alt="Ivy Ling Po (left) as Student Zhang and Li Ching as Hongniang in West Chamber.">
   <figcaption><strong>Fig. 2.</strong> Ivy Ling Po (left) as Student Zhang and Li Ching as Hongniang in <em>West Chamber</em>.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ In his examination of how playwright Wang Shifu 王實甫 (fl. second part of th
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_1.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -60,7 +60,7 @@ When Student Zhang first meets Hongniang and Yingying, the audience first hears 
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_2.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -70,7 +70,7 @@ The second example that highlights Hongniang is the famous rearranged scene of "
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_3.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -82,7 +82,7 @@ In the Shaw's West Chamber, Hongniang's characterization was possibly mediated b
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_4.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -92,7 +92,7 @@ Instead of just providing explanations and offering gentle prodding, Hongniang's
 
 <div class="clip-section">
   <video controls>
-    <source src="{{ '/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_5.mp4' | relative_url }}" type="video/mp4">
+    <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_5.mp4" type="video/mp4">
   </video>
 </div>
 

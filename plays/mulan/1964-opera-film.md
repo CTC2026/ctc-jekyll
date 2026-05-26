@@ -8,7 +8,7 @@ play_title: "The Female Mulan Joins the Army"
 ---
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_1.png' | relative_url }}" alt="Ivy Ling Po 凌波 in the title role of Hua Mulan.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_1.png" alt="Ivy Ling Po 凌波 in the title role of Hua Mulan.">
   <figcaption><strong>Fig. 1.</strong> Ivy Ling Po 凌波 in the title role of Hua Mulan.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_1.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -61,7 +61,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_2.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -71,7 +71,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_3.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -81,7 +81,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_4.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -91,7 +91,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
-      <source src="{{ '/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_5.mp4' | relative_url }}" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
 </div>

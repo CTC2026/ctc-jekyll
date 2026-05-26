@@ -20,7 +20,7 @@ play_title: "The Story of the Western Wing"
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_1.jpg' | relative_url }}" alt="Cover of Wang Shuhui's 1958 lianhuanhua of The Western Wing.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_1.jpg" alt="Cover of Wang Shuhui's 1958 lianhuanhua of The Western Wing.">
   <figcaption><strong>Fig. 1.</strong> Cover of Wang Shuhui's 1958 <em>lianhuanhua</em> of <em>The Western Wing</em>.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ In its modern form, lianhuanhua comics emerged from the media mix of Republican 
 In the high socialist period (1949-1978), lianhuanhua served not only as entertaining (and propagandistic) reading material, but also as a tool in various educational campaigns. Its language and mode of narration was relatively simpler than even that of "popular revolutionary novels" and thus provided more widespread access to reading at a moment in which the socialist state worked to reform script, promulgate the vernacular standard, and improve levels of literacy among the masses.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_2.png' | relative_url }}" alt="A panel from the manuscript copy of the lianhuanhua: Yingying reads Student Zhang's letter in her bedchamber.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_2.png" alt="A panel from the manuscript copy of the lianhuanhua: Yingying reads Student Zhang's letter in her bedchamber.">
   <figcaption><strong>Fig. 2.</strong> A panel from the manuscript copy of the lianhuanhua: Yingying reads Student Zhang's letter in her bedchamber.</figcaption>
 </figure>
 
@@ -46,35 +46,35 @@ For our purposes, the 1950s lianhuanhua presents an interesting question about h
 First, Student Zhang and Yingying's initial exchange of poetry is mediated through direct speech, that is, quoted lines, in the accompanying caption narrative (panels 20-25).
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_3.jpg' | relative_url }}" alt="Panels 20-21: Student Zhang goes on tip toes and looks through the lattice window to see Yingying and Hongniang.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_3.jpg" alt="Panels 20-21: Student Zhang goes on tip toes and looks through the lattice window to see Yingying and Hongniang.">
   <figcaption><strong>Fig. 3.</strong> Panels 20-21: Student Zhang goes on tip toes and looks through the lattice window to see Yingying and Hongniang.</figcaption>
 </figure>
 
 In the panels above, Student Zhang is initially alerted to Yingying and Hongniang's presence when he hears the screech of an opening corner door; this prompts him to go up on tip toes and look through the lattice window to the other side of the wall (panel 20).
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg' | relative_url }}" alt="Panels 21-22: Yingying and Hongniang stand next to an incense burner, visible to Student Zhang at the lattice on the far left.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg" alt="Panels 21-22: Yingying and Hongniang stand next to an incense burner, visible to Student Zhang at the lattice on the far left.">
   <figcaption><strong>Fig. 4.</strong> Panels 21-22: Yingying and Hongniang stand next to an incense burner, visible to Student Zhang at the lattice on the far left.</figcaption>
 </figure>
 
 In the next panels (21, 22), Yingying and Hongniang stand next to an incense burner, presumably visible to Student Zhang who is just beyond the wall at the lattice on the far left of the two panels. In direct speech in the caption, Hongniang expresses Yingying's desire for romantic love (which the maiden is reluctant to say out loud). Yingying does, however, express "the sound of a deep sigh" (changtan yisheng 长叹一声), that "exposes a bitterness in her heart that she could not fully express."
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_5.jpg' | relative_url }}" alt="Panel 23: Student Zhang hears the sigh from across the wall and intones a poem.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_5.jpg" alt="Panel 23: Student Zhang hears the sigh from across the wall and intones a poem.">
   <figcaption><strong>Fig. 5.</strong> Panel 23: Student Zhang hears the sigh from across the wall and intones a poem.</figcaption>
 </figure>
 
 This affective transmission is received by the eavesdropping Student Zhang, who hears the sigh from across the wall (panel 23). Rendered as speech offset by a colon within the caption, a poem is intoned by Zhang to catch Yingying's attention. Though the narrative information in the panel describes a sequence of events (hearing, thinking, then speaking), the illustration shows an act of speaking. Student Zhang's mouth is open, turned to the lattice, mid speech. While his eyes look to the side, his mouth is precisely at the level of the lattice that connects to the adjoining garden (and Yingying). He speaks directly through the wall and this window functions like a speech bubble, transmitting his poetic voice.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_6.jpg' | relative_url }}" alt="Panel 24: Yingying listening, her hand raised as if to catch the sound waves emanating from the lattice.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_6.jpg" alt="Panel 24: Yingying listening, her hand raised as if to catch the sound waves emanating from the lattice.">
   <figcaption><strong>Fig. 6.</strong> Panel 24: Yingying listening, her hand raised as if to catch the sound waves emanating from the lattice.</figcaption>
 </figure>
 
 On the other side (panel 24), Yingying can be seen listening, her hand raised just so as if to catch sound waves emanating from the lattice on the left side of the panel (an "ear line" to where Student Zhang is speaking from).
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg' | relative_url }}" alt="Panel 25: Student Zhang hears a door latch open behind him, signaling it's time to leave.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg" alt="Panel 25: Student Zhang hears a door latch open behind him, signaling it's time to leave.">
   <figcaption><strong>Fig. 7.</strong> Panel 25: Student Zhang hears a door latch open behind him, signaling it's time to leave.</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ In the next panel (25), the narration informs readers that Student Zhang is elat
 Second, speech bubbles, familiar from Western comics, are relatively rare in lianhuanhua. Rather than being used for dialogue, they sometimes "voice" text characters read as we see in two poetic exchanges later in this lianhuanhua. In a significant poetic exchange, Student Zhang, desperate to gain Yingying's favor, heeds Hongniang's advice to play the zither for her mistress (panels 69-77). This time, the latticed window and a speech bubble serve to transmit a poetic voice. Specifically, the lyrics convey what the poet Sima Xiangru's 司马相如 (179-118 BCE) sang in the famous zither serenade that reputedly seduced his desired Zhuo Wenjun 卓文君.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_8.jpg' | relative_url }}" alt="Panel 74: Yingying stands next to the wall, intently listening to Student Zhang's song, with a speech bubble below the window.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_8.jpg" alt="Panel 74: Yingying stands next to the wall, intently listening to Student Zhang's song, with a speech bubble below the window.">
   <figcaption><strong>Fig. 8.</strong> Panel 74: Yingying stands next to the wall, intently listening to Student Zhang's song, with a speech bubble below the window.</figcaption>
 </figure>
 
 In panel 74, Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song. Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period.
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_9.jpg' | relative_url }}" alt="Panel 76: Yingying becomes frustrated that she cannot cross the wall and explain her feelings.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_9.jpg" alt="Panel 76: Yingying becomes frustrated that she cannot cross the wall and explain her feelings.">
   <figcaption><strong>Fig. 9.</strong> Panel 76: Yingying becomes frustrated that she cannot cross the wall and explain her feelings.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ In the next panel, Yingying is overcome with emotion upon hearing the poem and b
 ### Speech Bubble as Poetic Voicing
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_10.jpg' | relative_url }}" alt="Manuscript copy (top) and print version (bottom) panel 84: Student Zhang's poetic entreaty appears in a speech bubble next to Yingying's head.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_10.jpg" alt="Manuscript copy (top) and print version (bottom) panel 84: Student Zhang's poetic entreaty appears in a speech bubble next to Yingying's head.">
   <figcaption><strong>Fig. 10.</strong> Manuscript copy (top) and print version (bottom) panel 84: Student Zhang's poetic entreaty appears in a speech bubble next to Yingying's head.</figcaption>
 </figure>
 
@@ -110,12 +110,12 @@ Third, in the manuscript copy of the lianhuanhua, the contents of the note that 
 For one, the text rendered in this bubble is extracted from the text of the play, unlike the narration which is "adapted" from the original but translated into more contemporary and accessible language. Audiences watching a staged version of The Western Wing would hear Student Zhang read this poem, while those reading the play would see it printed in the libretto. The lianhuanhua, by contrast, is relatively circumscribed in its ability to depict either vocal performance or poetic language. The insistence here on visualizing the written poem as speech while Yingying reads compensates for both the medium's silence and its linguistic difference from the play. In this moment, the lianhuanhua momentarily overlaps with the play: not only is this the same language as the Yuan zaju, the written word is likewise rendered "audible."
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg' | relative_url }}" alt="Yingying is overwhelmed with emotion.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg" alt="Yingying is overwhelmed with emotion.">
   <figcaption><strong>Fig. 11.</strong> Yingying is overwhelmed with emotion.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="{{ '/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_12.jpg' | relative_url }}" alt="Yingying's speech bubble frames Student Zhang's poem in the printed version.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_12.jpg" alt="Yingying's speech bubble frames Student Zhang's poem in the printed version.">
   <figcaption><strong>Fig. 12.</strong> Yingying's speech bubble frames Student Zhang's poem in the printed version.</figcaption>
 </figure>
 
