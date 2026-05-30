@@ -61,7 +61,7 @@ footer *:focus-visible,
 /* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   color: var(--text);
   background-color: #f5f0eb;
   background-image: url('../images/flower-bg.png');
@@ -79,6 +79,13 @@ main li a,
 main blockquote a,
 main td a { text-decoration: underline; }
 img { max-width: 100%; height: auto; display: block; }
+
+/* 3.1.2 Language of Parts — CJK typography for Chinese-language pages and sections */
+:lang(zh), :lang(zh-Hans), :lang(zh-Hant) {
+  line-height: 1.8;
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
 
 /* ── Header & Nav ── */
 header {
@@ -277,7 +284,7 @@ main > h1, main > .card-grid, main > p {
 main > h1 { padding-top: 3rem; }
 
 main h1, main h2, main h3 {
-  color: var(--burgundy);
+  color: var(--red);
   margin-bottom: 1rem;
   line-height: 1.2;
 }
@@ -304,7 +311,7 @@ main ul, main ol {
 }
 
 main blockquote {
-  border-left: 4px solid var(--burgundy);
+  border-left: 4px solid var(--red);
   padding-left: 1.2rem;
   color: #595959;
   font-style: italic;
@@ -340,7 +347,7 @@ main blockquote {
 
 .card-body h2, .card-body h3, .card-heading {
   font-size: 1rem;
-  color: var(--burgundy);
+  color: var(--red);
   margin: 0 0 0.4rem;
   font-weight: 700;
 }
@@ -419,7 +426,7 @@ main blockquote {
   width: 100%;
   padding: 0.75rem 1rem;
   font-size: 1rem;
-  border: 2px solid var(--burgundy);
+  border: 2px solid var(--red);
   border-radius: 4px;
   font-family: inherit;
   color: var(--text);
@@ -445,7 +452,7 @@ main blockquote {
 .search-results li a {
   font-size: 1.1rem;
   font-weight: 700;
-  color: var(--burgundy);
+  color: var(--red);
 }
 
 .search-results li p {
@@ -635,17 +642,17 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 .sub-btn {
   padding: 0.25rem 0.8rem;
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  border: 2px solid var(--burgundy);
+  border: 2px solid var(--red);
   border-radius: 2rem;
   background: transparent;
-  color: var(--burgundy);
+  color: var(--red);
   cursor: pointer;
   font-family: inherit;
 }
-.sub-btn:hover { background: var(--burgundy); color: white; }
-.sub-btn.active { background: var(--burgundy); color: white; }
+.sub-btn:hover { background: var(--red); color: white; }
+.sub-btn.active { background: var(--red); color: white; }
 
 .module-info {
   margin: 1.5rem 0 2rem;
@@ -659,7 +666,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   position: relative;
   margin-bottom: 0.3rem;
 }
-.module-info dl > div::before { content: "•"; position: absolute; left: 0; color: var(--burgundy); }
+.module-info dl > div::before { content: "•"; position: absolute; left: 0; color: var(--red); }
 .module-info dt { display: inline; font-weight: 700; color: var(--text); }
 .module-info dt::after { content: ": "; font-weight: 700; }
 .module-info dd { display: inline; margin: 0; padding: 0; }
@@ -671,7 +678,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   text-align: center;
 }
 .module-figure img { width: 100%; border: 1px solid #ddd; }
-.module-figure figcaption { font-size: 0.76rem; color: #595959; margin-top: 0.5rem; line-height: 1.4; text-align: left; }
+.module-figure figcaption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; line-height: 1.6; text-align: left; }
 
 .module-figure-left {
   float: left;
@@ -681,7 +688,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   text-align: center;
 }
 .module-figure-left img { width: 100%; border: 1px solid #ddd; }
-.module-figure-left figcaption { font-size: 0.76rem; color: #595959; margin-top: 0.5rem; padding-bottom: 1rem; line-height: 1.4; text-align: left; }
+.module-figure-left figcaption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; padding-bottom: 1rem; line-height: 1.6; text-align: left; }
 
 .module-figure-right {
   float: right;
@@ -691,7 +698,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   text-align: center;
 }
 .module-figure-right img { width: 100%; border: 1px solid #ddd; }
-.module-figure-right figcaption { font-size: 0.76rem; color: #595959; margin-top: 0.5rem; padding-bottom: 1rem; line-height: 1.4; text-align: left; }
+.module-figure-right figcaption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; padding-bottom: 1rem; line-height: 1.6; text-align: left; }
 
 .clearfix::after { content: ""; display: table; clear: both; }
 
@@ -702,7 +709,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   border-radius: 4px;
 }
 .module-audio audio { width: 100%; margin-bottom: 0.4rem; }
-.module-audio p { font-size: 0.78rem; color: #595959; margin: 0; line-height: 1.4; }
+.module-audio p { font-size: 0.8rem; color: #595959; margin: 0; line-height: 1.6; }
 
 .clip-section {
   clear: both;
@@ -711,7 +718,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   border-left: 4px solid var(--gold);
   background: rgba(250, 197, 63, 0.05);
 }
-.clip-section h3 { font-size: 1rem; color: var(--burgundy); margin-top: 0; margin-bottom: 0.75rem; }
+.clip-section h3 { font-size: 1rem; color: var(--red); margin-top: 0; margin-bottom: 0.75rem; }
 .clip-section .clip-desc { margin-bottom: 1rem; font-size: 0.9rem; }
 
 details.translation {
@@ -725,7 +732,7 @@ details.translation summary {
   font-weight: 700;
   font-size: 0.8rem;
   cursor: pointer;
-  background: var(--burgundy);
+  background: var(--red);
   color: white;
   list-style: none;
   user-select: none;
@@ -733,15 +740,15 @@ details.translation summary {
 details.translation summary::-webkit-details-marker { display: none; }
 details.translation summary::before { content: '▶  '; font-size: 0.7em; }
 details.translation[open] summary::before { content: '▼  '; }
-.trans-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
-.trans-table th { background: #f0ebe4; padding: 0.5rem; text-align: left; font-weight: 700; color: var(--burgundy); border-bottom: 2px solid var(--burgundy); }
-.trans-table td { padding: 0.45rem 0.6rem; vertical-align: top; border-bottom: 1px solid #eee; line-height: 1.5; }
-.trans-table td:first-child { width: 50%; border-right: 1px solid #ddd; }
-.trans-table tr:last-child td { border-bottom: none; }
+.trans-table, .transcript { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+.trans-table th, .transcript th { background: #f0ebe4; padding: 0.5rem; text-align: left; font-weight: 700; color: var(--red); border-bottom: 2px solid var(--red); }
+.trans-table td, .transcript td { padding: 0.45rem 0.6rem; vertical-align: top; border-bottom: 1px solid #eee; line-height: 1.65; }
+.trans-table td:first-child, .transcript td:first-child { width: 50%; border-right: 1px solid #ddd; }
+.trans-table tr:last-child td, .transcript tr:last-child td { border-bottom: none; }
 
 details.works-consulted { margin-top: 2.5rem; border-top: 2px solid var(--red); padding-top: 1rem; }
 details.works-consulted summary {
-  font-size: 1rem; font-weight: 700; color: var(--burgundy);
+  font-size: 1rem; font-weight: 700; color: var(--red);
   cursor: pointer; list-style: none; padding: 0.3rem 0; user-select: none;
 }
 details.works-consulted summary::-webkit-details-marker { display: none; }
@@ -774,10 +781,10 @@ details.works-consulted p { font-size: 0.85rem; margin-bottom: 0.6rem; }
   margin: 0 auto;
 }
 .qr-grid figure figcaption {
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   color: #595959;
   margin-top: 0.4rem;
-  line-height: 1.3;
+  line-height: 1.5;
 }
 
 /* Images embedded in page content (project team photos, book covers) */
