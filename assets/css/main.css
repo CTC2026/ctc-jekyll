@@ -609,6 +609,20 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   background: rgba(178, 8, 57, 0.07);
 }
 
+.sidebar-children {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0.2rem;
+  padding-left: 0.75rem;
+}
+
+.ctc-sidebar .sidebar-children li a {
+  font-size: 0.7rem;
+  font-weight: 400;
+  padding: 0.25rem 0.75rem;
+  border-left-width: 2px;
+}
+
 .ctc-sidebar-main {
   flex: 1;
   min-width: 0;
@@ -780,6 +794,9 @@ details.works-consulted summary {
 details.works-consulted summary::-webkit-details-marker { display: none; }
 details.works-consulted summary::before { content: '▶  '; font-size: 0.7em; }
 details.works-consulted[open] summary::before { content: '▼  '; }
+details.translation summary:focus-visible,
+details.works-consulted summary:focus-visible { outline: 3px solid #000; outline-offset: 2px; }
+
 details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
 details.works-consulted li { font-size: 0.85rem; margin-bottom: 0.6rem; line-height: 1.55; }
 

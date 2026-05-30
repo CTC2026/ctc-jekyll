@@ -75,7 +75,7 @@ Dou E, wronged by Tao Wu, the corrupt official who took Zhang Lü'er's bribe, de
 <details class="translation">
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
-<thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
 <tr><td lang="zh">监斩官：呔、窦娥！小小女子將人藥死，今日死在頭上，我問你悔也不悔？</td><td>Execution Overseer: Damn it, Dou E! Such an insignificant woman poisoned someone to death. You will die for it today. I ask you, do you regret it or not?</td></tr>
 <tr><td lang="zh">窦娥：大人，小女子今日一死，質得天地，問得鬼神。臨死之前還有三樁誓願。</td><td>Dou E: Your Honor, may heaven and earth and the spirits answer for my [unjust] death. Before I die, I have three requests.</td></tr>
@@ -116,7 +116,7 @@ This clip depicts the second version of Dou E. A ghost now, Dou E visits the hum
 <details class="translation">
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
-<thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
 <tr><td lang="zh">[Dou E's ghost enters Dou Tianzhang's study. The fabric of her costume is see-through to show her ghostly identity]</td><td></td></tr>
 <tr><td lang="zh">窦娥：叩見爹爹。</td><td>Dou E: I kneel down to greet you, my father.</td></tr>

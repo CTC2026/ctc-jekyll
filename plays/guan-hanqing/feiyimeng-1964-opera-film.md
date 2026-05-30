@@ -113,7 +113,7 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
 <details class="translation">
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
-<thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
 <tr><td lang="zh">林肇德：夜沉沉，月朦朧，鳥雀歸巢人未眠。</td><td>Lin Zhaode: The night is deep and still, the moon is hazy, birds have returned to their nests but people cannot sleep.</td></tr>
 <tr><td lang="zh">王千金：花草搖，樹影晃，陣陣清風送爽來。</td><td>Wang Qianjin: Flowers and grasses sway, tree shadows tremble, wave after wave of cool breeze arrives to refresh.</td></tr>
@@ -150,7 +150,7 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 <details class="translation">
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
-<thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
 <tr><td lang="zh">女鬼：張培贊！你認識我嗎？</td><td>Female Ghost: Zhang Peisan! Do you recognize me?</td></tr>
 <tr><td lang="zh">張培贊：你，你是誰？</td><td>Zhang Peisan: You — who are you?</td></tr>
@@ -193,7 +193,7 @@ The final scene of exposure and denouement brings together all the threads of th
 <details class="translation">
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
-<thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
 <tr><td lang="zh">張培贊：是，小人那天遛馬回來，見雪春獨自一人在郊外，便起了歹念……</td><td>Zhang Peisan: Yes — that day I was returning from exercising my horse when I saw Xuechun alone in the outskirts, and I was seized by an evil impulse…</td></tr>
 <tr><td lang="zh">官員：然後呢？</td><td>Official: And then?</td></tr>
