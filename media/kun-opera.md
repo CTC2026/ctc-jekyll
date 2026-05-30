@@ -7,7 +7,7 @@ permalink: /media/kun-opera/
 *By Zhe Cheng*
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_1.jpeg' | relative_url }}" alt="Kun Opera performers on stage in elaborate traditional costumes">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_1.jpeg" alt="Kun Opera performers on stage in elaborate traditional costumes">
 </figure>
 
 ## Part 1: The Revival of Kun Opera in 21st Century China
@@ -29,7 +29,7 @@ A good case in point is *The Peony Pavilion: The Youth Edition* in 2004. The ada
 The convenor and producer of *The Peony Pavilion: The Youth Edition* is Bai Xianyong (Pai Hsien-yung <span lang="zh">白先勇</span>, b.1937), a Taiwanese writer and emeritus professor of Chinese literature at the University of California, Santa Barbara. Bai is also an aficionado of Chinese theatre. He initiated the project to make a modern adaptation of *The Peony Pavilion*.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_2.jpg' | relative_url }}" alt="Bai Xianyong at the 20th-anniversary tour of The Peony Pavilion: The Youth Edition">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_2.jpg" alt="Bai Xianyong at the 20th-anniversary tour of The Peony Pavilion: The Youth Edition">
   <figcaption>Fig. 2: Bai Xianyong at the 20th-anniversary tour of <em>The Peony Pavilion: The Youth Edition</em>. Credit: Photo by Xu Peihong.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Compared to classical works, newly created Kun Opera represents a broader and mo
 One of the most distinctive features of new Kun Opera is that it is no longer confined to imperial Chinese settings. Because these works are not based on pre-existing stories, they are free to explore modern or even contemporary time periods. For instance, *Qu Qiubai* <span lang="zh">瞿秋白</span> (2023) produced by the Jiangsu Province Kun Opera Troupe is set in 1935. The protagonist Qu Qiubai is one of the early leaders of the Chinese Communist Party and the show is about his last days in prison. Another work by the same troupe, *Love the City Wuhan* (Juan jiangcheng <span lang="zh">眷江城</span>) (2020), tells a story set in a Wuhan hospital during the early stages of the Covid-19 pandemic. In such productions, the historical setting shifts to modern times, and the costumes change accordingly — military uniforms, lab coats, and hospital gowns replace traditional robes. Yet the performance methods remain rooted in classical Kun Opera aesthetics, resulting in visual and stylistic contrasts that challenge audience expectations.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_3.jpg' | relative_url }}" alt="A still from Qu Qiubai. The male character Qu Qiubai is portrayed by Shi Xiaming, and the female character Yang Zhihua is portrayed by Xu Sijia">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_3.jpg" alt="A still from Qu Qiubai. The male character Qu Qiubai is portrayed by Shi Xiaming, and the female character Yang Zhihua is portrayed by Xu Sijia">
   <figcaption>Fig. 3: A still from <em>Qu Qiubai</em> <span lang="zh">瞿秋白</span>. The male character, Qu Qiubai, is portrayed by Shi Xiaming <span lang="zh">施夏明</span>, and the female character, Yang Zhihua <span lang="zh">杨之华</span>, is portrayed by Xu Sijia <span lang="zh">徐思佳</span>.</figcaption>
 </figure>
 
@@ -111,19 +111,19 @@ The combination of theatre and tea house is not a new invention in Chinese perfo
 Later, the location of these performances shifted from restaurants to tea houses, which focused more exclusively on theatrical enjoyment. Food and alcohol were no longer central; instead, tea and light snacks were served. Unlike restaurant performances, tea house performances had set programs posted in advance. Patrons could check the schedule and attend a tea house on the day of a show that interested them. Tickets were not typically sold — instead, guests were charged for tea and refreshments. However, good seating often required advance reservations.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_4.jpg' | relative_url }}" alt="View from the surrounding corridor at the Nanjing Museum tea house theatre, where a man is taking a picture of the show">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_4.jpg" alt="View from the surrounding corridor at the Nanjing Museum tea house theatre, where a man is taking a picture of the show">
   <figcaption>Fig. 4: View from the surrounding corridor, where visitors stand to watch the performance. Credit: Photo by the author.</figcaption>
 </figure>
 
 This is exactly how the tea house theatre at the Nanjing Museum operates today. Any museum visitor can stop by and watch the performance from the outer corridor free of charge. But for those who wish to sit and enjoy the show more comfortably, there are two options. One can order tea and snacks from the menu and be seated on the ground floor, close to the stage. Alternatively, for 200 yuan (about $30), visitors can book a private second-floor room, which includes premium seating, tea, snacks, and fresh fruit. The second-floor seats offer a better view and a quieter environment. All the seating is available on a first-come, first-served basis.
 
 <figure class="module-figure-left">
-  <img src="{{ '/assets/media/OperaType_Kun_5.jpg' | relative_url }}" alt="Full view of the audience seating area at the tea house theatre in the Nanjing Museum, with paying guests on the ground floor and museum visitors in the surrounding corridor">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_5.jpg" alt="Full view of the audience seating area at the tea house theatre in the Nanjing Museum, with paying guests on the ground floor and museum visitors in the surrounding corridor">
   <figcaption>Fig. 5: Full view of the audience seating area at the tea house theatre in the Nanjing Museum. Credit: Photo by the author.</figcaption>
 </figure>
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_6.png' | relative_url }}" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
   <figcaption>Fig. 6: View of the performance from a second-floor room at the tea house theatre. The bottom left shows a screen displaying bilingual Chinese–English subtitles. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ For a long time, young adults typically considered Chinese traditional theatre a
 As noted above, *The Peony Pavilion: The Youth Edition* was created with the explicit goal of attracting young audiences — those more accustomed to Hollywood blockbusters, Hong Kong cinema, or Korean dramas — to the world of traditional Chinese theatre. The production team cast two exceptionally attractive young performers, designed lavish sets and costumes, and adjusted the narrative pacing to align with contemporary viewing habits and expectations. This strategy proved highly successful, opening up the Kun Opera market to younger generations.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_7.jpg' | relative_url }}" alt="Two audience members dressed in their own traditional Chinese clothing pose for a photo in front of a digital poster at the theatre hall">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two audience members dressed in their own traditional Chinese clothing pose for a photo in front of a digital poster at the theatre hall">
   <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (Changshengdian <span lang="zh">长生殿</span>). Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ Meanwhile, encouraged by the Youth Edition's success, other troupes adopted simi
 Alongside these productions, a new generation of Kun Opera performers, many still in their early twenties, emerged as rising stars. Over the past decade, with the rise of these young performers, fan communities have grown significantly. The internet has played a very important role in this development: many fan circles exist primarily online, through WeChat and QQ chat groups, Tieba (<span lang="zh">贴吧</span>, a BBS-like forum), and social media platforms such as Weibo (<span lang="zh">微博</span>, similar to Twitter/X). Fans share reviews of performances, post photos of performances they have seen, and exchange anecdotes about performers. Offline fan communities also exist, including the Kun Opera Study Societies that will be introduced below. Among these fans, young people, especially university students, make up a significant proportion, though there are also some middle-aged enthusiasts. In the past five years, China's musical theatre market has also seen a surge among younger generations. These two subcultural communities began to influence each other, forming a very vibrant and stable audience group.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_8.jpg' | relative_url }}" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
   <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theatre. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ A typical session starts with a review of the aria learned the previous week, su
 If someone in the group plays the bamboo flute, the primary accompanying instrument in Kun Opera, instrumental support is added in the later stages to help singers refine their pitch and rhythm. To keep sessions lively, teachers often share anecdotes and backstage stories, especially if they are former professionals. These stories may include their own training experiences with their mentors. It's worth noting that Kun Opera acting is less commonly taught in these groups, likely due to space constraints and the physical demands on the instructors.
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/OperaType_Kun_9.jpg' | relative_url }}" alt="A session of a Kun Opera study society at Nanjing University. The instructor in a floral shirt is at center, with student members around them. Two participants are playing the bamboo flute">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="A session of a Kun Opera study society at Nanjing University. The instructor in a floral shirt is at center, with student members around them. Two participants are playing the bamboo flute">
   <figcaption>Fig. 9: A session of a Kun Opera study society at Nanjing University. The person in the floral shirt at the center is the instructor, while the others are student members. Two participants are playing the bamboo flute. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -208,35 +208,35 @@ All eight Kun Opera houses hold regular performances (usually on weekends) and p
 
 <div class="qr-grid">
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_10.jpg' | relative_url }}" alt="QR Code for Jiangsu Province Performing Arts Group Kun Opera Division WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_10.jpg" alt="QR Code for Jiangsu Province Performing Arts Group Kun Opera Division WeChat account">
   <figcaption>Fig. 10: Jiangsu Province Performing Arts Group Kun Opera Division</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_11.jpg' | relative_url }}" alt="QR Code for Jiangsu Province Suzhou Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_11.jpg" alt="QR Code for Jiangsu Province Suzhou Kun Opera House WeChat account">
   <figcaption>Fig. 11: Jiangsu Province Suzhou Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_12.jpg' | relative_url }}" alt="QR Code for Kunshan Contemporary Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_12.jpg" alt="QR Code for Kunshan Contemporary Kun Opera House WeChat account">
   <figcaption>Fig. 12: Kunshan Contemporary Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_13.jpg' | relative_url }}" alt="QR Code for Shanghai Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_13.jpg" alt="QR Code for Shanghai Kun Opera House WeChat account">
   <figcaption>Fig. 13: Shanghai Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_14.jpg' | relative_url }}" alt="QR Code for Zhejiang Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_14.jpg" alt="QR Code for Zhejiang Kun Opera House WeChat account">
   <figcaption>Fig. 14: Zhejiang Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_15.jpg' | relative_url }}" alt="QR Code for Zhejiang Yongjia Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_15.jpg" alt="QR Code for Zhejiang Yongjia Kun Opera House WeChat account">
   <figcaption>Fig. 15: Zhejiang Yongjia Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_16.jpg' | relative_url }}" alt="QR Code for Hunan Province Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_16.jpg" alt="QR Code for Hunan Province Kun Opera House WeChat account">
   <figcaption>Fig. 16: Hunan Province Kun Opera House</figcaption>
 </figure>
 <figure>
-  <img src="{{ '/assets/media/OperaType_Kun_17.jpg' | relative_url }}" alt="QR Code for Northern Kun Opera House WeChat account">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_17.jpg" alt="QR Code for Northern Kun Opera House WeChat account">
   <figcaption>Fig. 17: Northern Kun Opera House</figcaption>
 </figure>
 </div>

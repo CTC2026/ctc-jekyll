@@ -5,7 +5,7 @@ permalink: /media/television/
 ---
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/MediaType_TV_1.png' | relative_url }}" alt="Television">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_TV_1.png" alt="Television">
 </figure>
 
 China's first television drama, *One Piece of Cake* <span lang="zh">一口菜饼子</span>, was broadcast on June 15th, 1958, just months after Chinese television first went on the air, but it reached small audiences because television sets were expensive commodities that only elites had access to. Unlike Chinese film, whose origin story is tied closely to traditional Chinese drama performance, *One Piece of Cake* was not an adaptation of traditional Chinese theater. However, early television programming did resemble theatrical performance. Although audiences were not in the same place as the stage, direct broadcast television (1958–66) preserved the "live" element of watching a theater because the drama was broadcast as it was being performed. Celluloid film was sometimes used to supplement broadcasts, but the prohibitive cost of film limited its use in early TV production. Early television's theatrical element was attenuated when video recording equipment that allowed post-production editing went into use in 1967. The first drama series to be shot entirely on location, however, was not made till 1978 because television production was severely curtailed during the intervening years of the Cultural Revolution (1966–1976).

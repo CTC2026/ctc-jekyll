@@ -6,21 +6,21 @@ permalink: /about/project-team/
 
 In its current phase, this project is primarily a collaboration between faculty, graduate students, and staff affiliated with four units at The Ohio State University (OSU), namely, the [Department of East Asian Languages and Literature (DEALL)](https://deall.osu.edu/), the [Department of Design](https://design.osu.edu/), the [Advanced Computing Center for the Arts and Design (ACCAD)](https://accad.osu.edu/) and the [University Libraries](https://library.osu.edu/). We have begun to expand beyond OSU and hope to grow the roster of our contributors from around the world.
 
-![Patricia Sieber, Founding Editor]({{ '/assets/about/PatC_FoundingEditorGraphic.png' | relative_url }})
+![Patricia Sieber, Founding Editor](https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/PatC_FoundingEditorGraphic.png)
 
 The idea for the project was originally developed by Prof. Patricia Sieber (DEALL, The Ohio State University), the lead editor of *How To Read Chinese Drama: A Guided Anthology* (Columbia University Press, 2022) and co-editor of *How To Read Chinese Drama in Chinese: A Language Companion* (Columbia University Press, 2023) in conversations with Zong-qi Cai (University of Illinois, Urbana-Champaign and Lingnan University), Regina Llamas (IE University, Spain), Leigh Bonds (The Ohio State University Libraries), Maria Scheid (The Ohio State University Libraries), and Marjorie Chan (DEALL, The Ohio State University).
 
-![Content Editors]({{ '/assets/about/ContentEditors_Graphic_AboutPage.png' | relative_url }})
+![Content Editors](https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/ContentEditors_Graphic_AboutPage.png)
 
 For content generation, the current project leads are Prof. [Patricia Sieber](https://deall.osu.edu/people/sieber.6) (DEALL, The Ohio State University) and Dr. [Julia Keblinska](https://easc.osu.edu/people/keblinska.1) (East Asian Studies Center, The Ohio State University). They have complementary expertise. Dr. Keblinska specializes in modern film and media studies, whereas Dr. Sieber has written on the print culture and canon formation surrounding Yuan-dynasty song-drama and song culture.
 
-![Digital Humanities Team]({{ '/assets/about/Dh_Team32.png' | relative_url }})
+![Digital Humanities Team](https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/Dh_Team32.png)
 
 For the Digital Humanities aspect of the project, the project has benefited from the expertise of Prof. Leigh Bonds (The Ohio State University Libraries). For the site development, the team led by Prof. Maria Palazzi (Department of Design, The Ohio State University) with the assistance of Taylor Olsen (MFA, Department of Design), Emma Peters (BS student, Department of Design), and preliminary visual concepts by Gabriela Miniello (MFA student, Department of Design).
 
 In keeping with the interdisciplinary nature of Chinese theater and its multi-media afterlives, CTC is advised by an interdisciplinary group of scholars from around the world.
 
-![Editorial Board]({{ '/assets/about/EditorialBoard_AboutPage.png' | relative_url }})
+![Editorial Board](https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/EditorialBoard_AboutPage.png)
 
 ## Members (in alphabetical order)
 
@@ -35,7 +35,7 @@ In keeping with the interdisciplinary nature of Chinese theater and its multi-me
 - [Josh Stenberg](https://www.sydney.edu.au/arts/about/our-people/academic-staff/josh-stenberg.html) — Literature, Theater, and Translation Studies, University of Sydney, Australia
 - [Gillian Zhang](https://deall.osu.edu/) — History of Art, Boston Museum of Fine Arts, USA
 
-![Editorial Associate]({{ '/assets/about/EditorialAssociate_AboutPage.png' | relative_url }})
+![Editorial Associate](https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/EditorialAssociate_AboutPage.png)
 
 Li Zhao (PhD student, DEALL) has been the editorial associate responsible for uploads and layout within Scalar, for module research, and for select content generation (2022–present). In the initial stages of the project, Dr. Gillian Zhang (then OSU Art History PhD student, now Boston Museum of Fine Arts) assisted with site conception and content development (2021).
 

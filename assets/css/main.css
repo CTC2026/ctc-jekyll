@@ -64,7 +64,7 @@ body {
   font-family: 'Lato', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   color: var(--text);
   background-color: #f5f0eb;
-  background-image: url('../images/flower-bg.png');
+  background-image: url('https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/images/flower-bg.png');
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -582,7 +582,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   padding: 0;
   margin: 0;
   display: block;
-  border-top: 3px solid var(--red);
   padding-top: 0.5rem;
 }
 

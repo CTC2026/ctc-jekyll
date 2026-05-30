@@ -5,7 +5,7 @@ permalink: /media/recorded-performances/
 ---
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/MediaType_RecordedPerf_1.png' | relative_url }}" alt="Recordings of Live Performances">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_RecordedPerf_1.png" alt="Recordings of Live Performances">
 </figure>
 
 We feature recordings of live performances of traditional Chinese theater (also known as "Chinese Opera"). In this scenario, the live performance takes place in a designated theatrical space with a live audience. The liveness of the performance is an important facet of the theatrical communication. The recording of the performance is often an ancillary aspect of the production.

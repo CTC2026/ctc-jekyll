@@ -5,7 +5,7 @@ permalink: /media/opera-film/
 ---
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/Mediatype_OperaFilm_1.jpeg' | relative_url }}" alt="Opera Film">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/Mediatype_OperaFilm_1.jpeg" alt="Opera Film">
 </figure>
 
 Opera film (xiqu pian <span lang="zh">戲曲片</span>) was a very important genre of Chinese filmmaking in the PRC, in Hong Kong, Taiwan, and Singapore in the 1950s into the 1970s. The first major color film in the PRC was an opera film (*Liang Shanbo and Zhu Yingtai* <span lang="zh">梁山伯與祝英臺</span>, 1953). Hundreds of such films were made during those decades. In some regards, this genre paved the way for the eventual rise of the martial arts/Kung fu action film that found audiences around the world.

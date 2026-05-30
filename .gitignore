@@ -11,17 +11,13 @@ vendor/
 *.avi
 *.webm
 
-# Images and PDFs in play modules (host on CDN)
-assets/plays/**/*.jpg
-assets/plays/**/*.jpeg
-assets/plays/**/*.png
-assets/plays/**/*.gif
-assets/plays/**/*.webp
-assets/plays/**/*.pdf
-
-# Large background images only (2MB+)
-assets/images/CTC_HomeBG.png
-assets/images/CTC_StaticBG.png
+# All images served from Cloudflare R2
+assets/**/*.jpg
+assets/**/*.jpeg
+assets/**/*.png
+assets/**/*.gif
+assets/**/*.webp
+assets/**/*.pdf
 
 # Source Word documents (not needed for Jekyll)
 *.docx

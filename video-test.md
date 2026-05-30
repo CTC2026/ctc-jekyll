@@ -13,8 +13,8 @@ permalink: /video-test/
   <div class="video-wrap">
     <video id="test-video" controls crossorigin="anonymous">
       <source src="REPLACE_WITH_R2_URL/jimeng-test.mp4" type="video/mp4">
-      <track id="track-zh" kind="subtitles" srclang="zh" label="中文" src="{{ '/assets/subtitles/test-zh.vtt' | relative_url }}">
-      <track id="track-en" kind="subtitles" srclang="en" label="English" src="{{ '/assets/subtitles/test-en.vtt' | relative_url }}">
+      <track id="track-zh" kind="subtitles" srclang="zh" label="中文" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/test-zh.vtt">
+      <track id="track-en" kind="subtitles" srclang="en" label="English" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/test-en.vtt">
       Your browser does not support HTML5 video.
     </video>
   </div>

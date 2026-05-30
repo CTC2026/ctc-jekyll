@@ -98,8 +98,8 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
   <div class="video-wrap">
     <video id="clip2" controls crossorigin="anonymous">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_2.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="{{ '/assets/subtitles/feiyimeng-clip2-zh.vtt' | relative_url }}">
-      <track kind="subtitles" srclang="en" label="English" src="{{ '/assets/subtitles/feiyimeng-clip2-en.vtt' | relative_url }}">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip2-zh.vtt">
+      <track kind="subtitles" srclang="en" label="English" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip2-en.vtt">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
@@ -135,8 +135,8 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
   <div class="video-wrap">
     <video id="clip3" controls crossorigin="anonymous">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_3.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="{{ '/assets/subtitles/feiyimeng-clip3-zh.vtt' | relative_url }}">
-      <track kind="subtitles" srclang="en" label="English" src="{{ '/assets/subtitles/feiyimeng-clip3-en.vtt' | relative_url }}">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip3-zh.vtt">
+      <track kind="subtitles" srclang="en" label="English" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip3-en.vtt">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
@@ -176,9 +176,9 @@ The final scene of exposure and denouement brings together all the threads of th
   <div class="video-wrap">
     <video id="clip4" controls crossorigin="anonymous">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_4.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="{{ '/assets/subtitles/feiyimeng-clip4-zh.vtt?v=3' | relative_url }}" default>
-      <track kind="subtitles" srclang="en" label="English" src="{{ '/assets/subtitles/feiyimeng-clip4-en.vtt?v=3' | relative_url }}">
-      <track kind="descriptions" label="Audio Description" src="{{ '/assets/subtitles/feiyimeng-clip4-audiodesc.vtt?v=3' | relative_url }}">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip4-zh.vtt?v=3" default>
+      <track kind="subtitles" srclang="en" label="English" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip4-en.vtt?v=3">
+      <track kind="descriptions" label="Audio Description" src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/subtitles/feiyimeng-clip4-audiodesc.vtt?v=3">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">

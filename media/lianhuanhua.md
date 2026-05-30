@@ -5,7 +5,7 @@ permalink: /media/lianhuanhua/
 ---
 
 <figure class="module-figure-right">
-  <img src="{{ '/assets/media/MediaType_Comic_1.jpg' | relative_url }}" alt="Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. The Peony Pavilion. Jiangsu Fine Arts Press, 1986.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Comic_1.jpg" alt="Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. The Peony Pavilion. Jiangsu Fine Arts Press, 1986.">
   <figcaption>Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. <em>The Peony Pavilion</em>. Jiangsu Fine Arts Press, 1986. Credit: Scan by CTC Project Team; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
