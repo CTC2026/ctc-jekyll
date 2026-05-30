@@ -1,10 +1,11 @@
 ---
 layout: play
 title: "Hua Mulan 花木蘭 (1956)"
-heading: "Hua Mulan 花木蘭 (1956)"
+heading: 'Hua Mulan <span lang="zh">花木蘭</span> (1956)'
 permalink: /plays/mulan/1956-opera-film/
 play_id: mulan
 play_title: "The Female Mulan Joins the Army"
+banner_image: /assets/images/Mulan_ResourceBanner.png
 ---
 
 ## Links to the Film
@@ -14,12 +15,12 @@ play_title: "The Female Mulan Joins the Army"
 
 <div class="module-info">
 <dl>
-<div><dt>Name</dt><dd>Hua Mulan 花木蘭</dd></div>
+<div><dt>Name</dt><dd>Hua Mulan <span lang="zh">花木蘭</span></dd></div>
 <div><dt>Year</dt><dd>1956</dd></div>
-<div><dt>Director</dt><dd>Liu Guoquan 劉國權, Zhang Xinshi 張辛實</dd></div>
-<div><dt>Producer</dt><dd>Changchun Film Studio (Changchun dianying zhipian chang 長春電影製片廠)</dd></div>
-<div><dt>Actors</dt><dd>Chang Xiangyu 常香玉</dd></div>
-<div><dt>Music</dt><dd>Lou Zhanghou 婁彰後</dd></div>
+<div><dt>Director</dt><dd>Liu Guoquan <span lang="zh">劉國權</span>, Zhang Xinshi <span lang="zh">張辛實</span></dd></div>
+<div><dt>Producer</dt><dd>Changchun Film Studio (Changchun dianying zhipian chang <span lang="zh">長春電影製片廠</span>)</dd></div>
+<div><dt>Actors</dt><dd>Chang Xiangyu <span lang="zh">常香玉</span></dd></div>
+<div><dt>Music</dt><dd>Lou Zhanghou <span lang="zh">婁彰後</span></dd></div>
 <div><dt>Language</dt><dd>Chinese Mandarin</dd></div>
 <div><dt>Duration</dt><dd>100 minutes</dd></div>
 </dl>
@@ -29,10 +30,10 @@ play_title: "The Female Mulan Joins the Army"
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="Chang Xiangyu 常香玉 in the role of Hua Mulan.">
-  <figcaption><strong>Fig. 1.</strong> Chang Xiangyu 常香玉 in the role of Hua Mulan.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Chang Xiangyu <span lang="zh">常香玉</span> in the role of Hua Mulan.</figcaption>
 </figure>
 
-The main actress Chang Xiangyu 常香玉 (1923-2004) was a famous Yu opera (豫, Henan clapper opera) performer. In 1950, the Korean War (1950-1953) war broke out between North and South Korea to gain control over the Korean peninsula. The two sides were backed by the PR China and the US respectively. Starting in 1951, Chang Xiangyu performed renditions of Hua Mulan in her distinctive style of Henan clapper opera to support Chinese war efforts. The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang 陳憲章 (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio 長春電影製片廠 adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
+The main actress Chang Xiangyu <span lang="zh">常香玉</span> (1923-2004) was a famous Yu opera (<span lang="zh">豫</span>, Henan clapper opera) performer. In 1950, the Korean War (1950-1953) war broke out between North and South Korea to gain control over the Korean peninsula. The two sides were backed by the PR China and the US respectively. Starting in 1951, Chang Xiangyu performed renditions of Hua Mulan in her distinctive style of Henan clapper opera to support Chinese war efforts. The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang <span lang="zh">陳憲章</span> (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio <span lang="zh">長春電影製片廠</span> adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_2.png" alt="A scene from the 1956 Yu opera film.">
@@ -41,11 +42,11 @@ The main actress Chang Xiangyu 常香玉 (1923-2004) was a famous Yu opera (豫,
 
 ## Plot Summary
 
-During the Northern and Southern Dynasties, steppe people invade the territory of the Northern Wei Dynasty. Hua Hu 花弧, Mulan's father, is ordered to enlist in the army. Mindful of Hua Hu's old age and his poor health, Mulan decides to disguise herself as a man and join the army under her younger brother's name (Hua Muli 花木力) as a substitute for her father.
+During the Northern and Southern Dynasties, steppe people invade the territory of the Northern Wei Dynasty. Hua Hu <span lang="zh">花弧</span>, Mulan's father, is ordered to enlist in the army. Mindful of Hua Hu's old age and his poor health, Mulan decides to disguise herself as a man and join the army under her younger brother's name (Hua Muli <span lang="zh">花木力</span>) as a substitute for her father.
 
-On the way to the battlefield, Hua Mulan meets four friends who have also been called up to serve as recruits. Among them, a man named Liu Dage 劉大哥 asks why it is that women can stay at home and be at leisure while the men are fighting to defend their country. Mulan answers that the clothes and shoes that they wear all derive from women's handiwork.
+On the way to the battlefield, Hua Mulan meets four friends who have also been called up to serve as recruits. Among them, a man named Liu Dage <span lang="zh">劉大哥</span> asks why it is that women can stay at home and be at leisure while the men are fighting to defend their country. Mulan answers that the clothes and shoes that they wear all derive from women's handiwork.
 
-Shortly thereafter, they come upon the battle between the Northern Wei army and its enemies. Thanks to her skillful use of the spear, Mulan rescues Marshal He 賀元帥 and gains his support. Twelve years later, Hua Mulan is promoted to the position of a general on account of her outstanding military contributions. She plays a key role in apprehending the leader of the enemy army and eventually brings the war to an end. In appreciation of Mulan's martial talents, Marshal He seeks to arrange a marriage between Mulan and his own daughter. Mulan promises to secure the consent of her parents and asks for a fast horse for her return home. When Marshal He visits the Hua family to formally present his marriage proposal, he asks to meet "Hua Muli", the name under which Hua Mulan had performed her military service. To He's dismay, a teenage boy – Mulan's younger brother, the real owner of this name – appears in response to his request. Marshal He is annoyed and asks why Hua Hu is fooling him. Left with no other choice, Hua Hu calls for Mulan. Dressed in female clothing, Mulan addresses Marshal He in a male's voice. At that point, they piece together the whole story.
+Shortly thereafter, they come upon the battle between the Northern Wei army and its enemies. Thanks to her skillful use of the spear, Mulan rescues Marshal He <span lang="zh">賀元帥</span> and gains his support. Twelve years later, Hua Mulan is promoted to the position of a general on account of her outstanding military contributions. She plays a key role in apprehending the leader of the enemy army and eventually brings the war to an end. In appreciation of Mulan's martial talents, Marshal He seeks to arrange a marriage between Mulan and his own daughter. Mulan promises to secure the consent of her parents and asks for a fast horse for her return home. When Marshal He visits the Hua family to formally present his marriage proposal, he asks to meet "Hua Muli", the name under which Hua Mulan had performed her military service. To He's dismay, a teenage boy – Mulan's younger brother, the real owner of this name – appears in response to his request. Marshal He is annoyed and asks why Hua Hu is fooling him. Left with no other choice, Hua Hu calls for Mulan. Dressed in female clothing, Mulan addresses Marshal He in a male's voice. At that point, they piece together the whole story.
 
 ## Theme: Transforming Into a Man
 
@@ -90,9 +91,9 @@ During Mulan's service in the army, the change of voice is done in a subtle way;
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-"Hua Mulan: yuju yu qita yishu" 《花木兰》（豫剧与其他艺术）(Hua Mulan: Yu Opera and other arts). *Zhongguo da baike quanshu* 中国大百科全书 (The Chinese Encyclopedia). Accessed August 10, 2023. https://www.zgbk.com/ecph/words?SiteID=1&ID=25588.
+"Hua Mulan: yuju yu qita yishu" 《<span lang="zh">花木兰</span>》（<span lang="zh">豫剧与其他艺术</span>）(Hua Mulan: Yu Opera and other arts). *Zhongguo da baike quanshu* <span lang="zh">中国大百科全书</span> (The Chinese Encyclopedia). Accessed August 10, 2023. https://www.zgbk.com/ecph/words?SiteID=1&ID=25588.
 
-"Yuju Hua Mulan juben" 豫剧《花木兰》剧本 (The Script of the Yu Opera Hua Mulan). Jianpuwang. Accessed August 10, 2023. http://www.jianpuw.com/htm/qv/58010.htm.
+"Yuju Hua Mulan juben" <span lang="zh">豫剧</span>《<span lang="zh">花木兰</span>》<span lang="zh">剧本</span> (The Script of the Yu Opera Hua Mulan). Jianpuwang. Accessed August 10, 2023. http://www.jianpuw.com/htm/qv/58010.htm.
 
 </details>
 

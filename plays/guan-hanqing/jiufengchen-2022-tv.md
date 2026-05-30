@@ -1,10 +1,11 @@
 ---
 layout: play
 title: "A Dream of Splendor 梦华录 (2022)"
-heading: "A Dream of Splendor 梦华录 (2022)"
+heading: 'A Dream of Splendor <span lang="zh">梦华录</span> (2022)'
 permalink: /plays/guan-hanqing/jiufengchen-2022-tv/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
+banner_image: /assets/images/guan_resourcebanner.png
 ---
 
 ## Links to the TV Drama
@@ -18,12 +19,12 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 
 <div class="module-info">
 <dl>
-<div><dt>Title</dt><dd>A Dream of Splendor 梦华录</dd></div>
+<div><dt>Title</dt><dd>A Dream of Splendor <span lang="zh">梦华录</span></dd></div>
 <div><dt>Year</dt><dd>2022</dd></div>
 <div><dt>Style</dt><dd>Television drama series</dd></div>
-<div><dt>Director</dt><dd>Yang Yang 杨阳</dd></div>
-<div><dt>Writer</dt><dd>Zhang Wei 张巍</dd></div>
-<div><dt>Cast</dt><dd>Liu Yifei 刘亦菲 (as Zhao Pan'er 赵盼儿), Chen Xiao 陈晓 (as Gu Qianfan 顾千帆), Liu Yan 柳岩 (as Sun San-niang 孙三娘), Lin Yun 林允 (as Song Yinzhang 宋引章), Zhang Xiang 张翔 (as Zhou She 周舍)</dd></div>
+<div><dt>Director</dt><dd>Yang Yang <span lang="zh">杨阳</span></dd></div>
+<div><dt>Writer</dt><dd>Zhang Wei <span lang="zh">张巍</span></dd></div>
+<div><dt>Cast</dt><dd>Liu Yifei <span lang="zh">刘亦菲</span> (as Zhao Pan'er <span lang="zh">赵盼儿</span>), Chen Xiao <span lang="zh">陈晓</span> (as Gu Qianfan <span lang="zh">顾千帆</span>), Liu Yan <span lang="zh">柳岩</span> (as Sun San-niang <span lang="zh">孙三娘</span>), Lin Yun <span lang="zh">林允</span> (as Song Yinzhang <span lang="zh">宋引章</span>), Zhang Xiang <span lang="zh">张翔</span> (as Zhou She <span lang="zh">周舍</span>)</dd></div>
 <div><dt>Language</dt><dd>Mandarin Chinese</dd></div>
 <div><dt>Installments</dt><dd>40 episodes of 45 minutes</dd></div>
 </dl>
@@ -31,23 +32,23 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 
 ## Introduction
 
-*A Dream of Splendor* (梦华录, *Meng hua lu*) is a forty-episode streaming television drama produced in mainland China and released on Tencent Video in 2022. The title alludes to the Song dynasty memoir *Dongjing meng hua lu* (東京夢華錄, *A Dream of Hua's Eastern Capital*) by Meng Yuanlao, a nostalgic record of life in the Northern Song capital of Kaifeng before its fall to the Jurchen Jin dynasty in 1127. By invoking this title, the series places itself within a tradition of Song-nostalgic cultural production and signals its interest in the material culture, social rituals, and aesthetic sensibility of the Song court and capital.
+*A Dream of Splendor* (<span lang="zh">梦华录</span>, *Meng hua lu*) is a forty-episode streaming television drama produced in mainland China and released on Tencent Video in 2022. The title alludes to the Song dynasty memoir *Dongjing meng hua lu* (<span lang="zh">東京夢華錄</span>, *A Dream of Hua's Eastern Capital*) by Meng Yuanlao, a nostalgic record of life in the Northern Song capital of Kaifeng before its fall to the Jurchen Jin dynasty in 1127. By invoking this title, the series places itself within a tradition of Song-nostalgic cultural production and signals its interest in the material culture, social rituals, and aesthetic sensibility of the Song court and capital.
 
-The series is loosely adapted from Guan Hanqing's Yuan zaju play *Zhao Pan'er fengyue jiu fengchen* (趙盼兒風月救風塵), retaining the names and broad outlines of the major characters while substantially transforming the plot and social world of the original. In the television adaptation, the pleasure quarter background of the zaju is largely displaced: Pan'er and her companions are tea-house proprietresses rather than courtesans, and the story is reframed as a romantic drama between Pan'er and a high-ranking government official named Gu Qianfan (顧千帆), a character without a direct counterpart in the original play.
+The series is loosely adapted from Guan Hanqing's Yuan zaju play *Zhao Pan'er fengyue jiu fengchen* (<span lang="zh">趙盼兒風月救風塵</span>), retaining the names and broad outlines of the major characters while substantially transforming the plot and social world of the original. In the television adaptation, the pleasure quarter background of the zaju is largely displaced: Pan'er and her companions are tea-house proprietresses rather than courtesans, and the story is reframed as a romantic drama between Pan'er and a high-ranking government official named Gu Qianfan (<span lang="zh">顧千帆</span>), a character without a direct counterpart in the original play.
 
-The series achieved enormous popularity upon its release, generating significant online discussion and becoming one of the most-watched Chinese television dramas of 2022. Its success was attributed in part to the charisma of its lead actress, Liu Yifei (刘亦菲), and in part to its lavish production values and its sophisticated use of Song dynasty material culture. It also attracted attention for its relatively nuanced treatment of female characters and its focus on the bonds between women.
+The series achieved enormous popularity upon its release, generating significant online discussion and becoming one of the most-watched Chinese television dramas of 2022. Its success was attributed in part to the charisma of its lead actress, Liu Yifei (<span lang="zh">刘亦菲</span>), and in part to its lavish production values and its sophisticated use of Song dynasty material culture. It also attracted attention for its relatively nuanced treatment of female characters and its focus on the bonds between women.
 
 ## Plot Summary
 
-The series opens in Qiantang (present-day Hangzhou), where Pan'er runs a tea house with her sworn sisters, Sun San-niang (孫三娘) and Song Yinzhang (宋引章). Pan'er learns that her former lover, a government official named Ouyang Xu, has abandoned her and taken a new wife. Determined to confront him and reclaim her honor, she travels to the Northern Song capital of Kaifeng, accompanied by San-niang and Yinzhang.
+The series opens in Qiantang (present-day Hangzhou), where Pan'er runs a tea house with her sworn sisters, Sun San-niang (<span lang="zh">孫三娘</span>) and Song Yinzhang (<span lang="zh">宋引章</span>). Pan'er learns that her former lover, a government official named Ouyang Xu, has abandoned her and taken a new wife. Determined to confront him and reclaim her honor, she travels to the Northern Song capital of Kaifeng, accompanied by San-niang and Yinzhang.
 
 In Kaifeng, Pan'er becomes entangled in a web of political intrigue centered on Gu Qianfan, a powerful official in the imperial censorate. Their relationship begins adversarially — Gu Qianfan represents a system that threatens Pan'er's livelihood and freedom — but gradually develops into mutual respect and eventually love.
 
-Meanwhile, Yinzhang falls under the influence of Zhou She (周舍), the same dissolute villain as in Guan Hanqing's original. Zhou She manipulates Yinzhang into a relationship that proves abusive and controlling. The early episodes of the series (episodes 1–6, which this module examines) focus on Pan'er's plan to rescue Yinzhang from Zhou She's grip, closely paralleling the rescue plot of the original zaju, while weaving in the complications of Pan'er's growing entanglement with Gu Qianfan and the political intrigues of the Song court.
+Meanwhile, Yinzhang falls under the influence of Zhou She (<span lang="zh">周舍</span>), the same dissolute villain as in Guan Hanqing's original. Zhou She manipulates Yinzhang into a relationship that proves abusive and controlling. The early episodes of the series (episodes 1–6, which this module examines) focus on Pan'er's plan to rescue Yinzhang from Zhou She's grip, closely paralleling the rescue plot of the original zaju, while weaving in the complications of Pan'er's growing entanglement with Gu Qianfan and the political intrigues of the Song court.
 
 ## Theme: Dramatic Irony through Editing and Character Addition
 
-Dramatic irony — the situation in which the audience knows something that one or more characters do not — is one of the most powerful tools available to a storyteller. It creates suspense, generates comedy, and invites the audience to a position of superior knowledge that can be at once pleasurable and uncomfortable. In *A Dream of Splendor*, the screenwriter Zhang Wei and the director Yang Yang use dramatic irony extensively and inventively, and one of their primary vehicles for generating it is a character who has no counterpart in Guan Hanqing's original: Sun San-niang (孫三娘).
+Dramatic irony — the situation in which the audience knows something that one or more characters do not — is one of the most powerful tools available to a storyteller. It creates suspense, generates comedy, and invites the audience to a position of superior knowledge that can be at once pleasurable and uncomfortable. In *A Dream of Splendor*, the screenwriter Zhang Wei and the director Yang Yang use dramatic irony extensively and inventively, and one of their primary vehicles for generating it is a character who has no counterpart in Guan Hanqing's original: Sun San-niang (<span lang="zh">孫三娘</span>).
 
 San-niang is Pan'er's sworn sister and business partner. She is older than Pan'er and Yinzhang, more experienced, and possessed of a dry, ironic humor that makes her the series' most consistently comic character. Crucially, San-niang is the character most often positioned as a knowing witness: she is present during scenes in which Pan'er is performing a role — pretending to be in love with Zhou She, or navigating a delicate social situation — and her reactions communicate to the audience the gap between what Pan'er appears to be doing and what she is actually doing. Through careful editing, the series uses San-niang's presence and her facial expressions to orchestrate dramatic irony in scenes that, without her, would read very differently.
 
@@ -144,7 +145,7 @@ Chen, Daowen. "Sworn Siblings in Sanyan Stories." Master's thesis, Washington Un
 
 Hu, TingTing and Cathy Yue Wang. "Strategic Sisterhood and the Girlfriend Gaze: Representation of Girlfriendship in the Chinese TV Drama Ode to Joy." *Critical Studies in Television*, 16(4), 2021: 394–411.
 
-Tang Tang 唐唐 and Bao Ye 炮爷. "Weishenme hui bei ma?" 为什么会被骂 (Why Is it Being Criticized). *Weixin* 微信 (WeChat). June 8, 2022. Accessed January 21, 2025.
+Tang Tang <span lang="zh">唐唐</span> and Bao Ye <span lang="zh">炮爷</span>. "Weishenme hui bei ma?" <span lang="zh">为什么会被骂</span> (Why Is it Being Criticized). *Weixin* <span lang="zh">微信</span> (WeChat). June 8, 2022. Accessed January 21, 2025.
 
 </details>
 

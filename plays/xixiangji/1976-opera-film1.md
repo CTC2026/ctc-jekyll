@@ -1,21 +1,22 @@
 ---
 layout: play
 title: "Crimson 红娘 (1976) — Vocal Imitation"
-heading: "Crimson 红娘 (1976)"
+heading: 'Crimson <span lang="zh">红娘</span> (1976)'
 permalink: /plays/xixiangji/1976-opera-film1/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
+banner_image: /assets/images/WW_ResourceBanner.png
 ---
 
 <div class="module-info">
 <dl>
-<div><dt>Title</dt><dd>Hongniang (Crimson) 红娘</dd></div>
+<div><dt>Title</dt><dd>Hongniang (Crimson) <span lang="zh">红娘</span></dd></div>
 <div><dt>Year</dt><dd>1976</dd></div>
 <div><dt>Genre</dt><dd>Beijing Opera Film</dd></div>
-<div><dt>Director</dt><dd>Chen Fangqian 陈方千 (1920-1985)</dd></div>
-<div><dt>Troupe</dt><dd>Beijing Opera Troupe (Beijing jingju tuan 北京京剧团)</dd></div>
-<div><dt>Cast</dt><dd>Zhao Yanxia 赵燕侠 (as Crimson 红娘), Song Danju 宋丹菊 (as Oriole 莺莺), Geng Shihua 耿世华 (as Madam Cui 崔夫人), and Liu Xuetao 刘雪涛 (as Student Zhang 张生)</dd></div>
-<div><dt>Producer</dt><dd>Beijing Film Studio (Beijing dianying zhipianchang 北京电影制片厂)</dd></div>
+<div><dt>Director</dt><dd>Chen Fangqian <span lang="zh">陈方千</span> (1920-1985)</dd></div>
+<div><dt>Troupe</dt><dd>Beijing Opera Troupe (Beijing jingju tuan <span lang="zh">北京京剧团</span>)</dd></div>
+<div><dt>Cast</dt><dd>Zhao Yanxia <span lang="zh">赵燕侠</span> (as Crimson <span lang="zh">红娘</span>), Song Danju <span lang="zh">宋丹菊</span> (as Oriole <span lang="zh">莺莺</span>), Geng Shihua <span lang="zh">耿世华</span> (as Madam Cui <span lang="zh">崔夫人</span>), and Liu Xuetao <span lang="zh">刘雪涛</span> (as Student Zhang <span lang="zh">张生</span>)</dd></div>
+<div><dt>Producer</dt><dd>Beijing Film Studio (Beijing dianying zhipianchang <span lang="zh">北京电影制片厂</span>)</dd></div>
 <div><dt>Language</dt><dd>Beijing Opera stage language with Mandarin subtitles</dd></div>
 <div><dt>Duration</dt><dd>98 minutes</dd></div>
 </dl>
@@ -28,11 +29,11 @@ play_title: "The Story of the Western Wing"
   <figcaption><strong>Fig. 1.</strong> Zhao Yanxia as Crimson in the 1976 Beijing opera film.</figcaption>
 </figure>
 
-Crimson is a color opera film (xiqu pian 戏曲片) directed by Chen Fangqian 陈方千 (1920-1985) and starring Zhao Yanxia 赵燕侠 (1928-), Song Danju 宋丹菊 (1942-), Geng Shihua 耿世华 (1917-1991), and Liu Xuetao 刘雪涛 (1922-2011). Crimson is performed by the Beijing Opera Troupe (Beijing jingju tuan 北京京剧团) and produced by the Beijing Film Studio (Beijing dianying zhipianchang 北京电影制片厂) in the last year of the Cultural Revolution (1976). All the scenes were shot on a traditionalist theatrical stage, making this an example of the "documentary style" of opera film.
+Crimson is a color opera film (xiqu pian <span lang="zh">戏曲片</span>) directed by Chen Fangqian <span lang="zh">陈方千</span> (1920-1985) and starring Zhao Yanxia <span lang="zh">赵燕侠</span> (1928-), Song Danju <span lang="zh">宋丹菊</span> (1942-), Geng Shihua <span lang="zh">耿世华</span> (1917-1991), and Liu Xuetao <span lang="zh">刘雪涛</span> (1922-2011). Crimson is performed by the Beijing Opera Troupe (Beijing jingju tuan <span lang="zh">北京京剧团</span>) and produced by the Beijing Film Studio (Beijing dianying zhipianchang <span lang="zh">北京电影制片厂</span>) in the last year of the Cultural Revolution (1976). All the scenes were shot on a traditionalist theatrical stage, making this an example of the "documentary style" of opera film.
 
-In a major historical irony, the occasion for this performance was CCP Chairman Mao Zedong's 毛泽东 (1893-1976) desire to access an "authentic" version of Crimson. Crimson is a signature play of the Xun School (Xun pai 荀派), one of the main modern styles of Beijing opera founded by Xun Huisheng 荀慧生 (1900-1968), one of the Four Great Female Impersonators (sida mingdan 四大名旦). Specializing in the "subtly coquettish female/cheerful soubrette" (huadan 花旦) role, in 1936, Xun had premiered his rearranged version of the Western Wing under the title Crimson (Hongniang 红娘). In the wake of a reorientation of the Beijing Opera repertoire toward the inclusion of female figures and the abolition of single-sex Beijing opera casts, new opportunities opened up for women performers in the 1930s and 1940s.
+In a major historical irony, the occasion for this performance was CCP Chairman Mao Zedong's <span lang="zh">毛泽东</span> (1893-1976) desire to access an "authentic" version of Crimson. Crimson is a signature play of the Xun School (Xun pai <span lang="zh">荀派</span>), one of the main modern styles of Beijing opera founded by Xun Huisheng <span lang="zh">荀慧生</span> (1900-1968), one of the Four Great Female Impersonators (sida mingdan <span lang="zh">四大名旦</span>). Specializing in the "subtly coquettish female/cheerful soubrette" (huadan <span lang="zh">花旦</span>) role, in 1936, Xun had premiered his rearranged version of the Western Wing under the title Crimson (Hongniang <span lang="zh">红娘</span>). In the wake of a reorientation of the Beijing Opera repertoire toward the inclusion of female figures and the abolition of single-sex Beijing opera casts, new opportunities opened up for women performers in the 1930s and 1940s.
 
-The lead actress in the 1976 Crimson opera film, Zhao Yanxia (1928-), capitalized on these trends to become a virtuoso performer of male and female, civil and martial, comic and serious roles. Learning the ropes of martial male roles from her father, Zhao Xiaolou 赵筱楼, Zhao Yanxia had her debut as a Beijing opera performer in Wuhan at the age of five (1933). After moving to Beijing in 1941, she was accepted by Xun Huisheng as an official disciple in 1942. In 1943, she became a star overnight with a role as a woman warrior (daoma dan 刀马旦) and in 1947, she established her own troupe. In the early 1950s, Zhao Yanxia repeatedly became the target of state-sponsored media campaigns against her allegedly "pornographic" and "frivolously humorous" textual and stage renditions of Crimson. Only when she wrote a self-criticism in 1955 did the multi-year denunciatory campaign end. She eventually was allowed to join the state-supported Beijing Opera Troupe as its sole female artistic director in 1960.
+The lead actress in the 1976 Crimson opera film, Zhao Yanxia (1928-), capitalized on these trends to become a virtuoso performer of male and female, civil and martial, comic and serious roles. Learning the ropes of martial male roles from her father, Zhao Xiaolou <span lang="zh">赵筱楼</span>, Zhao Yanxia had her debut as a Beijing opera performer in Wuhan at the age of five (1933). After moving to Beijing in 1941, she was accepted by Xun Huisheng as an official disciple in 1942. In 1943, she became a star overnight with a role as a woman warrior (daoma dan <span lang="zh">刀马旦</span>) and in 1947, she established her own troupe. In the early 1950s, Zhao Yanxia repeatedly became the target of state-sponsored media campaigns against her allegedly "pornographic" and "frivolously humorous" textual and stage renditions of Crimson. Only when she wrote a self-criticism in 1955 did the multi-year denunciatory campaign end. She eventually was allowed to join the state-supported Beijing Opera Troupe as its sole female artistic director in 1960.
 
 ## Plot Summary
 
@@ -64,11 +65,11 @@ Soon after Student Zhang and Oriole's first accidental encounter, Sun Feihu, a b
   </video>
 </div>
 
-Madam Cui strategically arranges the seating for Oriole and Student Zhang, insisting that Student Zhang sit in the middle (the seat of honor, shangzuo 上座) and letting Oriole sit on the side. Crimson imitates Madam Cui's voice when saying "I'll propose a toast," in order to express her disapproval of Madam Cui's breach of promise. She switches back to her own voice when saying "Come on, meet your brother" and intentionally prolongs the words "your brother." Such highlighting of the phrase "brother" is likely done to probe Oriole's attitude towards the brother-and-sister relationship before handing over Student Zhang's letter to Oriole.
+Madam Cui strategically arranges the seating for Oriole and Student Zhang, insisting that Student Zhang sit in the middle (the seat of honor, shangzuo <span lang="zh">上座</span>) and letting Oriole sit on the side. Crimson imitates Madam Cui's voice when saying "I'll propose a toast," in order to express her disapproval of Madam Cui's breach of promise. She switches back to her own voice when saying "Come on, meet your brother" and intentionally prolongs the words "your brother." Such highlighting of the phrase "brother" is likely done to probe Oriole's attitude towards the brother-and-sister relationship before handing over Student Zhang's letter to Oriole.
 
-### Crimson imitates the voice of a general male martial role (wusheng 武生) (52:54-53:01)
+### Crimson imitates the voice of a general male martial role (wusheng <span lang="zh">武生</span>) (52:54-53:01)
 
-After Crimson complains about Madam Cui's breach of promise, she feels sympathy for Student Zhang and beseeches Oriole to pity him. Oriole pretends to be angry about Crimson's nonsense and asks Crimson to help her get dressed. Crimson naughtily replies, "Yes, Lady, at your service! 得令呐."
+After Crimson complains about Madam Cui's breach of promise, she feels sympathy for Student Zhang and beseeches Oriole to pity him. Oriole pretends to be angry about Crimson's nonsense and asks Crimson to help her get dressed. Crimson naughtily replies, "Yes, Lady, at your service! <span lang="zh">得令呐</span>."
 
 <div class="clip-section">
   <video controls>
@@ -76,7 +77,7 @@ After Crimson complains about Madam Cui's breach of promise, she feels sympathy 
   </video>
 </div>
 
-"Yes, Lady, at your service!" is delivered in the voice of a male martial role (wusheng). This change of voice might be the actress Zhao Yanxia's own tongue-in-cheek creation inspired by the training she had undergone by her father Zhao Xiaolou, a well-known martial role actor. Oriole immediately responds "What tone of voice is that?!" 什么腔调 to draw the audience's attention to Crimson's change of voice.
+"Yes, Lady, at your service!" is delivered in the voice of a male martial role (wusheng). This change of voice might be the actress Zhao Yanxia's own tongue-in-cheek creation inspired by the training she had undergone by her father Zhao Xiaolou, a well-known martial role actor. Oriole immediately responds "What tone of voice is that?!" <span lang="zh">什么腔调</span> to draw the audience's attention to Crimson's change of voice.
 
 ### Crimson imitates Oriole's voice [1:11:37-1:12:05]
 

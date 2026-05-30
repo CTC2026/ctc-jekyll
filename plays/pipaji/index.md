@@ -1,21 +1,22 @@
 ---
 layout: play
 title: "General Introduction"
-heading: "The Lute 琵琶記"
+heading: 'The Lute <span lang="zh">琵琶記</span>'
 permalink: /plays/pipaji/
 play_id: pipaji
 play_title: "The Lute"
+banner_image: /assets/images/TheLute_ResourceBanner.png
 ---
 
 ## Contents
 
 You can find modules that analyze various adaptations of *The Lute* at the links below. To get a sense of the main themes and historical import of the original *The Lute*, please consult the "General Background" below.
 
-- [New Year's Print of The Lute 《琵琶记》年画连环画 (1958)](1958-comic/)
+- [New Year's Print of The Lute 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)](1958-comic/)
   - "Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* (narrative comic) New Year's print of *The Lute*.
-- [The Lute 琵琶记 (1985/1986)](1985-comic/)
+- [The Lute <span lang="zh">琵琶记</span> (1985/1986)](1985-comic/)
   - "Creating Emotional Atmospheres," a module on a *lianhuanhua* adaptation of *The Lute*.
-- [The Lute 全本琵琶记 (2012)](2012-recorded-perf/)
+- [The Lute <span lang="zh">全本琵琶记</span> (2012)](2012-recorded-perf/)
   - "Techniques for Creating Sadness and Comic Relief," a module on a live performance of *The Lute* by the Shanghai Kunqu Opera Troupe.
 
 ## General Background
@@ -25,9 +26,9 @@ You can find modules that analyze various adaptations of *The Lute* at the links
   <figcaption><strong>Fig. 1.</strong> A scene from <em>The Lute</em>.</figcaption>
 </figure>
 
-*The Lute* (*Pipa ji* 琵琶記) is widely considered the foundational play of the Southern dramatic tradition. It is the first play that we know of that was written by a scholar-official, Gao Ming 高明 (ca. 1305-ca. 1370, courtesy name Zecheng 則成). Gao was a native of Wenzhou 溫州 (alternate name Yongjia 永嘉, modern Zhejiang Province), the cradle of what was alternatively called Wenzhou *zaju* (溫州雜劇 "Wenzhou *zaju* drama"), Yongjia *zaju* (永嘉雜劇 "Yongjia *zaju* drama"), *xiwen* (戲文 "drama text") or *nanxi* (南戲 "southern plays"). Most likely, he was acquainted with now lost plays such as *Zhao the Chaste Maid and Cai the Second Son* (*Zhao zhennü Cai Erlang* 趙貞女蔡爾朗) and *Wang Kui* (*Wang Kui* 王魁) that circulated in that region. We can gather that these stories represented a particular social type: the ambitious, but ungrateful scholar. The male protagonists pass the civil service examinations, but then blithely leave behind the women—either wives or courtesans—who had supported them prior to their examination success. The women had the last word insofar as they were able to exact divine retribution for the men's shameless opportunism.
+*The Lute* (*Pipa ji* <span lang="zh">琵琶記</span>) is widely considered the foundational play of the Southern dramatic tradition. It is the first play that we know of that was written by a scholar-official, Gao Ming <span lang="zh">高明</span> (ca. 1305-ca. 1370, courtesy name Zecheng <span lang="zh">則成</span>). Gao was a native of Wenzhou <span lang="zh">溫州</span> (alternate name Yongjia <span lang="zh">永嘉</span>, modern Zhejiang Province), the cradle of what was alternatively called Wenzhou *zaju* (<span lang="zh">溫州雜劇</span> "Wenzhou *zaju* drama"), Yongjia *zaju* (<span lang="zh">永嘉雜劇</span> "Yongjia *zaju* drama"), *xiwen* (<span lang="zh">戲文</span> "drama text") or *nanxi* (<span lang="zh">南戲</span> "southern plays"). Most likely, he was acquainted with now lost plays such as *Zhao the Chaste Maid and Cai the Second Son* (*Zhao zhennü Cai Erlang* <span lang="zh">趙貞女蔡爾朗</span>) and *Wang Kui* (*Wang Kui* <span lang="zh">王魁</span>) that circulated in that region. We can gather that these stories represented a particular social type: the ambitious, but ungrateful scholar. The male protagonists pass the civil service examinations, but then blithely leave behind the women—either wives or courtesans—who had supported them prior to their examination success. The women had the last word insofar as they were able to exact divine retribution for the men's shameless opportunism.
 
-In *The Lute*, Gao is at pains to show that such heartless abandonment may not be the scholar's own choice. Having sat and passed the imperial examinations himself, he brought a more sympathetic view to the problem of how to balance familial love and social success. In the play, everyone is desperately seeking to do right by each other, but confronted by circumstances beyond their control, the protagonists struggle to live up to their best intentions. For one, the scholar, Cai Bojie 蔡伯喈 (cast in the role of the young male lead; *sheng* 生) has no desire to leave his octogenarian parents; on the contrary, he would much rather stay by their side to look after them together with his new bride, Zhao Wuniang 趙五娘 (cast in the role of the young female lead; *dan* 旦). However, Father Cai 蔡公 (cast in the role of the elder supporting role; *wai* 外) insists that the younger Cai set out for the capital to seek fame and glory and to improve the family's fortunes. Once there, Cai Bojie passes the examinations as the top graduate, but as a result, he has become the empire's most eligible bachelor and is unable to ward off the pressure of Prime Minister Niu 牛公 (cast in the role of a clown; *chou* 丑). The Prime Minister insists on marrying him to his daughter, Ms. Niu 牛氏 (cast as supplementary female; *tiedan* 貼旦), a lovely and thoughtful young lady opposed to her father's coercive maneuvers. Eventually, after the new marriage is arranged, Cai wishes to return to the countryside with his new wife, but his petition to be excused from his official duties is not granted. Taken together, these three instances of having his requests rejected by the older authority figures are known as the "three rejections" (*san bucong* 三不從).
+In *The Lute*, Gao is at pains to show that such heartless abandonment may not be the scholar's own choice. Having sat and passed the imperial examinations himself, he brought a more sympathetic view to the problem of how to balance familial love and social success. In the play, everyone is desperately seeking to do right by each other, but confronted by circumstances beyond their control, the protagonists struggle to live up to their best intentions. For one, the scholar, Cai Bojie <span lang="zh">蔡伯喈</span> (cast in the role of the young male lead; *sheng* <span lang="zh">生</span>) has no desire to leave his octogenarian parents; on the contrary, he would much rather stay by their side to look after them together with his new bride, Zhao Wuniang <span lang="zh">趙五娘</span> (cast in the role of the young female lead; *dan* <span lang="zh">旦</span>). However, Father Cai <span lang="zh">蔡公</span> (cast in the role of the elder supporting role; *wai* <span lang="zh">外</span>) insists that the younger Cai set out for the capital to seek fame and glory and to improve the family's fortunes. Once there, Cai Bojie passes the examinations as the top graduate, but as a result, he has become the empire's most eligible bachelor and is unable to ward off the pressure of Prime Minister Niu <span lang="zh">牛公</span> (cast in the role of a clown; *chou* <span lang="zh">丑</span>). The Prime Minister insists on marrying him to his daughter, Ms. Niu <span lang="zh">牛氏</span> (cast as supplementary female; *tiedan* <span lang="zh">貼旦</span>), a lovely and thoughtful young lady opposed to her father's coercive maneuvers. Eventually, after the new marriage is arranged, Cai wishes to return to the countryside with his new wife, but his petition to be excused from his official duties is not granted. Taken together, these three instances of having his requests rejected by the older authority figures are known as the "three rejections" (*san bucong* <span lang="zh">三不從</span>).
 
 One of the central themes that runs through the play and that is developed in many arias is that the Confucian writings do not only inadequately prepare their readers for the many obstacles involved in the implementation of Confucian ideals; moreover, the very people allegedly most devoted to safeguarding these Confucian principles—fathers, ministers, and the emperor—become the prime forces who get in the way of the younger generation's desire to be loving and filial children. As Cai Bojie sings:
 
@@ -44,7 +45,7 @@ The play is also remarkable for the female solidarity that characterizes the bon
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Gao Ming 高明. *Pipa ji* 琵琶記 (*The Lute*). Ann. Qian Nanyang 錢南揚 and Li Diankui 李殿魁. Taipei: Renli shuju, 1998.
+Gao Ming <span lang="zh">高明</span>. *Pipa ji* <span lang="zh">琵琶記</span> (*The Lute*). Ann. Qian Nanyang <span lang="zh">錢南揚</span> and Li Diankui <span lang="zh">李殿魁</span>. Taipei: Renli shuju, 1998.
 
 Guo Yingde, Wenbo Chang, Patricia Sieber, and Xiaohui Zhang, eds. "L04: The Lute, Scene 20, 'Wuniang Eats Husks,'" 74-92. In *How To Read Chinese Drama in Chinese: A Language Companion*. New York: Columbia University Press, 2023.
 

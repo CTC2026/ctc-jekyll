@@ -1,10 +1,11 @@
 ---
 layout: play
 title: "The Crimson Palm 血手印 (1964)"
-heading: "The Crimson Palm 血手印 (1964)"
+heading: 'The Crimson Palm <span lang="zh">血手印</span> (1964)'
 permalink: /plays/guan-hanqing/feiyimeng-1964-opera-film/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
+banner_image: /assets/images/guan_resourcebanner.png
 ---
 
 ## Links to the Film
@@ -15,18 +16,18 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg" alt="Film poster of The Crimson Palm. Source: 千寻亿选, '血手印的海报.' 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.">
-  <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: 千寻亿选, "血手印的海报." 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: <span lang="zh">千寻亿选</span>, "<span lang="zh">血手印的海报</span>." <span lang="zh">豆瓣电影</span>. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
 </figure>
 
 <div class="module-info">
 <dl>
-<div><dt>Title</dt><dd>The Crimson Palm 血手印</dd></div>
+<div><dt>Title</dt><dd>The Crimson Palm <span lang="zh">血手印</span></dd></div>
 <div><dt>Year</dt><dd>1964</dd></div>
 <div><dt>Genre</dt><dd>Huangmei Opera Film</dd></div>
-<div><dt>Director</dt><dd>Chan Yau-San 陳又新</dd></div>
-<div><dt>Cast</dt><dd>Ivy Ling-Po 凌波 (as Lin Zhaode 林肇德), Ping Chin 秦苹 (as Wang Qianjin 王千金), Li Ching 李菁 (as Xuechun 雪春), Kuang-chao Yiu 尤光照 (as Chun Wang 王春)</dd></div>
-<div><dt>Producer</dt><dd>Shaw Brothers (Hong Kong) Ltd. / 邵氏兄弟（香港）有限公司</dd></div>
-<div><dt>Screenplay</dt><dd>Chan Yau-San 陳又新</dd></div>
+<div><dt>Director</dt><dd>Chan Yau-San <span lang="zh">陳又新</span></dd></div>
+<div><dt>Cast</dt><dd>Ivy Ling-Po <span lang="zh">凌波</span> (as Lin Zhaode <span lang="zh">林肇德</span>), Ping Chin <span lang="zh">秦苹</span> (as Wang Qianjin <span lang="zh">王千金</span>), Li Ching <span lang="zh">李菁</span> (as Xuechun <span lang="zh">雪春</span>), Kuang-chao Yiu <span lang="zh">尤光照</span> (as Chun Wang <span lang="zh">王春</span>)</dd></div>
+<div><dt>Producer</dt><dd>Shaw Brothers (Hong Kong) Ltd. / <span lang="zh">邵氏兄弟</span>（<span lang="zh">香港</span>）<span lang="zh">有限公司</span></dd></div>
+<div><dt>Screenplay</dt><dd>Chan Yau-San <span lang="zh">陳又新</span></dd></div>
 <div><dt>Language</dt><dd>Chinese Mandarin</dd></div>
 <div><dt>Duration</dt><dd>81 minutes</dd></div>
 </dl>
@@ -34,13 +35,13 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 
 ## Introduction
 
-The film was conceived as a star vehicle for Ivy Ling Po 凌波, the Shaw Brothers actress who had become enormously popular in Hong Kong and across Southeast Asia following her cross-gender performance as Liang Shanbo in the 1963 Huangmei opera film *The Love Eterne* 梁山伯與祝英台. Her popularity was so immense — she was reportedly mobbed by thousands of fans when she visited Taiwan — that Shaw Brothers rushed to produce follow-up vehicles that would capitalize on the phenomenon. *The Crimson Palm* 血手印, released in 1964, was one of these vehicles, and it again cast Ling Po in a male role: the young scholar Lin Zhaode 林肇德.
+The film was conceived as a star vehicle for Ivy Ling Po <span lang="zh">凌波</span>, the Shaw Brothers actress who had become enormously popular in Hong Kong and across Southeast Asia following her cross-gender performance as Liang Shanbo in the 1963 Huangmei opera film *The Love Eterne* <span lang="zh">梁山伯與祝英台</span>. Her popularity was so immense — she was reportedly mobbed by thousands of fans when she visited Taiwan — that Shaw Brothers rushed to produce follow-up vehicles that would capitalize on the phenomenon. *The Crimson Palm* <span lang="zh">血手印</span>, released in 1964, was one of these vehicles, and it again cast Ling Po in a male role: the young scholar Lin Zhaode <span lang="zh">林肇德</span>.
 
-*The Crimson Palm* is an adaptation of *Fei Yi Meng* 緋衣夢, a classical Huangmei opera. Huangmei opera 黃梅戲 originated in the Huangmei area of Hubei province and developed its characteristic style in Anhui province. By the 1950s, Huangmei opera had become one of the most popular regional opera forms in China, in part because of the relative simplicity and accessibility of its melodies and its use of vernacular Mandarin rather than a regional dialect. Shaw Brothers adapted this popular mainland Chinese form for Hong Kong audiences, producing a series of Huangmei opera films in the early 1960s that proved enormously successful.
+*The Crimson Palm* is an adaptation of *Fei Yi Meng* <span lang="zh">緋衣夢</span>, a classical Huangmei opera. Huangmei opera <span lang="zh">黃梅戲</span> originated in the Huangmei area of Hubei province and developed its characteristic style in Anhui province. By the 1950s, Huangmei opera had become one of the most popular regional opera forms in China, in part because of the relative simplicity and accessibility of its melodies and its use of vernacular Mandarin rather than a regional dialect. Shaw Brothers adapted this popular mainland Chinese form for Hong Kong audiences, producing a series of Huangmei opera films in the early 1960s that proved enormously successful.
 
-The film tells the story of Wang Qianjin 王千金, a young woman of good family who falls in love with the scholar Lin Zhaode. Their love is thwarted by her brother, Wang Chun 王春, who disapproves of the match. When Lin Zhaode is falsely accused of a crime, Qianjin must act to save him, eventually resorting to cunning and disguise to expose the true villain and vindicate her beloved. The story draws on conventions from both traditional opera and the mystery genre, creating a hybrid that proved very appealing to contemporary audiences.
+The film tells the story of Wang Qianjin <span lang="zh">王千金</span>, a young woman of good family who falls in love with the scholar Lin Zhaode. Their love is thwarted by her brother, Wang Chun <span lang="zh">王春</span>, who disapproves of the match. When Lin Zhaode is falsely accused of a crime, Qianjin must act to save him, eventually resorting to cunning and disguise to expose the true villain and vindicate her beloved. The story draws on conventions from both traditional opera and the mystery genre, creating a hybrid that proved very appealing to contemporary audiences.
 
-A notable feature of the film is its title song, "Path on the Outskirts" 郊道, sung by Lin Zhaode and Qianjin as they walk together in a moment of fleeting happiness before their troubles begin. The song became enormously popular and was covered by many singers in the following decades, most famously by Teresa Teng 鄧麗君, the beloved Taiwanese singer, whose Mandarin-language popular music crossed borders and generations to become a soundtrack for Chinese-speaking communities across Asia. Teresa Teng's cover version, recorded in the 1970s, transformed the operatic duet into a gentle pop ballad that introduced the song to a new generation of listeners far removed from the Huangmei opera context.
+A notable feature of the film is its title song, "Path on the Outskirts" <span lang="zh">郊道</span>, sung by Lin Zhaode and Qianjin as they walk together in a moment of fleeting happiness before their troubles begin. The song became enormously popular and was covered by many singers in the following decades, most famously by Teresa Teng <span lang="zh">鄧麗君</span>, the beloved Taiwanese singer, whose Mandarin-language popular music crossed borders and generations to become a soundtrack for Chinese-speaking communities across Asia. Teresa Teng's cover version, recorded in the 1970s, transformed the operatic duet into a gentle pop ballad that introduced the song to a new generation of listeners far removed from the Huangmei opera context.
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -48,14 +49,14 @@ A notable feature of the film is its title song, "Path on the Outskirts" 郊道,
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng 鄧麗君. Source: Youtube.</p>
+  <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng <span lang="zh">鄧麗君</span>. Source: Youtube.</p>
 </div>
 
 ## Plot Summary
 
-The film opens with an atmospheric night scene: a rider returns on horseback along the outskirts of a city. This rider is Zhang Peisan 張培贊, a villainous official, who is returning from a nocturnal assignation. He is spotted by Wang Qianjin's maid, Xuechun 雪春, who has witnessed something she should not have seen. Zhang Peisan, fearing exposure, resolves to silence her.
+The film opens with an atmospheric night scene: a rider returns on horseback along the outskirts of a city. This rider is Zhang Peisan <span lang="zh">張培贊</span>, a villainous official, who is returning from a nocturnal assignation. He is spotted by Wang Qianjin's maid, Xuechun <span lang="zh">雪春</span>, who has witnessed something she should not have seen. Zhang Peisan, fearing exposure, resolves to silence her.
 
-The scholar Lin Zhaode 林肇德 arrives in the city and meets Wang Qianjin. The two fall in love and their romance is celebrated in the charming duet "Path on the Outskirts," in which they walk together through the countryside and sing of their happiness. However, Qianjin's brother Wang Chun 王春 disapproves of Lin Zhaode and seeks to prevent the match.
+The scholar Lin Zhaode <span lang="zh">林肇德</span> arrives in the city and meets Wang Qianjin. The two fall in love and their romance is celebrated in the charming duet "Path on the Outskirts," in which they walk together through the countryside and sing of their happiness. However, Qianjin's brother Wang Chun <span lang="zh">王春</span> disapproves of Lin Zhaode and seeks to prevent the match.
 
 Through a series of machinations, Zhang Peisan frames Lin Zhaode for a crime he did not commit. Lin Zhaode is arrested and faces severe punishment. Qianjin is devastated but resolves to save him. She disguises herself as her own maid, Xuechun, and manages to get close to Zhang Peisan, seeking to expose his villainy. The critical evidence is a crimson handprint — the blood-red palm print of the title — left at the scene of Zhang Peisan's crime.
 
@@ -89,7 +90,7 @@ The film opens with a night sequence of stark visual economy. Against a dark bac
 
 ### Path on the Outskirts (26:40–29:08)
 
-"Path on the Outskirts" 郊道 is the emotional heart of the film: a duet between Lin Zhaode and Wang Qianjin that captures the brief, luminous happiness of their love before the troubles of the plot descend. The song is structured as a call-and-response between the two lovers as they walk through an idealized pastoral landscape. Its melody is simple and memorable, with a lilting quality that made it immediately accessible to audiences unfamiliar with the conventions of Huangmei opera.
+"Path on the Outskirts" <span lang="zh">郊道</span> is the emotional heart of the film: a duet between Lin Zhaode and Wang Qianjin that captures the brief, luminous happiness of their love before the troubles of the plot descend. The song is structured as a call-and-response between the two lovers as they walk through an idealized pastoral landscape. Its melody is simple and memorable, with a lilting quality that made it immediately accessible to audiences unfamiliar with the conventions of Huangmei opera.
 
 The lyrics of the song interweave the imagery of nature — flowers, birds, the path itself — with expressions of romantic feeling. The two lovers take turns singing phrases that complete each other's thoughts, enacting musically the harmony and complementarity of their relationship. This musical enactment of romantic partnership is a characteristic device of the Huangmei opera genre, and it is executed here with particular grace.
 
@@ -113,14 +114,14 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
 <thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
-
-<div><dt>林肇德：夜沉沉，月朦朧，鳥雀歸巢人未眠。</dt><dd>Lin Zhaode: The night is deep and still, the moon is hazy, birds have returned to their nests but people cannot sleep.</dd></div>
-<div><dt>王千金：花草搖，樹影晃，陣陣清風送爽來。</dt><dd>Wang Qianjin: Flowers and grasses sway, tree shadows tremble, wave after wave of cool breeze arrives to refresh.</dd></div>
-<div><dt>林肇德：郊道悠悠伴你行，此情此景難忘懷。</dt><dd>Lin Zhaode: I walk with you along this winding path on the outskirts — this feeling and this scene are hard to forget.</dd></div>
-<div><dt>王千金：芳心暗許君知否？願與郎君共白頭。</dt><dd>Wang Qianjin: Does my beloved know that I have secretly given him my heart? I wish to grow old together with my dear one.</dd></div>
-<div><dt>林肇德：花好月圓人更美，同心永結不分離。</dt><dd>Lin Zhaode: The flowers bloom fair and the moon is full — you are more beautiful still. Let us bind our hearts together forever and never part.</dd></div>
-<div><dt>合唱：郊道悠悠月正明，情深意重兩相許，願此情此緣長相依，白首偕老永不移。</dt><dd>Both: The outskirts path winds on and the moon shines bright. Our feelings run deep and we pledge ourselves to each other. May this love and this bond be our constant companion, growing old together and never changing.</dd></div>
-
+<tbody>
+<tr><td lang="zh">林肇德：夜沉沉，月朦朧，鳥雀歸巢人未眠。</td><td>Lin Zhaode: The night is deep and still, the moon is hazy, birds have returned to their nests but people cannot sleep.</td></tr>
+<tr><td lang="zh">王千金：花草搖，樹影晃，陣陣清風送爽來。</td><td>Wang Qianjin: Flowers and grasses sway, tree shadows tremble, wave after wave of cool breeze arrives to refresh.</td></tr>
+<tr><td lang="zh">林肇德：郊道悠悠伴你行，此情此景難忘懷。</td><td>Lin Zhaode: I walk with you along this winding path on the outskirts — this feeling and this scene are hard to forget.</td></tr>
+<tr><td lang="zh">王千金：芳心暗許君知否？願與郎君共白頭。</td><td>Wang Qianjin: Does my beloved know that I have secretly given him my heart? I wish to grow old together with my dear one.</td></tr>
+<tr><td lang="zh">林肇德：花好月圓人更美，同心永結不分離。</td><td>Lin Zhaode: The flowers bloom fair and the moon is full — you are more beautiful still. Let us bind our hearts together forever and never part.</td></tr>
+<tr><td lang="zh">合唱：郊道悠悠月正明，情深意重兩相許，願此情此緣長相依，白首偕老永不移。</td><td>Both: The outskirts path winds on and the moon shines bright. Our feelings run deep and we pledge ourselves to each other. May this love and this bond be our constant companion, growing old together and never changing.</td></tr>
+</tbody>
 </table>
 </details>
 
@@ -150,15 +151,15 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
 <thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
-
-<div><dt>女鬼：張培贊！你認識我嗎？</dt><dd>Female Ghost: Zhang Peisan! Do you recognize me?</dd></div>
-<div><dt>張培贊：你，你是誰？</dt><dd>Zhang Peisan: You — who are you?</dd></div>
-<div><dt>女鬼：我就是你害死的雪春！</dt><dd>Female Ghost: I am Xuechun, whom you killed!</dd></div>
-<div><dt>張培贊：不，不可能！你已經死了！</dt><dd>Zhang Peisan: No, impossible! You are already dead!</dd></div>
-<div><dt>女鬼：是你殺了我，張培贊！血手印就是證據！</dt><dd>Female Ghost: You killed me, Zhang Peisan! The crimson palm print is the evidence!</dd></div>
-<div><dt>張培贊：饒命啊，饒命！我，我招了，我招了！</dt><dd>Zhang Peisan: Spare my life, spare my life! I — I confess, I confess!</dd></div>
-<div><dt>王千金（揭面）：好！你已當眾認罪！</dt><dd>Wang Qianjin (removing her disguise): Good! You have confessed in front of everyone!</dd></div>
-
+<tbody>
+<tr><td lang="zh">女鬼：張培贊！你認識我嗎？</td><td>Female Ghost: Zhang Peisan! Do you recognize me?</td></tr>
+<tr><td lang="zh">張培贊：你，你是誰？</td><td>Zhang Peisan: You — who are you?</td></tr>
+<tr><td lang="zh">女鬼：我就是你害死的雪春！</td><td>Female Ghost: I am Xuechun, whom you killed!</td></tr>
+<tr><td lang="zh">張培贊：不，不可能！你已經死了！</td><td>Zhang Peisan: No, impossible! You are already dead!</td></tr>
+<tr><td lang="zh">女鬼：是你殺了我，張培贊！血手印就是證據！</td><td>Female Ghost: You killed me, Zhang Peisan! The crimson palm print is the evidence!</td></tr>
+<tr><td lang="zh">張培贊：饒命啊，饒命！我，我招了，我招了！</td><td>Zhang Peisan: Spare my life, spare my life! I — I confess, I confess!</td></tr>
+<tr><td lang="zh">王千金（揭面）：好！你已當眾認罪！</td><td>Wang Qianjin (removing her disguise): Good! You have confessed in front of everyone!</td></tr>
+</tbody>
 </table>
 </details>
 
@@ -168,7 +169,7 @@ The final scene of exposure and denouement brings together all the threads of th
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="Qianjin impersonates her maid in The Crimson Palm. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.">
-  <figcaption><strong>Fig. 3.</strong> Qianjin impersonates her maid in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Qianjin impersonates her maid in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun <span lang="zh">中华戏韵</span>.</figcaption>
 </figure>
 
 <div class="clip-section">
@@ -193,17 +194,17 @@ The final scene of exposure and denouement brings together all the threads of th
 <summary>Subtitles and Translation</summary>
 <table class="transcript">
 <thead><tr><th>Chinese Subtitles</th><th>CTC Translation</th></tr></thead>
-
-<div><dt>張培贊：是，小人那天遛馬回來，見雪春獨自一人在郊外，便起了歹念……</dt><dd>Zhang Peisan: Yes — that day I was returning from exercising my horse when I saw Xuechun alone in the outskirts, and I was seized by an evil impulse…</dd></div>
-<div><dt>官員：然後呢？</dt><dd>Official: And then?</dd></div>
-<div><dt>張培贊：小人，小人將她殺了，手沾血跡，逃走時留下了血手印。</dt><dd>Zhang Peisan: I — I killed her. My hand was stained with blood, and when I fled I left behind the crimson palm print.</dd></div>
-<div><dt>王千金：你可聽見了？這就是兇手的親口供詞！</dt><dd>Wang Qianjin: Did you all hear that? This is the murderer's own confession!</dd></div>
-<div><dt>官員：張培贊，你犯了謀殺之罪，依法當斬！</dt><dd>Official: Zhang Peisan, you have committed the crime of murder. According to the law, you shall be beheaded!</dd></div>
-<div><dt>張培贊：饒命啊，大人，饒命！</dt><dd>Zhang Peisan: Spare my life, Your Honor, spare my life!</dd></div>
-<div><dt>官員：來人啊，將張培贊拿下！</dt><dd>Official: Guards, take Zhang Peisan away!</dd></div>
-<div><dt>王千金：林肇德無罪，請大人還他清白！</dt><dd>Wang Qianjin: Lin Zhaode is innocent — please restore his good name, Your Honor!</dd></div>
-<div><dt>官員：林肇德無罪釋放！</dt><dd>Official: Lin Zhaode is innocent and shall be released!</dd></div>
-
+<tbody>
+<tr><td lang="zh">張培贊：是，小人那天遛馬回來，見雪春獨自一人在郊外，便起了歹念……</td><td>Zhang Peisan: Yes — that day I was returning from exercising my horse when I saw Xuechun alone in the outskirts, and I was seized by an evil impulse…</td></tr>
+<tr><td lang="zh">官員：然後呢？</td><td>Official: And then?</td></tr>
+<tr><td lang="zh">張培贊：小人，小人將她殺了，手沾血跡，逃走時留下了血手印。</td><td>Zhang Peisan: I — I killed her. My hand was stained with blood, and when I fled I left behind the crimson palm print.</td></tr>
+<tr><td lang="zh">王千金：你可聽見了？這就是兇手的親口供詞！</td><td>Wang Qianjin: Did you all hear that? This is the murderer's own confession!</td></tr>
+<tr><td lang="zh">官員：張培贊，你犯了謀殺之罪，依法當斬！</td><td>Official: Zhang Peisan, you have committed the crime of murder. According to the law, you shall be beheaded!</td></tr>
+<tr><td lang="zh">張培贊：饒命啊，大人，饒命！</td><td>Zhang Peisan: Spare my life, Your Honor, spare my life!</td></tr>
+<tr><td lang="zh">官員：來人啊，將張培贊拿下！</td><td>Official: Guards, take Zhang Peisan away!</td></tr>
+<tr><td lang="zh">王千金：林肇德無罪，請大人還他清白！</td><td>Wang Qianjin: Lin Zhaode is innocent — please restore his good name, Your Honor!</td></tr>
+<tr><td lang="zh">官員：林肇德無罪釋放！</td><td>Official: Lin Zhaode is innocent and shall be released!</td></tr>
+</tbody>
 </table>
 </details>
 
@@ -218,11 +219,11 @@ The enduring popularity of "Path on the Outskirts" — still heard today in Tere
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Lu, Shijun 卢时俊 and Gao Yilong 高义龙. *Shanghai Yueju zhi* 上海越剧志 (An Account of Shanghai Yue Opera). Beijing: China Drama Publishing House, 1997.
+Lu, Shijun <span lang="zh">卢时俊</span> and Gao Yilong <span lang="zh">高义龙</span>. *Shanghai Yueju zhi* <span lang="zh">上海越剧志</span> (An Account of Shanghai Yue Opera). Beijing: China Drama Publishing House, 1997.
 
 Tsang, Raymond. "What Can a Neoi Gwei Teach Us?: Adaptation as Reincarnation in Hong Kong Horror of the 1950s." In *Hong Kong Horror Cinema*, 19–33. United Kingdom: Edinburgh University Press, 2018.
 
-Weng, Sizai 翁思再. "Ermuyixin Xueshouyin – Guan Jin Jing, Ding Xiaowa zhuyan yueju Xueshouyin suigan" 耳目一新《血手印》——观金静、丁小蛙主演越剧《血手印》随感 (A refreshing Crimson Palm – Impressions on watching *The Crimson Palm* yueju opera starring Jin Jing and Ding Xiaowa). *Shanghai xiju* 上海戏剧 (Shanghai Theater) 12 (2006): 7–9.
+Weng, Sizai <span lang="zh">翁思再</span>. "Ermuyixin Xueshouyin – Guan Jin Jing, Ding Xiaowa zhuyan yueju Xueshouyin suigan" <span lang="zh">耳目一新</span>《<span lang="zh">血手印</span>》——<span lang="zh">观金静</span>、<span lang="zh">丁小蛙主演越剧</span>《<span lang="zh">血手印</span>》<span lang="zh">随感</span> (A refreshing Crimson Palm – Impressions on watching *The Crimson Palm* yueju opera starring Jin Jing and Ding Xiaowa). *Shanghai xiju* <span lang="zh">上海戏剧</span> (Shanghai Theater) 12 (2006): 7–9.
 
 Yau, Esther C. M., and Tony Williams. "Introduction: Hong Kong Neo-Noir." In *Hong Kong Neo-Noir*, edited by Esther C. M. Yau and Tony Williams, 1–10. United Kingdom: Edinburgh University Press, 2017. http://www.jstor.org/stable/10.3366/j.ctt1g051jk.6.
 

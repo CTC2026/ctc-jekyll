@@ -1,21 +1,22 @@
 ---
 layout: play
 title: "Crimson 红娘 (1976) — Revolutionary Opera"
-heading: "Crimson 红娘 (1976)"
+heading: 'Crimson <span lang="zh">红娘</span> (1976)'
 permalink: /plays/xixiangji/1976-opera-film2/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
+banner_image: /assets/images/WW_ResourceBanner.png
 ---
 
 <div class="module-info">
 <dl>
-<div><dt>Title</dt><dd>Hongniang (Crimson) 红娘</dd></div>
+<div><dt>Title</dt><dd>Hongniang (Crimson) <span lang="zh">红娘</span></dd></div>
 <div><dt>Year</dt><dd>1976</dd></div>
 <div><dt>Genre</dt><dd>Beijing Opera Film</dd></div>
-<div><dt>Director</dt><dd>Chen Fangqian 陈方千 (1920-1985)</dd></div>
-<div><dt>Troupe</dt><dd>Beijing Opera Troupe (Beijing jingju tuan 北京京剧团)</dd></div>
-<div><dt>Cast</dt><dd>Zhao Yanxia 赵燕侠 (as Hongniang 红娘), Song Danju 宋丹菊 (as Yingying 莺莺), Geng Shihua 耿世华 (as Madam Cui 崔夫人), and Liu Xuetao 刘雪涛 (as Student Zhang 张生)</dd></div>
-<div><dt>Producer</dt><dd>Beijing Film Studio (Beijing dianying zhipianchang 北京电影制片厂)</dd></div>
+<div><dt>Director</dt><dd>Chen Fangqian <span lang="zh">陈方千</span> (1920-1985)</dd></div>
+<div><dt>Troupe</dt><dd>Beijing Opera Troupe (Beijing jingju tuan <span lang="zh">北京京剧团</span>)</dd></div>
+<div><dt>Cast</dt><dd>Zhao Yanxia <span lang="zh">赵燕侠</span> (as Hongniang <span lang="zh">红娘</span>), Song Danju <span lang="zh">宋丹菊</span> (as Yingying <span lang="zh">莺莺</span>), Geng Shihua <span lang="zh">耿世华</span> (as Madam Cui <span lang="zh">崔夫人</span>), and Liu Xuetao <span lang="zh">刘雪涛</span> (as Student Zhang <span lang="zh">张生</span>)</dd></div>
+<div><dt>Producer</dt><dd>Beijing Film Studio (Beijing dianying zhipianchang <span lang="zh">北京电影制片厂</span>)</dd></div>
 <div><dt>Language</dt><dd>Beijing Opera stage language with Mandarin subtitles</dd></div>
 <div><dt>Duration</dt><dd>98 minutes</dd></div>
 </dl>
@@ -30,11 +31,11 @@ play_title: "The Story of the Western Wing"
 
 The Cultural Revolution was a tumultuous time in the early years of the PRC that greatly altered the political and cultural environment of the nation. Chinese opera was not exempt from these changes and was targeted as an art form that inappropriately romanticized the old, feudal culture. By the 1970s, the central party's belief regarding art was that all art is inherently political and represents the interests of a class. Thus, the party recognized that the conventions of opera had to be modified to act as propaganda in its favor and all productions needed to center around the interests of the workers rather than that of feudal landlords, wealthy merchants, or other members of the bourgeois elite.
 
-The political ideology of the 1970s favored the idea of dualism within Mao Zedong thought. This dualism entailed the philosophy of the "two lines," (liangtiao luxian 两条路线) with one line representing the party, the proletariat, as well as revolutionary and Mao Zedong thought, and the other line referring to the bourgeoisie, feudal practices, and reactionary thought. The party believed that the two lines were representative of the class struggle, and were therefore in perpetual conflict with each other, and that only one side would prevail. To remodel Chinese opera within this framework, one of the major undertakings was censoring and rewriting operas with reactionary content or bourgeois sympathies.
+The political ideology of the 1970s favored the idea of dualism within Mao Zedong thought. This dualism entailed the philosophy of the "two lines," (liangtiao luxian <span lang="zh">两条路线</span>) with one line representing the party, the proletariat, as well as revolutionary and Mao Zedong thought, and the other line referring to the bourgeoisie, feudal practices, and reactionary thought. The party believed that the two lines were representative of the class struggle, and were therefore in perpetual conflict with each other, and that only one side would prevail. To remodel Chinese opera within this framework, one of the major undertakings was censoring and rewriting operas with reactionary content or bourgeois sympathies.
 
 Despite Chinese opera deriving from the old culture of "feudal China," many Maoists (including Mao himself) were patrons of the art form and thus made efforts to reconstruct it as a part of the proletarian line. According to Maoism, this entailed portraying heroes as workers, soldiers, or peasants, taking part in revolutionary activity, and the property-owning class as objects of ridicule and attack. To serve as effective revolutionary propaganda, Mao also favored romanticism and idealism over realism in these new stories and retellings. Other than the shift in thematic elements, the basic conventions of Chinese opera like the music, singing, and movement were mostly kept intact. These components came together to shape an example of revolutionary opera and a rejection of traditional themes in theater.
 
-The stage opera film, Crimson (1976) was developed and eventually released in 1976, the final year of the Cultural Revolution. In terms of its themes, Crimson fits into the mold of a revolutionary opera, particularly as it addresses class struggle along a system of the "two lines." Crimson valorizes a maid while simultaneously villainizing her madam, Madam Cui. Interestingly, an acclaimed female impersonator (nandan 男旦), Geng Shihua 耿世华, plays Madam Cui—a casting choice that boosts the rendition's authenticity as a pre-revolutionary opera, but also serves to ridicule the character in that role. Since Crimson focuses on the maid instead of the couple, references to sex and sexuality are toned down to mere euphemisms and innuendos.
+The stage opera film, Crimson (1976) was developed and eventually released in 1976, the final year of the Cultural Revolution. In terms of its themes, Crimson fits into the mold of a revolutionary opera, particularly as it addresses class struggle along a system of the "two lines." Crimson valorizes a maid while simultaneously villainizing her madam, Madam Cui. Interestingly, an acclaimed female impersonator (nandan <span lang="zh">男旦</span>), Geng Shihua <span lang="zh">耿世华</span>, plays Madam Cui—a casting choice that boosts the rendition's authenticity as a pre-revolutionary opera, but also serves to ridicule the character in that role. Since Crimson focuses on the maid instead of the couple, references to sex and sexuality are toned down to mere euphemisms and innuendos.
 
 ## Plot Summary
 

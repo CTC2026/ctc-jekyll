@@ -5,6 +5,7 @@ heading: "Rescuing One's Sister in the Wind and Dust (2021)"
 permalink: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
+banner_image: /assets/images/guan_resourcebanner.png
 ---
 
 ## Links to the Production
@@ -37,7 +38,7 @@ play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 
 In 2012, the Royal Shakespeare Company (RSC) staged *The Orphan of Zhao*, a production that sparked widespread controversy in the British Chinese community. Critics pointed out that of the seventeen named roles, only three were cast with East Asian actors, while the majority of the cast — including the lead roles — were played by white actors. The production prompted a broader conversation about representation and casting in British theater, and it galvanized British East Asian theater practitioners to demand more equitable opportunities.
 
-In the wake of this controversy, playwright Amy Ng was commissioned to create a new English-language adaptation of a classical Chinese play. Ng, who was born in Hong Kong and trained as a playwright in the United Kingdom, brought to the project both an intimate familiarity with the source culture and a deep engagement with the questions of translation and intercultural performance that had energized the post-*Orphan of Zhao* debate. She chose to adapt *Zhao Pan'er fengyue jiu fengchen* (趙盼兒風月救風塵), known in English as *Saving a Courtesan* or *Rescuing One's Sister in the Wind and Dust*.
+In the wake of this controversy, playwright Amy Ng was commissioned to create a new English-language adaptation of a classical Chinese play. Ng, who was born in Hong Kong and trained as a playwright in the United Kingdom, brought to the project both an intimate familiarity with the source culture and a deep engagement with the questions of translation and intercultural performance that had energized the post-*Orphan of Zhao* debate. She chose to adapt *Zhao Pan'er fengyue jiu fengchen* (<span lang="zh">趙盼兒風月救風塵</span>), known in English as *Saving a Courtesan* or *Rescuing One's Sister in the Wind and Dust*.
 
 Ng's approach to the adaptation was not to produce a faithful replica of the Yuan zaju original, but to find a theatrical idiom that would make the play's central concerns — female solidarity, the abuse of patriarchal power, and the courage of women who resist that power — resonate for a contemporary British audience. One of her most significant creative decisions was to add a chorus of three Ghosts: the spirits of courtesans who died in the pleasure quarter. These Ghosts frame, comment on, and ultimately participate in the action of the play, serving as an intercultural bridge between the world of fourteenth-century China and the sensibilities of a twenty-first-century Western audience.
 
@@ -59,9 +60,9 @@ In Act 4, Zhou She realizes he has been deceived and attempts to use the legal s
 
 ### Ghosts and Lovers: The Significance of Time
 
-In the Chinese lunisolar calendar, the seventh month is associated with the spirit world. The fifteenth day of the seventh month is the Ghost Festival (中元節, Zhongyuan jie), when the boundary between the living and the dead is believed to thin, and the spirits of the deceased are thought to roam the earth. In Amy Ng's adaptation, the Ghosts are explicitly tied to this calendrical framework. They are women who died in the pleasure quarter and who return during the seventh month to witness and guide the living.
+In the Chinese lunisolar calendar, the seventh month is associated with the spirit world. The fifteenth day of the seventh month is the Ghost Festival (<span lang="zh">中元節</span>, Zhongyuan jie), when the boundary between the living and the dead is believed to thin, and the spirits of the deceased are thought to roam the earth. In Amy Ng's adaptation, the Ghosts are explicitly tied to this calendrical framework. They are women who died in the pleasure quarter and who return during the seventh month to witness and guide the living.
 
-The seventh month also encompasses the Qixi Festival (七夕, the seventh day of the seventh month), sometimes called the Chinese Lover's Festival or Chinese Valentine's Day. Associated with the legend of the Cowherd and the Weaver Girl — two stars separated by the Milky Way who are permitted to meet only once a year, on this night — Qixi carries connotations of longing, separation, and the bittersweet nature of love. By setting her play during this season, Ng connects the themes of female solidarity and romantic love to a shared temporal framework that has resonance both within and beyond the Chinese cultural tradition.
+The seventh month also encompasses the Qixi Festival (<span lang="zh">七夕</span>, the seventh day of the seventh month), sometimes called the Chinese Lover's Festival or Chinese Valentine's Day. Associated with the legend of the Cowherd and the Weaver Girl — two stars separated by the Milky Way who are permitted to meet only once a year, on this night — Qixi carries connotations of longing, separation, and the bittersweet nature of love. By setting her play during this season, Ng connects the themes of female solidarity and romantic love to a shared temporal framework that has resonance both within and beyond the Chinese cultural tradition.
 
 In the play's opening, Pan'er prepares food offerings for the Ghost courtesans. This ritual act — setting out food to nourish the spirits of the dead — is a familiar one from Chinese popular religious practice, but it is here transformed into a moment of communion between the living and the dead, between the present and the past.
 
@@ -102,7 +103,7 @@ In Act 3, the Ghosts take on a more active role. They are present during Pan'er'
 
 ### Ghost Critics of the Play Within the Play: Subverting the Archetypal Romance
 
-Scholar An (安秀卿), Pan'er's loyal lover, is a figure who belongs to a well-established type in Yuan drama: the faithful scholar who waits for the courtesan he loves to be redeemed and united with him. In the original zaju, this archetypal romance plot — the scholar loves the courtesan, the courtesan eventually ascends to commoner status, and the two are united — runs alongside the rescue plot. In Ng's adaptation, Scholar An is present but his romantic aspirations are subjected to pointed critique.
+Scholar An (<span lang="zh">安秀卿</span>), Pan'er's loyal lover, is a figure who belongs to a well-established type in Yuan drama: the faithful scholar who waits for the courtesan he loves to be redeemed and united with him. In the original zaju, this archetypal romance plot — the scholar loves the courtesan, the courtesan eventually ascends to commoner status, and the two are united — runs alongside the rescue plot. In Ng's adaptation, Scholar An is present but his romantic aspirations are subjected to pointed critique.
 
 Scholar An stages a play-within-a-play: a conventional romantic drama in which a scholar rescues a courtesan through the power of his love and his social position. The Ghosts watch this play-within-the-play with barely concealed contempt. They mock its clichés, its assumption that women need men to save them, and its erasure of female agency. Their commentary exposes the ideological assumptions embedded in the archetypal romance plot and implicitly contrasts it with the story of Pan'er and Yinzhang, in which women save each other.
 
@@ -141,7 +142,7 @@ The bond of sworn sisterhood is tested by the events of the play. When Pan'er re
 
 ### Invalid Ghost Accusation: Subverting the Legal System
 
-Judge Bao (包拯, Bao Zheng) is one of the most celebrated figures in Chinese popular culture: a famously incorruptible official of the Song dynasty who became, in the literary and dramatic tradition, the embodiment of perfect justice. He appears in many Yuan zaju plays, including several by Guan Hanqing, as the deus ex machina who resolves the injustice at the heart of the plot. In Ng's adaptation, Judge Bao appears at the climax of the play, presiding over the legal dispute between Pan'er and Zhou She.
+Judge Bao (<span lang="zh">包拯</span>, Bao Zheng) is one of the most celebrated figures in Chinese popular culture: a famously incorruptible official of the Song dynasty who became, in the literary and dramatic tradition, the embodiment of perfect justice. He appears in many Yuan zaju plays, including several by Guan Hanqing, as the deus ex machina who resolves the injustice at the heart of the plot. In Ng's adaptation, Judge Bao appears at the climax of the play, presiding over the legal dispute between Pan'er and Zhou She.
 
 The Ghosts appear in court alongside Pan'er. Their presence is, in the strictest legal sense, inadmissible: they are dead, and the dead cannot testify. Yet their appearance in court is not merely a dramatic device; it is a commentary on the limits of a legal system that excludes the testimony of those it has most grievously harmed. The women who died in the pleasure quarter — the Ghost courtesans — were victims of the same social and legal structures that now threaten Pan'er and Yinzhang, and their presence in court is an assertion that their experiences and their suffering are legally and morally relevant.
 
