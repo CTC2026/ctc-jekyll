@@ -5,7 +5,7 @@ layout: default
 {% if page.banner_image %}
 <div class="page-banner">
   <img src="{{ page.banner_image | relative_url }}" alt="" aria-hidden="true">
-  <div class="page-banner-title">{{ page.title }}</div>
+  <div class="page-banner-title">{{ page.heading | default: page.title }}</div>
 </div>
 {% endif %}
 
