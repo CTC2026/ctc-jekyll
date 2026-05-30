@@ -408,6 +408,14 @@ main blockquote {
   .about-structure-img { flex: 0 0 auto; width: 160px; margin: 0 auto; }
 }
 
+/* ── Contributors page dl/dt/dd ── */
+.page-content dl { margin: 0 0 2rem; padding-top: 1.5rem; border-top: 1px solid #ddd; }
+.page-content dl:first-of-type { border-top: none; padding-top: 0; }
+.page-content dl dt { font-size: 1.05rem; font-weight: 700; margin-bottom: 0.5rem; }
+.page-content dl dt a { color: var(--red); }
+.page-content dl dd { margin-left: 0; }
+.page-content dl dd p { margin-bottom: 0.8rem; }
+
 /* ── Search ── */
 .search-wrap { margin-top: 1.5rem; }
 
@@ -551,7 +559,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   padding: 0;
   margin: 0;
   display: block;
-  border-top: 3px solid var(--red);
   padding-top: 0.5rem;
 }
 
