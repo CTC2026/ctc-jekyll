@@ -609,7 +609,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   background: rgba(178, 8, 57, 0.07);
 }
 
-.ctc-sidebar ul > li:first-child > a {
+.ctc-sidebar > ul > li:first-child > a {
   font-size: 0.95rem;
   font-weight: 900;
 }
@@ -618,13 +618,12 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   border-top: none;
   padding-top: 0;
   margin-top: 0.2rem;
-  padding-left: 1.5rem;
 }
 
 .ctc-sidebar .sidebar-children li a {
   font-size: 0.82rem;
   font-weight: 400;
-  padding: 0.25rem 0.75rem;
+  padding: 0.25rem 0.75rem 0.25rem 1.5rem;
   border-left-width: 2px;
 }
 
@@ -786,6 +785,8 @@ details.translation summary::-webkit-details-marker { display: none; }
 details.translation summary::before { content: '▶  '; font-size: 0.7em; }
 details.translation[open] summary::before { content: '▼  '; }
 .trans-table, .transcript { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+
+main table { margin-bottom: 1.5rem; }
 .trans-table th, .transcript th { background: #f0ebe4; padding: 0.5rem; text-align: left; font-weight: 700; color: var(--red); border-bottom: 2px solid var(--red); }
 .trans-table td, .transcript td { padding: 0.45rem 0.6rem; vertical-align: top; border-bottom: 1px solid #eee; line-height: 1.65; }
 .trans-table td:first-child, .transcript td:first-child { width: 50%; border-right: 1px solid #ddd; }
@@ -838,3 +839,25 @@ details.works-consulted li { font-size: 0.85rem; margin-bottom: 0.6rem; line-hei
 
 /* Images embedded in page content (project team photos, book covers) */
 .ctc-sidebar-main img { max-width: 100%; height: auto; display: block; margin: 1.5rem 0; }
+
+.content-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  margin: 1.5rem 0;
+}
+.content-table th {
+  background: var(--red);
+  color: #fff;
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  font-weight: 700;
+  border: 1px solid var(--red);
+}
+.content-table td {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #ccc;
+  vertical-align: top;
+  line-height: 1.65;
+  background: #f7f7f7;
+}
