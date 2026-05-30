@@ -234,6 +234,7 @@ nav ul li a.active {
 .page-banner {
   width: 100%;
   overflow: hidden;
+  background: #fff;
 }
 
 .page-banner img {
@@ -647,17 +648,23 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   font-size: 0.88rem;
   line-height: 1.6;
 }
-.module-info dl { margin: 0; padding: 0; }
-.module-info dl > div {
-  display: block;
+.module-info dl {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.5rem;
+  row-gap: 0.3rem;
+}
+.module-info dt {
   padding-left: 1.2rem;
   position: relative;
-  margin-bottom: 0.3rem;
+  font-weight: 700;
+  color: var(--text);
 }
-.module-info dl > div::before { content: "•"; position: absolute; left: 0; color: var(--red); }
-.module-info dt { display: inline; font-weight: 700; color: var(--text); }
-.module-info dt::after { content: ": "; font-weight: 700; }
-.module-info dd { display: inline; margin: 0; padding: 0; }
+.module-info dt::before { content: "•"; position: absolute; left: 0; color: var(--red); }
+.module-info dt::after { content: ":"; }
+.module-info dd { margin: 0; padding: 0; }
 
 .module-figure {
   clear: both;
@@ -742,7 +749,8 @@ details.works-consulted summary {
 details.works-consulted summary::-webkit-details-marker { display: none; }
 details.works-consulted summary::before { content: '▶  '; font-size: 0.7em; }
 details.works-consulted[open] summary::before { content: '▼  '; }
-details.works-consulted p { font-size: 0.85rem; margin-bottom: 0.6rem; }
+details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
+details.works-consulted li { font-size: 0.85rem; margin-bottom: 0.6rem; line-height: 1.55; }
 
 .module-authors { margin-top: 2rem; font-size: 0.85rem; color: #595959; border-top: 1px solid #ddd; padding-top: 0.8rem; }
 

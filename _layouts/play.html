@@ -26,7 +26,7 @@ layout: default
   </nav>
 
   <div class="ctc-sidebar-main page-content">
-    <h1>{{ page.heading | default: page.title }}</h1>
+    {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {{ content }}
   </div>
 
