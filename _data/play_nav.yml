@@ -69,22 +69,25 @@ guan-hanqing:
     url: /plays/guan-hanqing/
   - title: "Dou E: Intro"
     url: /plays/guan-hanqing/doue/
-  - title: Snow in June (1959)
-    url: /plays/guan-hanqing/doue-1959-opera-film1/
-  - title: Dou E Yuan (1959)
-    url: /plays/guan-hanqing/doue-1959-opera-film2/
-  - title: Crimson Palm (1964)
-    url: /plays/guan-hanqing/feiyimeng-1964-opera-film/
+    children:
+      - title: Snow in June (1959)
+        url: /plays/guan-hanqing/doue-1959-opera-film1/
+      - title: Dou E Yuan (1959)
+        url: /plays/guan-hanqing/doue-1959-opera-film2/
+      - title: Crimson Palm (1964)
+        url: /plays/guan-hanqing/feiyimeng-1964-opera-film/
   - title: "Courtesan: Intro"
     url: /plays/guan-hanqing/jiufengchen/
-  - title: Rescuing a Sister (2021)
-    url: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
-  - title: Dream of Splendor (2022)
-    url: /plays/guan-hanqing/jiufengchen-2022-tv/
+    children:
+      - title: Rescuing a Sister (2021)
+        url: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
+      - title: Dream of Splendor (2022)
+        url: /plays/guan-hanqing/jiufengchen-2022-tv/
   - title: "Clever Maid: Intro"
     url: /plays/guan-hanqing/zhanizi/
-  - title: Yanyan (2016)
-    url: /plays/guan-hanqing/zhanizi-2016-recorded-perf/
+    children:
+      - title: Yanyan (2016)
+        url: /plays/guan-hanqing/zhanizi-2016-recorded-perf/
 
 orphan-of-zhao:
   - title: Intro

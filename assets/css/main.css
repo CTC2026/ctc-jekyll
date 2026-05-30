@@ -609,15 +609,20 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   background: rgba(178, 8, 57, 0.07);
 }
 
+.ctc-sidebar ul > li:first-child > a {
+  font-size: 0.95rem;
+  font-weight: 900;
+}
+
 .sidebar-children {
   border-top: none;
   padding-top: 0;
   margin-top: 0.2rem;
-  padding-left: 0.75rem;
+  padding-left: 1.5rem;
 }
 
 .ctc-sidebar .sidebar-children li a {
-  font-size: 0.7rem;
+  font-size: 0.82rem;
   font-weight: 400;
   padding: 0.25rem 0.75rem;
   border-left-width: 2px;
