@@ -161,23 +161,18 @@ Mei Hua (<span lang="zh">梅花</span>), Yingying's servant, weeps at the side o
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Chen, Xiaomei. *Acting the Right Part: Political Theater and Popular Drama in Contemporary China*. Honolulu: University of Hawaii Press, 2002.
 
-Deng Yunjia <span lang="zh">邓运佳</span>, ed. *Chuanju yishu gailun* <span lang="zh">川剧艺术概论</span> (An Overview of the Art of Chuanju). Chengdu: Sichuan sheng shehuike xueyuan chubanshe, 1988.
-
-Guan Hanqing <span lang="zh">關漢卿</span> (ca.1220s–after 1279) attr. *Zha nizi tiao fengyue* <span lang="zh">詐妮子調風月</span> (A Clever Maid Maneuvers Her Way into Romance). In *Yuankan zaju sanshi zhong* <span lang="zh">元刊雜劇三十種</span> (Thirty Yuan-Printed Plays), *Guben xiqu congkan siji* <span lang="zh">古本戲曲叢刊四集</span>. Shanghai: Commercial Press, 1958.
-
-Hu Miao <span lang="zh">胡淼</span>. "Xu Fen juzuo zhong de nüxingzhuyi biaoda" <span lang="zh">徐棻剧作中的女性主义表达</span> (The Expression of Feminism in Xu Fen's Scripts). *Sichuan xiju* <span lang="zh">四川戏剧</span>, 3 (2023): 46–48.
-
-Lam, Lin Hong. *The Spatiality of Emotions in Early Modern China: From Dreamscapes to Theatricality*. New York: Columbia University Press, 2018.
-
-Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.
-
-Gong Ping. "Famous Repertoires and Artists Leading Chuanju Forward." In Wu Aili, Chen Zhongwen, Cai Yan, Ma Hui, ed. *Chinese Performing Arts*, 7 (Jul. 2023): 33–45.
-
-Xu Fen <span lang="zh">徐棻</span>, Yu Jun <span lang="zh">羽军</span>. *Yanyan* <span lang="zh">燕燕</span>. Chengdu: Sichuan renmin chubanshe chuban, 1981.
-
-Zhang Chuanfang <span lang="zh">张传方</span>. "Tan 'San ge yatou de mingyun de wutai sheji'" <span lang="zh">谈</span>《<span lang="zh">三个丫头的命运</span>》<span lang="zh">的舞台设计</span> (A Discussion of the Stage Design for the Final Fate of Three Servants). *Sichuan xiju* <span lang="zh">四川戏剧</span>, 4 (1990): 41–43.
+<ul>
+<li>Chen, Xiaomei. *Acting the Right Part: Political Theater and Popular Drama in Contemporary China*. Honolulu: University of Hawaii Press, 2002.</li>
+<li>Deng Yunjia <span lang="zh">邓运佳</span>, ed. *Chuanju yishu gailun* <span lang="zh">川剧艺术概论</span> (An Overview of the Art of Chuanju). Chengdu: Sichuan sheng shehuike xueyuan chubanshe, 1988.</li>
+<li>Guan Hanqing <span lang="zh">關漢卿</span> (ca.1220s–after 1279) attr. *Zha nizi tiao fengyue* <span lang="zh">詐妮子調風月</span> (A Clever Maid Maneuvers Her Way into Romance). In *Yuankan zaju sanshi zhong* <span lang="zh">元刊雜劇三十種</span> (Thirty Yuan-Printed Plays), *Guben xiqu congkan siji* <span lang="zh">古本戲曲叢刊四集</span>. Shanghai: Commercial Press, 1958.</li>
+<li>Hu Miao <span lang="zh">胡淼</span>. "Xu Fen juzuo zhong de nüxingzhuyi biaoda" <span lang="zh">徐棻剧作中的女性主义表达</span> (The Expression of Feminism in Xu Fen's Scripts). *Sichuan xiju* <span lang="zh">四川戏剧</span>, 3 (2023): 46–48.</li>
+<li>Lam, Lin Hong. *The Spatiality of Emotions in Early Modern China: From Dreamscapes to Theatricality*. New York: Columbia University Press, 2018.</li>
+<li>Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.</li>
+<li>Gong Ping. "Famous Repertoires and Artists Leading Chuanju Forward." In Wu Aili, Chen Zhongwen, Cai Yan, Ma Hui, ed. *Chinese Performing Arts*, 7 (Jul. 2023): 33–45.</li>
+<li>Xu Fen <span lang="zh">徐棻</span>, Yu Jun <span lang="zh">羽军</span>. *Yanyan* <span lang="zh">燕燕</span>. Chengdu: Sichuan renmin chubanshe chuban, 1981.</li>
+<li>Zhang Chuanfang <span lang="zh">张传方</span>. "Tan 'San ge yatou de mingyun de wutai sheji'" <span lang="zh">谈</span>《<span lang="zh">三个丫头的命运</span>》<span lang="zh">的舞台设计</span> (A Discussion of the Stage Design for the Final Fate of Three Servants). *Sichuan xiju* <span lang="zh">四川戏剧</span>, 4 (1990): 41–43.</li>
+</ul>
 
 </details>
 

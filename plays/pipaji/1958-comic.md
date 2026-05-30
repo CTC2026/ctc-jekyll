@@ -1,7 +1,7 @@
 ---
 layout: play
 title: "New Year's Print of the Lute 《琵琶记》年画连环画 (1958)"
-heading: 'New Year's Print of the Lute 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)'
+heading: "New Year's Print of the Lute 《<span lang=\"zh\">琵琶记</span>》<span lang=\"zh\">年画连环画</span> (1958)"
 permalink: /plays/pipaji/1958-comic/
 play_id: pipaji
 play_title: "The Lute"
@@ -115,11 +115,12 @@ This final panel thus works to overcome the *nianhua*'s two layers of inauspicio
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Flath, James. *The Cult of Happiness: Nianhua, Art, and History in Rural North China*. Vancouver: University of British Columbia Press, 2004.
 
-Liu, Yongsheng <span lang="zh">刘永胜</span>. "Zhongzhen xiaoyi Zhao Wuniang: chongdu lianhuanhua Pipaji" <span lang="zh">忠贞孝义赵五娘</span>：<span lang="zh">重读连环画</span>《<span lang="zh">琵琶记</span>》(Loyal and Steadfast, Filial and Righteous Zhao Wuniang: Rereading *The Lute Lianhuanhua*). *Pipaji nianhua lianhuanhua* <span lang="zh">琵琶记</span> <span lang="zh">年画连环画</span> (*Serial New Year's Print of The Lute*), 5-9. Shanghai: Shanghai People's Fine Arts Press, 2010.
-
-Zhou, Chujiang <span lang="zh">周楚江</span>. "Shanghai meishu zhuanke xuexiao koushu shi zhi er" <span lang="zh">上海美术专科学校口述史之二</span> (Shanghai University Fine Arts College Oral History, No. 2). *Shanghai dansan* <span lang="zh">上海档案</span> (Shanghai Archives). Accessed June 12, 2023.
+<ul>
+<li>Flath, James. *The Cult of Happiness: Nianhua, Art, and History in Rural North China*. Vancouver: University of British Columbia Press, 2004.</li>
+<li>Liu, Yongsheng <span lang="zh">刘永胜</span>. "Zhongzhen xiaoyi Zhao Wuniang: chongdu lianhuanhua Pipaji" <span lang="zh">忠贞孝义赵五娘</span>：<span lang="zh">重读连环画</span>《<span lang="zh">琵琶记</span>》(Loyal and Steadfast, Filial and Righteous Zhao Wuniang: Rereading *The Lute Lianhuanhua*). *Pipaji nianhua lianhuanhua* <span lang="zh">琵琶记</span> <span lang="zh">年画连环画</span> (*Serial New Year's Print of The Lute*), 5-9. Shanghai: Shanghai People's Fine Arts Press, 2010.</li>
+<li>Zhou, Chujiang <span lang="zh">周楚江</span>. "Shanghai meishu zhuanke xuexiao koushu shi zhi er" <span lang="zh">上海美术专科学校口述史之二</span> (Shanghai University Fine Arts College Oral History, No. 2). *Shanghai dansan* <span lang="zh">上海档案</span> (Shanghai Archives). Accessed June 12, 2023.</li>
+</ul>
 
 </details>
 

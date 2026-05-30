@@ -105,17 +105,15 @@ The final print depicts Scholar Zhang "returning home in glory" (yijin huanxiang
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Clunas, Craig. *Pictures and Visuality in Early Modern China*. Princeton: Princeton University Press, 1997.
 
-Hsu Wen-chin. "Illustrations of 'Romance of the Western Chamber' on Chinese Porcelains: Iconography, Style, and Development." *Ars Orientalis* 40 (2011): 39–107.
-
-Purtle, Jennifer. "Scopic Frames: Devices for Seeing China c. 1640." *Art History* 33, no. 1 (Feb 2010): 54–73.
-
-Sieber, Patricia and Gillian Yanzhuang Zhang. "The Story of the Western Wing: Theater and the Printed Image." In *How to Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 101–126. New York: Columbia University Press, 2022.
-
-West, Stephen H., and Wilt L. Idema, ed. and trans. *The Moon and the Zither: The Story of the Western Wing*. Berkeley: University of California Press, 1991.
-
-Wu Hung. *The Double Screen: Medium and Representation in Chinese Painting*. Chicago: University of Chicago Press, 1996.
+<ul>
+<li>Clunas, Craig. *Pictures and Visuality in Early Modern China*. Princeton: Princeton University Press, 1997.</li>
+<li>Hsu Wen-chin. "Illustrations of 'Romance of the Western Chamber' on Chinese Porcelains: Iconography, Style, and Development." *Ars Orientalis* 40 (2011): 39–107.</li>
+<li>Purtle, Jennifer. "Scopic Frames: Devices for Seeing China c. 1640." *Art History* 33, no. 1 (Feb 2010): 54–73.</li>
+<li>Sieber, Patricia and Gillian Yanzhuang Zhang. "The Story of the Western Wing: Theater and the Printed Image." In *How to Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 101–126. New York: Columbia University Press, 2022.</li>
+<li>West, Stephen H., and Wilt L. Idema, ed. and trans. *The Moon and the Zither: The Story of the Western Wing*. Berkeley: University of California Press, 1991.</li>
+<li>Wu Hung. *The Double Screen: Medium and Representation in Chinese Painting*. Chicago: University of Chicago Press, 1996.</li>
+</ul>
 
 </details>
 

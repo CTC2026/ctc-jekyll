@@ -106,11 +106,12 @@ Crimson's imitative mode and impersonation suggest that she continues playing tr
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor: University of Michigan Press, 2021.
 
-Sieber, Patricia. "The Pavilion of Praying to the Moon and The Injustice of Dou E: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 74-100. New York: Columbia University Press, 2022.
-
-Xing Fan. "Stars on the Rise: The Jingju Actresses in Republican China." In *Women in Asian Performance: Aesthetics and Politics*, edited by Arya Madhavan, 70-81. London and New York: Routledge, 2017.
+<ul>
+<li>Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor: University of Michigan Press, 2021.</li>
+<li>Sieber, Patricia. "The Pavilion of Praying to the Moon and The Injustice of Dou E: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 74-100. New York: Columbia University Press, 2022.</li>
+<li>Xing Fan. "Stars on the Rise: The Jingju Actresses in Republican China." In *Women in Asian Performance: Aesthetics and Politics*, edited by Arya Madhavan, 70-81. London and New York: Routledge, 2017.</li>
+</ul>
 
 </details>
 

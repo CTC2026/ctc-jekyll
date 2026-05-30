@@ -127,9 +127,11 @@ The speech bubble thus sits at a complex confluence of cultural practices: with 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Bilibili Manhua <span lang="zh">哔哩哔哩漫画</span>. "Lianhuanhua Xixiangji zuozhe hanjian digao baoguang! Gongbi shinü tu tai meile!" <span lang="zh">连环画</span>《<span lang="zh">西厢记</span>》<span lang="zh">作者罕见底稿曝光</span>! <span lang="zh">工笔仕女图太美了</span>. Posted May 3, 2021.
 
-"Wang Shuhui lianhuanhua Xixiangji, gongbi renwu dianfeng zhi zuo" <span lang="zh">王叔晖连环画</span>《<span lang="zh">西厢记</span>》，<span lang="zh">工笔人物颠峰之作</span>. Zhongguo zihua wang <span lang="zh">中国字画网</span> (Chinese Calligraphy &amp; Painting Net). Accessed September 18, 2023.
+<ul>
+<li>Bilibili Manhua <span lang="zh">哔哩哔哩漫画</span>. "Lianhuanhua Xixiangji zuozhe hanjian digao baoguang! Gongbi shinü tu tai meile!" <span lang="zh">连环画</span>《<span lang="zh">西厢记</span>》<span lang="zh">作者罕见底稿曝光</span>! <span lang="zh">工笔仕女图太美了</span>. Posted May 3, 2021.</li>
+<li>"Wang Shuhui lianhuanhua Xixiangji, gongbi renwu dianfeng zhi zuo" <span lang="zh">王叔晖连环画</span>《<span lang="zh">西厢记</span>》，<span lang="zh">工笔人物颠峰之作</span>. Zhongguo zihua wang <span lang="zh">中国字画网</span> (Chinese Calligraphy &amp; Painting Net). Accessed September 18, 2023.</li>
+</ul>
 
 </details>
 

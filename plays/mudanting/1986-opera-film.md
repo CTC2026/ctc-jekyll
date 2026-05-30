@@ -84,17 +84,15 @@ This sequence takes place during the last act of the movie, "The Soul's Departur
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Chen, Lang <span lang="zh">陈朗</span>. "Suzhou budi shi'eryong – Ji Kunqu chuanxisuo chengli liushi zhounian jinian huodong" <span lang="zh">苏州捕笛十二咏</span> (Remembering the Activities Commemorating the Sixtieth Anniversary of the Establishment of the Kunqu Chuanxisuo in Suzhou). *Renmin xiju* (1982).
 
-Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.
-
-Song, Jie <span lang="zh">宋洁</span>. "Mudanting de dianying chuanbo" «<span lang="zh">牡丹亭</span>»<span lang="zh">的电影传播</span> (A Study of *The Peony Pavilion*'s Dissemination Through Film). Master's thesis, Lanzhou University. 2012.
-
-Tang, Xianzu <span lang="zh">汤显祖</span>. *The Peony Pavilion: Mudan ting*. 2nd edition. Trans. Cyril Birch. Bloomington: Indiana University Press, 2002.
-
-Yang, Daniel S. P. "Theatre in Post-Cultural Revolution China: A Report Based on Field Research in the Fall and Winter of 1981." *Asian Theatre Journal*, vol. 1, no. 1, 1984, pp. 90–103.
-
-Zhang Jiqing <span lang="zh">张继青</span>. "Mudanting: Jingmeng" <span lang="zh">牡丹亭</span>：<span lang="zh">惊梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 343-354. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
+<ul>
+<li>Chen, Lang <span lang="zh">陈朗</span>. "Suzhou budi shi'eryong – Ji Kunqu chuanxisuo chengli liushi zhounian jinian huodong" <span lang="zh">苏州捕笛十二咏</span> (Remembering the Activities Commemorating the Sixtieth Anniversary of the Establishment of the Kunqu Chuanxisuo in Suzhou). *Renmin xiju* (1982).</li>
+<li>Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.</li>
+<li>Song, Jie <span lang="zh">宋洁</span>. "Mudanting de dianying chuanbo" «<span lang="zh">牡丹亭</span>»<span lang="zh">的电影传播</span> (A Study of *The Peony Pavilion*'s Dissemination Through Film). Master's thesis, Lanzhou University. 2012.</li>
+<li>Tang, Xianzu <span lang="zh">汤显祖</span>. *The Peony Pavilion: Mudan ting*. 2nd edition. Trans. Cyril Birch. Bloomington: Indiana University Press, 2002.</li>
+<li>Yang, Daniel S. P. "Theatre in Post-Cultural Revolution China: A Report Based on Field Research in the Fall and Winter of 1981." *Asian Theatre Journal*, vol. 1, no. 1, 1984, pp. 90–103.</li>
+<li>Zhang Jiqing <span lang="zh">张继青</span>. "Mudanting: Jingmeng" <span lang="zh">牡丹亭</span>：<span lang="zh">惊梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 343-354. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.</li>
+</ul>
 
 </details>
 

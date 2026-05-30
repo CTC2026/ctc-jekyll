@@ -201,21 +201,17 @@ As in the poster, Dou E's red shirt obviously resonates with the red iconography
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Bao, Weihong. "The Politics of Remediation: Mise-en-scène and the Subjunctive Body in Chinese Opera Film." *The Opera Quarterly* 26, no. 2–3 (2010): 256–290.
 
-Chinese Posters, accessed October 26, 2024, https://chineseposters.net/.
-
-Harris, Kristine. "Re-makes/Re-models: The Red Detachment of Women between Stage and Screen." *The Opera Quarterly* 26, no. 2–3 (2010): 316–342.
-
-Li Xiaogang <span lang="zh">李小刚</span>. "Xiying yanran—xinban puju dianying Dou E yuan shenmei tanwei <span lang="zh">戏影晏然</span>—<span lang="zh">新版蒲剧电影</span>《<span lang="zh">窦娥冤</span>》<span lang="zh">审美探微</span> (The Tranquility of Theatrical Shadows: Aesthetic Insights into the New Version of the Pu Opera Film Dou E Yuan)." *Beifang gongye daxue xuebao* 34, no. 5 (2022): 133–139.
-
-Sun, Susanna. "Becoming Awakened: Four Yue Opera Segments in Xie Jin's Two Stage Sisters." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 42, no. 2 (2023): 130–164.
-
-Yang, Bingyu <span lang="zh">颜丙玉</span>. "Manhua Yan Fengchun chuangshi maochi gong <span lang="zh">漫话闫逢春创始帽翅功</span> (A Discussion on Yan Fengchun's Founding of Flapping Hat Wing)." *Xiqu yishu*, no. 4 (1983): 59–60.
-
-You, Ziying. "Entertaining Deities and Humans with Performances of Puju (Puzhou Opera) at a Temple Fair in Yangxie Village, Southwestern Shanxi, May 29–June 2, 2013." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 34, no. 2 (2015): 139–161.
-
-Zeitlin, Judith. "Operatic Ghosts on Screen: The Case of A Test of Love (1958)." *The Opera Quarterly* 26, no. 2–3 (2010): 220–255.
+<ul>
+<li>Bao, Weihong. "The Politics of Remediation: Mise-en-scène and the Subjunctive Body in Chinese Opera Film." *The Opera Quarterly* 26, no. 2–3 (2010): 256–290.</li>
+<li>Chinese Posters, accessed October 26, 2024, https://chineseposters.net/.</li>
+<li>Harris, Kristine. "Re-makes/Re-models: The Red Detachment of Women between Stage and Screen." *The Opera Quarterly* 26, no. 2–3 (2010): 316–342.</li>
+<li>Li Xiaogang <span lang="zh">李小刚</span>. "Xiying yanran—xinban puju dianying Dou E yuan shenmei tanwei <span lang="zh">戏影晏然</span>—<span lang="zh">新版蒲剧电影</span>《<span lang="zh">窦娥冤</span>》<span lang="zh">审美探微</span> (The Tranquility of Theatrical Shadows: Aesthetic Insights into the New Version of the Pu Opera Film Dou E Yuan)." *Beifang gongye daxue xuebao* 34, no. 5 (2022): 133–139.</li>
+<li>Sun, Susanna. "Becoming Awakened: Four Yue Opera Segments in Xie Jin's Two Stage Sisters." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 42, no. 2 (2023): 130–164.</li>
+<li>Yang, Bingyu <span lang="zh">颜丙玉</span>. "Manhua Yan Fengchun chuangshi maochi gong <span lang="zh">漫话闫逢春创始帽翅功</span> (A Discussion on Yan Fengchun's Founding of Flapping Hat Wing)." *Xiqu yishu*, no. 4 (1983): 59–60.</li>
+<li>You, Ziying. "Entertaining Deities and Humans with Performances of Puju (Puzhou Opera) at a Temple Fair in Yangxie Village, Southwestern Shanxi, May 29–June 2, 2013." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 34, no. 2 (2015): 139–161.</li>
+<li>Zeitlin, Judith. "Operatic Ghosts on Screen: The Case of A Test of Love (1958)." *The Opera Quarterly* 26, no. 2–3 (2010): 220–255.</li>
+</ul>
 
 </details>
 

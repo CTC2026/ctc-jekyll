@@ -91,9 +91,11 @@ During Mulan's service in the army, the change of voice is done in a subtle way;
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-"Hua Mulan: yuju yu qita yishu" 《<span lang="zh">花木兰</span>》（<span lang="zh">豫剧与其他艺术</span>）(Hua Mulan: Yu Opera and other arts). *Zhongguo da baike quanshu* <span lang="zh">中国大百科全书</span> (The Chinese Encyclopedia). Accessed August 10, 2023. https://www.zgbk.com/ecph/words?SiteID=1&ID=25588.
 
-"Yuju Hua Mulan juben" <span lang="zh">豫剧</span>《<span lang="zh">花木兰</span>》<span lang="zh">剧本</span> (The Script of the Yu Opera Hua Mulan). Jianpuwang. Accessed August 10, 2023. http://www.jianpuw.com/htm/qv/58010.htm.
+<ul>
+<li>"Hua Mulan: yuju yu qita yishu" 《<span lang="zh">花木兰</span>》（<span lang="zh">豫剧与其他艺术</span>）(Hua Mulan: Yu Opera and other arts). *Zhongguo da baike quanshu* <span lang="zh">中国大百科全书</span> (The Chinese Encyclopedia). Accessed August 10, 2023. https://www.zgbk.com/ecph/words?SiteID=1&ID=25588.</li>
+<li>"Yuju Hua Mulan juben" <span lang="zh">豫剧</span>《<span lang="zh">花木兰</span>》<span lang="zh">剧本</span> (The Script of the Yu Opera Hua Mulan). Jianpuwang. Accessed August 10, 2023. http://www.jianpuw.com/htm/qv/58010.htm.</li>
+</ul>
 
 </details>
 

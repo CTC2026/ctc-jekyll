@@ -356,13 +356,13 @@ Wang Deyong is played by the same clown role actor (*chou* <span lang="zh">丑</
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Qu Liuyi <span lang="zh">曲六乙</span>. "Zhang Xie Zhuangyuan: cong nanxi dao Yongjia kunqu 《<span lang="zh">张协状元</span>》：<span lang="zh">从南戏到永嘉昆曲</span>" (Top Graduate Zhang Xie: From Nanxi to Yongjia-style Kunqu). In *Kunju Zhang Xie Zhuangyuan pinglun ji* <span lang="zh">昆剧</span>《<span lang="zh">张协状元</span>》<span lang="zh">评论集</span> (A Collection of Essays on Zhang Xie Zhuangyuan), edited by Zhongguo xiqu xuehui <span lang="zh">中国戏曲学会</span> et al., 71-79. Beijing: Zhongguo xiju chubanshe, 2004.
 
-Yongjia County Government <span lang="zh">永嘉县人民政府</span>, "Yongjia Kunju" <span lang="zh">永嘉昆剧</span>.
-
-Zhongguo Dabaike quanshu <span lang="zh">中国大百科全书</span>. "Wenzhou Kunju" <span lang="zh">温州昆曲</span>.
-
-Zhongguo Dabaike quanshu <span lang="zh">中国大百科全书</span>. Yang Kun <span lang="zh">杨崑</span> (Yang Juan <span lang="zh">杨娟</span>).
+<ul>
+<li>Qu Liuyi <span lang="zh">曲六乙</span>. "Zhang Xie Zhuangyuan: cong nanxi dao Yongjia kunqu 《<span lang="zh">张协状元</span>》：<span lang="zh">从南戏到永嘉昆曲</span>" (Top Graduate Zhang Xie: From Nanxi to Yongjia-style Kunqu). In *Kunju Zhang Xie Zhuangyuan pinglun ji* <span lang="zh">昆剧</span>《<span lang="zh">张协状元</span>》<span lang="zh">评论集</span> (A Collection of Essays on Zhang Xie Zhuangyuan), edited by Zhongguo xiqu xuehui <span lang="zh">中国戏曲学会</span> et al., 71-79. Beijing: Zhongguo xiju chubanshe, 2004.</li>
+<li>Yongjia County Government <span lang="zh">永嘉县人民政府</span>, "Yongjia Kunju" <span lang="zh">永嘉昆剧</span>.</li>
+<li>Zhongguo Dabaike quanshu <span lang="zh">中国大百科全书</span>. "Wenzhou Kunju" <span lang="zh">温州昆曲</span>.</li>
+<li>Zhongguo Dabaike quanshu <span lang="zh">中国大百科全书</span>. Yang Kun <span lang="zh">杨崑</span> (Yang Juan <span lang="zh">杨娟</span>).</li>
+</ul>
 
 </details>
 

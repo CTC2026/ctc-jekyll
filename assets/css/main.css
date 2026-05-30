@@ -236,6 +236,7 @@ nav ul li a.active {
   overflow: hidden;
   background: #fff;
   position: relative;
+  border-bottom: 3px solid var(--red);
 }
 
 .page-banner img {
@@ -257,7 +258,6 @@ nav ul li a.active {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-  border-bottom: 3px solid var(--red);
 }
 
 /* ── Content Card ── */
@@ -421,13 +421,18 @@ main blockquote {
   .about-structure-img { flex: 0 0 auto; width: 160px; margin: 0 auto; }
 }
 
-/* ── Contributors page dl/dt/dd ── */
-.page-content dl { margin: 0 0 2rem; padding-top: 1.5rem; border-top: 1px solid #ddd; }
-.page-content dl:first-of-type { border-top: none; padding-top: 0; }
-.page-content dl dt { font-size: 1.05rem; font-weight: 700; margin-bottom: 0.5rem; }
-.page-content dl dt a { color: var(--red); }
-.page-content dl dd { margin-left: 0; }
-.page-content dl dd p { margin-bottom: 0.8rem; }
+/* ── Contributors page dl/dt/dd (about layout has .ctc-sidebar-main) ── */
+.ctc-sidebar-main dl { margin: 0 0 2rem; padding-top: 1.5rem; border-top: 1px solid #ddd; }
+.ctc-sidebar-main dl:first-of-type { border-top: none; padding-top: 0; }
+.ctc-sidebar-main dl dt { font-size: 1.05rem; font-weight: 700; margin-bottom: 0.5rem; }
+.ctc-sidebar-main dl dt a { color: var(--red); }
+.ctc-sidebar-main dl dd { margin-left: 0; }
+.ctc-sidebar-main dl dd p { margin-bottom: 0.8rem; }
+
+/* ── Module listing dl on media pages ── */
+.module-list { margin: 1rem 0 1.5rem; }
+.module-list dt { font-weight: 700; color: var(--text); margin-top: 0.9rem; }
+.module-list dd { margin-left: 0; color: #595959; font-size: 0.92rem; line-height: 1.6; }
 
 /* ── Search ── */
 .search-wrap { margin-top: 1.5rem; }
@@ -503,7 +508,9 @@ footer a { color: #ffd966; }
 .nav-toggle:hover { border-color: #fff; }
 
 /* ── Responsive ── */
-@media (max-width: 768px) {
+
+/* Tablet and below: hamburger nav (full nav overflows at these widths) */
+@media (max-width: 1024px) {
   .nav-toggle { display: flex; }
 
   nav ul {
@@ -520,7 +527,10 @@ footer a { color: #ffd966; }
   }
   nav ul.nav-open { display: flex; }
   nav ul li a { height: auto; padding: 0.8rem 1.5rem; }
+}
 
+/* Mobile: content and layout adjustments */
+@media (max-width: 768px) {
   .home-hero { height: 260px; }
   .page-content { padding: 2rem 1.2rem; }
   main > h1, main > .card-grid, main > p {
@@ -556,7 +566,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar {
-  flex: 0 0 85px;
+  flex: 0 0 165px;
   background: #f7f3ee;
   border-right: 1px solid #ddd;
   padding: 6.2rem 0 3rem;
@@ -619,9 +629,16 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
     min-height: unset;
     border-right: none;
     border-bottom: 1px solid #ddd;
-    padding: 1.5rem 0 1rem;
+    padding: 0.75rem 0;
   }
-  .ctc-sidebar ul li a { padding: 0.45rem 1.2rem; }
+  .ctc-sidebar ul {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: none;
+    padding-top: 0;
+    gap: 0;
+  }
+  .ctc-sidebar ul li a { padding: 0.4rem 0.9rem; font-size: 0.78rem; }
 }
 
 /* ── Module pages (play subpages) ── */
@@ -669,23 +686,17 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   font-size: 0.88rem;
   line-height: 1.6;
 }
-.module-info dl {
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  column-gap: 0.5rem;
-  row-gap: 0.3rem;
-}
-.module-info dt {
+.module-info dl { margin: 0; padding: 0; }
+.module-info dl > div {
+  display: block;
   padding-left: 1.2rem;
   position: relative;
-  font-weight: 700;
-  color: var(--text);
+  margin-bottom: 0.3rem;
 }
-.module-info dt::before { content: "•"; position: absolute; left: 0; color: var(--red); }
-.module-info dt::after { content: ":"; }
-.module-info dd { margin: 0; padding: 0; }
+.module-info dl > div::before { content: "•"; position: absolute; left: 0; color: var(--red); }
+.module-info dt { display: inline; font-weight: 700; color: var(--text); }
+.module-info dt::after { content: ": "; font-weight: 700; }
+.module-info dd { display: inline; margin: 0; padding: 0; }
 
 .module-figure {
   clear: both;

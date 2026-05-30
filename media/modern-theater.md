@@ -16,5 +16,8 @@ In recent years, playwrights in the Chinese-speaking world as well as the diaspo
 
 ## Modules on Modern Theater and Mixed Media Performances
 
-**Rescuing One's Sister in the Wind and Dust (2021)**  
-"Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.
+<dl class="module-list">
+<dt markdown="1">Rescuing One's Sister in the Wind and Dust (2021)</dt>
+<dd markdown="1">"Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.</dd>
+</dl>
+

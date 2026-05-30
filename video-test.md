@@ -20,7 +20,7 @@ permalink: /video-test/
   </div>
 
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSubtitle('zh')">中文字幕</button>
+    <button class="sub-btn active" data-lang="zh" onclick="switchSubtitle('zh')"><span lang="zh">中文字幕</span></button>
     <button class="sub-btn" data-lang="en" onclick="switchSubtitle('en')">English</button>
     <button class="sub-btn" data-lang="off" onclick="switchSubtitle('off')">Off</button>
   </div>

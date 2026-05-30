@@ -219,13 +219,13 @@ The enduring popularity of "Path on the Outskirts" — still heard today in Tere
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Lu, Shijun <span lang="zh">卢时俊</span> and Gao Yilong <span lang="zh">高义龙</span>. *Shanghai Yueju zhi* <span lang="zh">上海越剧志</span> (An Account of Shanghai Yue Opera). Beijing: China Drama Publishing House, 1997.
 
-Tsang, Raymond. "What Can a Neoi Gwei Teach Us?: Adaptation as Reincarnation in Hong Kong Horror of the 1950s." In *Hong Kong Horror Cinema*, 19–33. United Kingdom: Edinburgh University Press, 2018.
-
-Weng, Sizai <span lang="zh">翁思再</span>. "Ermuyixin Xueshouyin – Guan Jin Jing, Ding Xiaowa zhuyan yueju Xueshouyin suigan" <span lang="zh">耳目一新</span>《<span lang="zh">血手印</span>》——<span lang="zh">观金静</span>、<span lang="zh">丁小蛙主演越剧</span>《<span lang="zh">血手印</span>》<span lang="zh">随感</span> (A refreshing Crimson Palm – Impressions on watching *The Crimson Palm* yueju opera starring Jin Jing and Ding Xiaowa). *Shanghai xiju* <span lang="zh">上海戏剧</span> (Shanghai Theater) 12 (2006): 7–9.
-
-Yau, Esther C. M., and Tony Williams. "Introduction: Hong Kong Neo-Noir." In *Hong Kong Neo-Noir*, edited by Esther C. M. Yau and Tony Williams, 1–10. United Kingdom: Edinburgh University Press, 2017. http://www.jstor.org/stable/10.3366/j.ctt1g051jk.6.
+<ul>
+<li>Lu, Shijun <span lang="zh">卢时俊</span> and Gao Yilong <span lang="zh">高义龙</span>. *Shanghai Yueju zhi* <span lang="zh">上海越剧志</span> (An Account of Shanghai Yue Opera). Beijing: China Drama Publishing House, 1997.</li>
+<li>Tsang, Raymond. "What Can a Neoi Gwei Teach Us?: Adaptation as Reincarnation in Hong Kong Horror of the 1950s." In *Hong Kong Horror Cinema*, 19–33. United Kingdom: Edinburgh University Press, 2018.</li>
+<li>Weng, Sizai <span lang="zh">翁思再</span>. "Ermuyixin Xueshouyin – Guan Jin Jing, Ding Xiaowa zhuyan yueju Xueshouyin suigan" <span lang="zh">耳目一新</span>《<span lang="zh">血手印</span>》——<span lang="zh">观金静</span>、<span lang="zh">丁小蛙主演越剧</span>《<span lang="zh">血手印</span>》<span lang="zh">随感</span> (A refreshing Crimson Palm – Impressions on watching *The Crimson Palm* yueju opera starring Jin Jing and Ding Xiaowa). *Shanghai xiju* <span lang="zh">上海戏剧</span> (Shanghai Theater) 12 (2006): 7–9.</li>
+<li>Yau, Esther C. M., and Tony Williams. "Introduction: Hong Kong Neo-Noir." In *Hong Kong Neo-Noir*, edited by Esther C. M. Yau and Tony Williams, 1–10. United Kingdom: Edinburgh University Press, 2017. http://www.jstor.org/stable/10.3366/j.ctt1g051jk.6.</li>
+</ul>
 
 </details>
 

@@ -39,15 +39,14 @@ After Xu Wei's put the story of Mulan into the public spotlight, it has been con
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Epstein, Maram. *Orthodox Passions: Narrating Filial Love During the High Qing*. Cambridge, MA: Harvard University Asia Center, 2019.
 
-Fu, Hongchu. "The Cultural Fashioning of Filial Piety: A Reading of 'Xiao Zhangtu' (Little Zhang the Butcher)." *Journal of Song-Yuan Studies*, 29 (1999): 63-89.
-
-Kwa, Shiamin. "The Female Mulan Joins the Army in Place of Her Father: Gender and Performance." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 151-167. New York: Columbia University Press, 2022.
-
-Xu Wei. *The Female Mulan Joins the Army in Place of Her Father, Act 1*. In *How To Read Chinese Drama in Chinese: A Language Companion*, edited by Guo Yingde, Wenbo Chang, Patricia Sieber and Zhang Xiaohui, 93-110. New York: Columbia University Press, 2023.
-
-Yu, Jimmy Yung Fung. *Sanctity and Self-Inflicted Violence in Chinese Religions, 1500-1700*. New York: Oxford University Press, 2012.
+<ul>
+<li>Epstein, Maram. *Orthodox Passions: Narrating Filial Love During the High Qing*. Cambridge, MA: Harvard University Asia Center, 2019.</li>
+<li>Fu, Hongchu. "The Cultural Fashioning of Filial Piety: A Reading of 'Xiao Zhangtu' (Little Zhang the Butcher)." *Journal of Song-Yuan Studies*, 29 (1999): 63-89.</li>
+<li>Kwa, Shiamin. "The Female Mulan Joins the Army in Place of Her Father: Gender and Performance." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 151-167. New York: Columbia University Press, 2022.</li>
+<li>Xu Wei. *The Female Mulan Joins the Army in Place of Her Father, Act 1*. In *How To Read Chinese Drama in Chinese: A Language Companion*, edited by Guo Yingde, Wenbo Chang, Patricia Sieber and Zhang Xiaohui, 93-110. New York: Columbia University Press, 2023.</li>
+<li>Yu, Jimmy Yung Fung. *Sanctity and Self-Inflicted Violence in Chinese Religions, 1500-1700*. New York: Oxford University Press, 2012.</li>
+</ul>
 
 </details>
 

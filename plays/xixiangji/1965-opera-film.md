@@ -100,13 +100,13 @@ Instead of just providing explanations and offering gentle prodding, Hongniang's
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Idema, Wilt. "The Story of the Western Wing: Tale, Ballad, and Play." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 31-51. Columbia University Press, 2022.
 
-Liu, Siyuan. "Purifying Theatricality in Performance." In his *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*, 98-156. Ann Arbor: University of Michigan Press, 2021.
-
-Sieber, Patricia and Gillian Yanzhuang Zhang. "The Story of the Western Wing: Theater and the Printed Image." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 101-126. New York: Columbia University Press, 2022.
-
-Wang, Shi-fu. *The Story of the Western Wing*, edited and translated with an introduction by Stephen H. West and Wilt L. Idema. Berkeley and Los Angeles: University of California Press, 1995.
+<ul>
+<li>Idema, Wilt. "The Story of the Western Wing: Tale, Ballad, and Play." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 31-51. Columbia University Press, 2022.</li>
+<li>Liu, Siyuan. "Purifying Theatricality in Performance." In his *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*, 98-156. Ann Arbor: University of Michigan Press, 2021.</li>
+<li>Sieber, Patricia and Gillian Yanzhuang Zhang. "The Story of the Western Wing: Theater and the Printed Image." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 101-126. New York: Columbia University Press, 2022.</li>
+<li>Wang, Shi-fu. *The Story of the Western Wing*, edited and translated with an introduction by Stephen H. West and Wilt L. Idema. Berkeley and Los Angeles: University of California Press, 1995.</li>
+</ul>
 
 </details>
 

@@ -100,7 +100,10 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-Harris, Kristine. "Modern Mulan: Re-imagining the Mulan Legend in Chinese Film, 1920s-60s." In *The New Woman International: Representations in Photography and Film from the 1870s through the 1960s*, edited by Elizabeth Otto and Vanessa Rocco, 309-330. Ann Arbor: The University of Michigan Press, 2011.
+
+<ul>
+<li>Harris, Kristine. "Modern Mulan: Re-imagining the Mulan Legend in Chinese Film, 1920s-60s." In *The New Woman International: Representations in Photography and Film from the 1870s through the 1960s*, edited by Elizabeth Otto and Vanessa Rocco, 309-330. Ann Arbor: The University of Michigan Press, 2011.</li>
+</ul>
 
 </details>
 

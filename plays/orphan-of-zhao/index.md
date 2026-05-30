@@ -58,17 +58,15 @@ After the founding of the People's Republic of China in 1949, methods more commo
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 
-He Yuming. "Adopting *The Orphan*: Theater and Urban Culture in Ming China." In *The Ming World*, edited by Kenneth M. Swope, 161-184. London and New York: Routledge, 2020.
 
-Ma Lianliang <span lang="zh">馬連良</span>. ["Wo yan Cheng Ying" <span lang="zh">我演程嬰</span> (My Performance of Cheng Ying).](https://www.sohu.com/a/271146332_804333) (accessed July 22, 2023)
-
-Ma Lianliang <span lang="zh">馬連良</span> (narration) and Liu Xinyuan <span lang="zh">劉辛原</span> (recording). \"Wo yan Cheng Ying\" <span lang="zh">我演程嬰</span>. In *Ma Lianliang yishu pinglun ji* <span lang="zh">馬連良藝術評論集</span>, edited by Wu Xiaoling <span lang="zh">吳曉鈴</span> and Ma Chongren <span lang="zh">馬崇仁</span>, 326-353. Beijing: Zhongguo xiju chubanshe, 1990. 
-
-Wang Peiyu <span lang="zh">王佩瑜</span>. *Taishang jian : Wang Peiyu Jingju xueyan ji* <span lang="zh">台上見</span>：<span lang="zh">王珮瑜京劇學演記</span> (See You On Stage: Wang Peiyu's Account of Learning How to Perform Beijing Opera). Beijing: Zhongxin chubanshe, 2019. 
-
-Wang, Shih-pe. "*The Orphan of Zhao*: The Meaning of Loyalty and Filiality." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 127-150. New York: Columbia University Press, 2022.
-
-Xu Jinwen <span lang="zh">徐錦文</span>. *Jingju Dong Huang: Zhongguo diyi nu laosheng* <span lang="zh">京劇冬皇</span>：<span lang="zh">中國第一女老生</span> (Queen Dong of Beijing Opera: China\'s First Female Performer of the Senior Male Role). Changsha: Hunan shifan daxue, 2011.
+<ul>
+<li>He Yuming. "Adopting *The Orphan*: Theater and Urban Culture in Ming China." In *The Ming World*, edited by Kenneth M. Swope, 161-184. London and New York: Routledge, 2020.</li>
+<li>Ma Lianliang <span lang="zh">馬連良</span>. ["Wo yan Cheng Ying" <span lang="zh">我演程嬰</span> (My Performance of Cheng Ying).](https://www.sohu.com/a/271146332_804333) (accessed July 22, 2023)</li>
+<li>Ma Lianliang <span lang="zh">馬連良</span> (narration) and Liu Xinyuan <span lang="zh">劉辛原</span> (recording). \"Wo yan Cheng Ying\" <span lang="zh">我演程嬰</span>. In *Ma Lianliang yishu pinglun ji* <span lang="zh">馬連良藝術評論集</span>, edited by Wu Xiaoling <span lang="zh">吳曉鈴</span> and Ma Chongren <span lang="zh">馬崇仁</span>, 326-353. Beijing: Zhongguo xiju chubanshe, 1990.</li>
+<li>Wang Peiyu <span lang="zh">王佩瑜</span>. *Taishang jian : Wang Peiyu Jingju xueyan ji* <span lang="zh">台上見</span>：<span lang="zh">王珮瑜京劇學演記</span> (See You On Stage: Wang Peiyu's Account of Learning How to Perform Beijing Opera). Beijing: Zhongxin chubanshe, 2019.</li>
+<li>Wang, Shih-pe. "*The Orphan of Zhao*: The Meaning of Loyalty and Filiality." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 127-150. New York: Columbia University Press, 2022.</li>
+<li>Xu Jinwen <span lang="zh">徐錦文</span>. *Jingju Dong Huang: Zhongguo diyi nu laosheng* <span lang="zh">京劇冬皇</span>：<span lang="zh">中國第一女老生</span> (Queen Dong of Beijing Opera: China\'s First Female Performer of the Senior Male Role). Changsha: Hunan shifan daxue, 2011.</li>
+</ul>
 
 </details>
 
