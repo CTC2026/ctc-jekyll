@@ -235,6 +235,7 @@ nav ul li a.active {
   width: 100%;
   overflow: hidden;
   background: #fff;
+  position: relative;
 }
 
 .page-banner img {
@@ -244,14 +245,18 @@ nav ul li a.active {
 }
 
 .page-banner-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3rem 3.5rem 1.2rem;
+  background: linear-gradient(transparent, rgba(0,0,0,0.65));
+  color: #fff;
   font-size: 1.8rem;
   font-weight: 900;
-  color: #2a2a2a;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  padding: 1.5rem 3.5rem 1rem;
-  border-bottom: 3px solid var(--red);
-  margin-bottom: 0;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
 }
 
 /* ── Content Card ── */
