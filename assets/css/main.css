@@ -529,27 +529,95 @@ footer a { color: #ffd966; }
   nav ul li a { height: auto; padding: 0.8rem 1.5rem; }
 }
 
+/* Tablet: page banner and float figures */
+@media (max-width: 900px) {
+  .page-banner-title {
+    font-size: 1.3rem;
+    padding: 2rem 2rem 1rem;
+  }
+
+  .module-figure-right,
+  .module-figure-left {
+    float: none;
+    clear: both;
+    margin: 1.5rem auto;
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
 /* Mobile: content and layout adjustments */
 @media (max-width: 768px) {
-  .home-hero { height: 260px; }
-  .page-content { padding: 2rem 1.2rem; }
+  .home-hero { height: 220px; }
+
+  .home-performer { height: 70%; }
+
+  .home-tagline { font-size: 0.9rem; padding: 0.75rem 1.25rem; max-width: 90vw; }
+
+  .page-banner-title {
+    font-size: 1.1rem;
+    padding: 1.5rem 1.2rem 0.8rem;
+  }
+
+  .page-content { padding: 1.5rem 1.2rem; }
   main > h1, main > .card-grid, main > p {
     padding-left: 1.2rem;
     padding-right: 1.2rem;
+  }
+
+  /* Transcript tables: allow horizontal scroll on narrow screens */
+  details.translation { overflow-x: auto; }
+  .trans-table, .transcript { min-width: 480px; }
+
+  /* Subtitle controls: wrap on small screens */
+  .subtitle-controls { flex-wrap: wrap; }
+
+  /* Module info: tighten spacing */
+  .module-info { font-size: 0.85rem; }
+
+  /* Clip sections: tighten padding */
+  .clip-section { padding: 0.75rem 1rem; }
+
+  /* Site title: hide on very narrow viewports to save space */
+  .site-title-en { display: none; }
+}
+
+/* Mobile portrait: single-column, no horizontal scroll */
+@media (max-width: 480px) {
+  .home-hero { height: 180px; }
+
+  .home-performer { display: none; }
+
+  .page-content { padding: 1.2rem 1rem; }
+  main > h1, main > .card-grid, main > p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  main h1 { font-size: 1.4rem; }
+  main h2 { font-size: 1.1rem; }
+
+  .page-banner-title { font-size: 1rem; padding: 1.2rem 1rem 0.6rem; }
+
+  .card-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+
+  .module-figure, .module-figure-right, .module-figure-left {
+    max-width: 100%;
   }
 }
 
 /* 1.4.10 Reflow — single column at 320px, no horizontal scroll */
 @media (max-width: 400px) {
   .content-card { max-width: 100%; }
-  .page-content { padding: 1.2rem; }
+  .page-content { padding: 1rem 0.85rem; }
   main > h1, main > .card-grid, main > p {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
   }
-  header { padding: 0 1rem; height: auto; min-height: 60px; flex-wrap: wrap; gap: 0.5rem; }
+  header { padding: 0 0.75rem; height: auto; min-height: 60px; flex-wrap: wrap; gap: 0.5rem; }
   .card-grid { grid-template-columns: 1fr; }
-  main h1 { font-size: 1.8rem; }
+  main h1 { font-size: 1.3rem; }
+  .sub-btn { font-size: 0.75rem; padding: 0.2rem 0.6rem; }
 }
 
 /* 1.4.12 Text Spacing — no fixed heights on text containers, no overflow:hidden cutting off text */
@@ -646,16 +714,21 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
     min-height: unset;
     border-right: none;
     border-bottom: 1px solid #ddd;
-    padding: 0.75rem 0;
+    padding: 0.5rem 0;
+    overflow-x: auto;
   }
-  .ctc-sidebar ul {
+  .ctc-sidebar > ul {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     border-top: none;
     padding-top: 0;
     gap: 0;
+    white-space: nowrap;
   }
-  .ctc-sidebar ul li a { padding: 0.4rem 0.9rem; font-size: 0.78rem; }
+  .ctc-sidebar > ul > li { display: inline-flex; align-items: center; }
+  .ctc-sidebar > ul > li > a { padding: 0.5rem 0.9rem; font-size: 0.78rem; white-space: nowrap; }
+  /* Hide child sub-nav on mobile — parent link covers it */
+  .sidebar-children { display: none; }
 }
 
 /* ── Module pages (play subpages) ── */
