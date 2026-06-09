@@ -23,4 +23,4 @@ lang: zh-Hans
 
 谢谢！
 
-[← 返回英文版](/about/)
+[← 返回英文版]({{ '/about/' | relative_url }})

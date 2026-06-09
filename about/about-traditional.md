@@ -23,4 +23,4 @@ lang: zh-Hant
 
 謝謝！
 
-[← 返回英文版](/about/)
+[← 返回英文版]({{ '/about/' | relative_url }})
