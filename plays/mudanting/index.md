@@ -44,9 +44,9 @@ In modern renditions, it is not only the love story that has garnered attention,
 
 <ul>
 <li>Ko, Dorothy. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. Stanford, CA: Stanford University Press, 1995.</li>
-<li>Lam, Lin Hong. "The Peony Pavilion: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.</li>
+<li>Lam, Lin Hong. "*The Peony Pavilion*: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.</li>
 <li>Struve, Lynn. *The Dreaming Mind and the End of the Ming World*. Honolulu, HI: University of Hawaii Press, 2019.</li>
-<li>Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on the Peony Pavilion." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.</li>
+<li>Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on *The Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.</li>
 </ul>
 
 </details>

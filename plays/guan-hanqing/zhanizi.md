@@ -38,7 +38,7 @@ The play also draws on a long tradition of sanqu (<span lang="zh">散曲</span>)
 <ul>
 <li>Sui Shusen <span lang="zh">隋樹森</span>, ed. *Quan Yuan sanqu* <span lang="zh">全元散曲</span> (The Complete Yuan Sanqu Songs). rev. ed. 2 vols. Beijing: Zhonghua shuju, 1989.</li>
 <li>Shih-pe Wang. "Plays Within Songs: Sanqu Songs from Literary Refinement (ya) to Popular Appeal (su)." Trans. Erxin Wang. *The Journal of Chinese Literature and Culture* 8:2 (2021): 307–340.</li>
-<li>Patricia Sieber. "The Pavilion for Praying to the Moon and The Injustice to Dou E: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 78–100. New York: Columbia University Press, 2022.</li>
+<li>Patricia Sieber. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 78–100. New York: Columbia University Press, 2022.</li>
 </ul>
 
 </details>
