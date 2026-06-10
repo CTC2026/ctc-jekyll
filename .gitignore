@@ -23,3 +23,15 @@ assets/**/*.pdf
 *.docx
 Modules*/
 test.srt
+
+# Wrangler / Cloudflare local state
+.wrangler/
+
+# Working files not part of the site
+*.numbers
+HOW_TO.md
+docs/
+
+# Subtitle project files
+*.ass
+*.atpj
