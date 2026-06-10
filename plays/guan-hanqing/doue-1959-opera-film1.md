@@ -192,16 +192,11 @@ In line with Hong Kong's increased attention to disability welfare, Lai Heung's 
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>"Gongou lungaajan zoktin jau lyunfun" <span lang="zh">港澳聾啞人昨天有聯歡</span> (The Deaf and Mute from Hong Kong and Macau Celebrates at a Party Yesterday). *Ta Kung Pao* <span lang="zh">大公報</span>. 26 December 1955: 4.</li>
-<li>Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and the Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.</li>
-<li>Li, Jia, Jia He, and Gladys Tang. "Investigating Sign Languages in the Chinese Context." In *The Routledge Handbook of Chinese Applied Linguistics*, pp. 747-772. New York: Routledge, 2019.</li>
-<li>"Toiwaansuk ngozouging kokding zunggwok lingtou batjung fanlit" <span lang="zh">台灣屬我早經確定中國領土不容分裂</span>. *Ta Kung Pao* <span lang="zh">大公報</span>. 26 December 1957: 1.</li>
-<li>Sze, Felix, Connie Lo, Lisa Lo, and Kenny Chu. "Historical Development of Hong Kong Sign Language." *Sign Language Studies* 13, no. 2 (2013): 155-185.</li>
-</ul>
-
+- "Gongou lungaajan zoktin jau lyunfun" <span lang="zh">港澳聾啞人昨天有聯歡</span> (The Deaf and Mute from Hong Kong and Macau Celebrates at a Party Yesterday). *Ta Kung Pao* <span lang="zh">大公報</span>. 26 December 1955: 4.
+- Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and the Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.
+- Li, Jia, Jia He, and Gladys Tang. "Investigating Sign Languages in the Chinese Context." In *The Routledge Handbook of Chinese Applied Linguistics*, pp. 747-772. New York: Routledge, 2019.
+- "Toiwaansuk ngozouging kokding zunggwok lingtou batjung fanlit" <span lang="zh">台灣屬我早經確定中國領土不容分裂</span>. *Ta Kung Pao* <span lang="zh">大公報</span>. 26 December 1957: 1.
+- Sze, Felix, Connie Lo, Lisa Lo, and Kenny Chu. "Historical Development of Hong Kong Sign Language." *Sign Language Studies* 13, no. 2 (2013): 155-185.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://ealc.uchicago.edu/people/ka-kei-lau">Ka Kei Lau</a></p>

@@ -82,18 +82,13 @@ Translation notes for clip 2
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s.* Ann Arbor, MI: University of Michigan Press, 2021.</li>
-<li>Huang, Pi-Twan and Wai-yee Li, trans. *The Zhao Orphan*. In *The Columbia Anthology of Yuan Drama*, edited by C.T. Hsia. Wai-yee Li, and George Kao, 20-55. New York: Columbia University Press, 2014.</li>
-<li>Wang, Shih-pe. "*The Orphan of Zhao*: The Meaning of Loyalty and Filiality." In *How To Read Chinese Drama: A Guided Anthology,* edited by Patricia Sieber and Regina Llamas, 127-150. New York: Columbia University Press, 2022.</li>
-<li>Wang Yan <span lang="zh">王雁</span>. *Zhaoshi gu'er (Jingju)*<span lang="zh">赵氏孤儿</span>（<span lang="zh">京剧</span>）. Beijing: Zhongguo xiju chubanshe, 1959.</li>
-<li>Wang Peiyu <span lang="zh">王佩瑜</span>. *Taishang jian : Wang Peiyu Jingju xueyan ji* <span lang="zh">台上见</span>：<span lang="zh">王佩瑜京剧学演记</span> (See You on Stage: Wang Peiyu's Account of Learning How to Perform Beijing Opera). Beijing: Zhongxin chubanshe, 2019.</li>
-<li>Xu Jinwen <span lang="zh">徐锦文</span>. *Jingju Dong Huang: Zhongguo diyi nü laosheng* <span lang="zh">京剧冬皇</span>：<span lang="zh">中国第一女老生</span> (Queen Dong of Beijing Opera: China\'s First Female Performer of the Senior Male Role). Changsha: Hunan shifan daxue, 2011.</li>
-<li>Zang Maoxun <span lang="zh">臧懋循</span>. *Yuanqu xuan*<span lang="zh">元曲选</span> (*Select Yuan Plays*). 4 vols. Beijing: Zhonghua shuju, 1989.</li>
-</ul>
-
+- Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s.* Ann Arbor, MI: University of Michigan Press, 2021.
+- Huang, Pi-Twan and Wai-yee Li, trans. *The Zhao Orphan*. In *The Columbia Anthology of Yuan Drama*, edited by C.T. Hsia. Wai-yee Li, and George Kao, 20-55. New York: Columbia University Press, 2014.
+- Wang, Shih-pe. "*The Orphan of Zhao*: The Meaning of Loyalty and Filiality." In *How To Read Chinese Drama: A Guided Anthology,* edited by Patricia Sieber and Regina Llamas, 127-150. New York: Columbia University Press, 2022.
+- Wang Yan <span lang="zh">王雁</span>. *Zhaoshi gu'er (Jingju)*<span lang="zh">赵氏孤儿</span>（<span lang="zh">京剧</span>）. Beijing: Zhongguo xiju chubanshe, 1959.
+- Wang Peiyu <span lang="zh">王佩瑜</span>. *Taishang jian : Wang Peiyu Jingju xueyan ji* <span lang="zh">台上见</span>：<span lang="zh">王佩瑜京剧学演记</span> (See You on Stage: Wang Peiyu's Account of Learning How to Perform Beijing Opera). Beijing: Zhongxin chubanshe, 2019.
+- Xu Jinwen <span lang="zh">徐锦文</span>. *Jingju Dong Huang: Zhongguo diyi nü laosheng* <span lang="zh">京剧冬皇</span>：<span lang="zh">中国第一女老生</span> (Queen Dong of Beijing Opera: China\'s First Female Performer of the Senior Male Role). Changsha: Hunan shifan daxue, 2011.
+- Zang Maoxun <span lang="zh">臧懋循</span>. *Yuanqu xuan*<span lang="zh">元曲选</span> (*Select Yuan Plays*). 4 vols. Beijing: Zhonghua shuju, 1989.
 </details>
 
 <p class="module-authors"><strong>Authors:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a> and <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a></p>

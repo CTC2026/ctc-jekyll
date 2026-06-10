@@ -98,13 +98,8 @@ This scene represents the pinnacle of class struggle as a central theme due to t
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor, MI: The University of Michigan Press, 2021.</li>
-<li>Mackerras, Colin. "Chinese Opera after the Cultural Revolution (1970-72)." *The China Quarterly* 55 (1973): 478–510.</li>
-</ul>
-
+- Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor, MI: The University of Michigan Press, 2021.
+- Mackerras, Colin. "Chinese Opera after the Cultural Revolution (1970-72)." *The China Quarterly* 55 (1973): 478–510.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://www.linkedin.com/in/olivia-bobak/">Olivia Bobak</a></p>

@@ -204,18 +204,13 @@ The two major characters, Du Liniang and Liu Mengmei, also engage in joint chora
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Chen, Kaishen <span lang="zh">陳凱莘</span>. "Mudanting: Jingmeng zhi huashen yanchu kao"《<span lang="zh">牡丹亭</span>·<span lang="zh">驚夢</span>》<span lang="zh">之花神演出考</span> (A study of the "Flower Deity" performance in "Startled from the Dream" of *The Peony Pavilion*). *Guoli bianyiguan guankan* <span lang="zh">國立編譯館館刊</span> (The Journal of National Translation and Compilation Institute), 27:2 (1998): 97-111.</li>
-<li>Li, Na <span lang="zh">李娜</span>. "Cong juben gaibian kan qingchun ban Mudanting de yishu gexing" <span lang="zh">從劇本改編看青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的藝術個性</span> (An analysis of script adaptation: the artistic features of the Youth Edition). *Huawen wenxue* <span lang="zh">華文文學</span> (Chinese literature), 6 (2005): 37-42.</li>
-<li>Tang, Xianzu. Birch, Cyril trans., *The Peony Pavilion: Mudan ting*. 2nd edition. Bloomington: Indiana University Press, 2002.</li>
-<li>Wang Shiyu. "The Stirring Zither" ("Qintiao" <span lang="zh">琴挑</span>) from *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>). Trans. and ann. Guo Chao. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 59-85. London: Anthem Press, 2022.</li>
-<li>Zhang Jiqing. "The Mad Dream" ("Chimeng" <span lang="zh">痴梦</span>) from *Lanke Mountain* (*Lanke shan* <span lang="zh">烂柯山</span>). Trans. and ann. Josh Stenberg. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 89-110. London: Anthem Press, 2022.</li>
-<li>Zhang, Ke <span lang="zh">张珂</span> and Huang, Jianrong <span lang="zh">黃建榮</span>. "Qingchun ban Mudanting de wenben gaibian he duzhe jieshou chutan" <span lang="zh">青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的文本改編和讀者接受初探</span> (A preliminary discussion of the textual adaptation and audience acceptance of the Youth Edition of *The Peony Pavilion*). *Xiju wenxue* <span lang="zh">戲劇文學</span> (Dramatic literature), 9 (2010): 64-68.</li>
-<li>Zhou, Wei. "A Peony Transplanted: Pai Hsien-yung and the Preservation of Chinese Kunqu." PhD Dissertation. University of Edinburgh, 2011.</li>
-</ul>
-
+- Chen, Kaishen <span lang="zh">陳凱莘</span>. "Mudanting: Jingmeng zhi huashen yanchu kao"《<span lang="zh">牡丹亭</span>·<span lang="zh">驚夢</span>》<span lang="zh">之花神演出考</span> (A study of the "Flower Deity" performance in "Startled from the Dream" of *The Peony Pavilion*). *Guoli bianyiguan guankan* <span lang="zh">國立編譯館館刊</span> (The Journal of National Translation and Compilation Institute), 27:2 (1998): 97-111.
+- Li, Na <span lang="zh">李娜</span>. "Cong juben gaibian kan qingchun ban Mudanting de yishu gexing" <span lang="zh">從劇本改編看青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的藝術個性</span> (An analysis of script adaptation: the artistic features of the Youth Edition). *Huawen wenxue* <span lang="zh">華文文學</span> (Chinese literature), 6 (2005): 37-42.
+- Tang, Xianzu. Birch, Cyril trans., *The Peony Pavilion: Mudan ting*. 2nd edition. Bloomington: Indiana University Press, 2002.
+- Wang Shiyu. "The Stirring Zither" ("Qintiao" <span lang="zh">琴挑</span>) from *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>). Trans. and ann. Guo Chao. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 59-85. London: Anthem Press, 2022.
+- Zhang Jiqing. "The Mad Dream" ("Chimeng" <span lang="zh">痴梦</span>) from *Lanke Mountain* (*Lanke shan* <span lang="zh">烂柯山</span>). Trans. and ann. Josh Stenberg. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 89-110. London: Anthem Press, 2022.
+- Zhang, Ke <span lang="zh">张珂</span> and Huang, Jianrong <span lang="zh">黃建榮</span>. "Qingchun ban Mudanting de wenben gaibian he duzhe jieshou chutan" <span lang="zh">青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的文本改編和讀者接受初探</span> (A preliminary discussion of the textual adaptation and audience acceptance of the Youth Edition of *The Peony Pavilion*). *Xiju wenxue* <span lang="zh">戲劇文學</span> (Dramatic literature), 9 (2010): 64-68.
+- Zhou, Wei. "A Peony Transplanted: Pai Hsien-yung and the Preservation of Chinese Kunqu." PhD Dissertation. University of Edinburgh, 2011.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>

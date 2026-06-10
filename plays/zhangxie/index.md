@@ -45,16 +45,11 @@ In modern renditions of *Top Graduate*, these metatheatrical features continue t
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Du Renjie <span lang="zh">杜仁傑</span>. "'Zhuangjia bushi goulan' <span lang="zh">莊家不識勾欄</span>." In Sui Shusen <span lang="zh">隋樹森</span>, ed. *Quan Yuan sanqu* <span lang="zh">全元散曲</span>, vol. 1, 31-32. Rev. ed. Beijing: Zhonghua, 1989.</li>
-<li>Llamas Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 171-190.</li>
-<li>Llamas, Regina. "Introduction." In her *Top Graduate Zhang Xie: The Earliest Extant Chinese Southern Play*, 1-88. New York: Columbia University Press, 2021.</li>
-<li>Llamas, Regina, trans. and intro. *Top Graduate Zhang Xie: The Earliest Extant Chinese Southern Play*. New York: Columbia University Press, 2021.</li>
-<li>Qian Nanyang <span lang="zh">錢南揚</span> ed. and ann. *Zhang Xie zhuangyuan* <span lang="zh">張協狀元</span>. In his *Yongle dadian xiwen sanzhong jiaozhu* <span lang="zh">永樂大典戲文三種校注</span>, 1-217. Beijing: Zhonghua shuju, 1979.</li>
-</ul>
-
+- Du Renjie <span lang="zh">杜仁傑</span>. "'Zhuangjia bushi goulan' <span lang="zh">莊家不識勾欄</span>." In Sui Shusen <span lang="zh">隋樹森</span>, ed. *Quan Yuan sanqu* <span lang="zh">全元散曲</span>, vol. 1, 31-32. Rev. ed. Beijing: Zhonghua, 1989.
+- Llamas Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 171-190.
+- Llamas, Regina. "Introduction." In her *Top Graduate Zhang Xie: The Earliest Extant Chinese Southern Play*, 1-88. New York: Columbia University Press, 2021.
+- Llamas, Regina, trans. and intro. *Top Graduate Zhang Xie: The Earliest Extant Chinese Southern Play*. New York: Columbia University Press, 2021.
+- Qian Nanyang <span lang="zh">錢南揚</span> ed. and ann. *Zhang Xie zhuangyuan* <span lang="zh">張協狀元</span>. In his *Yongle dadian xiwen sanzhong jiaozhu* <span lang="zh">永樂大典戲文三種校注</span>, 1-217. Beijing: Zhonghua shuju, 1979.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

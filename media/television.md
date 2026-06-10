@@ -31,11 +31,6 @@ In addition to the adaptation of whole plays, Chinese television programming als
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Huang, Nicole. "Sun-Facing Courtyards: Urban Communal Culture in Mid-1970s Shanghai." *East Asian History* no. 25/26 (2003): 161–182.</li>
-<li>Zhong Yibing & Huang Wangnan <span lang="zh">钟艺兵</span>、<span lang="zh">黄望南</span>. <span lang="zh">中国电视艺术发展史</span> (*The Development of Chinese Television Art*). Hangzhou: Zhejiang People's Publishing House, 1994.</li>
-</ul>
-
+- Huang, Nicole. "Sun-Facing Courtyards: Urban Communal Culture in Mid-1970s Shanghai." *East Asian History* no. 25/26 (2003): 161–182.
+- Zhong Yibing & Huang Wangnan <span lang="zh">钟艺兵</span>、<span lang="zh">黄望南</span>. <span lang="zh">中国电视艺术发展史</span> (*The Development of Chinese Television Art*). Hangzhou: Zhejiang People's Publishing House, 1994.
 </details>

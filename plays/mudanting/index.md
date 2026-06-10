@@ -40,15 +40,10 @@ In modern renditions, it is not only the love story that has garnered attention,
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Ko, Dorothy. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. Stanford, CA: Stanford University Press, 1995.</li>
-<li>Lam, Lin Hong. "*The Peony Pavilion*: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.</li>
-<li>Struve, Lynn. *The Dreaming Mind and the End of the Ming World*. Honolulu, HI: University of Hawaii Press, 2019.</li>
-<li>Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on *The Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.</li>
-</ul>
-
+- Ko, Dorothy. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. Stanford, CA: Stanford University Press, 1995.
+- Lam, Lin Hong. "*The Peony Pavilion*: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.
+- Struve, Lynn. *The Dreaming Mind and the End of the Ming World*. Honolulu, HI: University of Hawaii Press, 2019.
+- Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on *The Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

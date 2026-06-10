@@ -46,21 +46,16 @@ Modern adaptations of *Saving a Courtesan* face the challenging task of making t
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Chen, Tianjun. "Emotion, Money, and Beauty: Variation and Innovation in the Story of Shuan Jian and Su Xiaoqing." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 42: 2 (2023): 99–129.</li>
-<li>Guan Hanqing <span lang="zh">關漢卿</span>. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing quanji* <span lang="zh">關漢卿全集</span> (The 1615/16 Zang Maoxun/*Select Yuan Plays* edition). Ann. Wang Xueqi <span lang="zh">王學奇</span>. Shijiazhuang: Hebei jiaoyu chubanshe, 1988.</li>
-<li>-----. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing xiqu ji* <span lang="zh">關漢卿戲曲集</span> (The 1580s Guming jia edition). Ann. Wu Xiaoling <span lang="zh">吳曉鈴</span>. Beijing: Xiju chubanshe, 1958. My translations above refer to this edition.</li>
-<li>Kao George and Wai-yee Li, trans. "Rescuing a Sister." In *The Columbia Anthology of Yuan Drama*, eds. C.T. Hsia, Wai-yee Li, and George Kao, 279–297 (Rhymed translation of the Guming jia edition).</li>
-<li>Li, Yuhang. *Becoming Guanyin: Artistic Devotion of Buddhist Women in Late Imperial China*. New York: Columbia University Press, 2020.</li>
-<li>Luo, Manling. *Literati Storytelling in Late Medieval China*. Seattle: University of Washington Press, 2015.</li>
-<li>Owen, Stephen, ed. and trans. "Rescuing One of the Girls." In *An Anthology of Chinese Literature: Beginnings to 1911*, 744–770. New York and London: W.W. Norton, 1996 (Translation of the Zang Maoxun/*Select Yuan Plays* edition).</li>
-<li>Shuhui Yang and Yunqing Yang, trans. *Stories to Awaken the World*. Seattle: University of Washington, 2009.</li>
-<li>Sieber, Patricia. "Comic Virtue and Commendable Vice: Guan Hanqing's *Jiufeng chen* and *Wang Jiang ting*." *Ming Studies* 1994: 43–64.</li>
-<li>Xia Tingzhi <span lang="zh">夏庭芝</span>. *Qinglou ji jianzhu* <span lang="zh">青樓集箋注</span>. Ann. Sun Chongtao <span lang="zh">孫崇涛</span> and Xu Hongtu <span lang="zh">徐宏圖</span>. Beijing: Zhongguo xiju chubanshe, 1990.</li>
-</ul>
-
+- Chen, Tianjun. "Emotion, Money, and Beauty: Variation and Innovation in the Story of Shuan Jian and Su Xiaoqing." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 42: 2 (2023): 99–129.
+- Guan Hanqing <span lang="zh">關漢卿</span>. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing quanji* <span lang="zh">關漢卿全集</span> (The 1615/16 Zang Maoxun/*Select Yuan Plays* edition). Ann. Wang Xueqi <span lang="zh">王學奇</span>. Shijiazhuang: Hebei jiaoyu chubanshe, 1988.
+- -----. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing xiqu ji* <span lang="zh">關漢卿戲曲集</span> (The 1580s Guming jia edition). Ann. Wu Xiaoling <span lang="zh">吳曉鈴</span>. Beijing: Xiju chubanshe, 1958. My translations above refer to this edition.
+- Kao George and Wai-yee Li, trans. "Rescuing a Sister." In *The Columbia Anthology of Yuan Drama*, eds. C.T. Hsia, Wai-yee Li, and George Kao, 279–297 (Rhymed translation of the Guming jia edition).
+- Li, Yuhang. *Becoming Guanyin: Artistic Devotion of Buddhist Women in Late Imperial China*. New York: Columbia University Press, 2020.
+- Luo, Manling. *Literati Storytelling in Late Medieval China*. Seattle: University of Washington Press, 2015.
+- Owen, Stephen, ed. and trans. "Rescuing One of the Girls." In *An Anthology of Chinese Literature: Beginnings to 1911*, 744–770. New York and London: W.W. Norton, 1996 (Translation of the Zang Maoxun/*Select Yuan Plays* edition).
+- Shuhui Yang and Yunqing Yang, trans. *Stories to Awaken the World*. Seattle: University of Washington, 2009.
+- Sieber, Patricia. "Comic Virtue and Commendable Vice: Guan Hanqing's *Jiufeng chen* and *Wang Jiang ting*." *Ming Studies* 1994: 43–64.
+- Xia Tingzhi <span lang="zh">夏庭芝</span>. *Qinglou ji jianzhu* <span lang="zh">青樓集箋注</span>. Ann. Sun Chongtao <span lang="zh">孫崇涛</span> and Xu Hongtu <span lang="zh">徐宏圖</span>. Beijing: Zhongguo xiju chubanshe, 1990.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

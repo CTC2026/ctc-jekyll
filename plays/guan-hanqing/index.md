@@ -73,22 +73,17 @@ In the twenty-first century, Guan Hanqing's oeuvre has also entered feminist dis
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Wenbo Chang. "Performing the Role of the Playwright: Jia Zhongming's Sanqu Songs in the Supplement to *The Register of Ghosts*." *The Journal of Chinese Literature and Culture* 8:1 (2021): 59-88.</li>
-<li>"Beyond the Canon: The Writers' Room—In Conversation with Amy Ng." Posted May 24, 2021, by "Beyond the Canon." Youtube, 58 min.</li>
-<li>Li Hanqiu <span lang="zh">李漢秋</span> and Yuan Youfen <span lang="zh">袁有芬</span>, ed. *Guan Hanqing yanjiu ziliao* <span lang="zh">關漢卿研究資料</span> (Research Materials on Guan Hanqing). Shanghai: Shanghai guji chubanshe, 1988.</li>
-<li><span lang="zh">陳元靚</span> comp. *Shilin guangji* <span lang="zh">事林廣記</span> (The Expansive Handbook of Worldly Knowledge). Beijing: Zhonghua shuju, 1999.</li>
-<li>Patricia Sieber. "Exclusive Pleasures on the Cheap: Yuan-Dynasty Sanqu Songs on Courtesan Kickball (cuju <span lang="zh">蹴鞠</span>)." In *Games and Plays in Chinese and Sinophone Cultures*, edited by Li Guo, Douglas Eyman, and Hongmei Sun, 78-99. Seattle: University of Washington Press, 2024.</li>
-<li>----. "Nobody's Genre, Everybody's Song: Sanqu Songs and the Expansion of the Literary Sphere in Yuan China." *Journal of Chinese Literature and Culture* 1 (2014): 29-64.</li>
-<li>-----. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.</li>
-<li>-----. *Theaters of Desire: Authors, Readers, and the Reproduction of Early Chinese Song-Drama, 1300-2000*. New York: Palgrave MacMillan, 2003.</li>
-<li>Steinhardt, Nancy Shatzman. "Mapping the Chinese City: The Image and the Reality." In *Envisioning the City*, edited by David Buisseret, 1-33. Chicago: University of Chicago Press, 1988.</li>
-<li>Sun, Zhixin Jason. "Dadu: Great Capital of the Yuan Dynasty." In *The World of Khubilai Khan: Chinese Art in the Yuan Dynasty*, edited by James C.Y. Watt, 41-63. New York: The Metropolitan Museum of Art, 2010.</li>
-<li>Zhong Sicheng <span lang="zh">鍾嗣成</span>. *Jiaoding Luguibu sanzhong* <span lang="zh">校訂錄鬼簿三種</span> (Three Annotated Editions of *The Register of Ghosts*). Ed. Wang Gang <span lang="zh">王鋼</span>. Zhengzhou: Zhongzhou guji chubanshe, 1991.</li>
-</ul>
-
+- Wenbo Chang. "Performing the Role of the Playwright: Jia Zhongming's Sanqu Songs in the Supplement to *The Register of Ghosts*." *The Journal of Chinese Literature and Culture* 8:1 (2021): 59-88.
+- "Beyond the Canon: The Writers' Room—In Conversation with Amy Ng." Posted May 24, 2021, by "Beyond the Canon." Youtube, 58 min.
+- Li Hanqiu <span lang="zh">李漢秋</span> and Yuan Youfen <span lang="zh">袁有芬</span>, ed. *Guan Hanqing yanjiu ziliao* <span lang="zh">關漢卿研究資料</span> (Research Materials on Guan Hanqing). Shanghai: Shanghai guji chubanshe, 1988.
+- <span lang="zh">陳元靚</span> comp. *Shilin guangji* <span lang="zh">事林廣記</span> (The Expansive Handbook of Worldly Knowledge). Beijing: Zhonghua shuju, 1999.
+- Patricia Sieber. "Exclusive Pleasures on the Cheap: Yuan-Dynasty Sanqu Songs on Courtesan Kickball (cuju <span lang="zh">蹴鞠</span>)." In *Games and Plays in Chinese and Sinophone Cultures*, edited by Li Guo, Douglas Eyman, and Hongmei Sun, 78-99. Seattle: University of Washington Press, 2024.
+- ----. "Nobody's Genre, Everybody's Song: Sanqu Songs and the Expansion of the Literary Sphere in Yuan China." *Journal of Chinese Literature and Culture* 1 (2014): 29-64.
+- -----. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.
+- -----. *Theaters of Desire: Authors, Readers, and the Reproduction of Early Chinese Song-Drama, 1300-2000*. New York: Palgrave MacMillan, 2003.
+- Steinhardt, Nancy Shatzman. "Mapping the Chinese City: The Image and the Reality." In *Envisioning the City*, edited by David Buisseret, 1-33. Chicago: University of Chicago Press, 1988.
+- Sun, Zhixin Jason. "Dadu: Great Capital of the Yuan Dynasty." In *The World of Khubilai Khan: Chinese Art in the Yuan Dynasty*, edited by James C.Y. Watt, 41-63. New York: The Metropolitan Museum of Art, 2010.
+- Zhong Sicheng <span lang="zh">鍾嗣成</span>. *Jiaoding Luguibu sanzhong* <span lang="zh">校訂錄鬼簿三種</span> (Three Annotated Editions of *The Register of Ghosts*). Ed. Wang Gang <span lang="zh">王鋼</span>. Zhengzhou: Zhongzhou guji chubanshe, 1991.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

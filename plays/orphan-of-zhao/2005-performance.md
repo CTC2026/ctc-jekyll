@@ -148,17 +148,12 @@ Significantly, after taking his bow as the actor at the standing ovation, Zhao Z
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Jiang, Jin. *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai*. Seattle: University of Washington Press, 2011.</li>
-<li>Li Chenjie <span lang="zh">李晨劼</span>, dir. "Yitan mingliu zhi zhaoshi gu'er" <span lang="zh">艺坛名流之赵氏孤儿</span>, *Cultural Celebrities*, Baishi TV Channel. Bilibili Video, May 30th, 2021. https://www.bilibili.com/video/BV1ry4y1g7Despm_id_from=333.788.videopod.episodes&vd_source=5c5a9c22214b5444dce3315355b092a8&p=2</li>
-<li>Ni Shenzhen <span lang="zh">倪慎真</span>, dir. "Xingzhe buwang laishi lu: zhao zhigang zhuanfang" <span lang="zh">行者不忘来时路</span>: <span lang="zh">赵志刚专访</span>. *Kevin Hours*, SMG Docu TV Channel, Oct 13th, 2024. https://www.youtube.com/watch?v=QtE3GTOnis8&list=PL9ZfdZUrxXduT-qPY77ya00mzy28_ruKU&index=37</li>
-<li>University of Leeds Digital Library of Chinese Theatre. "The Orphan of Zhao." 2014. https://chinesetheatre.leeds.ac.uk/productions/17</li>
-<li>Wang Xiaoying <span lang="zh">王晓鹰</span>, dir. Yueju Zhaoshi Gu'er <span lang="zh">越剧</span> <span lang="zh">赵氏孤儿</span>, Shanghai Yue Opera House, 2005. https://youtu.be/FDfqk-BLNUw?si=C_TSeImRLy1c4Bsj</li>
-<li>"Zhongren jiezui wo duxing: bainian yueju mingduan shangxi---Yin guifang pian" <span lang="zh">众人皆醉我独醒</span>: <span lang="zh">百年越剧名段赏析</span>------<span lang="zh">尹桂芳篇</span> (*All are intoxicated I Alone Am Awake*: A Hundred Years of Yue Opera Selected Known Pieces---Chapter of Yin Guifang), *Meili Yueju Official Wechat Publication*, July 21st, 2023. https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ</li>
-</ul>
-
+- Jiang, Jin. *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai*. Seattle: University of Washington Press, 2011.
+- Li Chenjie <span lang="zh">李晨劼</span>, dir. "Yitan mingliu zhi zhaoshi gu'er" <span lang="zh">艺坛名流之赵氏孤儿</span>, *Cultural Celebrities*, Baishi TV Channel. Bilibili Video, May 30th, 2021. https://www.bilibili.com/video/BV1ry4y1g7Despm_id_from=333.788.videopod.episodes&vd_source=5c5a9c22214b5444dce3315355b092a8&p=2
+- Ni Shenzhen <span lang="zh">倪慎真</span>, dir. "Xingzhe buwang laishi lu: zhao zhigang zhuanfang" <span lang="zh">行者不忘来时路</span>: <span lang="zh">赵志刚专访</span>. *Kevin Hours*, SMG Docu TV Channel, Oct 13th, 2024. https://www.youtube.com/watch?v=QtE3GTOnis8&list=PL9ZfdZUrxXduT-qPY77ya00mzy28_ruKU&index=37
+- University of Leeds Digital Library of Chinese Theatre. "The Orphan of Zhao." 2014. https://chinesetheatre.leeds.ac.uk/productions/17
+- Wang Xiaoying <span lang="zh">王晓鹰</span>, dir. Yueju Zhaoshi Gu'er <span lang="zh">越剧</span> <span lang="zh">赵氏孤儿</span>, Shanghai Yue Opera House, 2005. https://youtu.be/FDfqk-BLNUw?si=C_TSeImRLy1c4Bsj
+- "Zhongren jiezui wo duxing: bainian yueju mingduan shangxi---Yin guifang pian" <span lang="zh">众人皆醉我独醒</span>: <span lang="zh">百年越剧名段赏析</span>------<span lang="zh">尹桂芳篇</span> (*All are intoxicated I Alone Am Awake*: A Hundred Years of Yue Opera Selected Known Pieces---Chapter of Yin Guifang), *Meili Yueju Official Wechat Publication*, July 21st, 2023. https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://ealc.uchicago.edu/people/susanna-sun">Susanna Sun</a></p>

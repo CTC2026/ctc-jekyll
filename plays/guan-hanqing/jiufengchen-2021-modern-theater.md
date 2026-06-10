@@ -170,17 +170,12 @@ The play ends with a vision of sisterhood — living and dead, past and present 
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Chow, Broderick D.V. "Here is a Story For Me: Representation and Visibility in Miss Saigon and The Orphan of Zhao." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 507–516.</li>
-<li>Fenton, James. *The Orphan of Zhao*. London: Faber & Faber, 2012.</li>
-<li>Ng, Amy. "Reflections on Adapting Classical Chinese Plays for a Contemporary Western Audience: Adapting Guan Hanqing's Wind and Dust for the Royal Shakespeare Company." For the "In Search of the Sayable: Traditional Chinese Plays, Literary Translations and Stage Performances" Conference at Ohio State University, 13–14 May 2023. Unpublished Conference Paper (used with the permission of the author).</li>
-<li>----. "Interview." Conducted by Wenbo Chang and Patricia Sieber. Via ZOOM on November 13, 2024.</li>
-<li>"The Writers Room: In Conversation with Amy Ng." Youtube, uploaded by Beyond the Canon, 24 May 2021, https://www.youtube.com/watch?v=JpFwfpaErPE (accessed on November 11, 2024).</li>
-<li>Rogers, Amanda and Ashley Thorpe. "A Controversial Company: Debating the Casting of the RSC's The Orphan of Zhao." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 428–435.</li>
-</ul>
-
+- Chow, Broderick D.V. "Here is a Story For Me: Representation and Visibility in Miss Saigon and The Orphan of Zhao." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 507–516.
+- Fenton, James. *The Orphan of Zhao*. London: Faber & Faber, 2012.
+- Ng, Amy. "Reflections on Adapting Classical Chinese Plays for a Contemporary Western Audience: Adapting Guan Hanqing's Wind and Dust for the Royal Shakespeare Company." For the "In Search of the Sayable: Traditional Chinese Plays, Literary Translations and Stage Performances" Conference at Ohio State University, 13–14 May 2023. Unpublished Conference Paper (used with the permission of the author).
+- ----. "Interview." Conducted by Wenbo Chang and Patricia Sieber. Via ZOOM on November 13, 2024.
+- "The Writers Room: In Conversation with Amy Ng." Youtube, uploaded by Beyond the Canon, 24 May 2021, https://www.youtube.com/watch?v=JpFwfpaErPE (accessed on November 11, 2024).
+- Rogers, Amanda and Ashley Thorpe. "A Controversial Company: Debating the Casting of the RSC's The Orphan of Zhao." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 428–435.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://www.cmlt.uga.edu/directory/people/wenbo-chang">Wenbo Chang</a></p>

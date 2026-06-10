@@ -44,15 +44,10 @@ The play is also remarkable for the female solidarity that characterizes the bon
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Gao Ming <span lang="zh">高明</span>. *Pipa ji* <span lang="zh">琵琶記</span> (*The Lute*). Ann. Qian Nanyang <span lang="zh">錢南揚</span> and Li Diankui <span lang="zh">李殿魁</span>. Taipei: Renli shuju, 1998.</li>
-<li>Guo Yingde, Wenbo Chang, Patricia Sieber, and Xiaohui Zhang, eds. "L04: The Lute, Scene 20, 'Wuniang Eats Husks,'" 74-92. In *How To Read Chinese Drama in Chinese: A Language Companion*. New York: Columbia University Press, 2023.</li>
-<li>Llamas, Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 171-190. New York: Columbia University Press, 2022.</li>
-<li>Mulligan, Jean, intro. and trans. *The Lute: Kao Ming's P'i-p'a chi*. New York: Columbia University Press, 1980.</li>
-</ul>
-
+- Gao Ming <span lang="zh">高明</span>. *Pipa ji* <span lang="zh">琵琶記</span> (*The Lute*). Ann. Qian Nanyang <span lang="zh">錢南揚</span> and Li Diankui <span lang="zh">李殿魁</span>. Taipei: Renli shuju, 1998.
+- Guo Yingde, Wenbo Chang, Patricia Sieber, and Xiaohui Zhang, eds. "L04: The Lute, Scene 20, 'Wuniang Eats Husks,'" 74-92. In *How To Read Chinese Drama in Chinese: A Language Companion*. New York: Columbia University Press, 2023.
+- Llamas, Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 171-190. New York: Columbia University Press, 2022.
+- Mulligan, Jean, intro. and trans. *The Lute: Kao Ming's P'i-p'a chi*. New York: Columbia University Press, 1980.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

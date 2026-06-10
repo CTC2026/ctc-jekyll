@@ -44,13 +44,8 @@ Thus, in accordance with the readings presented above and as exemplified by othe
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Patricia Sieber. "The Pavilion for Praying to the Moon and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.</li>
-<li>-----. "The Thorn Hairpin." In *Routledge Handbook of Traditional Chinese Literature*, edited by Victor H. Mair and Zhenjun Zhang, 452-58. New York: Routledge, 2025.</li>
-</ul>
-
+- Patricia Sieber. "The Pavilion for Praying to the Moon and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.
+- -----. "The Thorn Hairpin." In *Routledge Handbook of Traditional Chinese Literature*, edited by Victor H. Mair and Zhenjun Zhang, 452-58. New York: Routledge, 2025.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

@@ -50,13 +50,8 @@ The other major plot modifications concern the character of the maid servant Hon
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-
-
-<ul>
-<li>Owen, Stephen, trans. "Ying-ying's Story," in Stephen Owen, ed. and trans., *An Anthology of Chinese Literature: Beginnings to 1911*, 540-549. New York and London: W. W. Norton, 1996.</li>
-<li>Guan Hanqing <span lang="zh">關漢卿</span>. "Cui Zhang shiliu shi" <span lang="zh">崔張十六事</span> (Sixteen Episodes in the Story of Cui and Zhang). In *Guan Hanqing quanji jiaozhu* <span lang="zh">關漢卿全集校注</span> (The Annotated Complete Works of Guan Hanqing), edited by Wang Xueqi <span lang="zh">王學奇</span>, 735-746. Shijiazhuang: Hebei jiaoyu chubanshe, 1990.</li>
-</ul>
-
+- Owen, Stephen, trans. "Ying-ying's Story," in Stephen Owen, ed. and trans., *An Anthology of Chinese Literature: Beginnings to 1911*, 540-549. New York and London: W. W. Norton, 1996.
+- Guan Hanqing <span lang="zh">關漢卿</span>. "Cui Zhang shiliu shi" <span lang="zh">崔張十六事</span> (Sixteen Episodes in the Story of Cui and Zhang). In *Guan Hanqing quanji jiaozhu* <span lang="zh">關漢卿全集校注</span> (The Annotated Complete Works of Guan Hanqing), edited by Wang Xueqi <span lang="zh">王學奇</span>, 735-746. Shijiazhuang: Hebei jiaoyu chubanshe, 1990.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
