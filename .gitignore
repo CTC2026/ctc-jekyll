@@ -27,6 +27,9 @@ test.srt
 # Wrangler / Cloudflare local state
 .wrangler/
 
+# Local environment variables (API keys — do not commit)
+.env
+
 # Working files not part of the site
 *.numbers
 HOW_TO.md
@@ -35,3 +38,10 @@ docs/
 # Subtitle project files
 *.ass
 *.atpj
+
+# Audio files served from Cloudflare R2
+*.mp3
+
+# Generated subtitle working files
+assets/subtitles/*_soundlabels.vtt
+assets/subtitles/*_audiodesc_audio/
