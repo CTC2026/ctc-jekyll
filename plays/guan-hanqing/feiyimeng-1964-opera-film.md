@@ -135,9 +135,9 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
   <div class="video-wrap">
     <video id="clip3" controls crossorigin="anonymous">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_3_2x.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_captions_ch.vtt">
-      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_captions_en.vtt">
-      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_audiodesc.vtt">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-1964-clip3/Feiyimeng_1964_OperaFilm_Clip_3_captions_ch.vtt">
+      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-1964-clip3/Feiyimeng_1964_OperaFilm_Clip_3_captions_en.vtt">
+      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-1964-clip3/Feiyimeng_1964_OperaFilm_Clip_3_audiodesc.vtt">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
