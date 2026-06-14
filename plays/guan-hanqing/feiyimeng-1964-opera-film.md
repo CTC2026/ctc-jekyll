@@ -46,7 +46,7 @@ A notable feature of the film is its title song, "Path on the Outskirts" <span l
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip5" controls crossorigin="anonymous">
-      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_5.mp4" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_5_2x.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng <span lang="zh">鄧麗君</span>. Source: Youtube.</p>
@@ -82,7 +82,7 @@ The film opens with a night sequence of stark visual economy. Against a dark bac
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip1" controls crossorigin="anonymous">
-      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_1.mp4" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_1_2x.mp4" type="video/mp4">
     </video>
   </div>
   <p class="clip-caption">Clip 1: The opening scene (00:38–01:03). Source: The film on Youtube.</p>
@@ -97,7 +97,7 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip2" controls crossorigin="anonymous">
-      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_2.mp4" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_2_2x.mp4" type="video/mp4">
       <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip2-zh.vtt">
       <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip2-en.vtt">
     </video>
@@ -134,7 +134,7 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip3" controls crossorigin="anonymous">
-      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_3.mp4" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_3_2x.mp4" type="video/mp4">
       <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip3-zh.vtt">
       <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip3-en.vtt">
     </video>
@@ -175,7 +175,7 @@ The final scene of exposure and denouement brings together all the threads of th
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip4" controls crossorigin="anonymous">
-      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_4.mp4" type="video/mp4">
+      <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/feiyimeng-1964/Feiyimeng_1964_OperaFilm_Clip_4_2x.mp4" type="video/mp4">
       <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-zh.vtt" default>
       <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-en.vtt">
       <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-audiodesc.vtt">
