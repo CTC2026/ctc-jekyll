@@ -49,30 +49,46 @@
   function setupADPlayback(video) {
     var base = video.dataset.adMp3Base;
     if (!base) return;
-    var tracks = video.textTracks;
-    var descTrack = null;
-    for (var i = 0; i < tracks.length; i++) {
-      if (tracks[i].kind === 'descriptions') { descTrack = tracks[i]; break; }
-    }
-    if (!descTrack) return;
 
     var currentAudio = null;
+    var lastCueIdx = -1;
 
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+      lastCueIdx = -1;
     }
 
-    descTrack.addEventListener('cuechange', function () {
+    function getDescTrack() {
+      var tracks = video.textTracks;
+      for (var i = 0; i < tracks.length; i++) {
+        if (tracks[i].kind === 'descriptions') return tracks[i];
+      }
+      return null;
+    }
+
+    video.addEventListener('timeupdate', function () {
+      var descTrack = getDescTrack();
+      if (!descTrack || descTrack.mode !== 'showing') return;
+      var cues = descTrack.cues;
+      if (!cues || cues.length === 0) return;
+
+      var t = video.currentTime;
+      var activeCueIdx = -1;
+      for (var i = 0; i < cues.length; i++) {
+        if (t >= cues[i].startTime && t < cues[i].endTime) {
+          activeCueIdx = i;
+          break;
+        }
+      }
+
+      if (activeCueIdx === lastCueIdx) return;
       stopAudio();
-      if (descTrack.mode !== 'showing') return;
-      var activeCues = descTrack.activeCues;
-      if (!activeCues || activeCues.length === 0) return;
-      var allCues = Array.from(descTrack.cues);
-      var idx = allCues.indexOf(activeCues[0]);
-      if (idx < 0) return;
-      var n = String(idx + 1).padStart(2, '0');
+      lastCueIdx = activeCueIdx;
+      if (activeCueIdx < 0) return;
+
+      var n = String(activeCueIdx + 1).padStart(2, '0');
       currentAudio = new Audio(base + 'cue_' + n + '.mp3');
-      currentAudio.play();
+      currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
 
     video.addEventListener('pause', stopAudio);
