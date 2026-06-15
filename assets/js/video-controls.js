@@ -45,11 +45,46 @@
     }
   });
 
+  // Wire up timed MP3 playback for videos with data-ad-mp3-base
+  function setupADPlayback(video) {
+    var base = video.dataset.adMp3Base;
+    if (!base) return;
+    var tracks = video.textTracks;
+    var descTrack = null;
+    for (var i = 0; i < tracks.length; i++) {
+      if (tracks[i].kind === 'descriptions') { descTrack = tracks[i]; break; }
+    }
+    if (!descTrack) return;
+
+    var currentAudio = null;
+
+    function stopAudio() {
+      if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    }
+
+    descTrack.addEventListener('cuechange', function () {
+      stopAudio();
+      if (descTrack.mode !== 'showing') return;
+      var activeCues = descTrack.activeCues;
+      if (!activeCues || activeCues.length === 0) return;
+      var allCues = Array.from(descTrack.cues);
+      var idx = allCues.indexOf(activeCues[0]);
+      if (idx < 0) return;
+      var n = String(idx + 1).padStart(2, '0');
+      currentAudio = new Audio(base + 'cue_' + n + '.mp3');
+      currentAudio.play();
+    });
+
+    video.addEventListener('pause', stopAudio);
+    video.addEventListener('seeked', stopAudio);
+  }
+
   // On load: default each video to Chinese subtitles if available, else English
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.clip-section').forEach(function (section) {
       var video = section.querySelector('video');
       if (!video) return;
+      setupADPlayback(video);
       var tracks = video.textTracks;
       var hasZh = false;
       for (var i = 0; i < tracks.length; i++) {

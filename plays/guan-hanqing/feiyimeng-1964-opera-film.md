@@ -133,7 +133,8 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 
 <div class="clip-section">
   <div class="video-wrap">
-    <video id="clip3" controls crossorigin="anonymous">
+    <video id="clip3" controls crossorigin="anonymous"
+           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip3/">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_3_2x.mp4" type="video/mp4">
       <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_3_captions_ch.vtt">
       <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_3_captions_en.vtt">
