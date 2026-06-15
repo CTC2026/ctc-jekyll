@@ -54,7 +54,7 @@
     var lastCueIdx = -1;
 
     function stopAudio() {
-      if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+      if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
       lastCueIdx = -1;
     }
 
@@ -88,6 +88,8 @@
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
       currentAudio = new Audio(base + 'cue_' + n + '.mp3');
+      video.volume = 0.2;
+      currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
 
