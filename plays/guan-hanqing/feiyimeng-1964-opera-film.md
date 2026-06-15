@@ -177,11 +177,12 @@ The final scene of exposure and denouement brings together all the threads of th
 
 <div class="clip-section">
   <div class="video-wrap">
-    <video id="clip4" controls crossorigin="anonymous">
+    <video id="clip4" controls crossorigin="anonymous"
+           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip4/">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_4_2x.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-zh.vtt" default>
-      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-en.vtt">
-      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip4-audiodesc.vtt">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_captions_ch.vtt" default>
+      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_captions_en.vtt">
+      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_audiodesc.vtt">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">

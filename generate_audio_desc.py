@@ -1,23 +1,24 @@
 """
 Generate audio descriptions for a video clip using the Gemini API.
-Descriptions are placed only in windows that avoid dialogue and sound effects.
-Overlap with opera music or singing is allowed.
+Descriptions are placed in gaps between dialogue lines — music and sound
+effects are allowed to overlap with descriptions.
 
-Output is a bilingual VTT file (Chinese + English per cue), matching the
-format of feiyimeng-clip4-audiodesc.vtt.
+Output is a bilingual VTT file (Chinese + English per cue).
 
 Usage:
-    python generate_audio_desc.py <video_file> <dialogue_vtt> <soundlabels_vtt> <output_vtt>
+    python generate_audio_desc.py <video_file> <dialogue_vtt> <soundlabels_vtt> <output_vtt> \\
+        [--transchart DOCX --clip N]
 
 Example:
-    python generate_audio_desc.py \
-        assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_3_2x.mp4 \
-        assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_en.vtt \
-        assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_soundlabels.vtt \
-        assets/subtitles/Feiyimeng_1964_OperaFilm_Clip_3_audiodesc.vtt
+    python generate_audio_desc.py \\
+        assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_4_2x.mp4 \\
+        assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_en.vtt \\
+        assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_soundlabels.vtt \\
+        assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/Feiyimeng_1964_OperaFilm_Clip_4_audiodesc.vtt \\
+        --transchart "/path/to/Feiyimeng_1964_OperaFilm_TransCharts.docx" --clip 4
 
 Requirements:
-    pip install google-genai
+    pip install google-genai python-docx
     Set GEMINI_API_KEY environment variable before running.
 """
 
@@ -26,12 +27,17 @@ import os
 import re
 import json
 import time
+import argparse
 from google import genai
 from google.genai import types
 
-# Sound label keywords treated as hard blocks (must not overlap with descriptions)
-HARD_SOUND_KEYWORDS = ["音效", "Sound effect"]
+MIN_GAP_MS = 2000       # minimum window to bother describing (2 seconds)
+MAX_CHUNK_MS = 6000     # subdivide windows longer than this into ~6s chunks
 
+
+# ---------------------------------------------------------------------------
+# VTT parsing
+# ---------------------------------------------------------------------------
 
 def to_ms(ts):
     ts = ts.replace(",", ".")
@@ -70,64 +76,146 @@ def parse_vtt_cues(path):
     return cues
 
 
-def is_hard_sound(cue):
-    return any(kw in cue["text"] for kw in HARD_SOUND_KEYWORDS)
+# ---------------------------------------------------------------------------
+# TransChart stage context extraction
+# ---------------------------------------------------------------------------
+
+def _find_clip_table(doc, clip_number):
+    from docx.table import Table
+    from docx.oxml.ns import qn
+    body = list(doc.element.body)
+    for i, child in enumerate(body):
+        if child.tag.endswith("}p"):
+            text = "".join(r.text or "" for r in child.iter(qn("w:t")))
+            if f"clip {clip_number}" in text.lower():
+                for j in range(i + 1, len(body)):
+                    if body[j].tag.endswith("}tbl"):
+                        return Table(body[j], doc)
+    return None
 
 
-def find_windows(dialogue_cues, sound_cues, clip_end_ms, min_gap_ms=3000):
-    """Find time windows free of dialogue and hard sound effects, minimum 3 seconds."""
-    hard_blocks = []
-    for c in dialogue_cues:
-        hard_blocks.append((c["start_ms"], c["end_ms"]))
-    for c in sound_cues:
-        if is_hard_sound(c):
-            hard_blocks.append((c["start_ms"], c["end_ms"]))
+def extract_stage_context(transchart_docx, clip_number):
+    """
+    Return a plain-text scene summary from the TransChart for use as Gemini
+    prompt context. Includes standalone stage directions (in [brackets]) and
+    inline parenthetical stage notes extracted from dialogue EN text.
+    """
+    try:
+        from docx import Document
+    except ImportError:
+        print("Warning: python-docx not installed; skipping TransChart context.")
+        return ""
 
-    # Merge overlapping hard blocks
-    hard_blocks.sort()
+    doc = Document(transchart_docx)
+    table = _find_clip_table(doc, clip_number)
+    if table is None:
+        print(f"Warning: clip {clip_number} table not found in transchart; skipping context.")
+        return ""
+
+    lines = [f"Scene context from script (Clip {clip_number}):"]
+    for row in table.rows[1:]:
+        cells = [c.text.replace("\xa0", " ").strip() for c in row.cells]
+        if len(cells) < 2:
+            continue
+        zh, en = cells[0], cells[1]
+        if not zh and not en:
+            continue
+
+        # Standalone stage direction row
+        if zh.startswith("[") and en.startswith("["):
+            lines.append(f"  [SCENE] {en.strip('[]')}")
+            continue
+
+        # Dialogue row — extract inline parenthetical stage notes from EN
+        inline = re.findall(r'\(([^)]{10,})\)', en)  # only notes ≥ 10 chars
+        for note in inline:
+            lines.append(f"  [ACTION] {note}")
+
+    if len(lines) == 1:
+        return ""  # nothing useful found
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Window calculation
+# ---------------------------------------------------------------------------
+
+def find_dialogue_windows(dialogue_cues, clip_end_ms):
+    """Find gaps between dialogue cues — only dialogue is hard-blocked."""
+    blocks = sorted((c["start_ms"], c["end_ms"]) for c in dialogue_cues)
     merged = []
-    for s, e in hard_blocks:
+    for s, e in blocks:
         if merged and s <= merged[-1][1]:
             merged[-1] = (merged[-1][0], max(merged[-1][1], e))
         else:
             merged.append([s, e])
 
-    # Find gaps between hard blocks
     windows = []
     cursor = 0
     for s, e in merged:
-        if s - cursor >= min_gap_ms:
+        if s - cursor >= MIN_GAP_MS:
             windows.append((cursor, s))
         cursor = max(cursor, e)
-    if clip_end_ms - cursor >= min_gap_ms:
+    if clip_end_ms - cursor >= MIN_GAP_MS:
         windows.append((cursor, clip_end_ms))
+    return windows
 
-    return [(ms_to_ts(s), ms_to_ts(e), e - s) for s, e in windows]
+
+def subdivide_window(start_ms, end_ms):
+    """Split a long window into chunks of at most MAX_CHUNK_MS."""
+    duration = end_ms - start_ms
+    if duration <= MAX_CHUNK_MS:
+        return [(start_ms, end_ms)]
+    n_chunks = -(-duration // MAX_CHUNK_MS)  # ceiling division
+    chunk_ms = duration // n_chunks
+    chunks = []
+    cur = start_ms
+    for i in range(n_chunks):
+        chunk_end = cur + chunk_ms if i < n_chunks - 1 else end_ms
+        chunks.append((cur, chunk_end))
+        cur = chunk_end
+    return chunks
 
 
-# TTS reading speed: ~2.2 English words per second, ~3 Chinese characters per second
 def max_words(duration_ms):
-    seconds = duration_ms / 1000
-    return max(3, int(seconds * 2.2))
+    return max(3, int(duration_ms / 1000 * 2.2))
 
 
-def build_prompt(windows):
+# ---------------------------------------------------------------------------
+# Prompt building
+# ---------------------------------------------------------------------------
+
+def build_prompt(chunks, stage_context=""):
     lines = []
-    for s, e, dur_ms in windows:
+    for s, e, dur_ms in chunks:
         w = max_words(dur_ms)
         lines.append(f"- {s} to {e}  (max {w} English words)")
     window_list = "\n".join(lines)
-    return f"""Watch this video clip carefully.
 
+    context_block = ""
+    if stage_context:
+        context_block = f"""
+IMPORTANT: The following stage directions from the script describe the visual action in this clip.
+You MUST base every description on these stage directions. For each time window, identify which
+action or scene transition is happening according to the script, and describe that.
+Use the exact character names and props mentioned in the stage directions.
+
+{stage_context}
+
+"""
+
+    return f"""Watch this video clip carefully.
+{context_block}
 I will give you time windows where I need a brief visual description for audio playback.
-These windows may overlap with background opera music, which is fine.
+These windows fall between spoken dialogue. They may overlap with background opera music
+or instrumental sound effects — that is fine.
 
 IMPORTANT: Each description will be read aloud by a TTS voice within the window duration.
-You MUST stay within the word limit shown for each window — the audio must finish before the window ends.
+You MUST stay within the word limit shown for each window.
 
 For each window, write ONE phrase or short sentence describing what is visible:
 costumes, physical movement, setting, facial expressions, or on-screen text.
-Do NOT describe speech, dialogue, or music.
+{"Always reference the stage directions above — use character names and scripted actions." if stage_context else "Do NOT describe speech, dialogue, or music."}
 
 Write each description in both Chinese (Simplified) and English.
 Keep the Chinese description proportionally brief to match the English word limit.
@@ -147,25 +235,38 @@ Time windows:
 """
 
 
-def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path):
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path,
+                        transchart_docx=None, clip_number=None):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY environment variable not set.")
         sys.exit(1)
 
     dialogue_cues = parse_vtt_cues(dialogue_vtt)
-    sound_cues = parse_vtt_cues(soundlabels_vtt)
+    sound_cues = parse_vtt_cues(soundlabels_vtt) if soundlabels_vtt else []
 
     all_ends = [c["end_ms"] for c in dialogue_cues + sound_cues]
     clip_end_ms = max(all_ends) if all_ends else 120000
 
-    windows = find_windows(dialogue_cues, sound_cues, clip_end_ms)
-    if not windows:
-        print("No suitable windows found.")
-        sys.exit(0)
-    print(f"Found {len(windows)} windows for audio descriptions:")
-    for s, e, dur in windows:
+    raw_windows = find_dialogue_windows(dialogue_cues, clip_end_ms)
+    chunks = []
+    for s, e in raw_windows:
+        chunks.extend(subdivide_window(s, e))
+    chunks_with_dur = [(ms_to_ts(s), ms_to_ts(e), e - s) for s, e in chunks]
+
+    print(f"Found {len(raw_windows)} dialogue gaps → {len(chunks_with_dur)} description slots:")
+    for s, e, dur in chunks_with_dur:
         print(f"  {s} --> {e}  ({dur/1000:.1f}s, max {max_words(dur)} words)")
+
+    stage_context = ""
+    if transchart_docx and clip_number:
+        stage_context = extract_stage_context(transchart_docx, clip_number)
+        if stage_context:
+            print(f"\nTransChart context loaded ({len(stage_context.splitlines())} lines)")
 
     client = genai.Client(api_key=api_key)
 
@@ -182,12 +283,22 @@ def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path):
         time.sleep(5)
         video_file = client.files.get(name=video_file.name)
 
-    prompt = build_prompt(windows)
-    print("Generating audio descriptions...")
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=[types.Part.from_uri(file_uri=video_file.uri, mime_type="video/mp4"), prompt],
-    )
+    prompt = build_prompt(chunks_with_dur, stage_context)
+    print(f"Generating {len(chunks_with_dur)} audio descriptions...")
+    response = None
+    for model in ["gemini-2.5-flash", "models/gemini-3-flash-preview", "models/gemini-2.5-flash-lite"]:
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=[types.Part.from_uri(file_uri=video_file.uri, mime_type="video/mp4"), prompt],
+            )
+            print(f"Used model: {model}")
+            break
+        except Exception as e:
+            print(f"{model} failed: {e}, trying next...")
+    if response is None:
+        print("All models failed.")
+        sys.exit(1)
 
     raw = response.text.strip()
     if raw.startswith("```"):
@@ -215,7 +326,16 @@ def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 5:
-        print("Usage: python generate_audio_desc.py <video_file> <dialogue_vtt> <soundlabels_vtt> <output_vtt>")
-        sys.exit(1)
-    generate_audio_desc(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+    parser = argparse.ArgumentParser()
+    parser.add_argument("video_file")
+    parser.add_argument("dialogue_vtt")
+    parser.add_argument("soundlabels_vtt")
+    parser.add_argument("output_vtt")
+    parser.add_argument("--transchart", default=None, help="Path to TransChart .docx")
+    parser.add_argument("--clip", type=int, default=None, help="Clip number in the TransChart")
+    args = parser.parse_args()
+
+    generate_audio_desc(
+        args.video_file, args.dialogue_vtt, args.soundlabels_vtt, args.output_vtt,
+        transchart_docx=args.transchart, clip_number=args.clip,
+    )
