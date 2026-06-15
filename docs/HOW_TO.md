@@ -742,7 +742,7 @@ You do not need to add any special attributes to your images or video clips. The
 - **Videos** are set to preload only metadata (duration and thumbnail) — the video stream itself does not download until the visitor presses play.
 - **Banner images and the site logo** are excluded from lazy loading because they are visible immediately when the page opens.
 
-This behavior is built into the site-wide JavaScript and applies to every new page you create without any extra steps. The only exception: if you add a large hero image *outside* the page banner (for example, in a custom layout), add `loading="eager"` to that image tag so it loads immediately.
+This behavior is built into the site-wide JavaScript and applies to every new page you create without any extra steps. The only exception: if you add an image *outside* the standard page banner — meaning an image that appears at the very top of the page, visible immediately before scrolling, but not placed inside the `.page-banner` section that all play pages use — add `loading="eager"` to that image tag so it loads immediately. In practice this is unlikely to come up, since every play page uses the same banner layout and that banner image already loads eagerly by default.
 
 ---
 
