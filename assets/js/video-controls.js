@@ -88,7 +88,16 @@
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
       currentAudio = new Audio(base + 'cue_' + n + '.mp3');
-      video.volume = 0.2;
+      // Boost description audio via Web Audio API (gain > 1 amplifies beyond 100%)
+      try {
+        var ctx = new (window.AudioContext || window.webkitAudioContext)();
+        var src = ctx.createMediaElementSource(currentAudio);
+        var gain = ctx.createGain();
+        gain.gain.value = 3.0;
+        src.connect(gain);
+        gain.connect(ctx.destination);
+      } catch (e) { /* fallback: plays at default volume */ }
+      video.volume = 0.1;
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
