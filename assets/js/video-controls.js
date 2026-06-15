@@ -87,19 +87,8 @@
       if (activeCueIdx < 0) return;
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
-      currentAudio = new Audio();
-      currentAudio.crossOrigin = 'anonymous';
-      currentAudio.src = base + 'cue_' + n + '.mp3';
-      try {
-        var ctx = new (window.AudioContext || window.webkitAudioContext)();
-        ctx.resume();
-        var src = ctx.createMediaElementSource(currentAudio);
-        var gain = ctx.createGain();
-        gain.gain.value = 8.0;
-        src.connect(gain);
-        gain.connect(ctx.destination);
-      } catch (e) { /* fallback: plays at default volume */ }
-      video.volume = 0.1;
+      currentAudio = new Audio(base + 'cue_' + n + '.mp3');
+      video.volume = 0;
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
