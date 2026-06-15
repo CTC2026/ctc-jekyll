@@ -103,9 +103,9 @@ The lyrics of the song interweave the imagery of nature — flowers, birds, the 
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip2','zh')">Chinese</button>
-    <button class="sub-btn" data-lang="en" onclick="switchSub('clip2','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip2','off')">Off</button>
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
   </div>
   <p class="clip-caption">Clip 2: "Path on the Outskirts" (26:40–29:08). Source: The film on Youtube.</p>
 </div>
@@ -141,9 +141,10 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip3','zh')">Chinese</button>
-    <button class="sub-btn" data-lang="en" onclick="switchSub('clip3','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip3','off')">Off</button>
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 3: Qianjin as femme fatale (1:09:12–1:11:18). Source: The film on Youtube.</p>
 </div>
@@ -183,10 +184,10 @@ The final scene of exposure and denouement brings together all the threads of th
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
-    <button class="sub-btn active" data-lang="zh" onclick="switchSub('clip4','zh')">Chinese</button>
-    <button class="sub-btn" data-lang="en" onclick="switchSub('clip4','en')">English</button>
-    <button class="sub-btn" data-lang="off" onclick="switchSub('clip4','off')">Off</button>
-    <button class="sub-btn" data-lang="ad" onclick="toggleAD('clip4',this)">Audio Description</button>
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 4: The scene of denouement (1:11:40–1:14:06). Source: The film on Youtube.</p>
 </div>
@@ -224,38 +225,5 @@ The enduring popularity of "Path on the Outskirts" — still heard today in Tere
 - Weng, Sizai <span lang="zh">翁思再</span>. "Ermuyixin Xueshouyin – Guan Jin Jing, Ding Xiaowa zhuyan yueju Xueshouyin suigan" <span lang="zh">耳目一新</span>《<span lang="zh">血手印</span>》——<span lang="zh">观金静</span>、<span lang="zh">丁小蛙主演越剧</span>《<span lang="zh">血手印</span>》<span lang="zh">随感</span> (A refreshing Crimson Palm – Impressions on watching *The Crimson Palm* yueju opera starring Jin Jing and Ding Xiaowa). *Shanghai xiju* <span lang="zh">上海戏剧</span> (Shanghai Theater) 12 (2006): 7–9.
 - Yau, Esther C. M., and Tony Williams. "Introduction: Hong Kong Neo-Noir." In *Hong Kong Neo-Noir*, edited by Esther C. M. Yau and Tony Williams, 1–10. United Kingdom: Edinburgh University Press, 2017. http://www.jstor.org/stable/10.3366/j.ctt1g051jk.6.
 </details>
-
-<script>
-function switchSub(clipId, lang) {
-  var video = document.getElementById(clipId);
-  if (!video) return;
-  var tracks = video.textTracks;
-  for (var i = 0; i < tracks.length; i++) {
-    if (tracks[i].kind === 'descriptions') continue;
-    tracks[i].mode = (lang !== 'off' && tracks[i].language === lang) ? 'showing' : 'hidden';
-  }
-  var section = video.closest('.clip-section');
-  if (section) {
-    section.querySelectorAll('.sub-btn:not([data-lang="ad"])').forEach(function(btn) {
-      btn.classList.toggle('active', btn.dataset.lang === lang);
-    });
-  }
-}
-function toggleAD(clipId, btn) {
-  var video = document.getElementById(clipId);
-  if (!video) return;
-  var tracks = video.textTracks;
-  for (var i = 0; i < tracks.length; i++) {
-    if (tracks[i].kind === 'descriptions') {
-      var on = tracks[i].mode !== 'showing';
-      tracks[i].mode = on ? 'showing' : 'hidden';
-      btn.classList.toggle('active', on);
-    }
-  }
-}
-document.addEventListener('DOMContentLoaded', function() {
-  ['clip2', 'clip3', 'clip4'].forEach(function(id) { switchSub(id, 'zh'); });
-});
-</script>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://cla.umn.edu/about/directory/profile/yao00225">Kaixuan Yao</a></p>
