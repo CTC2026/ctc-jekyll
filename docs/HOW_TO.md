@@ -715,6 +715,8 @@ wrangler r2 object put ctc-media/assets/plays/mulan/1956-opera-film/Mulan_1956_C
   --remote
 ```
 
+> **Important:** Always include `--remote` in the wrangler command. Without it, wrangler uploads to a local simulator on your computer instead of the real Cloudflare R2 bucket, and the file will not appear on the website.
+
 Repeat for each clip, replacing the filename each time.
 
 ---
