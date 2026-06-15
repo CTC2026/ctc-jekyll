@@ -87,13 +87,15 @@
       if (activeCueIdx < 0) return;
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
-      currentAudio = new Audio(base + 'cue_' + n + '.mp3');
-      // Boost description audio via Web Audio API (gain > 1 amplifies beyond 100%)
+      currentAudio = new Audio();
+      currentAudio.crossOrigin = 'anonymous';
+      currentAudio.src = base + 'cue_' + n + '.mp3';
       try {
         var ctx = new (window.AudioContext || window.webkitAudioContext)();
+        ctx.resume();
         var src = ctx.createMediaElementSource(currentAudio);
         var gain = ctx.createGain();
-        gain.gain.value = 3.0;
+        gain.gain.value = 8.0;
         src.connect(gain);
         gain.connect(ctx.destination);
       } catch (e) { /* fallback: plays at default volume */ }
