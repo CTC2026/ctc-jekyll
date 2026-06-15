@@ -26,25 +26,38 @@ from google.genai import types
 PROMPT = """
 Watch this video clip carefully and listen to the audio track.
 
-Your task is to identify every non-speech sound event — music, instrumental passages,
-sound effects, ambient noise, silence — and note its start and end timestamp.
+Your task is to identify non-speech sound events for use as subtitle captions.
+Focus on BROAD, MEANINGFUL sections — not every individual instrument hit or string pluck.
 
-For each sound event, provide:
+Rules:
+- Each event must be at least 2 seconds long. Do NOT label single instrument plucks,
+  brief stings, or short percussive hits as separate events — merge them into the
+  surrounding musical passage.
+- Group continuous or closely spaced music of the same character into ONE event
+  spanning the whole passage.
+- Only use a separate event for a clearly distinct sound (e.g. a dramatic gasp,
+  footsteps, dog barking) that stands apart from the background music.
+- Do NOT include speech or dialogue — only non-speech audio.
+- Do NOT overlap events with each other.
+
+Label categories to use:
+- [戲曲演奏] / [Opera orchestra plays] — for opera instrumental music passages
+- [音效：驚呼] / [Sound effect: Gasp] — for gasps, shouts, non-verbal exclamations
+- [音效：腳步聲] / [Sound effect: Footsteps] — for audible footsteps
+- [音效：{描述}] / [Sound effect: {description}] — for other distinct, prominent sounds
+- [環境音] / [Ambient sound] — for silence or low background noise
+
+For each event provide:
 - start: timestamp in HH:MM:SS.mmm format
 - end: timestamp in HH:MM:SS.mmm format
-- zh: a short Chinese label in square brackets, e.g. [戲曲演奏] or [音效：驚呼]
-- en: a short English label in square brackets, e.g. [Opera orchestra plays] or [Sound effect: Gasp]
+- zh: a short Chinese label in square brackets
+- en: a short English label in square brackets
 
-Do NOT include speech or dialogue — only non-speech audio.
-Do NOT overlap with each other.
-
-Return your answer as a JSON array, like this:
+Return only a JSON array, no other text:
 [
-  {"start": "00:00:00.000", "end": "00:00:02.000", "zh": "[環境音]", "en": "[Ambient sound]"},
-  {"start": "00:00:08.000", "end": "00:00:15.000", "zh": "[戲曲演奏]", "en": "[Opera orchestra plays]"}
+  {"start": "00:00:00.000", "end": "00:00:08.000", "zh": "[戲曲演奏]", "en": "[Opera orchestra plays]"},
+  {"start": "00:00:15.000", "end": "00:00:15.800", "zh": "[音效：驚呼]", "en": "[Sound effect: Gasp]"}
 ]
-
-Return only the JSON array, no other text.
 """
 
 
