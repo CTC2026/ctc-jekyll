@@ -97,6 +97,24 @@
     video.addEventListener('seeked', stopAudio);
   }
 
+  // On load: lazy-load content images and set video preload
+  document.addEventListener('DOMContentLoaded', function () {
+    // Preload only metadata (duration/dimensions) for all videos — not the full stream
+    document.querySelectorAll('video').forEach(function (v) {
+      if (!v.hasAttribute('preload')) v.setAttribute('preload', 'metadata');
+    });
+
+    // Native lazy-load for all content images below the fold.
+    // Skip header and page-banner images — those are above the fold and must load eagerly.
+    var main = document.getElementById('main-content');
+    if (main) {
+      main.querySelectorAll('img').forEach(function (img) {
+        if (img.closest('.page-banner')) return;
+        if (!img.hasAttribute('loading')) img.setAttribute('loading', 'lazy');
+      });
+    }
+  });
+
   // On load: default each video to Chinese subtitles if available, else English
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.clip-section').forEach(function (section) {
