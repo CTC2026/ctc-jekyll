@@ -32,7 +32,7 @@ test.srt
 
 # Working files not part of the site
 *.numbers
-HOW_TO.md
+/HOW_TO.md
 
 # Subtitle project files
 *.ass
