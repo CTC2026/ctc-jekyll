@@ -94,25 +94,28 @@ def _find_clip_table(doc, clip_number):
     return None
 
 
-def extract_stage_context(transchart_docx, clip_number):
+def extract_stage_events(transchart_docx, clip_number, dialogue_cues):
     """
-    Return a plain-text scene summary from the TransChart for use as Gemini
-    prompt context. Includes standalone stage directions (in [brackets]) and
-    inline parenthetical stage notes extracted from dialogue EN text.
+    Return a list of (start_ms, end_ms, description) tuples from the TransChart,
+    with timestamps derived from the matched dialogue VTT cues.
+
+    Each TransChart dialogue row is assigned the timestamp of the next unmatched
+    VTT cue. Stage direction rows and inline parenthetical notes inherit the
+    timestamp of the surrounding dialogue row.
     """
     try:
         from docx import Document
     except ImportError:
-        print("Warning: python-docx not installed; skipping TransChart context.")
-        return ""
+        return []
 
     doc = Document(transchart_docx)
     table = _find_clip_table(doc, clip_number)
     if table is None:
-        print(f"Warning: clip {clip_number} table not found in transchart; skipping context.")
-        return ""
+        return []
 
-    lines = [f"Scene context from script (Clip {clip_number}):"]
+    events = []   # (start_ms, description)
+    cue_idx = 0
+
     for row in table.rows[1:]:
         cells = [c.text.replace("\xa0", " ").strip() for c in row.cells]
         if len(cells) < 2:
@@ -121,27 +124,45 @@ def extract_stage_context(transchart_docx, clip_number):
         if not zh and not en:
             continue
 
-        # Standalone stage direction row
+        if cue_idx < len(dialogue_cues):
+            ts = dialogue_cues[cue_idx]["start_ms"]
+        else:
+            ts = dialogue_cues[-1]["end_ms"] if dialogue_cues else 0
+
         if zh.startswith("[") and en.startswith("["):
-            lines.append(f"  [SCENE] {en.strip('[]')}")
+            # Standalone scene direction — attach to current timestamp
+            events.append((ts, en.strip("[]")))
             continue
 
         # Dialogue row — extract inline parenthetical stage notes from EN
-        inline = re.findall(r'\(([^)]{10,})\)', en)  # only notes ≥ 10 chars
+        inline = re.findall(r'\(([^)]{10,})\)', en)
         for note in inline:
-            lines.append(f"  [ACTION] {note}")
+            events.append((ts, note))
+        cue_idx += 1
 
-    if len(lines) == 1:
-        return ""  # nothing useful found
-    return "\n".join(lines)
+    return events
+
+
+def stage_hint_for_window(stage_events, window_start_ms, window_end_ms):
+    """
+    Return the most relevant stage event description for a given window.
+    Prefers events whose timestamp falls inside the window; falls back to
+    the last event before the window starts.
+    """
+    inside = [desc for ts, desc in stage_events if window_start_ms <= ts < window_end_ms]
+    if inside:
+        return " / ".join(inside)
+    before = [desc for ts, desc in stage_events if ts < window_start_ms]
+    return before[-1] if before else ""
 
 
 # ---------------------------------------------------------------------------
 # Window calculation
 # ---------------------------------------------------------------------------
 
-def find_dialogue_windows(dialogue_cues, clip_end_ms):
-    """Find gaps between dialogue cues — only dialogue is hard-blocked."""
+def find_all_windows(dialogue_cues, clip_end_ms):
+    """Return silence gaps between dialogue cues only.
+    Each window also carries references to the preceding and following dialogue blocks."""
     blocks = sorted((c["start_ms"], c["end_ms"]) for c in dialogue_cues)
     merged = []
     for s, e in blocks:
@@ -150,14 +171,17 @@ def find_dialogue_windows(dialogue_cues, clip_end_ms):
         else:
             merged.append([s, e])
 
+    # windows: (gap_start, gap_end, prev_dialogue_end, next_dialogue_start)
     windows = []
     cursor = 0
-    for s, e in merged:
+    for i, (s, e) in enumerate(merged):
         if s - cursor >= MIN_GAP_MS:
-            windows.append((cursor, s))
+            prev_end = cursor  # end of preceding dialogue block (0 if none)
+            next_start = s     # start of following dialogue block
+            windows.append((cursor, s, prev_end, next_start))
         cursor = max(cursor, e)
     if clip_end_ms - cursor >= MIN_GAP_MS:
-        windows.append((cursor, clip_end_ms))
+        windows.append((cursor, clip_end_ms, cursor, clip_end_ms))
     return windows
 
 
@@ -185,47 +209,65 @@ def max_words(duration_ms):
 # Prompt building
 # ---------------------------------------------------------------------------
 
-def build_prompt(chunks, stage_context=""):
+def build_prompt(chunks, stage_events=None):
     lines = []
-    for s, e, dur_ms in chunks:
+    for i, (s, e, dur_ms, hint, prev_end, next_start) in enumerate(chunks):
         w = max_words(dur_ms)
-        lines.append(f"- {s} to {e}  (max {w} English words)")
+        # For the first window: if the clip opened with dialogue before this gap,
+        # prepend the very first stage event so Gemini knows to reference the opening.
+        if i == 0 and stage_events and prev_end != "00:00:00.000":
+            opening = stage_events[0][1]
+            combined = f"OPENING CONTEXT: {opening} | {hint}" if hint else f"OPENING CONTEXT: {opening}"
+            hint_str = f"  [Script: {combined}]"
+        else:
+            hint_str = f"  [Script: {hint}]" if hint else ""
+        lines.append(f"- {s} to {e}  (max {w} English words){hint_str}")
     window_list = "\n".join(lines)
 
-    context_block = ""
-    if stage_context:
-        context_block = f"""
-IMPORTANT: The following stage directions from the script describe the visual action in this clip.
-You MUST base every description on these stage directions. For each time window, identify which
-action or scene transition is happening according to the script, and describe that.
-Use the exact character names and props mentioned in the stage directions.
+    timeline_block = ""
+    if stage_events:
+        timeline_lines = [f"  {ms_to_ts(ts)}: {desc}" for ts, desc in stage_events]
+        timeline_block = "NARRATIVE TIMELINE (from stage directions):\n" + "\n".join(timeline_lines)
 
-{stage_context}
+    context_block = ""
+    if stage_events:
+        context_block = f"""
+{timeline_block}
+
+Use the timeline above to understand what is happening at each moment in the clip.
+Each description window below also carries a [Script: ...] note indicating the most
+relevant stage action for that window — base your description on it.
 
 """
 
     return f"""Watch this video clip carefully.
 {context_block}
-I will give you time windows where I need a brief visual description for audio playback.
-These windows fall between spoken dialogue. They may overlap with background opera music
-or instrumental sound effects — that is fine.
+I will give you silence windows (gaps between dialogue) where a brief visual description
+will be read aloud by a TTS voice. Each description plays during the silence but should
+describe the visual scene — including what is happening in the dialogue moments just
+before and after the gap, since the visual action continues across both.
 
-IMPORTANT: Each description will be read aloud by a TTS voice within the window duration.
+IMPORTANT: Each description will be read aloud within the window duration.
 You MUST stay within the word limit shown for each window.
 
-For each window, write ONE phrase or short sentence describing what is visible:
-costumes, physical movement, setting, facial expressions, or on-screen text.
-{"Always reference the stage directions above — use character names and scripted actions." if stage_context else "Do NOT describe speech, dialogue, or music."}
+For each window, write ONE phrase or short sentence describing what is VISUALLY happening:
+physical movement, setting, facial expressions, camera angle, or on-screen text.
+Do NOT describe costumes or clothing unless they carry important narrative meaning.
+Do NOT repeat or paraphrase what characters are saying — focus only on visuals.
+{"Base each description firmly on the [Script: ...] note and the narrative timeline." if stage_events else ""}
+Write in plain flowing sentences. Do NOT use parentheses.
 
-Write each description in both Chinese (Simplified) and English.
-Keep the Chinese description proportionally brief to match the English word limit.
+IMPORTANT — avoid repetition: each description must highlight something NOTICEABLY
+DIFFERENT from adjacent ones. Vary focus — zoom level, facial expression, gesture,
+other characters, setting detail. Never use the same sentence structure twice in a row.
+
+Write each description in English only.
 
 Return a JSON array only, no other text:
 [
   {{
     "start": "HH:MM:SS.mmm",
     "end": "HH:MM:SS.mmm",
-    "zh": "中文描述。",
     "en": "English description."
   }}
 ]
@@ -252,21 +294,28 @@ def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path,
     all_ends = [c["end_ms"] for c in dialogue_cues + sound_cues]
     clip_end_ms = max(all_ends) if all_ends else 120000
 
-    raw_windows = find_dialogue_windows(dialogue_cues, clip_end_ms)
+    raw_windows = find_all_windows(dialogue_cues, clip_end_ms)
     chunks = []
-    for s, e in raw_windows:
-        chunks.extend(subdivide_window(s, e))
-    chunks_with_dur = [(ms_to_ts(s), ms_to_ts(e), e - s) for s, e in chunks]
+    for s, e, prev_end, next_start in raw_windows:
+        for cs, ce in subdivide_window(s, e):
+            chunks.append((cs, ce, prev_end, next_start))
 
-    print(f"Found {len(raw_windows)} dialogue gaps → {len(chunks_with_dur)} description slots:")
-    for s, e, dur in chunks_with_dur:
-        print(f"  {s} --> {e}  ({dur/1000:.1f}s, max {max_words(dur)} words)")
-
-    stage_context = ""
+    # Load TransChart stage events and annotate each chunk with its hint
+    stage_events = []
     if transchart_docx and clip_number:
-        stage_context = extract_stage_context(transchart_docx, clip_number)
-        if stage_context:
-            print(f"\nTransChart context loaded ({len(stage_context.splitlines())} lines)")
+        stage_events = extract_stage_events(transchart_docx, clip_number, dialogue_cues)
+        print(f"TransChart stage events loaded: {len(stage_events)}")
+
+    chunks_with_hints = [
+        (ms_to_ts(s), ms_to_ts(e), e - s,
+         stage_hint_for_window(stage_events, s, e),
+         ms_to_ts(prev_end), ms_to_ts(next_start))
+        for s, e, prev_end, next_start in chunks
+    ]
+
+    print(f"Found {len(raw_windows)} silence gaps → {len(chunks_with_hints)} description slots:")
+    for s, e, dur, hint, prev_end, next_start in chunks_with_hints:
+        print(f"  {s} --> {e}  ({dur/1000:.1f}s)  {('['+hint+']') if hint else ''}")
 
     client = genai.Client(api_key=api_key)
 
@@ -283,8 +332,8 @@ def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path,
         time.sleep(5)
         video_file = client.files.get(name=video_file.name)
 
-    prompt = build_prompt(chunks_with_dur, stage_context)
-    print(f"Generating {len(chunks_with_dur)} audio descriptions...")
+    prompt = build_prompt(chunks_with_hints, stage_events)
+    print(f"Generating {len(chunks_with_hints)} audio descriptions...")
     response = None
     for model in ["gemini-2.5-flash", "models/gemini-3-flash-preview", "models/gemini-2.5-flash-lite"]:
         try:
@@ -314,7 +363,6 @@ def generate_audio_desc(video_path, dialogue_vtt, soundlabels_vtt, output_path,
     for i, event in enumerate(events, start=1):
         lines.append(str(i))
         lines.append(f"{event['start']} --> {event['end']}")
-        lines.append(event["zh"])
         lines.append(event["en"])
         lines.append("")
 

@@ -48,10 +48,12 @@ def parse_audiodesc_vtt(path):
         content = [l for l in lines if "-->" not in l and not re.match(r"^\d+$", l.strip())]
         if not content:
             continue
+        # VTT has zh on line 1, en on line 2
+        en_text = content[1].strip() if len(content) > 1 else content[0].strip()
         cues.append({
             "start": m.group(1).replace(",", "."),
             "end": m.group(2).replace(",", "."),
-            "en": content[0].strip(),
+            "en": en_text,
         })
     return cues
 
