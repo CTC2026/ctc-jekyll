@@ -87,7 +87,7 @@
       if (activeCueIdx < 0) return;
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
-      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=2');
+      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=3');
       video.volume = 0;
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
