@@ -22,7 +22,7 @@ You can find modules that analyze various adaptations of *The Injustice to Dou E
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue/Doue_General_Intro_1.jpg" alt="A woodblock illustration of Act 3 of The Injustice to Dou E from Zang Maoxun's Select Yuan Plays (Yuanqu xuan), the lavishly illustrated anthology that would come to define &quot;Yuan zaju drama.&quot; The caption in the upper right corner is a repetition of the play's full title, &quot;The Injustice to Dou E Moves Heaven and Earth.&quot; Source: Zang Maoxun 臧懋循, comp. Yuanqu xuan 元曲選 (Select Yuan Plays). Hangzhou: Zhejiang guji chubanshe, 1998, p. 49. Credit: Scan by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue/Doue_General_Intro_1.jpg" alt="Woodblock illustration of Act 3 of Dou E yuan; caption in upper right: 'The Injustice to Dou E Moves Heaven and Earth'">
   <figcaption><strong>Fig. 1.</strong> A woodblock illustration of Act 3 of <em>The Injustice to Dou E</em> from Zang Maoxun's <em>Select Yuan Plays</em> (<em>Yuanqu xuan</em>), the lavishly illustrated anthology that would come to define "Yuan zaju drama." The caption in the upper right corner is a repetition of the play's full title, "The Injustice to Dou E Moves Heaven and Earth." Source: Zang Maoxun <span lang="zh">臧懋循</span>, comp. <em>Yuanqu xuan</em> <span lang="zh">元曲選</span> (Select Yuan Plays). Hangzhou: Zhejiang guji chubanshe, 1998, p. 49. Credit: Scan by author.</figcaption>
 </figure>
 
