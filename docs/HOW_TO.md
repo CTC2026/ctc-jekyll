@@ -785,6 +785,7 @@ The accessibility tools and checklist for this project are stored in **Microsoft
 
 Common things the check looks for:
 - Every image has a descriptive `alt` text (not just left blank)
+- `alt` text is **under 120 characters** — summarise the image concisely; longer descriptions belong in the `<figcaption>`, not the `alt`
 - Headings follow a logical order (`##` before `###`, no skipped levels)
 - Links have meaningful text (not "click here")
 - Videos have captions (`.vtt` subtitle files attached)
