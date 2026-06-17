@@ -81,8 +81,8 @@ Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enact
 ### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png" alt="Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.">
-  <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot to speak to Madam Choi. Source: The film.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png" alt="In the garden, Tau Ngo uses a perched white parrot as her mouthpiece to ask Madam Choi about Scholar Choi's return">
+  <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot as a mouthpiece to indirectly ask about Scholar Choi's return, but Madam Choi sees through the ploy. Source: The film.</figcaption>
 </figure>
 
 Although Tau Ngo suspects that her intended is coming home, she is too shy to ask Madam Choi directly about her prospective husband's arrival. Antsy to confirm the news, she decides on the spur of the moment to use a pet parrot as a "mouthpiece" for her question. Tau Ngo tells Madam Choi that the parrot has been calling "Choi has come back," hoping Madam Choi would verify the statement. But Madam Choi sees through her. She asks Tau Ngo how that could be, since the parrot came into the household only after Scholar Choi departure and doesn't know what the young man looks like! Tau Ngo's ploy is thus comically exposed.
@@ -101,12 +101,12 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt="Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt=" ">
   <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt="Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt=" ">
   <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
 </figure>
 
