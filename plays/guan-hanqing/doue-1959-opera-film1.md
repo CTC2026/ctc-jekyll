@@ -100,12 +100,12 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
 
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
-<figure class="module-figure">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt=" ">
   <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
 </figure>
 
-<figure class="module-figure">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt=" ">
   <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
 </figure>
@@ -123,7 +123,7 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
   <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on YouTube.</p>
 </div>
 
-<figure>
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung's animated exchange with Tau Ngo. Source: The film.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung's animated exchange with Tau Ngo. Source: The film.</figcaption>
 </figure>
@@ -141,7 +141,7 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
   <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase mutton soup. Source: The film on YouTube.</p>
 </div>
 
-<figure>
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
   <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
 </figure>
@@ -159,12 +159,12 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
   <p class="clip-caption">Clip 5: The cunning Cheung Lou takes advantage of Lai Heung. Source: The film on YouTube.</p>
 </div>
 
-<figure>
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
   <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
 </figure>
 
-<figure>
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
   <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
 </figure>
