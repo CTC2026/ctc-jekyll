@@ -80,7 +80,7 @@ Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enact
 
 ### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
 
-<figure class="module-figure-right" style="max-width:360px">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png" alt="In the garden, Tau Ngo uses a perched white parrot as her mouthpiece to ask Madam Choi about Scholar Choi's return">
   <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot as a mouthpiece to indirectly ask about Scholar Choi's return, but Madam Choi sees through the ploy. Source: The film.</figcaption>
 </figure>
@@ -105,7 +105,7 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
   <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
 </figure>
 
-<figure class="module-figure-right" style="max-width:360px">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt=" ">
   <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
 </figure>
@@ -143,7 +143,7 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 
 ### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
-<figure class="module-figure-right" style="max-width:360px">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
   <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
 </figure>
@@ -166,7 +166,7 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
   <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
 </figure>
 
-<figure class="module-figure-right" style="max-width:360px">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
   <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
 </figure>
