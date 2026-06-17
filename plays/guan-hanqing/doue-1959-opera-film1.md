@@ -13,8 +13,8 @@ banner_image: /assets/images/guan_resourcebanner.png
 - [The film with Cantonese Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s)
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png" alt="Yam Kim-fai 任劍輝 (left, as Scholar Choi) and Fong Yim-Fen 芳艷芬 (right, as Tau Ngo) in Snow in June (1959). Source: The production.">
-  <figcaption><strong>Fig. 1.</strong> Yam Kim-fai <span lang="zh">任劍輝</span> (left, as Scholar Choi) and Fong Yim-Fen <span lang="zh">芳艷芬</span> (right, as Tau Ngo) in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png" alt="Tau Ngo cups both hands to her chin to convey her testimony; Scholar Choi stands beside her">
+  <figcaption><strong>Fig. 1.</strong> Yam Kim-fai <span lang="zh">任劍輝</span>, left, as Scholar Choi, and Fong Yim-Fen <span lang="zh">芳艷芬</span>, right, as Tau Ngo using sign language to convey her testimony, in <em>Snow in June</em> (1959). Source: The production.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -34,8 +34,8 @@ banner_image: /assets/images/guan_resourcebanner.png
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png" alt="Fong Yim-Fen 芳艷芬 as Tau Ngo in Snow in June (1959). Source: The production.">
-  <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen <span lang="zh">芳艷芬</span> as Tau Ngo in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png" alt="Tau Ngo raises both hands to her temples with thumbs up to convey her testimony; Scholar Choi looks on.">
+  <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen <span lang="zh">芳艷芬</span> as Tau Ngo using sign language to convey her testimony in <em>Snow in June</em> (1959). Source: The production.</figcaption>
 </figure>
 
 Regional Sinophone films of the Cold War explored linguistic traditions beyond that of the state-sponsored "Putonghua" (<span lang="zh">普通話</span>, modern Mandarin Chinese) that was mandated in mainland China and culturally dominated the Hong Kong and Taiwan film industries in the 1950s and 60s. The 1959 Hong Kong film *Snow in June* offers a complex sociolinguistic commentary on Cold War Hong Kong. It is not only a Cantonese-language opera film that reflects the city's local language, but a production that further broadens the linguistic representation by including a Deaf character and recognizing sign language as part of Hong Kong's multilingual environment. In the film, sign language works metaphorically to reflect the tensions and communicative difficulties between Mandarin and regional forms of speech. Moreover, the addition of sign language to the film's linguistic palette showcases post-war Hong Kong's attempts to bring together a linguistically fragmented community through social welfare efforts.
