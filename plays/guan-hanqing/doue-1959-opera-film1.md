@@ -100,7 +100,7 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
 
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
-<figure class="module-figure-right">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt=" ">
   <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
 </figure>
@@ -143,7 +143,7 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 
 ### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
   <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
 </figure>
@@ -161,7 +161,7 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
 
 ### Scene 6: Scholar Choi interprets signing gestures
 
-<figure class="module-figure-right">
+<figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
   <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
 </figure>
