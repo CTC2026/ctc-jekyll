@@ -61,8 +61,8 @@ From its 1956 live opera debut to its 1959 film production, *Snow in June* mirro
 ### Scene 1: Tau Ngo is introduced to Lai Heung by Madam Choi
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png" alt="Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.">
-  <figcaption><strong>Fig. 3.</strong> Tau Ngo and Lai Heung are introduced by Madam Choi. Source: The film.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png" alt="Madam Choi makes a symmetrical sign for splitting chores, affirming Tau Ngo and Lai Heung as equals">
+  <figcaption><strong>Fig. 3.</strong> Madam Choi introduces Tau Ngo and Lai Heung as fellow sisters, signing a symmetrical gesture for splitting chores to affirm their equal status in the household. Source: The film.</figcaption>
 </figure>
 
 In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi tells the two girls to split the chores, affirming their equal status in the household through simultaneous speech and signing. The sign-gesture the Madam composes is a plausible signing variety. While the sign-gestures used in the film do not appear to be representative of an existing, formalized standard language, the film's handling of signing nevertheless echoes sign language education. Given that sign language was still being implemented in Hong Kong's deaf education, it is difficult to ascertain their accuracy vis-a-vis signing varieties used in Hong Kong at the time. But it is safe to say that there was a conscious effort in the emulation of actual sign language. Madam Choi's gesture almost mirror the signs for SHARING, SPLITTING, and their synonyms across sign language varieties, including in contemporary American Sign Language (ASL). This points to the possibility that the film did not merely use evocative sign gestures but made an effort to correlate such gestures to the sign language as it was developing at the time.
