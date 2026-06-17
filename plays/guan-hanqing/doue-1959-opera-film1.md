@@ -123,12 +123,12 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
   <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on YouTube.</p>
 </div>
 
+### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
+
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung's animated exchange with Tau Ngo. Source: The film.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung's animated exchange with Tau Ngo. Source: The film.</figcaption>
 </figure>
-
-### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
 
 As in Scene 3, this is another confidential exchange, where the usual clarity the audience obtains through familiarity with the gestic repertoire of opera is occluded by the inclusion of real sign language. The gestic conversation in the scene is opaque, but eventually, the audience can make out that Tau Ngo gives up her hairpin so Lai Heung can buy mutton soup for Madam Choi and that Tau Ngo seems to be giving directions to Lai Heung. The audience is brought into the gestural conversation in a negotiation between inclusion and exclusion. While the audience may view these gestures primarily through the reigning conventions of opera, *Snow in June*'s invocation of the novel form of sign language threatens to overshadow this familiar code. Eventually, in the climatic court scene at the end of the film, Scholar Choi will lexicalize these coded gestures.
 
@@ -141,12 +141,12 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
   <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase mutton soup. Source: The film on YouTube.</p>
 </div>
 
+### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
+
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Tau Ngo gives Lai Heung instructions through sign language. Source: The film.">
   <figcaption><strong>Fig. 8.</strong> Tau Ngo gives Lai Heung instructions through sign language. Source: The film.</figcaption>
 </figure>
-
-### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
 In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understands and falls into his trap. While she is a dupe here, a sensitive audience might tell that it is not so much her disability but dire poverty and hunger that causes her to be distracted by food as Cheung Lou doctors the mutton soup. If she seems vulnerable and careless here, the film redeems her in its finale in the courtroom when she provides crucial evidence to undo the injustice done to Tau Ngo. Cheung Lou's condescending attitude towards Lai Heung is even more explicit in the relatively recent adaptation by Guangzhou Cantonese Opera Troupe <span lang="zh">廣州粵劇團</span> of the 1956 original, where Cheung Lou mocks her voice. His contempt contrasts with Scholar Choi's elegance and patient interpretation in the next scene.
 
@@ -159,6 +159,8 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
   <p class="clip-caption">Clip 5: The cunning Cheung Lou takes advantage of Lai Heung. Source: The film on YouTube.</p>
 </div>
 
+### Scene 6: Scholar Choi interprets signing gestures
+
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
   <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
@@ -168,8 +170,6 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
   <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
 </figure>
-
-### Scene 6: Scholar Choi interprets signing gestures
 
 The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations.
 
