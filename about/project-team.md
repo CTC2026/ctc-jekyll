@@ -24,11 +24,11 @@ For content generation, the current project leads are Prof. [Patricia Sieber](ht
 
 For the Digital Humanities aspect of the project, the project has benefited from the expertise of Prof. Leigh Bonds (The Ohio State University Libraries). For the site development, the team led by Prof. Maria Palazzi (Department of Design, The Ohio State University) with the assistance of Taylor Olsen (MFA, Department of Design), Emma Peters (BS student, Department of Design), and preliminary visual concepts by Gabriela Miniello (MFA student, Department of Design).
 
-In keeping with the interdisciplinary nature of Chinese theater and its multi-media afterlives, CTC is advised by an interdisciplinary group of scholars from around the world.
-
 ## Editorial Board
 
 <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/about/EditorialBoard_AboutPage.png" alt="" aria-hidden="true" style="width:100%">
+
+In keeping with the interdisciplinary nature of Chinese theater and its multi-media afterlives, CTC is advised by an interdisciplinary group of scholars from around the world.
 
 ### Members (in alphabetical order)
 

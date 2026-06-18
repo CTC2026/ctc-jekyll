@@ -6,21 +6,12 @@ permalink: /about/how-to-use/
 
 ## Content and Organization
 
-The site arranges content around different theatrical productions. Rather than presenting a single authoritative interpretation, it showcases the variety of adaptations to demonstrate "the vitality and potential for creativity and innovation inherent in the transmission of traditional plays."
+We organize each chapter around a series of different productions. While the original plays may be old, these modern renditions are a product of their own modern moment. As such they are but the latest chapter of a dynamic and freewheeling culture of theatrical adaptation.
 
-Each production includes a plot summary because modern versions, even within the corpus of traditional performance styles, may have radically altered the contours and details of a play.
+Hence, we do not aspire to illustrate a transhistorical or authoritative essence that underwrites individual Chinese plays or the corpus of traditional theater as a whole. Instead, the variety of adaptations is meant to show the vitality and potential for creativity and innovation inherent in the transmission of traditional plays. Accordingly, we provide a plot summary for each production because modern versions, even within the corpus of traditional performance styles, may have radically altered the contours and details of a play as first published in the Yuan, Ming, and Qing dynasties (fourteenth through nineteenth centuries).
 
 ## Traditionality and Innovation
 
-The Chinese Theater Collaborative balances respect for historical preservation with contemporary creativity. While some versions emphasize deep historical roots, the site also values neo-traditional or brand new interpretations across media as equally important contributions to global conversations about traditional Chinese theater.
+To be sure, some versions of traditional live theater present themselves within a framework of traditionality and their practitioners are proud of the deep historical roots of their performance styles. We seek to honor that curatorial impulse in featuring some iconic renditions while also acknowledging that neo-traditional or brand new interpretations across media may be just as important in the global conversation inspired by traditional Chinese plays.
 
-This resource functions best "as a springboard for discussion rather than as an attempt to simply enshrine definitive interpretations of the Chinese theatrical corpus."
-
-## Navigation
-
-The main menu includes:
-
-- **About the CTC Project** — project background, team, and methodology
-- **Resources for Plays** — modules organized by play
-- **Media Types and Opera Styles** — modules organized by medium
-- **How to Teach With Chinese Theater Collaborative** — pedagogical guidance and resources
+Therefore, we recommend to use this site as a springboard for discussion rather than as an attempt to simply enshrine definitive interpretations of the Chinese theatrical corpus.
