@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Contributors
-permalink: /contributors/
+permalink: /about/contributors/
 ---
 
 Please find a list of our contributors, with links to their work, below.
