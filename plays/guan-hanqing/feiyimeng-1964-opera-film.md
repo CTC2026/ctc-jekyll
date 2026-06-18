@@ -172,7 +172,7 @@ The final scene of exposure and denouement brings together all the threads of th
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="In a garden, Xuechun looks around searching while Zhang Peizan in robes covers his face with sleeves">
-  <figcaption><strong>Fig. 3.</strong> Zhang Peizan disguises himself as Lin Zhaode, covering his face with his sleeves to deceive the maid Xuechun in the garden, in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun <span lang="zh">中华戏韵</span>.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Zhang Peizan disguises himself as Lin Zhaode, covering his face with his sleeves to deceive the maid Xuechun in the garden, in <em>The Crimson Palm</em>. Source: <em>The Crimson Palm</em> on YouTube. Credit: Screenshot by author from a link that is defunct. Please use the links at the head of the page to access the film.</figcaption>
 </figure>
 
 <div class="clip-section">
