@@ -15,7 +15,7 @@ banner_image: /assets/images/guan_resourcebanner.png
 - [The film with traditional Chinese subtitles on the Chinese streaming site bilibili.](https://www.bilibili.com/video/BV1Jt42187Rs/?spm_id_from=333.337.search-card.all.click)
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg" alt="Film poster of The Crimson Palm. Source: 千寻亿选, '血手印的海报.' 豆瓣电影. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg" alt="Film poster: main characters before a dark gate bearing crimson handprints; title in large red characters">
   <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: <span lang="zh">千寻亿选</span>, "<span lang="zh">血手印的海报</span>." <span lang="zh">豆瓣电影</span>. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
 </figure>
 
@@ -54,19 +54,19 @@ A notable feature of the film is its title song, "Path on the Outskirts" <span l
 
 ## Plot Summary
 
-The film opens with an atmospheric night scene: a rider returns on horseback along the outskirts of a city. This rider is Zhang Peisan <span lang="zh">張培贊</span>, a villainous official, who is returning from a nocturnal assignation. He is spotted by Wang Qianjin's maid, Xuechun <span lang="zh">雪春</span>, who has witnessed something she should not have seen. Zhang Peisan, fearing exposure, resolves to silence her.
+The film opens with an atmospheric night scene: a rider returns on horseback along the outskirts of a city. This rider is Zhang Peizan <span lang="zh">張培贊</span>, a villainous official, who is returning from a nocturnal assignation. He is spotted by Wang Qianjin's maid, Xuechun <span lang="zh">雪春</span>, who has witnessed something she should not have seen. Zhang Peizan, fearing exposure, resolves to silence her.
 
 The scholar Lin Zhaode <span lang="zh">林肇德</span> arrives in the city and meets Wang Qianjin. The two fall in love and their romance is celebrated in the charming duet "Path on the Outskirts," in which they walk together through the countryside and sing of their happiness. However, Qianjin's brother Wang Chun <span lang="zh">王春</span> disapproves of Lin Zhaode and seeks to prevent the match.
 
-Through a series of machinations, Zhang Peisan frames Lin Zhaode for a crime he did not commit. Lin Zhaode is arrested and faces severe punishment. Qianjin is devastated but resolves to save him. She disguises herself as her own maid, Xuechun, and manages to get close to Zhang Peisan, seeking to expose his villainy. The critical evidence is a crimson handprint — the blood-red palm print of the title — left at the scene of Zhang Peisan's crime.
+Through a series of machinations, Zhang Peizan frames Lin Zhaode for a crime he did not commit. Lin Zhaode is arrested and faces severe punishment. Qianjin is devastated but resolves to save him. She disguises herself as her own maid, Xuechun, and manages to get close to Zhang Peizan, seeking to expose his villainy. The critical evidence is a crimson handprint — the blood-red palm print of the title — left at the scene of Zhang Peizan's crime.
 
-In the climactic scene of denouement, the truth is exposed. Zhang Peisan is confronted with the evidence of his crime, including the testimony of witnesses and the damning physical evidence of the crimson palm print. He is unable to maintain his lies and is brought to justice. Lin Zhaode is exonerated and reunited with Wang Qianjin. The film ends on a note of romantic triumph, consistent with the conventions of the Huangmei opera genre as adapted for Hong Kong screen audiences.
+In the climactic scene of denouement, the truth is exposed. Zhang Peizan is confronted with the evidence of his crime, including the testimony of witnesses and the damning physical evidence of the crimson palm print. He is unable to maintain his lies and is brought to justice. Lin Zhaode is exonerated and reunited with Wang Qianjin. The film ends on a note of romantic triumph, consistent with the conventions of the Huangmei opera genre as adapted for Hong Kong screen audiences.
 
 ## Theme: From Love Story to Film Noir
 
-*The Crimson Palm* sits at an intriguing generic intersection. On the surface, it is a Huangmei opera film: a colorful, romantic musical in which beautiful songs carry the emotional weight of the narrative and a happy ending is guaranteed. But the film also draws heavily on the conventions of film noir, the style of dark, atmospheric cinema that had been enormously influential in Hollywood in the 1940s and 1950s and had left its mark on Hong Kong filmmaking as well. The film noir elements are most visible in the film's treatment of its antagonist, Zhang Peisan, and its female protagonist, Wang Qianjin.
+*The Crimson Palm* sits at an intriguing generic intersection. On the surface, it is a Huangmei opera film: a colorful, romantic musical in which beautiful songs carry the emotional weight of the narrative and a happy ending is guaranteed. But the film also draws heavily on the conventions of film noir, the style of dark, atmospheric cinema that had been enormously influential in Hollywood in the 1940s and 1950s and had left its mark on Hong Kong filmmaking as well. The film noir elements are most visible in the film's treatment of its antagonist, Zhang Peizan, and its female protagonist, Wang Qianjin.
 
-Film noir typically features a femme fatale, a dangerous and alluring woman who uses her sexuality and cunning to manipulate men and advance her own agenda. *The Crimson Palm* adapts this figure in a striking way: Wang Qianjin, who begins the film as a conventional romantic heroine, is gradually transformed by the pressures of the plot into something more like a femme fatale. When she disguises herself as her maid to infiltrate Zhang Peisan's world, she becomes a figure of strategic deception, using her appearance and her wits as weapons. This transformation is unsettling and fascinating, and it gives the film a moral complexity unusual in the Huangmei opera genre.
+Film noir typically features a femme fatale, a dangerous and alluring woman who uses her sexuality and cunning to manipulate men and advance her own agenda. *The Crimson Palm* adapts this figure in a striking way: Wang Qianjin, who begins the film as a conventional romantic heroine, is gradually transformed by the pressures of the plot into something more like a femme fatale. When she disguises herself as her maid to infiltrate Zhang Peizan's world, she becomes a figure of strategic deception, using her appearance and her wits as weapons. This transformation is unsettling and fascinating, and it gives the film a moral complexity unusual in the Huangmei opera genre.
 
 The Hong Kong context is important here. By 1964, Hong Kong cinema was a sophisticated industry producing films for a cosmopolitan audience familiar with both Chinese opera traditions and Hollywood genre conventions. Shaw Brothers, the production company behind *The Crimson Palm*, was the dominant force in the Hong Kong film industry and was committed to producing polished, visually ambitious films that could compete with international cinema. The blending of Huangmei opera with film noir conventions in *The Crimson Palm* is a characteristic product of this cultural moment.
 
@@ -75,7 +75,7 @@ The Hong Kong context is important here. By 1964, Hong Kong cinema was a sophist
 The film opens with a night sequence of stark visual economy. Against a dark background, a rider on horseback moves along a road on the outskirts of the city. The scene lasts only about twenty-five seconds, but it establishes the film's noir atmosphere immediately: the darkness, the solitary rider, the sense of furtive and illicit movement. This is not the bright, sunny world of conventional Huangmei opera; it is a world of shadows and secrets.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg" alt="The title card of The Crimson Palm. Source: The film on Youtube. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg" alt="Chinese title "血手印" above, English "The Crimson Palm" below, both in red against a dark blood-stained door">
   <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. Source: The film on Youtube. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ The extraordinary later popularity of "Path on the Outskirts" — above all in T
 
 ### Qianjin as Femme Fatale (1:09:12–1:11:18)
 
-As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun becomes increasingly fraught. In this clip, she is alone with Zhang Peisan and must maintain her impersonation while probing for information about his crime. The scene is charged with tension: Qianjin knows that she is in danger, and the audience knows it too, but she must maintain a cool surface while acting strategically. Her behavior in this scene — the calculated deployment of feminine appearance and demeanor as a strategic tool — aligns her with the femme fatale figure of film noir.
+As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun becomes increasingly fraught. In this clip, she is alone with Zhang Peizan and must maintain her impersonation while probing for information about his crime. The scene is charged with tension: Qianjin knows that she is in danger, and the audience knows it too, but she must maintain a cool surface while acting strategically. Her behavior in this scene — the calculated deployment of feminine appearance and demeanor as a strategic tool — aligns her with the femme fatale figure of film noir.
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -155,12 +155,12 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 <table class="transcript">
 <thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
-<tr><td lang="zh">女鬼：張培贊！你認識我嗎？</td><td>Female Ghost: Zhang Peisan! Do you recognize me?</td></tr>
-<tr><td lang="zh">張培贊：你，你是誰？</td><td>Zhang Peisan: You — who are you?</td></tr>
+<tr><td lang="zh">女鬼：張培贊！你認識我嗎？</td><td>Female Ghost: Zhang Peizan! Do you recognize me?</td></tr>
+<tr><td lang="zh">張培贊：你，你是誰？</td><td>Zhang Peizan: You — who are you?</td></tr>
 <tr><td lang="zh">女鬼：我就是你害死的雪春！</td><td>Female Ghost: I am Xuechun, whom you killed!</td></tr>
-<tr><td lang="zh">張培贊：不，不可能！你已經死了！</td><td>Zhang Peisan: No, impossible! You are already dead!</td></tr>
-<tr><td lang="zh">女鬼：是你殺了我，張培贊！血手印就是證據！</td><td>Female Ghost: You killed me, Zhang Peisan! The crimson palm print is the evidence!</td></tr>
-<tr><td lang="zh">張培贊：饒命啊，饒命！我，我招了，我招了！</td><td>Zhang Peisan: Spare my life, spare my life! I — I confess, I confess!</td></tr>
+<tr><td lang="zh">張培贊：不，不可能！你已經死了！</td><td>Zhang Peizan: No, impossible! You are already dead!</td></tr>
+<tr><td lang="zh">女鬼：是你殺了我，張培贊！血手印就是證據！</td><td>Female Ghost: You killed me, Zhang Peizan! The crimson palm print is the evidence!</td></tr>
+<tr><td lang="zh">張培贊：饒命啊，饒命！我，我招了，我招了！</td><td>Zhang Peizan: Spare my life, spare my life! I — I confess, I confess!</td></tr>
 <tr><td lang="zh">王千金（揭面）：好！你已當眾認罪！</td><td>Wang Qianjin (removing her disguise): Good! You have confessed in front of everyone!</td></tr>
 </tbody>
 </table>
@@ -168,11 +168,11 @@ As the film approaches its climax, Wang Qianjin's disguise as her maid Xuechun b
 
 ### The Scene of Denouement (1:11:40–1:14:06)
 
-The final scene of exposure and denouement brings together all the threads of the plot. Zhang Peisan, confronted with the testimony of witnesses and the physical evidence of the crimson palm print, is forced to confess to his crimes. The scene is structured as a formal trial, with the gathered characters serving as both jury and audience for the revelation of the truth.
+The final scene of exposure and denouement brings together all the threads of the plot. Zhang Peizan, confronted with the testimony of witnesses and the physical evidence of the crimson palm print, is forced to confess to his crimes. The scene is structured as a formal trial, with the gathered characters serving as both jury and audience for the revelation of the truth.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="Qianjin impersonates her maid in The Crimson Palm. Source: Youtube. Credit: Zhonghua Xiyun 中华戏韵.">
-  <figcaption><strong>Fig. 3.</strong> Qianjin impersonates her maid in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun <span lang="zh">中华戏韵</span>.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="In a garden, Xuechun looks around searching while Zhang Peizan in robes covers his face with sleeves">
+  <figcaption><strong>Fig. 3.</strong> Zhang Peizan disguises himself as Lin Zhaode, covering his face with his sleeves to deceive the maid Xuechun in the garden, in <em>The Crimson Palm</em>. Source: Youtube. Credit: Zhonghua Xiyun <span lang="zh">中华戏韵</span>.</figcaption>
 </figure>
 
 <div class="clip-section">
@@ -199,13 +199,13 @@ The final scene of exposure and denouement brings together all the threads of th
 <table class="transcript">
 <thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
-<tr><td lang="zh">張培贊：是，小人那天遛馬回來，見雪春獨自一人在郊外，便起了歹念……</td><td>Zhang Peisan: Yes — that day I was returning from exercising my horse when I saw Xuechun alone in the outskirts, and I was seized by an evil impulse…</td></tr>
+<tr><td lang="zh">張培贊：是，小人那天遛馬回來，見雪春獨自一人在郊外，便起了歹念……</td><td>Zhang Peizan: Yes — that day I was returning from exercising my horse when I saw Xuechun alone in the outskirts, and I was seized by an evil impulse…</td></tr>
 <tr><td lang="zh">官員：然後呢？</td><td>Official: And then?</td></tr>
-<tr><td lang="zh">張培贊：小人，小人將她殺了，手沾血跡，逃走時留下了血手印。</td><td>Zhang Peisan: I — I killed her. My hand was stained with blood, and when I fled I left behind the crimson palm print.</td></tr>
+<tr><td lang="zh">張培贊：小人，小人將她殺了，手沾血跡，逃走時留下了血手印。</td><td>Zhang Peizan: I — I killed her. My hand was stained with blood, and when I fled I left behind the crimson palm print.</td></tr>
 <tr><td lang="zh">王千金：你可聽見了？這就是兇手的親口供詞！</td><td>Wang Qianjin: Did you all hear that? This is the murderer's own confession!</td></tr>
-<tr><td lang="zh">官員：張培贊，你犯了謀殺之罪，依法當斬！</td><td>Official: Zhang Peisan, you have committed the crime of murder. According to the law, you shall be beheaded!</td></tr>
-<tr><td lang="zh">張培贊：饒命啊，大人，饒命！</td><td>Zhang Peisan: Spare my life, Your Honor, spare my life!</td></tr>
-<tr><td lang="zh">官員：來人啊，將張培贊拿下！</td><td>Official: Guards, take Zhang Peisan away!</td></tr>
+<tr><td lang="zh">官員：張培贊，你犯了謀殺之罪，依法當斬！</td><td>Official: Zhang Peizan, you have committed the crime of murder. According to the law, you shall be beheaded!</td></tr>
+<tr><td lang="zh">張培贊：饒命啊，大人，饒命！</td><td>Zhang Peizan: Spare my life, Your Honor, spare my life!</td></tr>
+<tr><td lang="zh">官員：來人啊，將張培贊拿下！</td><td>Official: Guards, take Zhang Peizan away!</td></tr>
 <tr><td lang="zh">王千金：林肇德無罪，請大人還他清白！</td><td>Wang Qianjin: Lin Zhaode is innocent — please restore his good name, Your Honor!</td></tr>
 <tr><td lang="zh">官員：林肇德無罪釋放！</td><td>Official: Lin Zhaode is innocent and shall be released!</td></tr>
 </tbody>
