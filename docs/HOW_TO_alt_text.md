@@ -49,6 +49,17 @@ Purely decorative images (borders, dividers, background patterns) use `alt=""`.
 | **Write a complete sentence or phrase** | Incomplete descriptions leave blind users without enough context |
 | **Describe what can be seen** | Describe the specific visual content — gestures, poses, setting, text visible in the image — rather than repeating the narrative context already in the figcaption |
 
+### Rules for writing figcaptions
+
+The figcaption and the alt text serve different roles. The figcaption is read by everyone and has no word limit — use it to carry context, interpretation, and purpose that go beyond what is visible in the image.
+
+| Rule | Notes |
+|---|---|
+| **State why the image is here** | Explain what the image illustrates in relation to the module's argument — do not just describe what is visible |
+| **Include source and credit** | Publication title, author, date, page number, or URL; photographer or scan credit |
+| **No word limit** | The figcaption can be as long as needed to give the image full context |
+| **Do not repeat the alt text** | The alt text describes the scene; the figcaption interprets and contextualizes it |
+
 ### Common issues flagged in review
 
 | Issue | What it means |
