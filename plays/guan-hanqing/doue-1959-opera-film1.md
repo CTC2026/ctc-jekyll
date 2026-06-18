@@ -162,13 +162,13 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
 ### Scene 6: Scholar Choi interprets signing gestures
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="Cheung Lou gestures to lure Lai Heung away. Source: The film.">
-  <figcaption><strong>Fig. 9.</strong> Cheung Lou gestures to lure Lai Heung away. Source: The film.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="In court, Scholar Choi cups both hands in a circular bowl gesture, asking Lai Heung to confirm her sign for soup">
+  <figcaption><strong>Fig. 9.</strong> In court, Scholar Choi interprets Lai Heung's sign for soup, positing his translation as a question and awaiting her affirmation to avoid mistranslation. Source: The film.</figcaption>
 </figure>
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.">
-  <figcaption><strong>Fig. 10.</strong> Lai Heung is distracted by food as Cheung Lou doctors the soup. Source: The film.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="In court, Scholar Choi raises both arms wide with white sleeve cloths in a sign gesture during his interpretation">
+  <figcaption><strong>Fig. 10.</strong> Scholar Choi interprets Lai Heung's coded gestures in court; he poses each sign as a question and waits for her confirmation, contrasting with Cheung Lou's earlier condescension. Source: The film.</figcaption>
 </figure>
 
 The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations.
