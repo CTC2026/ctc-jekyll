@@ -76,7 +76,7 @@ The film opens with a night sequence of stark visual economy. Against a dark bac
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg" alt="Chinese title "血手印" above, English "The Crimson Palm" below, both in red against a dark blood-stained door">
-  <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. Source: The film on Youtube. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. The characters <span lang="zh">血手印</span> are written right to left, as is typical in the traditional Chinese typographic layout used in Hong Kong. Source: <em>The Crimson Palm</em> on YouTube. Credit: Screenshot by author from a link that is defunct. Please use the links at the head of the page to access the film.</figcaption>
 </figure>
 
 <div class="clip-section">
