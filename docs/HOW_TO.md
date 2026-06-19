@@ -103,7 +103,7 @@ VS Code is where you will write and edit all the website content. It also has a 
 1. Open VS Code
 2. Click the **Extensions** icon in the left sidebar — or press `Ctrl+Shift+X` on Windows / `⌘+Shift+X` on Mac
 
-   ![VS Code Extensions icon in the left sidebar](docs/images/vscode-extensions-icon.png)
+   ![VS Code Extensions icon in the left sidebar](images/vscode-extensions-icon.png)
 3. Search for **Claude Code**
 4. Click **Install**
 
@@ -117,11 +117,11 @@ To open the terminal inside VS Code:
 - Go to **View → Terminal** in the menu, or
 - Press `` Ctrl+` `` (Windows) / `` ⌘+` `` (Mac)
 
-![Opening the terminal via the View menu in VS Code](docs/images/vscode-open-terminal-menu.png)
+![Opening the terminal via the View menu in VS Code](images/vscode-open-terminal-menu.png)
 
 A terminal panel will open at the bottom of VS Code. This is where you will type all commands.
 
-![VS Code terminal panel open at the bottom of the screen](docs/images/vscode-terminal-panel.png)
+![VS Code terminal panel open at the bottom of the screen](images/vscode-terminal-panel.png)
 
 **🪟 Windows only — set Git Bash as your terminal**
 
@@ -248,7 +248,7 @@ If you are not comfortable running commands yourself, you can use **Claude Code*
 
 3. Open the Claude Code panel by clicking its icon in the left sidebar, or press `Ctrl+Shift+P` (Windows) / `⌘+Shift+P` (Mac) and search **Claude Code: Open**
 
-   ![Claude Code panel open in VS Code](docs/images/vscode-claude-code-panel.png)
+   ![Claude Code panel open in VS Code](images/vscode-claude-code-panel.png)
 
 4. Type your request in the chat box and press Enter — Claude Code can read your project files and run commands in the VS Code terminal on your behalf
 
