@@ -19,13 +19,13 @@ In addition to the adaptation of whole plays, Chinese television programming als
 ## Modules on Television
 
 <dl class="module-list">
-<dt markdown="1">The Return of the Soul at the Peony Pavilion <span lang="zh">牡丹亭還魂记</span> (2009)</dt>
+<dt><a href="{{ '/plays/mudanting/2009-tv/' | relative_url }}">The Return of the Soul at the Peony Pavilion <span lang="zh">牡丹亭還魂记</span> (2009)</a></dt>
 <dd markdown="1">"The Expression of Qing in the Hybrid Medium of Yue Opera TV Drama," a module about a televisual adaptation of *The Peony Pavilion* by CCTV.</dd>
 
-<dt markdown="1">The Ink and Vermillion Edition of The Orphan of Zhao (2011)</dt>
+<dt><a href="{{ '/plays/orphan-of-zhao/2011-tv/' | relative_url }}">The Ink and Vermillion Edition of The Orphan of Zhao (2011)</a></dt>
 <dd markdown="1">"Stage as a Narrator," a module on a TV recording of the "Ink and Vermilion" edition adapted by Wang Peiyu <span lang="zh">王珮瑜</span>.</dd>
 
-<dt markdown="1">A Dream of Splendor <span lang="zh">梦华录</span> (2022)</dt>
+<dt><a href="{{ '/plays/guan-hanqing/jiufengchen-2022-tv/' | relative_url }}">A Dream of Splendor <span lang="zh">梦华录</span> (2022)</a></dt>
 <dd markdown="1">"Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.</dd>
 </dl>
 

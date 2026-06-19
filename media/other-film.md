@@ -19,22 +19,22 @@ In recent years, many plays have become part of a boom in full-length live actio
 ## Modules on Other Types of Film
 
 <dl class="module-list">
-<dt markdown="1">The Romance of the Western Chamber <span lang="zh">西厢記</span> (1927)</dt>
+<dt><a href="{{ '/plays/xixiangji/1927-film/' | relative_url }}">The Romance of the Western Chamber <span lang="zh">西厢記</span> (1927)</a></dt>
 <dd markdown="1">"Focusing the Gaze," a module on the 1927 silent film adaptation.</dd>
 
-<dt markdown="1">Hua Mu Lan <span lang="zh">木蘭從軍</span> (1939)</dt>
+<dt><a href="{{ '/plays/mulan/1939-film/' | relative_url }}">Hua Mu Lan <span lang="zh">木蘭從軍</span> (1939)</a></dt>
 <dd markdown="1">"The Marking of Gender," a module on the 1939 live action film adaptation of *Mulan*.</dd>
 
-<dt markdown="1">The Western Wing <span lang="zh">西廂記</span> (1940)</dt>
+<dt><a href="{{ '/plays/xixiangji/1940-film/' | relative_url }}">The Western Wing <span lang="zh">西廂記</span> (1940)</a></dt>
 <dd markdown="1">"Zhou Xuan's Hongniang, the Intermedial Songstress," a module on the 1940 musical film adaptation.</dd>
 
-<dt markdown="1">Hongniang (a.k.a. Soubrette) <span lang="zh">红娘</span> (1999)</dt>
+<dt><a href="{{ '/plays/xixiangji/1999-film/' | relative_url }}">Hongniang (a.k.a. Soubrette) <span lang="zh">红娘</span> (1999)</a></dt>
 <dd markdown="1">"Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation.</dd>
 
-<dt markdown="1">The Peony Pavilion <span lang="zh">遊園驚夢</span> (2001)</dt>
+<dt><a href="{{ '/plays/mudanting/2001-film/' | relative_url }}">The Peony Pavilion <span lang="zh">遊園驚夢</span> (2001)</a></dt>
 <dd markdown="1">"The Function of the Kunqu Performance Within the Film," a module on the Hong Kong feature film of *The Peony Pavilion*.</dd>
 
-<dt markdown="1">Sacrifice <span lang="zh">赵氏孤儿</span> (2010)</dt>
+<dt><a href="{{ '/plays/orphan-of-zhao/2010-film/' | relative_url }}">Sacrifice <span lang="zh">赵氏孤儿</span> (2010)</a></dt>
 <dd markdown="1">"Father-Son Love," a module on a film adaptation of *The Orphan of Zhao* by director Chen Kaige <span lang="zh">陈凯歌</span>.</dd>
 </dl>
 

@@ -17,22 +17,22 @@ This site makes the play the central point of departure, not a particular style 
 ## Modules on Recordings of Live Performances
 
 <dl class="module-list">
-<dt markdown="1">The Orphan of Zhao <span lang="zh">赵氏孤儿</span> (2003)</dt>
+<dt><a href="{{ '/plays/orphan-of-zhao/2003-performance/' | relative_url }}">The Orphan of Zhao <span lang="zh">赵氏孤儿</span> (2003)</a></dt>
 <dd markdown="1">"Dramaturgical Techniques to Turn A Commoner Into a Hero," a module on a live Beijing opera performance of *Orphan of Zhao*.</dd>
 
-<dt markdown="1">The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span> (2007)</dt>
+<dt><a href="{{ '/plays/mudanting/2007-recorded-perf/' | relative_url }}">The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span> (2007)</a></dt>
 <dd markdown="1">"How to Express Love within the Theatrical Language of Kunqu," a module on a live performance "Youth Edition" of *The Peony Pavilion*.</dd>
 
-<dt markdown="1">The Story of the Western Wing <span lang="zh">西厢记</span> (2011)</dt>
+<dt><a href="{{ '/plays/xixiangji/2011-recorded-perf/' | relative_url }}">The Story of the Western Wing <span lang="zh">西厢记</span> (2011)</a></dt>
 <dd markdown="1">"Striking a Balance Between Propriety and Playfulness," a module on a 2011 Shaoxing/Yue opera stage recording.</dd>
 
-<dt markdown="1">The Lute <span lang="zh">全本琵琶记</span> (2012)</dt>
+<dt><a href="{{ '/plays/pipaji/2012-recorded-perf/' | relative_url }}">The Lute <span lang="zh">全本琵琶记</span> (2012)</a></dt>
 <dd markdown="1">"Techniques for Creating Sadness and Comic Relief," a module on a live performance of *The Lute* by the Shanghai Kunqu Opera Troupe.</dd>
 
-<dt markdown="1">Yanyan <span lang="zh">燕燕</span> (2016)</dt>
+<dt><a href="{{ '/plays/guan-hanqing/zhanizi-2016-recorded-perf/' | relative_url }}">Yanyan <span lang="zh">燕燕</span> (2016)</a></dt>
 <dd markdown="1">"The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation of *Clever Maid*.</dd>
 
-<dt markdown="1">Top Graduate Zhang Xie <span lang="zh">张协状元</span> (2017)</dt>
+<dt><a href="{{ '/plays/zhangxie/2017-recorded-perf/' | relative_url }}">Top Graduate Zhang Xie <span lang="zh">张协状元</span> (2017)</a></dt>
 <dd markdown="1">"Humorous Techniques," a module on a Yongjia Style Kunqu live stage adaptation of *Top Graduate Zhang Xie*.</dd>
 </dl>
 
