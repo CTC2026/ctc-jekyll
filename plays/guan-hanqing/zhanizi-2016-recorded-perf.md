@@ -6,6 +6,8 @@ permalink: /plays/guan-hanqing/zhanizi-2016-recorded-perf/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
+media_type: 'Chuanju <span lang="zh">川剧高腔</span> (High-Pitch Sichuan Opera)'
+director: 'Li Zenglin <span lang="zh">李增林</span>'
 ---
 
 ## Links to the Performance

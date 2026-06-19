@@ -6,6 +6,8 @@ permalink: /plays/guan-hanqing/feiyimeng-1964-opera-film/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
+media_type: Huangmei Opera Film
+director: 'Chan Yau-San <span lang="zh">陳又新</span>'
 ---
 
 ## Links to the Film

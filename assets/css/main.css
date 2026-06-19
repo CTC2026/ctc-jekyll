@@ -771,6 +771,22 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .sub-btn:hover { background: var(--red); color: white; }
 .sub-btn.active { background: var(--red); color: white; }
 
+.module-subtitle {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--red);
+}
+.module-media-type {
+  color: var(--red);
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0 0 0.3rem;
+}
+.module-director {
+  font-size: 1rem;
+  margin: 0;
+}
+
 .module-info {
   margin: 1.5rem 0 2rem;
   font-size: 0.88rem;

@@ -6,6 +6,8 @@ permalink: /plays/guan-hanqing/jiufengchen-2022-tv/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
+media_type: Television Drama Series
+director: 'Yang Yang <span lang="zh">杨阳</span>'
 ---
 
 ## Links to the TV Drama

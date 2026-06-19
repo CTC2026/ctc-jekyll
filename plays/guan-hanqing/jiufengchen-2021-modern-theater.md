@@ -6,6 +6,8 @@ permalink: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
+media_type: Semi-Staged Reading; Spoken Drama
+director: Anthony Lau
 ---
 
 ## Links to the Production

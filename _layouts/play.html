@@ -39,6 +39,12 @@ layout: default
 
   <div class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
+    {% if page.media_type or page.director %}
+    <div class="module-subtitle">
+      {% if page.media_type %}<p class="module-media-type">{{ page.media_type }}</p>{% endif %}
+      {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}
+    </div>
+    {% endif %}
     {{ content }}
   </div>
 

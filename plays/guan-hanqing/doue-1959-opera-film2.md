@@ -6,6 +6,8 @@ permalink: /plays/guan-hanqing/doue-1959-opera-film2/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
+media_type: Pu Opera Film
+director: 'Zhang Xinshi <span lang="zh">張辛實</span>'
 ---
 
 ## Links to the Film
