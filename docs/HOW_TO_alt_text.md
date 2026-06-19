@@ -2,28 +2,6 @@
 
 Alt text (alternative text) is a short written description of an image. It is read aloud by screen readers for blind and low-vision users, and displayed if an image fails to load. Good alt text is required for every image on the CTC website.
 
----
-
-## What Makes Good Alt Text
-
-| Rule | Example |
-|---|---|
-| Describe what is **in** the image | "A woman in military armor stands on a stage" |
-| Include **context** relevant to the module | "Chen Yunshang as Hua Mulan in the 1939 film" |
-| Keep it **concise** — one or two sentences maximum | ✓ |
-| Do **not** start with "Image of..." or "Photo of..." | Screen readers already announce it is an image |
-| Do **not** repeat the caption word for word | The caption is for everyone; alt text is for those who cannot see the image |
-| If the image is **decorative** and adds no information, use `alt=""` | Leave the alt attribute empty — do not skip it entirely |
-
-### Examples
-
-| Image | Poor alt text | Good alt text |
-|---|---|---|
-| A film still of an actress in costume | "image001.jpg" | "Chen Yunshang as Hua Mulan in military armor, 1939 film" |
-| A woodblock print of the Western Wing | "old print" | "Woodblock illustration showing the garden scene from The Story of the Western Wing, 1640 edition" |
-| A decorative divider line | "line.png" | *(leave blank: `alt=""`)* |
-
----
 
 ## Accessibility Rules (from the CTC Review Checklist)
 
@@ -60,19 +38,6 @@ The figcaption and the alt text serve different roles. The figcaption is read by
 | **No word limit** | The figcaption can be as long as needed to give the image full context |
 | **Do not repeat the alt text** | The alt text describes the scene; the figcaption interprets and contextualizes it |
 
-### Common issues flagged in review
-
-| Issue | What it means |
-|---|---|
-| **Too long** | Alt text exceeds 120 characters — shorten it |
-| **Duplicates caption** | Alt text repeats or paraphrases the figcaption — write a distinct visual description instead, or use `alt=""` if the figcaption fully covers it |
-| **Missing context** | Alt text describes the image but not its significance — add relevant context |
-| **Same captions** | Two images share identical alt text — each image needs a distinct description |
-| **Parentheses** | Alt text contains parentheses — rewrite as a plain sentence |
-| **Incomplete** | Alt text is a fragment — write a complete sentence or phrase |
-| **Source info in alt text** | Credits or publication details are in the alt text — move them to the figcaption |
-
----
 
 ## Part 1 — Writing Alt Text for New Images
 

@@ -81,9 +81,9 @@ For most CTC clips (opera films, recorded performances), start with **Proteus**.
 
 | Video Quality | Source Examples | Preset | Output Resolution |
 |---|---|---|---|
-| **Very Low** | 1950s–60s opera films, onsite performance recordings | Film 4K M | — |
+| **Very Low** | 1950s–60s opera films, onsite performance recordings | *(none)* | 2x |
 | **Low** | 1970s–80s TV broadcasts, recorded performances | *(none)* | 2x |
-| **Medium** | 1990s–2000s TV productions, MiniDV camcorder recordings | Film 4K L / MiniDV HD Int Basic | — |
+| **Medium** | 1990s–2000s TV productions, MiniDV camcorder recordings | Film 4K M/L / MiniDV HD Int Basic | — |
 | **Good** | 2010s+ digital recordings | General Enhancement / FHD | — |
 
 ### Second enhancement
