@@ -64,7 +64,7 @@ Open **Topaz Video AI** from your Applications folder (Mac) or Start menu (Windo
 
 ## Step 5 — Choose the right model
 
-![Topaz model selector and export settings](images/topaz-model-selector-and-export-settings.png)
+![Topaz model selector and export settings](images/topaz-model-selector.png)
 
 Topaz offers several AI models. Choose based on your clip type:
 
