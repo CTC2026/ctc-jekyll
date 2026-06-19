@@ -4,6 +4,11 @@ title: Contribute to the CTC
 permalink: /about/contribute/
 ---
 
+- [Read this page in Simplified Chinese](/about/permissions-simplified/)
+- [Read this page in Traditional Chinese](/about/permissions-traditional/)
+
+## Observations and Critique
+
 We welcome feedback and contributions to our site. This is a dynamic resource center designed to be a platform for people around the world who are interested in the reading and the performance of traditional Chinese plays and their afterlives in the Chinese-speaking world and around the globe.
 
 For all queries and suggestions, please contact us via email: [ChineseTheaterCollaborative@osu.edu](mailto:ChineseTheaterCollaborative@osu.edu)
