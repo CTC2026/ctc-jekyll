@@ -1,11 +1,15 @@
 ---
 layout: about
 title: 如何参与"华语戏聚"项目
-permalink: /about/permissions-simplified/
+permalink: /about/contribute-simplified/
 lang: zh-Hans
 ---
 
+## 反馈与参与
+
 本网站欢迎您的反馈与参与。这是一个生机勃勃的资源中心，旨在为世界各地有兴趣阅读、表演中国传统戏剧（及其在华语世界和全球各地的演绎版本）的人们提供一个平台。如有任何疑问和建议，请通过电子邮件 (sieber.6@osu.edu) 联系 Patricia Sieber 教授。
+
+## 参与类型
 
 **更正：** 我们力求尽可能准确地提供本网站上的信息。如果您认为您发现了任何事实错误，请与我们联系。请在来函中尽量具体地描述您发现的错误信息。
 
@@ -19,4 +23,4 @@ lang: zh-Hans
 
 **翻译/字幕：** 《如何阅读中国戏曲》中列出了三十余部戏曲作品的现代演绎版本。您可以翻译这些作品的选段，或者为其添加新的字幕。毋庸置疑，您将被标示为这些工作的"贡献者"。
 
-[← 返回英文版]({{ '/about/permissions/' | relative_url }})
+[← 返回英文版]({{ '/about/contribute/' | relative_url }})

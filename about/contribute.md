@@ -4,8 +4,8 @@ title: Contribute to the CTC
 permalink: /about/contribute/
 ---
 
-- [Read this page in Simplified Chinese](/about/permissions-simplified/)
-- [Read this page in Traditional Chinese](/about/permissions-traditional/)
+- [Read this page in Simplified Chinese](/about/contribute-simplified/)
+- [Read this page in Traditional Chinese](/about/contribute-traditional/)
 
 ## Observations and Critique
 

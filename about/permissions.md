@@ -4,11 +4,6 @@ title: Permissions
 permalink: /about/permissions/
 ---
 
-- [阅读简体中文版](permissions-simplified)
-- [閱讀繁體中文版](permissions-traditional)
-
-## Permissions
-
 All verbal text on the Chinese Theater Collaborative site is original content developed by the respective authors credited near the end of each module.
 
 The Chinese Theater Collaborative holds the copyright for the publication of that content for the purposes of including the module in this website.
