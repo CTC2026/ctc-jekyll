@@ -140,7 +140,7 @@ As noted above, *The Peony Pavilion: The Youth Edition* was created with the exp
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two audience members dressed in their own traditional Chinese clothing pose for a photo in front of a digital poster at the theatre hall">
-  <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (Changshengdian <span lang="zh">长生殿</span>). In the theater hall, they pose for a photo in front of the digital poster. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (Changshengdian <span lang="zh">长生殿</span>) show. In the theater hall, they pose for a photo in front of the digital poster. Credit: Photo by the author.</figcaption>
 </figure>
 
 An important legacy of *The Peony Pavilion: The Youth Edition* is the launch of *The Peony Pavilion: The Campus Edition*, also initiated by Bai Xianyong. After the Youth Edition concluded its touring circuit on university campuses, Bai sought to ensure that Kun Opera would not remain a fleeting trend but would instead take root as a lasting part of campus culture. His idea was to have university students themselves perform Kun Opera, thereby embedding it into student life.
@@ -157,7 +157,7 @@ Alongside these productions, a new generation of Kun Opera performers, many stil
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
-  <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theatre. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theater. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
 </figure>
 
 ### Amateur Kun Opera Singing Societies
