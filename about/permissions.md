@@ -10,4 +10,4 @@ The Chinese Theater Collaborative holds the copyright for the publication of tha
 
 Republication in any format (print, digital, electronic, etc.) and in any language by third parties anywhere in the world require the written permission of the Chinese Theater Collaborative Content Editors as well as the written permission of the original author(s).
 
-To contact the editors, write to [ChineseTheaterCollaborative@osu.edu](mailto:ChineseTheaterCollaborative@osu.edu). To contact the original author(s), see the hyperlinks under "[Chinese Theater Collaborative Contributors](/about/contributors/)."
+To contact the editors, write to [ChineseTheaterCollaborative@osu.edu](mailto:ChineseTheaterCollaborative@osu.edu). To contact the original author(s), see the hyperlinks under "[Chinese Theater Collaborative Contributors]({{ '/about/contributors/' | relative_url }})."

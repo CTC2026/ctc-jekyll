@@ -4,8 +4,8 @@ title: Contribute to the CTC
 permalink: /about/contribute/
 ---
 
-- [Read this page in Simplified Chinese](/about/contribute-simplified/)
-- [Read this page in Traditional Chinese](/about/contribute-traditional/)
+- [Read this page in Simplified Chinese]({{ '/about/contribute-simplified/' | relative_url }})
+- [Read this page in Traditional Chinese]({{ '/about/contribute-traditional/' | relative_url }})
 
 ## Observations and Critique
 
