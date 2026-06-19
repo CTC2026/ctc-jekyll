@@ -24,7 +24,7 @@ title: Home
     </div>
   </a>
   <a href="{{ '/resources/' | relative_url }}" class="card">
-    <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/images/guan_resourcebanner.png" alt="Scene from a Chinese theater play">
+    <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/images/guan_resourcebanner.png" alt="" aria-hidden="true">
     <div class="card-body">
       <h2 class="card-heading">Resources for Plays</h2>
       <p>Scripts, commentary, and teaching materials.</p>
