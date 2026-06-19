@@ -76,7 +76,18 @@ In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi 
   <p class="clip-caption">Clip 1: Tau Ngo is introduced to Lai Heung by Madam Choi. Source: The film on YouTube.</p>
 </div>
 
-Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enacts the process of deaf education. Learning is reciprocal for both the Deaf and the hearing, and Tau Ngo humbly says that she would like to learn from Lai Heung. In Madam Choi's household, Lai Heung's disability clearly does not relegate her to a lower social position, and it is not until Tau Ngo marries Scholar Choi that Tau Ngo becomes the maid's mistress. By taking two disadvantaged children (Tau Ngo and Lei Heung) into her home, Madam Choi exemplifies a figure of charitable benevolence and a model citizen of postwar Hong Kong.
+<details class="translation" markdown="1">
+<summary>Translation notes for Clip 1</summary>
+
+| Chinese Captions | CTC Translation |
+|---|---|
+| 蔡婆：她叫荔香。 | Madam Choi: Her name is Lai Heung. |
+| 竇娥：荔香姐。 | Tau Ngo: [Hello], Sister Lai Heung. |
+| 蔡婆：她叉聾又啞，她叫竇娥。以後的家務，你和她分開來做。係。你以後不明白的地方可問她。 | Madam Choi: She's both deaf and mute. [This girl's] name is Tau Ngo. From now on, the two of you can split the housework. [Lai signs] Yes. Later if you [Tau Ngo] don't understand something, you can ask her. |
+| 竇娥：荔香姐，我甚麼都不懂，你要教我才好。 | Tau Ngo: Sister Lai Heung, I don't know much about anything. Do please teach me. |
+</details>
+
+Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enacts the process of deaf education. Learning is reciprocal for both the Deaf and the hearing, and Tau Ngo humbly says that she would like to learn from Lai Heung. In Madam Choi's household, Lai Heung's disability clearly does not relegate her to a lower social position, and it is not until Tau Ngo marries Scholar Choi that Tau Ngo becomes the maid's mistress. By taking two disadvantaged children (Tau Ngo and Lei Heung) into her home, Madam Choi exemplifies a figure of charitable benevolence and a model citizen of postwar Hong Kong. World War II and the Chinese civil war had displaced many children. The Mandarin-language musical *Mambo Girl* (1957), for example, also thematizes post-war adoption and the musical performance of community. As shown in the next scene, a pet parrot is another addition to the varied household that reflects tensions in multilingual Hong Kong.
 
 ### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
 
@@ -96,7 +107,22 @@ Although Tau Ngo suspects that her intended is coming home, she is too shy to as
   <p class="clip-caption">Clip 2: Tau Ngo uses the parrot to ask about Scholar Choi's return. Source: The film on YouTube.</p>
 </div>
 
-Like the two young women, the parrot is yet another wartime adoptee. White-feathered in the film, it is likely a yellow-crested cockatoo. This foreign species is the byproduct of war: according to urban legend, they were exotic pets of the British colonial governor that were released into the wild prior to the Japanese occupation of Hong Kong in 1942. The comical sequence with the parrot was calculated to align with the tastes and sensibilities of the audience. Such scenes of miscommunication contrast with Lai Heung's effective expression and ultimately successful signing at the film's climax.
+<details class="translation" markdown="1">
+<summary>Translation notes for Clip 2</summary>
+
+| Chinese Captions | CTC Translation |
+|---|---|
+| 竇娥：牠說相公回來了，相公回來了。我笑牠無端端叫喊 | Tau Ngo: It says, Choi has come back, Choi has come back. I find it funny that it starts calling out of nowhere. |
+| 蔡婆：牠真的這樣說? | Madam Choi: It really said that? |
+| 竇娥：是的。 | Tau Ngo: Yes. |
+| 蔡婆：你聽錯了。亞昌離家時，還未有這鸚鵡，牠又怎會把相公兩字反覆呢喃? | Madam Choi: You've misheard. The parrot wasn't even here when Choi left. So how would it go on repeating Choi's name? |
+</details>
+
+Like the two young women, the parrot is yet another wartime adoptee. White-feathered in the film, it is likely a yellow-crested cockatoo. This foreign species is the byproduct of war: according to urban legend, they were exotic pets of the British colonial governor that were released into the wild prior to the Japanese occupation of Hong Kong in 1942. The caged birds were thus thrust into an unfamiliar ecosystem during World War II.
+
+As a refuge for both the tragic cockatoo and an operatic heroine modeled on the famous Dou E, Madam Choi's home serves as a microcosm of post-war Hong Kong, city that took in refugees and embraced the linguistic diversity concomitant with becoming a safe harbor. In the 1956 live opera version that preceded the film's production, the flustered Tau Ngo makes up the excuse that she is not familiar with the parrot's Yeungsan dialect to cover her blunder.
+
+The comical sequence with the parrot was calculated to align with the tastes and sensibilities of the audience for both the 1956 original opera as well as for the 1959 film. In the late 1950s, parrots were a hot topic due to their sensational skills in mimicry and enjoyed attention in Hong Kong zoos. Parrots moreover embodied the derogatory political meaning of spreading misinformation, not just by means of imperfect imitation, but intentional fabrications. For example, in 1957 *Tai Kung Pao* reports on an article from Beijing exposing that the United States "Two Chinas" policy was manipulatively "parroting" the claim of Formosa's (Taiwan) unsettled status, thereby entitling US imperialist intervention to Formosa's liberation. The scene in which Tau Ngo ventriloquizes the parrot is a precursor to another significant sequence, in which Lai Heung becomes another unreliable courier and the cause of misinterpretation. By inverting its mimicry and making a quiet parrot spread misinformation, Tau Ngo sets an early example of what not to do with a muted figure. Such scenes of miscommunication contrast with Lai Heung's effective expression and ultimately successful signing at the film's climax.
 
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
@@ -112,7 +138,7 @@ Like the two young women, the parrot is yet another wartime adoptee. White-feath
 
 Giddy with excitement over Scholar Choi's arrival, the two girls imitate what they imagine might be his handsome stride. Lai Heung informs her friend of a gentleman's arrival, but Tau Ngo is disappointed when she realizes that Lai Heung has mistaken Cheung Lou for Scholar Choi. Similar to the parrot, Lai Heung was taken into the home after Scholar Choi left, and so does not know what he looks like. In this case, Lai Heung's misinterpretation of information is not directly caused by her disability. The girl accurately and comically relates the arrival of a new character.
 
-In this extended scene, phonocentric expression is replaced with bodily forms of communication. Far from depriving the two young women from communicating with one another, sensorial disability instead brings upon a gregarious and animated exchange between the girls. The signing space fills the screen, and stylized gestures integral to semantic expression in Chinese opera come into conversation with sign gestures. In addition to the manual motions (of the hand), non-manual signs (of the body) mime the possible gaits of Scholar Choi. This sequence that the two coordinate is a display of friendship and collaborative meaning-making. As *Snow* is a sound film with synchronized dialogue and music that no longer relies on the eloquent gestures of silent film, the sequence of protracted verbal silence also spotlights both the gestic performance of opera and the soundless expressivity of sign language.
+In this extended scene, phonocentric expression is replaced with bodily forms of communication. Far from depriving the two young women from communicating with one another, sensorial disability instead brings upon a gregarious and animated exchange between the girls. The signing space fills the screen, and stylized gestures integral to semantic expression in Chinese opera come into conversation with sign gestures. In addition to the manual motions (of the hand), non-manual signs (of the body) mime the possible gaits of Scholar Choi. This sequence that the two coordinate is a display of friendship and collaborative meaning-making. As *Snow* is a sound film with synchronized dialogue and music that no longer relies on the eloquent gestures of silent film, the sequence of protracted verbal silence also spotlights both the gestic performance of opera and the soundless expressivity of sign language. In this manner, the gestic theatricality of opera is aesthetically augmented by the communicative codes of sign language and sign language in turn is normalized through the audience's familiarity with the semiotic codes of Cantonese opera.
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -171,7 +197,7 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
   <figcaption><strong>Fig. 10.</strong> Scholar Choi interprets Lai Heung's coded gestures in court; he poses each sign as a question and waits for her confirmation, contrasting with Cheung Lou's earlier condescension. Source: The film.</figcaption>
 </figure>
 
-The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations.
+The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations. While the parrot is a reference to Lai Heung's muteness, this is ultimately a red herring, since the parrot ends up being a foil, not a double.
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -181,6 +207,18 @@ The trial at the end of the film dramatizes and amplifies Lai Heung's disability
   </div>
   <p class="clip-caption">Clip 6: Scholar Choi interprets Lai Heung's signing gestures in court. Source: The film on YouTube.</p>
 </div>
+
+<details class="translation" markdown="1">
+<summary>Translation notes for Clip 6</summary>
+
+| Chinese Captions | CTC Translation |
+|---|---|
+| 蔡昌宗：荔香，你口不能言，而眼中有淚，你可以手示意，何忍見你夫人受盡委屈淒涼？ | Scholar Choi: Lai, you cannot talk, yet your eyes are filled with tears. You can use hands to gesture, for how could you bear seeing your mistress so wronged and desolate? [She goes on to sign as he interprets the next lines.] |
+| 蔡昌宗：圓圓一碗是羹湯 | Scholar Choi: Round and circular, a bowl of soup, |
+| 蔡昌宗：一老一少兩參商 | Scholar Choi: Old and young, two facing stalls. |
+| 蔡昌宗：你指示是張驢心不正 | Scholar Choi: You point to Cheung Lou, his crooked heart, |
+| 蔡昌宗：頭角生鬚是姓楊 | Scholar Choi: Horns and beard, the surname Yang (homonym for yeong <span lang="zh">羊</span> [sheep]). |
+</details>
 
 ## Conclusion
 
