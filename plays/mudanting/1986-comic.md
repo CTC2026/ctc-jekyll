@@ -6,6 +6,7 @@ permalink: /plays/mudanting/1986-comic/
 play_id: mudanting
 play_title: "The Peony Pavilion"
 banner_image: /assets/images/Peony_RB_1.png
+media_type: Comic Book (Lianhuanhua)
 ---
 
 <div class="module-info">

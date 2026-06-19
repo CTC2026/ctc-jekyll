@@ -6,6 +6,7 @@ permalink: /plays/xixiangji/1958-comic/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
+media_type: Comic Book (Lianhuanhua)
 ---
 
 <div class="module-info">

@@ -6,6 +6,7 @@ permalink: /plays/pipaji/2012-recorded-perf/
 play_id: pipaji
 play_title: "The Lute"
 banner_image: /assets/images/TheLute_ResourceBanner.png
+media_type: 'Kunqu <span lang="zh">昆曲</span>'
 ---
 
 ## Links to the Recording

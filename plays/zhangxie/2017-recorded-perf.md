@@ -6,6 +6,8 @@ permalink: /plays/zhangxie/2017-recorded-perf/
 play_id: zhangxie
 play_title: "Top Graduate Zhang Xie"
 banner_image: /assets/images/Play_Zhang_RB.png
+media_type: 'Yongjia-Style Kunqu Opera <span lang="zh">永嘉昆曲</span>'
+director: 'Sun Jianghai <span lang="zh">孙江海</span>'
 ---
 
 ## Link to Recording

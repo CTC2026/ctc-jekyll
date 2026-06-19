@@ -6,6 +6,8 @@ permalink: /plays/mudanting/1986-opera-film/
 play_id: mudanting
 play_title: "The Peony Pavilion"
 banner_image: /assets/images/Peony_RB_1.png
+media_type: Kunqu Opera Film
+director: 'Fang Ying <span lang="zh">方荧</span>'
 ---
 
 ## Link to the Film

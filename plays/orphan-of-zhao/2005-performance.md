@@ -5,6 +5,8 @@ permalink: /plays/orphan-of-zhao/2005-performance/
 play_id: orphan-of-zhao
 play_title: Orphan of Zhao
 banner_image: /assets/images/OrphanZhao_ResourceBanner.png
+media_type: 'Yue Opera <span lang="zh">越剧</span>'
+director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 ---
 
 

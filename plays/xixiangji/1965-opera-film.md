@@ -6,6 +6,8 @@ permalink: /plays/xixiangji/1965-opera-film/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
+media_type: Huangmei Opera Film
+director: 'Yueh Feng (Griffin Yueh) <span lang="zh">岳楓</span>'
 ---
 
 <div class="module-info">

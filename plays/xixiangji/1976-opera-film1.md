@@ -6,6 +6,8 @@ permalink: /plays/xixiangji/1976-opera-film1/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
+media_type: Beijing Opera Film
+director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 ---
 
 <div class="module-info">

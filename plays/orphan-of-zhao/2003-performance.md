@@ -5,6 +5,7 @@ permalink: /plays/orphan-of-zhao/2003-performance/
 play_id: orphan-of-zhao
 play_title: Orphan of Zhao
 banner_image: /assets/images/OrphanZhao_ResourceBanner.png
+media_type: 'Beijing Opera <span lang="zh">京剧</span>'
 ---
 
 

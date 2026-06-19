@@ -6,6 +6,7 @@ permalink: /plays/pipaji/1958-comic/
 play_id: pipaji
 play_title: "The Lute"
 banner_image: /assets/images/TheLute_ResourceBanner.png
+media_type: Comic Book (Lianhuanhua)
 ---
 
 <div class="module-info">

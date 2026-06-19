@@ -6,6 +6,7 @@ permalink: /plays/xixiangji/1640-print/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
+media_type: Woodblock Prints
 ---
 
 <div class="module-info">
