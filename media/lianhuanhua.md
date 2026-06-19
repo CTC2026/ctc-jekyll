@@ -6,7 +6,7 @@ permalink: /media/lianhuanhua/
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Comic_1.jpg" alt="Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. The Peony Pavilion. Jiangsu Fine Arts Press, 1986.">
-  <figcaption>Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. <em>The Peony Pavilion</em>. Jiangsu Fine Arts Press, 1986. Credit: Scan by CTC Project Team; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
+  <figcaption>Fig. 1: Panel 23, Du Liniang eyes the reader. Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <em>The Peony Pavilion</em>. Jiangsu Fine Arts Press, 1986. Credit: Scan by CTC Project Team; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
 So-called *lianhuanhua* <span lang="zh">连环画</span> (lit., "linked pictures") are comics in which the story is told in successive panels accompanied by a caption that features narrative and dialogue. They were typically printed as small booklets with one image per page, but also appeared on posters or in magazines where multiple panels were printed side by side.

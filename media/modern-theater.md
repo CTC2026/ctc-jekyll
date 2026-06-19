@@ -6,6 +6,7 @@ permalink: /media/modern-theater/
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_ModernTheater_1.jpg" alt="Modern Theater and Mixed Media Performances">
+  <figcaption>Fig. 1: Screenshot with Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Traditional and modern forms of Chinese theater have been developing in tandem. Early scholarship tended to overstate the rupture between the traditional musical drama and modern spoken drama. Recent research has acknowledged that many cultural practitioners in Republican China (1911–1949) were simultaneously engaged with traditional theater, modern theater, and filmmaking. Hence, these arts invariably imprinted themselves upon one another and such cross-fertilization gave rise to creative new syntheses.

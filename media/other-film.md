@@ -6,6 +6,7 @@ permalink: /media/other-film/
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Film_1.png" alt="Other Types of Film">
+  <figcaption>Fig. 1: Learning to fight in <em>Sacrifice</em> (2010). Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
 Chinese filmmaking and traditional theater had an intimate relationship ever since the technology of filmmaking was introduced to Qing China at the tail end of the nineteenth century. Film scholars Chris Berry and Mary Farquhar have gone so far as to observe that early Chinese filmmaking evinces an "operatic sensibility" (*China On Screen: Cinema and Nation*, 2006).

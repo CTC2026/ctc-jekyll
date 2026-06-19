@@ -8,6 +8,7 @@ permalink: /media/kun-opera/
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_1.jpeg" alt="Kun Opera performers on stage in elaborate traditional costumes">
+  <figcaption>Fig. 1: A stage photo from the Kun Opera <em>The Dream of Southern Bough</em> (Nanke Meng <span lang="zh">南柯梦</span>) by Jiangsu Province Kun Opera Troupe. This play was written by renowned Ming dynasty playwright Tang Xianzu (<span lang="zh">汤显祖</span>, 1550–1616). In the image, the leading male, Chunyu Fen (<span lang="zh">淳于棼</span>), is portrayed by Shi Xiaming (<span lang="zh">施夏明</span>).</figcaption>
 </figure>
 
 ## Part 1: The Revival of Kun Opera in 21st Century China
@@ -112,19 +113,19 @@ Later, the location of these performances shifted from restaurants to tea houses
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_4.jpg" alt="View from the surrounding corridor at the Nanjing Museum tea house theatre, where a man is taking a picture of the show">
-  <figcaption>Fig. 4: View from the surrounding corridor, where visitors stand to watch the performance. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 4: View from the surrounding corridor, where visitors stand to watch the performance. In the photo, a man is taking a picture of the show. Credit: Photo by the author.</figcaption>
 </figure>
 
 This is exactly how the tea house theatre at the Nanjing Museum operates today. Any museum visitor can stop by and watch the performance from the outer corridor free of charge. But for those who wish to sit and enjoy the show more comfortably, there are two options. One can order tea and snacks from the menu and be seated on the ground floor, close to the stage. Alternatively, for 200 yuan (about $30), visitors can book a private second-floor room, which includes premium seating, tea, snacks, and fresh fruit. The second-floor seats offer a better view and a quieter environment. All the seating is available on a first-come, first-served basis.
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_5.jpg" alt="Full view of the audience seating area at the tea house theatre in the Nanjing Museum, with paying guests on the ground floor and museum visitors in the surrounding corridor">
-  <figcaption>Fig. 5: Full view of the audience seating area at the tea house theatre in the Nanjing Museum. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 5: An actor waits in the corridor for his entrance. Small red teapots can be seen on the side shelves and on every table for audience self-service. Several audience members are already eating snacks while watching the performance. Credit: Photo by the author.</figcaption>
 </figure>
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
-  <figcaption>Fig. 6: View of the performance from a second-floor room at the tea house theatre. The bottom left shows a screen displaying bilingual Chinese–English subtitles. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 6: View of the performance from a second-floor room at the tea house theatre. The bottom left shows a screen displaying bilingual Chinese–English subtitles. In the center left is the stage, built in the style of a traditional Chinese theatre but adapted with modern lighting and sound systems. To the right of the stage is the live band, dressed in black. In the center right is the audience seating area. The ground floor is paying guests seated around square tables with tea and snacks. The private rooms on the second floor are visible in the background. Credit: Photo by the author.</figcaption>
 </figure>
 
 Watching Kun Opera in a tea house offers a distinctly different experience from that of a conventional theatre. There is no need to dress formally. The lights remain on throughout the performance. Eating, walking around, taking photos, and even chatting, are allowed. You might clearly hear the sound of sunflower seeds being cracked from all corners of the room. And yet no one, neither audience nor performers, considers this impolite. That is simply the culture of tea house theatre.
@@ -139,7 +140,7 @@ As noted above, *The Peony Pavilion: The Youth Edition* was created with the exp
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two audience members dressed in their own traditional Chinese clothing pose for a photo in front of a digital poster at the theatre hall">
-  <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (Changshengdian <span lang="zh">长生殿</span>). Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (Changshengdian <span lang="zh">长生殿</span>). In the theater hall, they pose for a photo in front of the digital poster. Credit: Photo by the author.</figcaption>
 </figure>
 
 An important legacy of *The Peony Pavilion: The Youth Edition* is the launch of *The Peony Pavilion: The Campus Edition*, also initiated by Bai Xianyong. After the Youth Edition concluded its touring circuit on university campuses, Bai sought to ensure that Kun Opera would not remain a fleeting trend but would instead take root as a lasting part of campus culture. His idea was to have university students themselves perform Kun Opera, thereby embedding it into student life.
@@ -156,7 +157,7 @@ Alongside these productions, a new generation of Kun Opera performers, many stil
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
-  <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theatre. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theatre. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
 </figure>
 
 ### Amateur Kun Opera Singing Societies
@@ -173,7 +174,7 @@ If someone in the group plays the bamboo flute, the primary accompanying instrum
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="A session of a Kun Opera study society at Nanjing University. The instructor in a floral shirt is at center, with student members around them. Two participants are playing the bamboo flute">
-  <figcaption>Fig. 9: A session of a Kun Opera study society at Nanjing University. The person in the floral shirt at the center is the instructor, while the others are student members. Two participants are playing the bamboo flute. Credit: Photo by the author.</figcaption>
+  <figcaption>Fig. 9: A session of a Kun Opera study society at Nanjing University. The person in the floral shirt at the center (face partially obscured) is the instructor, while the others are student members. Two participants are playing the bamboo flute. When weather permits, the society meets in a room located in a Suzhou Garden. When it is extremely hot or cold, the gatherings are relocated to an indoor room. Credit: Photo by the author.</figcaption>
 </figure>
 
 As shown in the image, the university group consists entirely of young adults. The same trend appears in public groups, where the average age ranges from 30 to 40. Some members work in related fields such as culture, education, or media, while others come from completely unrelated professions. Their shared motivation is a deep interest in Kun Opera. Most groups also maintain online chat groups where members exchange performance reviews, ticket information, and tips about vocal techniques.
