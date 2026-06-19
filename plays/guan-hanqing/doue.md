@@ -12,11 +12,11 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 You can find modules that analyze various adaptations of *The Injustice to Dou E* <span lang="zh">竇娥冤</span> at the links below. To get a sense of the main themes and historical import of the original *The Injustice to Dou E*, please consult the "General Background" below.
 
-1. [Snow in June <span lang="zh">六月雪</span> (1959)](/plays/guan-hanqing/doue-1959-opera-film1/)
+1. [Snow in June <span lang="zh">六月雪</span> (1959)]({{ '/plays/guan-hanqing/doue-1959-opera-film1/' | relative_url }})
    - "Constructing Shared Repertoires with Sign Language and Chinese Opera," a module on the Cantonese opera film adaptation of *The Injustice to Dou E*.
-2. [The Injustice to Dou E <span lang="zh">窦娥冤</span> (1959)](/plays/guan-hanqing/doue-1959-opera-film2/)
+2. [The Injustice to Dou E <span lang="zh">窦娥冤</span> (1959)]({{ '/plays/guan-hanqing/doue-1959-opera-film2/' | relative_url }})
    - "Creating A Socialist Revolutionary Subject," a module on the Pu opera film adaptation of *The Injustice to Dou E*.
-3. [The Crimson Palm <span lang="zh">血手印</span> (1964)](/plays/guan-hanqing/feiyimeng-1964-opera-film/)
+3. [The Crimson Palm <span lang="zh">血手印</span> (1964)]({{ '/plays/guan-hanqing/feiyimeng-1964-opera-film/' | relative_url }})
    - "From Love Story to Film Noir," a module on a Hong Kong Huangmei opera film adaptation of *The Dream of the Crimson Robe* <span lang="zh">緋衣夢</span>.
 
 ## General Background

@@ -10,8 +10,8 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 ## Contents
 
-1. [Rescuing One's Sister in the Wind and Dust (2021)](/plays/guan-hanqing/jiufengchen-2021-modern-theater/) — "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation.
-2. [A Dream of Splendor <span lang="zh">梦华录</span> (2022)](/plays/guan-hanqing/jiufengchen-2022-tv/) — "Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation.
+1. [Rescuing One's Sister in the Wind and Dust (2021)]({{ '/plays/guan-hanqing/jiufengchen-2021-modern-theater/' | relative_url }}) — "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation.
+2. [A Dream of Splendor <span lang="zh">梦华录</span> (2022)]({{ '/plays/guan-hanqing/jiufengchen-2022-tv/' | relative_url }}) — "Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation.
 
 ## General Background
 

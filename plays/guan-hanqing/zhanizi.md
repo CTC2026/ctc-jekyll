@@ -10,7 +10,7 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 ## Contents
 
-1. [Yanyan <span lang="zh">燕燕</span> (2016)](/plays/guan-hanqing/zhanizi-2016-recorded-perf/) — "The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation.
+1. [Yanyan <span lang="zh">燕燕</span> (2016)]({{ '/plays/guan-hanqing/zhanizi-2016-recorded-perf/' | relative_url }}) — "The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation.
 
 ## General Background
 
