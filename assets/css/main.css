@@ -885,13 +885,13 @@ details.translation summary {
 details.translation summary::-webkit-details-marker { display: none; }
 details.translation summary::before { content: '▶  '; font-size: 0.7em; }
 details.translation[open] summary::before { content: '▼  '; }
-.trans-table, .transcript { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+.trans-table, .transcript, details.translation table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
 
 main table { margin-bottom: 1.5rem; }
-.trans-table th, .transcript th { background: #f0ebe4; padding: 0.5rem; text-align: left; font-weight: 700; color: var(--red); border-bottom: 2px solid var(--red); }
-.trans-table td, .transcript td { padding: 0.45rem 0.6rem; vertical-align: top; border-bottom: 1px solid #eee; line-height: 1.65; }
-.trans-table td:first-child, .transcript td:first-child { width: 50%; border-right: 1px solid #ddd; }
-.trans-table tr:last-child td, .transcript tr:last-child td { border-bottom: none; }
+.trans-table th, .transcript th, details.translation table th { background: #f0ebe4; padding: 0.5rem; text-align: left; font-weight: 700; color: var(--red); border-bottom: 2px solid var(--red); }
+.trans-table td, .transcript td, details.translation table td { padding: 0.45rem 0.6rem; vertical-align: top; border-bottom: 1px solid #eee; line-height: 1.65; }
+.trans-table td:first-child, .transcript td:first-child, details.translation table td:first-child { width: 50%; border-right: 1px solid #ddd; }
+.trans-table tr:last-child td, .transcript tr:last-child td, details.translation table tr:last-child td { border-bottom: none; }
 
 details.works-consulted { margin-top: 2.5rem; border-top: 2px solid var(--red); padding-top: 1rem; }
 details.works-consulted summary {

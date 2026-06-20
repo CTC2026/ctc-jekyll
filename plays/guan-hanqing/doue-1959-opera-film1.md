@@ -78,15 +78,17 @@ In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi 
   <p class="clip-caption">Clip 1: Tau Ngo is introduced to Lai Heung by Madam Choi. Source: The film on YouTube.</p>
 </div>
 
-<details class="translation" markdown="1">
+<details class="translation">
 <summary>Translation notes for Clip 1</summary>
-
-| Chinese Captions | CTC Translation |
-|---|---|
-| 蔡婆：她叫荔香。 | Madam Choi: Her name is Lai Heung. |
-| 竇娥：荔香姐。 | Tau Ngo: [Hello], Sister Lai Heung. |
-| 蔡婆：她叉聾又啞，她叫竇娥。以後的家務，你和她分開來做。係。你以後不明白的地方可問她。 | Madam Choi: She's both deaf and mute. [This girl's] name is Tau Ngo. From now on, the two of you can split the housework. [Lai signs] Yes. Later if you [Tau Ngo] don't understand something, you can ask her. |
-| 竇娥：荔香姐，我甚麼都不懂，你要教我才好。 | Tau Ngo: Sister Lai Heung, I don't know much about anything. Do please teach me. |
+<table>
+<thead><tr><th>Chinese Captions</th><th>CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>蔡婆：她叫荔香。</td><td>Madam Choi: Her name is Lai Heung.</td></tr>
+<tr><td>竇娥：荔香姐。</td><td>Tau Ngo: [Hello], Sister Lai Heung.</td></tr>
+<tr><td>蔡婆：她叉聾又啞，她叫竇娥。以後的家務，你和她分開來做。係。你以後不明白的地方可問她。</td><td>Madam Choi: She's both deaf and mute. [This girl's] name is Tau Ngo. From now on, the two of you can split the housework. [Lai signs] Yes. Later if you [Tau Ngo] don't understand something, you can ask her.</td></tr>
+<tr><td>竇娥：荔香姐，我甚麼都不懂，你要教我才好。</td><td>Tau Ngo: Sister Lai Heung, I don't know much about anything. Do please teach me.</td></tr>
+</tbody>
+</table>
 </details>
 
 Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enacts the process of deaf education. Learning is reciprocal for both the Deaf and the hearing, and Tau Ngo humbly says that she would like to learn from Lai Heung. In Madam Choi's household, Lai Heung's disability clearly does not relegate her to a lower social position, and it is not until Tau Ngo marries Scholar Choi that Tau Ngo becomes the maid's mistress. By taking two disadvantaged children (Tau Ngo and Lei Heung) into her home, Madam Choi exemplifies a figure of charitable benevolence and a model citizen of postwar Hong Kong. World War II and the Chinese civil war had displaced many children. The Mandarin-language musical *Mambo Girl* (1957), for example, also thematizes post-war adoption and the musical performance of community. As shown in the next scene, a pet parrot is another addition to the varied household that reflects tensions in multilingual Hong Kong.
@@ -109,15 +111,17 @@ Although Tau Ngo suspects that her intended is coming home, she is too shy to as
   <p class="clip-caption">Clip 2: Tau Ngo uses the parrot to ask about Scholar Choi's return. Source: The film on YouTube.</p>
 </div>
 
-<details class="translation" markdown="1">
+<details class="translation">
 <summary>Translation notes for Clip 2</summary>
-
-| Chinese Captions | CTC Translation |
-|---|---|
-| 竇娥：牠說相公回來了，相公回來了。我笑牠無端端叫喊 | Tau Ngo: It says, Choi has come back, Choi has come back. I find it funny that it starts calling out of nowhere. |
-| 蔡婆：牠真的這樣說? | Madam Choi: It really said that? |
-| 竇娥：是的。 | Tau Ngo: Yes. |
-| 蔡婆：你聽錯了。亞昌離家時，還未有這鸚鵡，牠又怎會把相公兩字反覆呢喃? | Madam Choi: You've misheard. The parrot wasn't even here when Choi left. So how would it go on repeating Choi's name? |
+<table>
+<thead><tr><th>Chinese Captions</th><th>CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>竇娥：牠說相公回來了，相公回來了。我笑牠無端端叫喊</td><td>Tau Ngo: It says, Choi has come back, Choi has come back. I find it funny that it starts calling out of nowhere.</td></tr>
+<tr><td>蔡婆：牠真的這樣說?</td><td>Madam Choi: It really said that?</td></tr>
+<tr><td>竇娥：是的。</td><td>Tau Ngo: Yes.</td></tr>
+<tr><td>蔡婆：你聽錯了。亞昌離家時，還未有這鸚鵡，牠又怎會把相公兩字反覆呢喃?</td><td>Madam Choi: You've misheard. The parrot wasn't even here when Choi left. So how would it go on repeating Choi's name?</td></tr>
+</tbody>
+</table>
 </details>
 
 Like the two young women, the parrot is yet another wartime adoptee. White-feathered in the film, it is likely a yellow-crested cockatoo. This foreign species is the byproduct of war: according to urban legend, they were exotic pets of the British colonial governor that were released into the wild prior to the Japanese occupation of Hong Kong in 1942. The caged birds were thus thrust into an unfamiliar ecosystem during World War II.
@@ -171,7 +175,7 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 
 ### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
-<figure class="module-figure-right">
+<figure class="module-figure-right" style="margin-top:-2.2rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Cheung Lou lures Lai Heung away with a snack; Lai Heung is distracted by food as Cheung Lou doctors the soup">
   <figcaption><strong>Fig. 8.</strong> Cheung Lou gestures profusely to ensure Lai Heung falls into his trap; distracted by food, she fails to notice him doctoring the mutton soup. Source: The film.</figcaption>
 </figure>
@@ -210,16 +214,18 @@ The trial at the end of the film dramatizes and amplifies Lai Heung's disability
   <p class="clip-caption">Clip 6: Scholar Choi interprets Lai Heung's signing gestures in court. Source: The film on YouTube.</p>
 </div>
 
-<details class="translation" markdown="1">
+<details class="translation">
 <summary>Translation notes for Clip 6</summary>
-
-| Chinese Captions | CTC Translation |
-|---|---|
-| 蔡昌宗：荔香，你口不能言，而眼中有淚，你可以手示意，何忍見你夫人受盡委屈淒涼？ | Scholar Choi: Lai, you cannot talk, yet your eyes are filled with tears. You can use hands to gesture, for how could you bear seeing your mistress so wronged and desolate? [She goes on to sign as he interprets the next lines.] |
-| 蔡昌宗：圓圓一碗是羹湯 | Scholar Choi: Round and circular, a bowl of soup, |
-| 蔡昌宗：一老一少兩參商 | Scholar Choi: Old and young, two facing stalls. |
-| 蔡昌宗：你指示是張驢心不正 | Scholar Choi: You point to Cheung Lou, his crooked heart, |
-| 蔡昌宗：頭角生鬚是姓楊 | Scholar Choi: Horns and beard, the surname Yang (homonym for yeong <span lang="zh">羊</span> [sheep]). |
+<table>
+<thead><tr><th>Chinese Captions</th><th>CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>蔡昌宗：荔香，你口不能言，而眼中有淚，你可以手示意，何忍見你夫人受盡委屈淒涼？</td><td>Scholar Choi: Lai, you cannot talk, yet your eyes are filled with tears. You can use hands to gesture, for how could you bear seeing your mistress so wronged and desolate? [She goes on to sign as he interprets the next lines.]</td></tr>
+<tr><td>蔡昌宗：圓圓一碗是羹湯</td><td>Scholar Choi: Round and circular, a bowl of soup,</td></tr>
+<tr><td>蔡昌宗：一老一少兩參商</td><td>Scholar Choi: Old and young, two facing stalls.</td></tr>
+<tr><td>蔡昌宗：你指示是張驢心不正</td><td>Scholar Choi: You point to Cheung Lou, his crooked heart,</td></tr>
+<tr><td>蔡昌宗：頭角生鬚是姓楊</td><td>Scholar Choi: Horns and beard, the surname Yang (homonym for yeong <span lang="zh">羊</span> [sheep]).</td></tr>
+</tbody>
+</table>
 </details>
 
 ## Conclusion
