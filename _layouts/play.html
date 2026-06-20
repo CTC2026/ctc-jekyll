@@ -5,7 +5,7 @@ layout: default
 {% if page.banner_image %}
 <div class="page-banner">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev{{ page.banner_image }}" alt="" aria-hidden="true" loading="eager" fetchpriority="high">
-  <div class="page-banner-title">{{ page.heading | default: page.title }}</div>
+  {% unless page.media_type or page.director %}<div class="page-banner-title">{{ page.heading | default: page.title }}</div>{% endunless %}
 </div>
 {% endif %}
 
@@ -40,7 +40,7 @@ layout: default
   <div class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {% if page.media_type or page.director %}
-    <h2>Information</h2>
+    <p class="module-film-title">{{ page.heading | default: page.title }}</p>
     <div class="module-subtitle">
       {% if page.media_type %}
         {% assign mt = page.media_type %}

@@ -770,6 +770,15 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .sub-btn:hover { background: var(--red); color: white; }
 .sub-btn.active { background: var(--red); color: white; }
 
+.module-film-title {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--navy);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+  margin: 0 0 0.6rem;
+}
 .module-subtitle {
   margin-bottom: 1.5rem;
 }
