@@ -236,7 +236,6 @@ nav ul li a.active {
   overflow: hidden;
   background: #fff;
   position: relative;
-  border-bottom: 3px solid var(--red);
 }
 
 .page-banner img {
@@ -771,14 +770,27 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .sub-btn:hover { background: var(--red); color: white; }
 .sub-btn.active { background: var(--red); color: white; }
 
+.module-page-title {
+  border-bottom: none;
+  margin-bottom: 0.8rem;
+}
 .module-subtitle {
   margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--red);
 }
 .module-media-type {
   color: var(--red);
   font-size: 1.2rem;
   font-weight: 700;
   margin: 0 0 0.3rem;
+}
+.module-media-type a {
+  color: var(--red);
+  text-decoration: none;
+}
+.module-media-type a:hover {
+  text-decoration: underline;
 }
 .module-director {
   font-size: 1rem;

@@ -38,12 +38,28 @@ layout: default
   </nav>
 
   <div class="ctc-sidebar-main page-content">
-    {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {% if page.media_type or page.director %}
-    <div class="module-subtitle">
-      {% if page.media_type %}<p class="module-media-type">{{ page.media_type }}</p>{% endif %}
-      {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}
-    </div>
+      <h1 class="module-page-title">{{ page.heading | default: page.title }}</h1>
+      <div class="module-subtitle">
+        {% if page.media_type %}
+          {% assign mt = page.media_type %}
+          {% if mt contains 'Opera Film' %}{% assign media_url = '/media/opera-film/' %}
+          {% elsif mt contains 'Film' %}{% assign media_url = '/media/other-film/' %}
+          {% elsif mt contains 'Lianhuanhua' %}{% assign media_url = '/media/lianhuanhua/' %}
+          {% elsif mt contains 'Kunqu' or mt contains '昆曲' %}{% assign media_url = '/media/kun-opera/' %}
+          {% elsif mt contains 'TV' or mt contains 'Television' %}{% assign media_url = '/media/television/' %}
+          {% elsif mt contains 'Theater' or mt contains 'Reading' or mt contains 'Staged' %}{% assign media_url = '/media/modern-theater/' %}
+          {% elsif mt contains 'Opera' %}{% assign media_url = '/media/recorded-performances/' %}
+          {% else %}{% assign media_url = '' %}
+          {% endif %}
+          <p class="module-media-type">
+            {% if media_url != '' %}<a href="{{ media_url | relative_url }}">{{ page.media_type }}</a>{% else %}{{ page.media_type }}{% endif %}
+          </p>
+        {% endif %}
+        {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}
+      </div>
+    {% else %}
+      {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {% endif %}
     {{ content }}
   </div>
