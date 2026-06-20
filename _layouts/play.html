@@ -40,7 +40,6 @@ layout: default
   <div class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {% if page.media_type or page.director %}
-    <h2>Information</h2>
     <div class="module-subtitle">
       {% if page.media_type %}
         {% assign mt = page.media_type %}
