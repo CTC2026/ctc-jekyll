@@ -802,8 +802,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   font-size: 1.2rem;
   font-weight: 700;
   color: var(--red);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
   margin-bottom: 0.8rem;
 }
 .module-info dl { margin: 0; padding: 0; }
