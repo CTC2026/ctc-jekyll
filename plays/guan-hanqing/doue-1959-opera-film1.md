@@ -130,7 +130,7 @@ The comical sequence with the parrot was calculated to align with the tastes and
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt=" ">
-  <figcaption><strong>Fig. 5.</strong> Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 5.</strong> Lai Heung mimes Scholar Choi's gait before Tau Ngo. Source: The film.</figcaption>
 </figure>
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
