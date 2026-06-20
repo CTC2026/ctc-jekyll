@@ -315,7 +315,6 @@ main blockquote {
   border-left: 4px solid var(--red);
   padding-left: 1.2rem;
   color: #595959;
-  font-style: italic;
   margin: 1.5rem 0;
 }
 
