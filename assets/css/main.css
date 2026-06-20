@@ -772,8 +772,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 .module-subtitle {
   margin-bottom: 1.5rem;
-  padding-bottom: 1rem;
-  border-bottom: 2px solid var(--red);
 }
 .module-media-type {
   color: var(--red);
