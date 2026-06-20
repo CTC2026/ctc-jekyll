@@ -151,12 +151,12 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
   <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on YouTube.</p>
 </div>
 
-### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
-
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung holds a bowl and raises her hand near her forehead in a sign gesture while Tau Ngo stands beside her.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung holds the soup bowl and raises her hand near her forehead in a coded sign gesture; the exchange with Tau Ngo blends opera conventions with real sign language. Source: The film.</figcaption>
 </figure>
+
+### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
 
 As in Scene 3, this is another confidential exchange, where the usual clarity the audience obtains through familiarity with the gestic repertoire of opera is occluded by the inclusion of real sign language. The gestic conversation in the scene is opaque, but eventually, the audience can make out that Tau Ngo gives up her hairpin so Lai Heung can buy mutton soup for Madam Choi and that Tau Ngo seems to be giving directions to Lai Heung. The audience is brought into the gestural conversation in a negotiation between inclusion and exclusion. While the audience may view these gestures primarily through the reigning conventions of opera, *Snow in June*'s invocation of the novel form of sign language threatens to overshadow this familiar code. Eventually, in the climatic court scene at the end of the film, Scholar Choi will lexicalize these coded gestures.
 
@@ -169,12 +169,12 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
   <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase mutton soup. Source: The film on YouTube.</p>
 </div>
 
-### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
-
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Cheung Lou lures Lai Heung away with a snack; Lai Heung is distracted by food as Cheung Lou doctors the soup">
   <figcaption><strong>Fig. 8.</strong> Cheung Lou gestures profusely to ensure Lai Heung falls into his trap; distracted by food, she fails to notice him doctoring the mutton soup. Source: The film.</figcaption>
 </figure>
+
+### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
 In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understands and falls into his trap. While she is a dupe here, a sensitive audience might tell that it is not so much her disability but dire poverty and hunger that causes her to be distracted by food as Cheung Lou doctors the mutton soup. If she seems vulnerable and careless here, the film redeems her in its finale in the courtroom when she provides crucial evidence to undo the injustice done to Tau Ngo. Cheung Lou's condescending attitude towards Lai Heung is even more explicit in the relatively recent adaptation by Guangzhou Cantonese Opera Troupe <span lang="zh">廣州粵劇團</span> of the 1956 original, where Cheung Lou mocks her voice. His contempt contrasts with Scholar Choi's elegance and patient interpretation in the next scene.
 
