@@ -21,7 +21,7 @@ director: 'Zhang Xinshi <span lang="zh">張辛實</span>'
 
 <div class="module-info">
 <dl>
-<div><dt>Name</dt><dd>Dou E Yuan / The Injustice to Dou E <span lang="zh">窦娥冤</span></dd></div>
+<div><dt>Name</dt><dd>The Injustice to Dou E / Dou E Yuan <span lang="zh">窦娥冤</span></dd></div>
 <div><dt>Year</dt><dd>1959</dd></div>
 <div><dt>Director</dt><dd>Zhang Xinshi <span lang="zh">張辛實</span> (1916–1984)</dd></div>
 <div><dt>Producer</dt><dd>Changchun Film Studio</dd></div>
@@ -29,7 +29,7 @@ director: 'Zhang Xinshi <span lang="zh">張辛實</span>'
 <div><dt>Cast</dt><dd>Wang Xiulan <span lang="zh">王秀蘭</span> (as Dou E), Yan Fengchun <span lang="zh">閆逢春</span> (as Dou Tianzhang), Xiao Yuanna <span lang="zh">筱媛娜</span> (as Mother Cai), Wu Yongsheng <span lang="zh">吳永勝</span> (as Zhang Lü'er), Xiao Yuelai <span lang="zh">筱月來</span> (as Zhang Lü'er's father), Yang Hushan <span lang="zh">楊虎山</span> (as Tao Wu), Zhang Qingkui <span lang="zh">張慶奎</span> (as Execution Overseer)</dd></div>
 <div><dt>Language</dt><dd>Chinese Mandarin and Shanxi Dialect</dd></div>
 <div><dt>Duration</dt><dd>100 minutes</dd></div>
-<div><dt>Subtitles</dt><dd>Mix of traditional and simplified characters</dd></div>
+<div><dt>Subtitles</dt><dd>Mix of traditional and simplified characters. Interestingly, the Chinese subtitles that are featured in the original version of the film during arias (to assist comprehension) are rendered in mostly traditional instead of simplified characters. Even though the transition from traditional to simplified characters had begun in 1956, implementation of the new system, especially in typeface used in relation to classical literary and dramatic texts, was not yet complete. There is one exception: the Chinese character Dou (<span lang="zh">窦</span>) is simplified in aria subtitles. Using simpler versions of complex characters is not necessarily a modern practice, as there are multiple conventional cases of such simplification long before the systematic simplification of Chinese characters carried out in the 1950s. To accord with the source text, the character Dou remains simplified throughout this module.</dd></div>
 </dl>
 </div>
 
