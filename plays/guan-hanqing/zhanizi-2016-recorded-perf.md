@@ -15,8 +15,8 @@ director: 'Li Zenglin <span lang="zh">李增林</span>'
 - The Chuanju adaptation *Yanyan* is available on Tencent QQ with simplified Chinese subtitles: [Part 1](https://v.qq.com/x/page/k00229z1dbx.html), [Part 2](https://v.qq.com/x/page/v00222a8jni.html), [Part 3](https://v.qq.com/x/page/m0022gblaow.html), [Part 4](https://v.qq.com/x/page/u0022la2aka.html).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_1.png" alt="A scene from the 2016 Chuanju Yanyan performance. Source: The production.">
-  <figcaption><strong>Fig. 1.</strong> A scene from the 2016 Chuanju <em>Yanyan</em> performance. Source: The production.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_1.png" alt="Yanyan (Wang Yumei) holding a cane asking the Lady of the House to beat her.">
+  <figcaption><strong>Fig. 1.</strong> Yanyan (Wang Yumei <span lang="zh">王玉梅</span>) holding a cane asking the Lady of the House to beat her. Source: Screenshot image from the 2016 Chuanju <span lang="zh">川剧</span> (Sichuan Drama) adaptation <em>Yanyan</em> <span lang="zh">燕燕</span> produced by Emei Film Studio Audio and Video Publishing House <span lang="zh">峨眉电影制片厂音像出版社</span>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -206,8 +206,8 @@ Moreover, Yanyan's movements on the stage show not only how shaken she is, but a
 ### Clip 6: Yanyan's Ultimate Defiance — Suicide
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_2.png" alt="Yanyan's suicide in the nuptial bed in the 2016 Yanyan performance. Source: The production.">
-  <figcaption><strong>Fig. 2.</strong> Yanyan's suicide in the nuptial bed in the 2016 <em>Yanyan</em> performance. Source: The production.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_2.png" alt="Yanyan (Wang Yumei) cursing Li Weide.">
+  <figcaption><strong>Fig. 2.</strong> Yanyan (Wang Yumei <span lang="zh">王玉梅</span>) cursing Li Weide. Source: Screenshot image from the 2016 Chuanju <span lang="zh">川剧</span> (Sichuan Drama) adaptation <em>Yanyan</em> <span lang="zh">燕燕</span> produced by Emei Film Studio Audio and Video Publishing House <span lang="zh">峨眉电影制片厂音像出版社</span>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Dignified, defiant, and vengeful are the adjectives that can be used to describe Yanyan's tragic suicide. The scene opens with all the other characters on the stage, including the servant Wang Si, cast in a typically clownish role. In an effort to provide comic relief, Wang Si rushes onto the stage to notify the Lady of the House that Yanyan has disappeared. The final scene's unconventional mise-en-scène features Yingying and Li Weide's conjugal bed. It has been stained by the suicide of the protagonist, a maid who has been wronged and exploited because of her social status. Once Mei Hua, Yingying's servant, opens the curtains of the bed and thus reveals Yanyan hanging from the canopy of the nuptial bed, the stage, previously lit in red, turns dark with flashes of light that illuminate the corpse of the maid. The scene is especially peculiar because Yanyan's hanging corpse (or ghost) appears to stand upright with an expression of defiance. The bed physically moves forward on the stage, to the surprise and terror of the other characters. The only character who seems to react with compassion is Yingying's servant, Mei Hua, who cries over Yanyan's death. In the traditional literary repertoire, female suicide was often styled as the most expressive form of female virtue, but in this modern rendition, suicide is meant to be a rebuke to all the hardships that the "old society" foisted upon young and vulnerable women.
