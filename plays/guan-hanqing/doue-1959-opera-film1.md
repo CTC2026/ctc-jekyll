@@ -157,7 +157,7 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
 
 ### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
 
-<figure class="module-figure-right" style="margin-top:-3.5rem">
+<figure class="module-figure-right" style="margin-top:-3rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung holds a bowl and raises her hand near her forehead in a sign gesture while Tau Ngo stands beside her.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung holds the soup bowl and raises her hand near her forehead in a coded sign gesture; the exchange with Tau Ngo blends opera conventions with real sign language. Source: The film.</figcaption>
 </figure>
@@ -175,7 +175,7 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 
 ### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
-<figure class="module-figure-right" style="margin-top:-2.2rem">
+<figure class="module-figure-right" style="margin-top:-2.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Cheung Lou lures Lai Heung away with a snack; Lai Heung is distracted by food as Cheung Lou doctors the soup">
   <figcaption><strong>Fig. 8.</strong> Cheung Lou gestures profusely to ensure Lai Heung falls into his trap; distracted by food, she fails to notice him doctoring the mutton soup. Source: The film.</figcaption>
 </figure>
