@@ -781,9 +781,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 .module-media-type a {
   color: var(--red);
-  text-decoration: none;
-}
-.module-media-type a:hover {
   text-decoration: underline;
 }
 .module-director {
