@@ -792,7 +792,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .module-info {
-  margin: 1.5rem 0 2rem;
+  margin: 0 0 2rem;
   font-size: 0.88rem;
   line-height: 1.6;
 }
