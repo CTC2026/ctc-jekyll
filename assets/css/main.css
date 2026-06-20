@@ -867,6 +867,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 details.translation {
   margin-top: 1rem;
+  margin-bottom: 1.5rem;
   border: 1px solid #ddd;
   border-radius: 4px;
   overflow: hidden;
