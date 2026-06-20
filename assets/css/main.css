@@ -770,10 +770,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .sub-btn:hover { background: var(--red); color: white; }
 .sub-btn.active { background: var(--red); color: white; }
 
-.module-page-title {
-  border-bottom: none;
-  margin-bottom: 0.8rem;
-}
 .module-subtitle {
   margin-bottom: 1.5rem;
   padding-bottom: 1rem;
