@@ -135,7 +135,7 @@ The comical sequence with the parrot was calculated to align with the tastes and
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt=" ">
-  <figcaption><strong>Fig. 6.</strong> Lai Heung informs Tau Ngo of a gentleman's arrival. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 6.</strong> Tau Ngo mimes Scholar Choi's gait before Lai Heung. Source: The film.</figcaption>
 </figure>
 
 Giddy with excitement over Scholar Choi's arrival, the two girls imitate what they imagine might be his handsome stride. Lai Heung informs her friend of a gentleman's arrival, but Tau Ngo is disappointed when she realizes that Lai Heung has mistaken Cheung Lou for Scholar Choi. Similar to the parrot, Lai Heung was taken into the home after Scholar Choi left, and so does not know what he looks like. In this case, Lai Heung's misinterpretation of information is not directly caused by her disability. The girl accurately and comically relates the arrival of a new character.
