@@ -12,26 +12,26 @@ banner_image: /assets/images/WW_ResourceBanner.png
 
 You can find modules that analyze various adaptations of *The Western Wing* at the links below. To get a sense of the main themes and historical import of the original *The Western Wing*, please consult the "General Background" below.
 
-- [*The Story of the Western Wing* <span lang="zh">西廂記</span> (1640)](1640-print/)
-  — "Beyond Text: Objects in Pictures and Pictures on Objects," a module on Min Qiji's <span lang="zh">閔齊伋</span> 1640 album of woodblock illustrations of *The Western Wing*.
-- [*The Western Wing* <span lang="zh">西厢</span> (~1920s)](1920-card/)
-  — "Peeking into Miniature Worlds," a module on Republican-period cigarette cards of *The Western Wing*.
-- [*The Romance of the Western Chamber* <span lang="zh">西廂記</span> (1927)](1927-film/)
-  — "Focusing the Gaze," a module on the 1927 silent film adaptation of *The Western Wing*.
-- [*The Western Wing* <span lang="zh">西廂記</span> (1940)](1940-film/)
-  — "Zhou Xuan's Hongniang, the Intermedial Songstress," a module on the 1940 musical film adaptation of *The Western Wing*.
-- [*The Western Wing* <span lang="zh">西厢记</span> (1958)](1958-comic/)
-  — "How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s *lianhuanhua* (narrative comic) of *The Western Wing*.
-- [*The Story of the Western Wing* <span lang="zh">西廂記</span> (1965)](1965-opera-film/)
-  — "The Importance of Hongniang," a module on the 1965 Shaw Brothers Huangmei opera film of *The Western Wing*.
-- [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film1/)
-  — "Crimson's Vocal Imitation of Other Characters," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
-- [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film2/)
-  — "The Western Wing as Revolutionary Opera," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
-- [*Hongniang* (a.k.a. *Soubrette*) <span lang="zh">红娘</span> (1999)](1999-film/)
-  — "Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation of *The Western Wing*.
-- [*The Story of the Western Wing* <span lang="zh">西厢记</span> (2011)](2011-recorded-perf/)
-  — "Striking a Balance Between Propriety and Playfulness," a module on a 2011 Shaoxing/Yue opera stage recording of *The Western Wing*.
+1. [*The Story of the Western Wing* <span lang="zh">西廂記</span> (1640)](1640-print/)
+   - "Beyond Text: Objects in Pictures and Pictures on Objects," a module on Min Qiji's <span lang="zh">閔齊伋</span> 1640 album of woodblock illustrations of *The Western Wing*.
+2. [*The Western Wing* <span lang="zh">西厢</span> (~1920s)](1920-card/)
+   - "Peeking into Miniature Worlds," a module on Republican-period cigarette cards of *The Western Wing*.
+3. [*The Romance of the Western Chamber* <span lang="zh">西廂記</span> (1927)](1927-film/)
+   - "Focusing the Gaze," a module on the 1927 silent film adaptation of *The Western Wing*.
+4. [*The Western Wing* <span lang="zh">西廂記</span> (1940)](1940-film/)
+   - "Zhou Xuan's Hongniang, the Intermedial Songstress," a module on the 1940 musical film adaptation of *The Western Wing*.
+5. [*The Western Wing* <span lang="zh">西厢记</span> (1958)](1958-comic/)
+   - "How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s *lianhuanhua* (narrative comic) of *The Western Wing*.
+6. [*The Story of the Western Wing* <span lang="zh">西廂記</span> (1965)](1965-opera-film/)
+   - "The Importance of Hongniang," a module on the 1965 Shaw Brothers Huangmei opera film of *The Western Wing*.
+7. [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film1/)
+   - "Crimson's Vocal Imitation of Other Characters," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
+8. [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film2/)
+   - "The Western Wing as Revolutionary Opera," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
+9. [*Hongniang* (a.k.a. *Soubrette*) <span lang="zh">红娘</span> (1999)](1999-film/)
+   - "Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation of *The Western Wing*.
+10. [*The Story of the Western Wing* <span lang="zh">西厢记</span> (2011)](2011-recorded-perf/)
+   - "Striking a Balance Between Propriety and Playfulness," a module on a 2011 Shaoxing/Yue opera stage recording of *The Western Wing*.
 
 ## General Background
 
@@ -46,27 +46,27 @@ In its prose version "The Story of Yingying" (also known as "The Tale of Oriole,
 
 In the Yuan *zaju* comedy, both of the younger characters are cast as sympathetic characters on more or less equal footing with each other as they become the prototype for a new narrative formula, namely that of "talented scholar" and "literate beauty" (*caizi jiaren* <span lang="zh">才子佳人</span>) stories. Importantly, the two lovers (cast as *dan* <span lang="zh">旦</span> and *mo* <span lang="zh">末</span> respectively) are no longer at odds with one another, but instead, the story pits them against the stern matriarch, the widowed Madam Cui. The two of them meet accidentally at the Monastery of Universal Salvation and are instantly smitten with one another. When bandit Sun Feihu <span lang="zh">孫飛虎</span> gets wind of Yingying's presence at the monastery and threatens to abduct her, Yingying, anticipating Zhang's resourcefulness, convinces her mother to offer her hand in marriage to whoever can save the day. Sure enough, Student Zhang writes a letter requesting assistance from his friend General White Horse <span lang="zh">白馬將軍</span>, who promptly arrives and subdues the bandit siege. At this crucial juncture, Madam Cui reneges on her marriage promise, fearing that the uncredentialed Student Zhang is not a worthy match for her illustrious family. Thus as in many other plays of this period, it is the crass social opportunism of the older generation that gets in the way of authentic feelings between young lovers. In a song-based recap of the key episodes of the play, the figure of Yingying put this conundrum as follows:
 
-> If it were not for Master Zhang knowing a lot of people, then how could our whole family have been saved from disaster?
-> If you are indebted to someone, it is appropriate to return the favor!
-> But contrary to all expectations, I was made to acknowledge him [merely] as an elder brother [instead of a fiancé/husband]
-> Mother, you are too calculating!
-> I am afraid I am a mere pawn!
-> Without any ifs ands or buts, you separated the two "sole mates."
-> <span lang="zh">若不是張解元識人多，</span>
-> <span lang="zh">怎生救咱全家禍?</span>
-> <span lang="zh">你則合有恩便報，</span>
-> <span lang="zh">倒教我拜做哥哥。</span>
-> <span lang="zh">母親你忒慮過，</span>
-> <span lang="zh">怕我陪錢貨，</span>
+> If it were not for Master Zhang knowing a lot of people, then how could our whole family have been saved from disaster?  
+> If you are indebted to someone, it is appropriate to return the favor!  
+> But contrary to all expectations, I was made to acknowledge him [merely] as an elder brother [instead of a fiancé/husband]  
+> Mother, you are too calculating!  
+> I am afraid I am a mere pawn!  
+> Without any ifs ands or buts, you separated the two "sole mates."  
+> <span lang="zh">若不是張解元識人多，</span>  
+> <span lang="zh">怎生救咱全家禍?</span>  
+> <span lang="zh">你則合有恩便報，</span>  
+> <span lang="zh">倒教我拜做哥哥。</span>  
+> <span lang="zh">母親你忒慮過，</span>  
+> <span lang="zh">怕我陪錢貨，</span>  
 > <span lang="zh">眼睜睜把比目魚分破。</span>(Guan, "Cui Zhang shiliu shi," 736-737)
 
 The other major plot modifications concern the character of the maid servant Hongniang <span lang="zh">紅娘</span> (also known as Crimson). What had been suggested in the prose tale—namely the maid's role as confidante, counselor, messenger, protector, commentator—is developed to the point where she becomes coeval in importance with the two lovers. Across the twenty acts, all three of these characters assume the role of lead singers (*dan* <span lang="zh">旦</span> and *mo* <span lang="zh">末</span> respectively). A song-based summary of the story capped its final song with the following description of the genesis of the love match:
 
-> One who acted flirtatiously had a steadfast ambition (e.g., Student Zhang),
-> one who displayed her allure had a steadfast intention (e.g., Cui Yingying),
-> and one who matched the wind and the moon had a steadfast heart (e.g., Hongniang).
-> <span lang="zh">一個賣風流的志堅，</span>
-> <span lang="zh">一個逞嬌姿的意堅，</span>
+> One who acted flirtatiously had a steadfast ambition (e.g., Student Zhang),  
+> one who displayed her allure had a steadfast intention (e.g., Cui Yingying),  
+> and one who matched the wind and the moon had a steadfast heart (e.g., Hongniang).  
+> <span lang="zh">一個賣風流的志堅，</span>  
+> <span lang="zh">一個逞嬌姿的意堅，</span>  
 > <span lang="zh">一個調風月的心堅。</span>(Guan, "Cui Zhang shiliu shi," 739)
 
 At the level of the story, Hongniang's resourcefulness is at the heart of the single most consequential plot change, that is, the switch from the tale's sad to the play's happy ending. At the same time, insofar as the play version of *The Western Wing* channels multiple points of view through the perspective of the different lead singers, Hongniang, as the most mobile character within the play, is the perfect vehicle to broker access to all the characters' experiences and sensibilities. Contrary to what one might expect with the adoption of a monogamous marriage system in the Chinese-speaking world in the twentieth century, many of the modern adaptations discussed below continue to feature Hongniang as the focal point of narrative attention and interest.

@@ -50,9 +50,9 @@ Against this broader Eurasian backdrop, Guan's life experience likely straddled 
 
 In his own day as well as in subsequent dynasties, Guan Hanqing came to be known as a kind of sophisticated urbanite (*gaocai fengliu ren* <span lang="zh">高才風流人</span>)—a bohemian indifferent to political aspirations, but deeply invested in the perfection of a new literary language ("vernacular or mixed-register Chinese") and in new forms of collaboration (Sieber 2022; Sieber 2024). In an expanded version of the famed *Register of Ghosts* (*Luguibu* <span lang="zh">錄鬼簿</span> 1330), a work designed to commemorate cohorts of creatives working in Dadu and in Hangzhou, one critic retrospectively eulogized Guan Hanqing (Chang 2021), commending him for his linguistic innovation at the intersection of colloquial and classical language, for his sensitivity and romantic savvy, for his empire-wide fame and for his multiple leadership roles in the world of theater. Here is how he envisioned Guan's pioneering influence on his generation of theater practitioners:
 
-> The vanguard leader of the theatrical entertainments of the Pear Garden,
-> The scriptwriter-in-chief,
-> The master arranger for the zaju troupes.
+> The vanguard leader of the theatrical entertainments of the Pear Garden,  
+> The scriptwriter-in-chief,  
+> The master arranger for the zaju troupes.  
 > <span lang="zh">驅梨園領袖</span>，<span lang="zh">總編修師首</span>，<span lang="zh">捻雜劇班頭</span> (Zhong, *Luguibu sanzhong*, 131)
 
 <figure class="module-figure-left">

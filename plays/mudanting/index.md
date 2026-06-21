@@ -12,16 +12,16 @@ banner_image: /assets/images/Peony_RB_1.png
 
 You can find modules that analyze various adaptations of *The Peony Pavilion* at the links below. To get a sense of the main themes and historical import of the original *The Peony Pavilion*, please consult the "General Background" below.
 
-- [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-opera-film/)
-  - "Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.
-- [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-comic/)
-  - "The Mise-en-Scène of Emotion," a module on a *lianhuanhua* (narrative comic) adaptation of *The Peony Pavilion*.
-- [*The Peony Pavilion* <span lang="zh">遊園驚夢</span> (2001)](2001-film/)
-  - "The Function of the Kunqu Performance Within the Film," a module on the Hong Kong feature film of *The Peony Pavilion*.
-- [*The Peony Pavilion: The Youth Edition* <span lang="zh">青春版牡丹亭</span> (2007)](2007-recorded-perf/)
-  - "How to Express Love within the Theatrical Language of Kunqu," a module on a live performance "Youth Edition" of *The Peony Pavilion*.
-- [*The Return of the Soul at the Peony Pavilion* <span lang="zh">牡丹亭還魂记</span> (2009)](2009-tv/)
-  - "The Expression of *Qing* in the Hybrid Medium of Yue Opera TV Drama," a module about a televisual adaptation of *The Peony Pavilion* by CCTV.
+1. [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-opera-film/)
+   - "Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.
+2. [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-comic/)
+   - "The Mise-en-Scène of Emotion," a module on a *lianhuanhua* (narrative comic) adaptation of *The Peony Pavilion*.
+3. [*The Peony Pavilion* <span lang="zh">遊園驚夢</span> (2001)](2001-film/)
+   - "The Function of the Kunqu Performance Within the Film," a module on the Hong Kong feature film of *The Peony Pavilion*.
+4. [*The Peony Pavilion: The Youth Edition* <span lang="zh">青春版牡丹亭</span> (2007)](2007-recorded-perf/)
+   - "How to Express Love within the Theatrical Language of Kunqu," a module on a live performance "Youth Edition" of *The Peony Pavilion*.
+5. [*The Return of the Soul at the Peony Pavilion* <span lang="zh">牡丹亭還魂记</span> (2009)](2009-tv/)
+   - "The Expression of *Qing* in the Hybrid Medium of Yue Opera TV Drama," a module about a televisual adaptation of *The Peony Pavilion* by CCTV.
 
 ## General Background
 

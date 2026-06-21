@@ -10,23 +10,19 @@ banner_image: /assets/images/OrphanZhao_ResourceBanner.png
 
 
 ## Contents
-You can find modules that analyze various adaptations of *The Orphan of Zhao* at the links below. To get a sense of the main themes and historical import of the original *The Orphan of Zhao*, please consult the \"General Background\" below.
+You can find modules that analyze various adaptations of *The Orphan of Zhao* at the links below. To get a sense of the main themes and historical import of the original *The Orphan of Zhao*, please consult the "General Background" below.
 
-1.  [*The Orphan of Zhao* <span lang="zh">赵氏孤儿</span> (2003)](2003-performance/)
+1. [*The Orphan of Zhao* <span lang="zh">赵氏孤儿</span> (2003)](2003-performance/)
+   - "Dramaturgical Techniques to Turn A Commoner Into a Hero," a module on a live Beijing opera performance of *The Orphan of Zhao*.
 
-    - \"Dramaturgical Techniques to Turn A Commoner Into a Hero,\" a module on a live Beijing opera performance of *The Orphan of Zhao*.
+2. [*The Orphan of Zhao* <span lang="zh">赵氏孤儿</span> (2005)](2005-performance/)
+   - "Cheng Ying's Vulnerability and Benevolent Heart," a module on a Yue opera stage recording of *The Orphan of Zhao*.
 
-2.  [*The Orphan of Zhao* <span lang="zh">赵氏孤儿</span> (2005)](2005-performance/)
+3. [*Sacrifice* <span lang="zh">赵氏孤儿</span> (2010)](2010-film/)
+   - "Father-Son Love," a module on a film adaptation of *The Orphan of Zhao* by director Chen Kaige <span lang="zh">陈凯歌</span>.
 
-    - \"Cheng Ying's Vulnerability and Benevolent Heart,\" a module on a Yue opera stage recording of *The Orphan of Zhao*.
-
-3.  [*Sacrifice* <span lang="zh">赵氏孤儿</span> (2010)](2010-film/)
-
-    - \"Father-Son Love,\" a module on a film adaptation of *The Orphan of Zhao* by director Chen Kaige <span lang="zh">陈凯歌</span>.
-
-4.  [The Ink and Vermilion Edition of *The Orphan of Zhao* <span lang="zh">墨本丹青版赵氏孤儿</span> (2011)](2011-tv/)
-
-    - \"Stage as a Narrator,\" a module on a TV recording of the \"Ink and Vermilion\" edition adapted by Wang Peiyu <span lang="zh">王珮瑜</span>.
+4. [The Ink and Vermilion Edition of *The Orphan of Zhao* <span lang="zh">墨本丹青版赵氏孤儿</span> (2011)](2011-tv/)
+   - "Stage as a Narrator," a module on a TV recording of the "Ink and Vermilion" edition adapted by Wang Peiyu <span lang="zh">王珮瑜</span>.
 
 ## General Background
 The Yuan *zaju* drama *The Great Revenge of The Orphan of Zhao* (*Zhaoshi gu'er da baochou* <span lang="zh">趙氏孤兒大報仇</span>, hereafter *The Orphan of Zhao*) was written by playwright Ji Junxiang <span lang="zh">紀君祥</span> (ca. late thirteenth century to early fourteenth century), a native of Dadu <span lang="zh">大都</span> (modern Beijing). As a historical play, *The Orphan of Zhao* has been adapted and performed in all the major dramatic forms from the thirteenth century to the present in China and elsewhere (see *HTRCD*, chap. 5). Even though certain core motifs---political rivalry, loyalty, and revenge---have been retained, each major version assigns different motivations for the unimaginably extreme actions of the villains as well as those of the heroes. 

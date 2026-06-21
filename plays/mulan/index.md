@@ -12,14 +12,14 @@ banner_image: /assets/images/Mulan_ResourceBanner.png
 
 You can find modules that analyze various adaptations of *The Female Mulan Joins the Army in Place of Her Father* at the links below. To get a sense of the main themes and historical import of the original Mulan, please consult the "General Background" below.
 
-- [*Hua Mu Lan* <span lang="zh">木蘭從軍</span> (1939)](1939-film/)
-  - "The Marking of Gender," a module on the 1939 live action film adaptation of Mulan.
-- [*Hua Mulan* <span lang="zh">花木蘭</span> (1956)](1956-opera-film/)
-  - "Transforming Into a Man," a module on the 1956 PRC Yu opera film adaptation of Mulan.
-- [*The Lady General Hua Mulan* <span lang="zh">花木蘭</span> (1964)](1964-opera-film/)
-  - "How to Assume a Male Martial Identity," a module on the 1964 Hong Kong *huangmeidiao* opera film of Mulan.
-- [*Mulan* (1998)](1998-film/)
-  - "Reflection and Identity," a module on the 1998 Disney version of Mulan.
+1. [*Hua Mu Lan* <span lang="zh">木蘭從軍</span> (1939)](1939-film/)
+   - "The Marking of Gender," a module on the 1939 live action film adaptation of Mulan.
+2. [*Hua Mulan* <span lang="zh">花木蘭</span> (1956)](1956-opera-film/)
+   - "Transforming Into a Man," a module on the 1956 PRC Yu opera film adaptation of Mulan.
+3. [*The Lady General Hua Mulan* <span lang="zh">花木蘭</span> (1964)](1964-opera-film/)
+   - "How to Assume a Male Martial Identity," a module on the 1964 Hong Kong *huangmeidiao* opera film of Mulan.
+4. [*Mulan* (1998)](1998-film/)
+   - "Reflection and Identity," a module on the 1998 Disney version of Mulan.
 
 ## General Background
 
