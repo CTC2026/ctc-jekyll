@@ -15,8 +15,8 @@ director: 'Wang Shiyu <span lang="zh">汪世瑜</span>'
 - A video of the performance with Mandarin Chinese Subtitles on bilibili.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Shen Fengying 沈豐英 (as Du Liniang) and Yu Jiulin 俞玖林 (as Liu Mengmei) in the Youth Edition.">
-  <figcaption><strong>Fig. 1.</strong> Shen Fengying <span lang="zh">沈豐英</span> (as Du Liniang) and Yu Jiulin <span lang="zh">俞玖林</span> (as Liu Mengmei) in the Youth Edition.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Promotion photo featuring Yu Jiulin 俞玖林 (as Liu Mengmei) and Shen Fengying 沈豐英 (as Du Liniang).">
+  <figcaption><strong>Fig. 1.</strong> Promotion photo featuring Yu Jiulin <span lang="zh">俞玖林</span> (as Liu Mengmei) and Shen Fengying <span lang="zh">沈豐英</span> (as Du Liniang). Source: This image can be found on the Culture CNJWANG <span lang="zh">中国吉林网</span> website.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -35,17 +35,17 @@ director: 'Wang Shiyu <span lang="zh">汪世瑜</span>'
 
 ## Introduction
 
-*The Peony Pavilion* (Ch. <span lang="zh">牡丹亭</span> *Mudan ting*), also known as *The Return of Soul* (Ch. <span lang="zh">還魂記</span> *Huanhun ji*), is a Ming dynasty play written by Tang Xianzu <span lang="zh">湯顯祖</span> (1550-1616). Born in Linchuan <span lang="zh">臨川</span> County, Jiangxi <span lang="zh">江西</span> province, Tang was a well-known playwright, who wrote a series of plays that involve dreams—*The Story of Handan* (*Handan ji* <span lang="zh">邯鄲記</span>), *The Story of the Purple Hairpin* (*Zichai ji* <span lang="zh">紫釵記</span>), *The Story of Nanke* (*Nanke ji* <span lang="zh">南柯記</span>) and *The Peony Pavilion*. Later critics referred to these four plays collectively as *Four Dreams of Linchuan* (*Linchuan simeng* <span lang="zh">臨川四夢</span>). *The Peony Pavilion* is the most famous and widely performed of these plays. In the Ming and the Qing dynasty, many scenes from the play were excerpted in major drama miscellanies; in the modern era, the play has garnered national and international recognition for its author and for traditional Chinese theater more generally.
+*The Peony Pavilion* (Ch. <span lang="zh">牡丹亭</span> *Mudan ting*), also known as *The Return of Soul* (Ch. <span lang="zh">還魂記</span> *Huanhun ji*), is a Ming dynasty play written by Tang Xianzu <span lang="zh">湯顯祖</span> (1550-1616). Born in Linchuan <span lang="zh">臨川</span> County, Jiangxi <span lang="zh">江西</span> province, Tang was a well-known playwright, who wrote a series of plays that involve dreams, that is, *The Story of Handan* (*Handan ji* <span lang="zh">邯鄲記</span>), *The Story of the Purple Hairpin* (*Zichai ji* <span lang="zh">紫釵記</span>), *The Story of Nanke* (*Nanke ji* <span lang="zh">南柯記</span>) and *The Peony Pavilion*. Later critics referred to these four plays collectively as *Four Dreams of Linchuan* (*Linchuan simeng* <span lang="zh">臨川四夢</span>). *The Peony Pavilion* is the most famous and widely performed of these plays. In the Ming and the Qing dynasty, many scenes from the play were excerpted in major drama miscellanies; in the modern era, the play has garnered national and international recognition for its author and for traditional Chinese theater more generally.
 
 Among recent adaptations, one of the most influential renditions is the so-called "Youth Edition" (*Qingchun ban* <span lang="zh">青春版</span>) named for the intended target audience. The driving force behind this production was Pai Hsien-yung <span lang="zh">白先勇</span> (1937- ), an acclaimed novelist and Kunqu aficionado. The eighth child of Kuomintang general Pai Chung-hsi <span lang="zh">白崇禧</span> (1893-1966), Pai was born in Guilin <span lang="zh">桂林</span>, Guangxi <span lang="zh">廣西</span> province, but moved to Taipei with his family in 1952 after the Chinese Civil War (1945-1949). He earned an MFA at the acclaimed Iowa Writer's Workshop at the University of Iowa and later taught Chinese literature at the University of California, Santa Barbara until his retirement in 1994.
 
 Pai's understanding of Kunqu is centered around the notion of beauty. This principle also informs his adaptation of *The Peony Pavilion*. A salient difference between his "Youth Edition" and previous adaptations lies in Pai's incorporation of "beauty" into every aspect of the production, including script conception, actor selection, musical composition, choreography, and staging. For instance, Pai claimed that his editing of the original playtext involved "streamlining without rewriting (*zhi shan bu gai* <span lang="zh">只删不改</span>)" in an effort to preserve and showcase the elegance of the original language.
 
-Shen Fengying <span lang="zh">沈豐英</span> (Du Liniang) and Yu Jiulin <span lang="zh">俞玖林</span> (Liu Mengmei) were chosen as the two main actors in the "Youth Edition." Both actors had had some training in Kunqu performance at professional drama schools, but Pai Hsien-yung primarily selected them for their physical charm and stage appeal. Importantly, neither actor had been trained in Kunqu performance from a young age in a professional setting as is customary for members of established Kunqu troupes.
+Shen Fengying <span lang="zh">沈豐英</span> (Du Liniang) and Yu Jiulin <span lang="zh">俞玖林</span> (Liu Mengmei) were chosen as the two main actors in the "Youth Edition" (see Fig. 1). Both actors had had some training in Kunqu performance at professional drama schools, but Pai Hsien-yung primarily selected them for their physical charm and stage appeal. Importantly, neither actor had been trained in Kunqu performance from a young age in a professional setting as is customary for members of established Kunqu troupes.
 
 In a controversial revival of dynastic practices, after joining the "Youth Edition" production group, Shen Fengying and Yu Jiulin were formally inducted as the disciples of renowned Kunqu masters Zhang Jiqing <span lang="zh">張繼青</span> and Wang Shiyu <span lang="zh">汪世瑜</span>, respectively. Zhang Jiqing is particularly known for her performances of young noble lady roles (*dan* <span lang="zh">旦</span>) in the scenes "Startled from the Dream" (*Jingmeng* <span lang="zh">驚夢</span>) and "Retracing the Dream" (*Xunmeng* <span lang="zh">尋夢</span>) from *The Peony Pavilion* as well as "Delusion" (*Chimeng* <span lang="zh">痴夢</span>) from *Lanke Mountain* (*Lanke shan* <span lang="zh">爛柯山</span>), earning her the nickname "Zhang Sanmeng" <span lang="zh">張三夢</span> (Zhang Three Dreams). Similarly, Wang Shiyu is a popular "secondary young male" (*xiaosheng* <span lang="zh">小生</span>) actor known for his impressive singing skills and his gesture-dances, which have earned him the title of the leading luminary among *xiaosheng* actors (*jinsheng kuishou* <span lang="zh">巾生魁首</span>).
 
-In short, while attempting to keep the essence of Tang's text, Pai and his collaborators sought to appeal to younger audiences by casting young and attractive actors in the main roles, adding orchestral background music, and redesigning group dances, stage props, and costumes. These visual changes, according to Pai and his team, enabled the audience to intuitively appreciate the beauty of Kunqu as a stage art. To bring about his aesthetic vision, Pai spearheaded an unprecedented collaboration between different Kunqu troupes within China as well as between academics and creative artists, composers, and musicians from China and Taiwan respectively to produce the "Youth Edition."
+In short, while attempting to keep the essence of Tang's text, Pai and his collaborators sought to appeal to younger audiences by casting young and pretty actors in the main roles, adding orchestral background music, and redesigning group dances, stage props, and costumes. These visual changes, according to Pai and his team, enabled the audience to intuitively appreciate the beauty of Kunqu as a stage art. To bring about his aesthetic vision, Pai spearheaded an unprecedented collaboration between different Kunqu troupes within China as well as between academics and creative artists, composers, and musicians from China and Taiwan respectively to produce the "Youth Edition."
 
 ## Plot Summary
 
@@ -55,9 +55,11 @@ Collaborating with Prof. Hua Wei <span lang="zh">華瑋</span> (Chinese Universi
 
 As experts and scholars in Chinese literature and drama, Professors Hua, Chang and Xin worked together with Pai to preserve the most important expressions of *qing* while streamlining other elements. As a result, the 27-scene "Youth Edition" made only minor changes to the story line itself, while seeking to give equal billing to the two main protagonists. Deleted content included outdated references and allusions as well as graphic expressions and sexual innuendo in comic scenes (Li, 2005). Meanwhile, in order to foreground the love story between the two main protagonists, the "Youth Edition" shortened the dialogue for supporting characters and rendered it in plain language (Zhang, Huang, 2010). However, despite its compactness, the "Youth Edition" retained two scenes devoted to Liu Mengmei, namely "Moored at Huai'an" (*Huai bo* <span lang="zh">淮泊</span>) and "Interrogation under the Rod" (*Yingkao* <span lang="zh">硬拷</span>). Furthermore, this version also highlighted Liu Mengmei's "garden tour" in the scene "The Portrait Recovered" (*Shi hua* <span lang="zh">拾畫</span>), an echo of Du Liniang's famous garden scenes "Startled from the Dream" (*Jingmeng* <span lang="zh">驚夢</span>) and "Retracing the Dream" (*Xunmeng* <span lang="zh">尋夢</span>). Such mirroring reflects the "Youth Edition's" attempt to make the male protagonist (Liu Mengmei) as important as the female one (Du Liniang).
 
+The staging was also modified in line with such a refined sense of aesthetics. For example, in the original "Resurrection" (*Hui sheng* <span lang="zh">回生</span>) scene, in response to finding herself newly exhumed, Du Liniang had acted out certain bodily reactions like being averse to light. By contrast, in the "Youth Edition," Du Liniang's resurrection is an elegant affair where she is surrounded by flower spirits.
+
 ## Theme: How to Express Love within the Theatrical Language of Kunqu
 
-The video clips listed below are arranged around the representation of "*qing*" ("love") in the "Youth Edition" of *The Peony Pavilion*. How is the emotion of "*qing*" encoded in Kunqu performance? In popular modern romantic dramas or movies, the main characters often convey their love through actions such as kisses, gazing, holding hands, etc. However, in Kunqu, these direct, realistic interactions are expressed by alternative means. The following video clips primarily explore the stage language of love—how the intangible emotion of "*qing*" is manifested through stage actions, physical movements, props, and vocal performances such as solo singing and choral singing.
+The video clips listed below are arranged around the representation of "*qing*" ("love") in the "Youth Edition" of *The Peony Pavilion*. How is the emotion of "*qing*" encoded in Kunqu performance? In popular modern romantic dramas or movies, the main characters often convey their love through actions such as kisses, gazing, holding hands, etc. However, in Kunqu, these direct, realistic interactions are expressed by alternative means. The following video clips primarily explore the stage language of love. In other words, they show how the intangible emotion of "*qing*" is manifested through stage actions, physical movements, props, and vocal performances such as solo singing and choral singing.
 
 ### Bodily Movements
 
@@ -73,9 +75,27 @@ The video clips listed below are arranged around the representation of "*qing*" 
 
 This clip is extracted from the iconic scene "Startled from the Dream." In this scene, Du Liniang roams around in the garden, while Du Bao, her father, is away on official business. With its profusion of blooming flowers, the garden sparks Liniang's romantic imagination. As she languidly begins to nap, she sees a young and handsome scholar, who holds out a willow branch to her and asks her to write a poem. In the dreamscape of the garden, they become quickly enamored of each other.
 
-The first encounter between Du Liniang and Liu Mengmei is a memorable moment in the play. The two characters physically feel each other's shoulders before they even have a chance to look into each other's eyes. The bump is as light as falling petals, but also as heavy as the beating heart of someone falling in love. The "bump" or collision in this scene serves as a turning point in Liniang's emotional journey. It has to be a palpable bump to confirm that the man is not just a figment of her imagination, and yet it also has to be succinct enough to delicately convey her interest to the audience.
+The first encounter between Du Liniang and Liu Mengmei is a memorable moment in the play. The two characters physically feel each other's shoulders before they even have a chance to look into each other's eyes. The bump is as light as falling petals, but also as heavy as the beating heart of someone falling in love.
+
+This stage action is not unique to the "Youth Edition." In many versions of *The Peony Pavilion*, the two characters meet in this way. However, due to Pai's casting choices, the two leading actors of the "Youth Edition" embodied the idea of two young lovers falling in love particularly well. The physical contact serves two functions: it creates a sense of intimacy and emphasizes the importance of their first encounter. This is the encounter that Liniang has been longing for when she was consumed by self-pity.
+
+The "bump" or collision in this scene serves as a turning point in Liniang's emotional journey. It has to be a palpable bump to confirm that the man is not just a figment of her imagination, and yet it also has to be succinct enough to delicately convey her interest to the audience.
 
 **Physical Contact (Sleeve) [27:40–29:05]**
+
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 2</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 柳夢梅：啊，姐姐！ | Liu Mengmei: Ah, Miss Du! |
+| 柳夢梅：小生哪一處不尋到，你卻在這裡！ | Liu Mengmei: I was looking for you everywhere, but you are here! |
+| 柳夢梅：恰好在花園內，折得垂柳半枝。 | Liu Mengmei: I just happened to break off a willow branch in the garden. |
+| 柳夢梅：姐姐，你既淹通詩書，何不作詩一首，以賞此柳枝乎？ | Liu Mengmei: Since you are versed in poetry and classics, why don't you compose a poem in honor of this willow branch? |
+| 杜麗娘：那生素昧平生，因何到此？ | Du Liniang: You are a stranger to me so why have you come here? |
+| 柳夢梅：姐姐，咱一片閒情，愛煞你哩！ | Liu Mengmei: I love you with all my heart! |
+
+</details>
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -85,12 +105,7 @@ The first encounter between Du Liniang and Liu Mengmei is a memorable moment in 
   </div>
 </div>
 
-<details class="translation" markdown="1">
-<summary>Translation Notes for Clip 2</summary>
-
 In Kunqu, sleeves are often considered an extension of the actor's body. In this scene from the play, during their first meeting, Liniang behaves with caution and shyness, while Liu Mengmei gently touches her sleeve and picks it up, as if touching her arms and hands. The sleeve movements make Liu Mengmei's expression of his deep affection for Liniang and his desire for greater intimacy with her more delicate, creating an ambiguous space for the expression of love. While Wang Shiyu, one of the performance instructors for the "Youth Edition," contributed the iconography of the sleeves, the "Youth Edition" rendition nevertheless consistently emphasizes the softness and beauty of long sleeves in an effort to create a perfect aesthetic world.
-
-</details>
 
 **Physical Contact (Hands 1) [06:45–07:00]**
 
@@ -102,7 +117,9 @@ In Kunqu, sleeves are often considered an extension of the actor's body. In this
   </div>
 </div>
 
-In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Du Liniang, a restless ghost, hears Liu Mengmei's calls for her. Stirred, Liniang sneaks into his room. Their meeting resembles their first encounter—they touch each other's hands before looking at each other. There is also an obvious action of opening their eyes and looking directly into each other's eyes. The music reaches a higher note as they stand on their tiptoes and make eye contact.
+In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Du Liniang, a restless ghost, hears Liu Mengmei's calls for her. Stirred, Liniang sneaks into his room.
+
+Their meeting resembles their first encounter. That is, they touch each other's hands before looking at each other. There is also an obvious action of opening their eyes and looking directly into each other's eyes. The music reaches a higher note as they stand on their tiptoes and make eye contact.
 
 This is their "first glance" the second time around. However, the physical contact of their hands has multiple functions this time. It first illustrates the darkness of the night when eyesight is less reliable than touch. It also suggests an acknowledgment of their physical desire, which prompts the two young characters to fall in love once more.
 
@@ -146,7 +163,15 @@ While the act of "hiding" itself could be an echo of the behavioral norms for a 
 
 **Looking at Each Other's Eyes [30:15–30:33]**
 
-On the stage, eye contact is another common strategy for expressing love. In this scene, the characters soulfully gaze into each other's eyes. As the camera zooms in on their faces, narrative time is extended. While they dance, their eyes nevertheless remain fixed on each other.
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 7</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 柳夢梅：則為你，如花美眷，似水流年。 | Liu Mengmei: You, beautiful akin to blossoms, like the river of years flowed past; |
+| 柳夢梅：是答兒閒尋遍，在幽閨自憐。 | Liu Mengmei: I looked just about everywhere, only to find that you were pitying yourself in your inner chamber. |
+
+</details>
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -156,12 +181,17 @@ On the stage, eye contact is another common strategy for expressing love. In thi
   </div>
 </div>
 
-<details class="translation" markdown="1">
-<summary>Translation Notes for Clip 7</summary>
+On the stage, eye contact is another common strategy for expressing love. In this scene, the characters soulfully gaze into each other's eyes. As the camera zooms in on their faces, narrative time is extended. While they dance, their eyes nevertheless remain fixed on each other.
 
 **Looking at a Self-portrait [3:05–4:00]**
 
-In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Liu Mengmei imagines the scene when Liniang drew her self-portrait that he had found in the garden. Liu Mengmei's gaze lingers on the painting during his soliloquy. However, since the painting is hanging on a wall, he has to turn his back toward the audience, which deviates from stage convention where actors typically face the audience. This action, however, underscores his obsession with Du Liniang.
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 8</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 柳夢梅：想她春心無那對菱花，含情自把春容畫。 | Liu Mengmei: Imagine how she is looking at herself in the mirror. Her heart is filled with romantic thoughts, and she is drawing her lovely face on paper. |
+| 柳夢梅：可想到，有個拾翠人兒也逗著她。 | Liu Mengmei: Could she have anticipated that someone who finds her portrait will become obsessed with her? |
 
 </details>
 
@@ -173,11 +203,36 @@ In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Li
   </div>
 </div>
 
+In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Liu Mengmei imagines the scene when Liniang drew her self-portrait that he had found in the garden. Liu Mengmei's gaze lingers on the painting during his soliloquy. However, since the painting is hanging on a wall, he has to turn his back toward the audience, which deviates from stage convention where actors typically face the audience. This action, however, underscores his obsession with Du Liniang.
+
 ### Chorus
 
 **Flower Deities [34:30–37:40]**
 
 In Kunqu, the love-making scene is usually represented in a subtle way. Typically, the two main characters will exit together; by the time they return on stage, the erotic scene will have already concluded (Chen 1998). In *The Peony Pavilion*, flower deities (<span lang="zh">花神</span>, *huashen*) take the role of narrator. After Du Liniang and Liu Mengmei leave the stage, the flower deities come out and with their dancing evoke the intimacy between the two lovers in a poetic and metaphorical manner. Along with the dance, the flower deities also sing a chorus song, whose lyrics indicate the consummation of the union between the two protagonists. The transitional scene of the flower deities allows the audience to imagine the lovemaking, while adding a dreamy and ethereal atmosphere to the play.
+
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 9</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 合: 好景豔陽天 | Chorus: What a beautiful sunny day! |
+| 萬紫千紅盡開遍 | A profusion of colorful blossoms abounds everywhere; |
+| 滿雕欄寶砌 | The carved balustrade is decorated with treasures |
+| 雲簇霞鮮 | Like assembled clouds and glorious morning glow. |
+| 督春工珍護芳菲 | Flower deities are meant to protect those fragrant flowers |
+| 免被那曉風吹顫 | From the shivers brought on by the morning wind. |
+| 使才子佳人少系念 | We relieve the worries of scholars and beauties |
+| 夢中兒也十分歡忭 | Offering them joyful dreams |
+| 湖山畔 湖山畔 | Besides the mountain by the lake, besides the mountain by the lake. |
+| 雲纏雨綿 | Amidst the winding clouds and the gleaming rain, they consummate their passion. |
+| 雕欄外 雕欄外 | Beyond the carved balustrade, beyond the carved balustrade. |
+| 紅翻翠駢 | As red and green tumble and chase each other, they become a couple. |
+| 惹下蜂愁蝶戀 | Setting the bees and butterflies abuzz, they stir thoughts of love. |
+| 三生石上緣，非因夢幻 | The predestined love between them is not illusory; |
+| 一枕華胥，兩下遽然 | Yet, all of a sudden, the grand dream is interrupted. |
+
+</details>
 
 <div class="clip-section">
   <div class="video-wrap">
@@ -187,12 +242,19 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
   </div>
 </div>
 
-<details class="translation" markdown="1">
-<summary>Translation Notes for Clip 9</summary>
-
 **Major Characters' Chorus [31:12–34:00]**
 
-The two major characters, Du Liniang and Liu Mengmei, also engage in joint choral singing. For example, after Liu Mengmei expresses his affection and desire to be with Du Liniang, Du Liniang subtly conveys her agreement by joining Liu's singing. This kind of joint singing serves as a way for the two characters to express their love and commitment to each other.
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 10</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 柳梦梅：和你把领扣松，衣带宽 | Liu Mengmei: You and me, we loosen the collar, we unfasten the belt. |
+| 柳梦梅：袖梢儿揾着牙儿苫也 | Liu Mengmei: Your mouth is hidden behind the tip of your sleeve. |
+| 柳梦梅：则待你忍耐温存一晌眠。 | Liu Mengmei: Please enjoy my tender care for one night. |
+| 合：是那处曾相见， | Chorus: Have we met somewhere else? |
+| 合：相看俨然 | Chorus: Gazing with love, you look so familiar to me. |
+| 合：早难道好处相逢无一言 | Chorus: But do not disclose the secret; in this lovely place we meet and shall not say a word about it. |
 
 </details>
 
@@ -204,14 +266,17 @@ The two major characters, Du Liniang and Liu Mengmei, also engage in joint chora
   </div>
 </div>
 
+The two major characters, Du Liniang and Liu Mengmei, also engage in joint choral singing. For example, after Liu Mengmei expresses his affection and desire to be with Du Liniang, Du Liniang subtly conveys her agreement by joining Liu's singing. This kind of joint singing serves as a way for the two characters to express their love and commitment to each other.
+
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
 - Chen, Kaishen <span lang="zh">陳凱莘</span>. "Mudanting: Jingmeng zhi huashen yanchu kao"《<span lang="zh">牡丹亭</span>·<span lang="zh">驚夢</span>》<span lang="zh">之花神演出考</span> (A study of the "Flower Deity" performance in "Startled from the Dream" of *The Peony Pavilion*). *Guoli bianyiguan guankan* <span lang="zh">國立編譯館館刊</span> (The Journal of National Translation and Compilation Institute), 27:2 (1998): 97-111.
 - Li, Na <span lang="zh">李娜</span>. "Cong juben gaibian kan qingchun ban Mudanting de yishu gexing" <span lang="zh">從劇本改編看青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的藝術個性</span> (An analysis of script adaptation: the artistic features of the Youth Edition). *Huawen wenxue* <span lang="zh">華文文學</span> (Chinese literature), 6 (2005): 37-42.
+- Zhang, Ke <span lang="zh">张珂</span> and Huang, Jianrong <span lang="zh">黃建榮</span>. "Qingchun ban Mudanting de wenben gaibian he duzhe jieshou chutan" <span lang="zh">青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的文本改編和讀者接受初探</span> (A preliminary discussion of the textual adaptation and audience acceptance of the Youth Edition of *The Peony Pavilion*). *Xiju wenxue* <span lang="zh">戲劇文學</span> (Dramatic literature), 9 (2010): 64-68.
+- Hua Wei, Lindy Li Mark, and Kenneth Hsien-yung Bai, instructors. "The Beauty of Kunqu" (The Chinese University of Hong Kong) (in Chinese). https://www.coursera.org/learn/kunqu-opera#instructors
 - Tang, Xianzu. Birch, Cyril trans., *The Peony Pavilion: Mudan ting*. 2nd edition. Bloomington: Indiana University Press, 2002.
 - Wang Shiyu. "The Stirring Zither" ("Qintiao" <span lang="zh">琴挑</span>) from *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>). Trans. and ann. Guo Chao. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 59-85. London: Anthem Press, 2022.
 - Zhang Jiqing. "The Mad Dream" ("Chimeng" <span lang="zh">痴梦</span>) from *Lanke Mountain* (*Lanke shan* <span lang="zh">烂柯山</span>). Trans. and ann. Josh Stenberg. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 89-110. London: Anthem Press, 2022.
-- Zhang, Ke <span lang="zh">张珂</span> and Huang, Jianrong <span lang="zh">黃建榮</span>. "Qingchun ban Mudanting de wenben gaibian he duzhe jieshou chutan" <span lang="zh">青春版</span>《<span lang="zh">牡丹亭</span>》<span lang="zh">的文本改編和讀者接受初探</span> (A preliminary discussion of the textual adaptation and audience acceptance of the Youth Edition of *The Peony Pavilion*). *Xiju wenxue* <span lang="zh">戲劇文學</span> (Dramatic literature), 9 (2010): 64-68.
 - Zhou, Wei. "A Peony Transplanted: Pai Hsien-yung and the Preservation of Chinese Kunqu." PhD Dissertation. University of Edinburgh, 2011.
 </details>
 

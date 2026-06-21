@@ -15,7 +15,7 @@ You can find modules that analyze various adaptations of *The Peony Pavilion* at
 - [The Peony Pavilion <span lang="zh">牡丹亭</span> (1986)](1986-opera-film/)
   - "Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.
 - [The Peony Pavilion <span lang="zh">牡丹亭</span> (1986)](1986-comic/)
-  - "The Mise-en-Scène of Emotion," a module on a lianhuanhua (narrative comic) adaptation of *The Peony Pavilion*.
+  - "The Mise-en-Scène of Emotion," a module on a *lianhuanhua* (narrative comic) adaptation of *The Peony Pavilion*.
 - [The Peony Pavilion <span lang="zh">遊園驚夢</span> (2001)](2001-film/)
   - "The Function of the Kunqu Performance Within the Film," a module on the Hong Kong feature film of *The Peony Pavilion*.
 - [The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span> (2007)](2007-recorded-perf/)
