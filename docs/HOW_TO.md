@@ -517,7 +517,19 @@ Please create a new play intro page for a play called "[Full English Title]"
 5. Wrap all Chinese characters in <span lang="zh">...</span> tags
 6. Add a Works Consulted section if the document contains references
 7. Add the author credit at the bottom
+8. Preserve the Word document's formatting exactly: keep every inline
+   citation, all italics (work titles and romanized/pinyin terms), bold
+   text, the original paragraph divisions, and any verse or quotation
+   line breaks. Do not reword, summarize, or drop anything.
 ```
+
+> **Important — keep the original formatting.** The `.md` file must reproduce the Word document faithfully, not just its words. Carry over:
+> - **Inline citations** exactly as written, e.g. `(Sieber 2022)` or `(Li 2022, 133)`.
+> - **Italics** on every occurrence — work titles (`*The Peony Pavilion*`) and romanized/pinyin terms (`*zaju*`, `*huangmei*`, `*qingyi*`). If a term is italic once in the source, it should be italic *every* time it appears.
+> - **Bold** text, **paragraph breaks**, and **verse/quotation line breaks** (in a Markdown blockquote, end each line with two trailing spaces so the line break shows).
+> - Match the source even where it differs from other pages' house style.
+>
+> The only things *not* copied verbatim: wrap Chinese characters in `<span lang="zh">…</span>`, and move image Source/Credit lines into the figure caption rather than the body. When Claude Code finishes, open the Word document next to the page and skim for any citation or italic that got dropped.
 
 ---
 
@@ -627,7 +639,14 @@ Include:
 
 Do not add images or videos yet — just the text content.
 Wrap all Chinese characters in <span lang="zh">...</span> tags.
+
+Preserve the Word document's formatting exactly: keep every inline
+citation, all italics (work titles and romanized/pinyin terms such as
+zaju, huangmei, qingyi), bold text, the original paragraph divisions,
+and any verse or quotation line breaks. Do not reword or omit anything.
 ```
+
+> **Important — keep the original formatting.** As with a play page, the module `.md` must faithfully reproduce the Word document: every inline citation, italics on each occurrence of titles and romanized terms, bold, paragraph breaks, and verse/quotation line breaks (end each blockquote line with two trailing spaces). Match the source even where it differs from other pages. Only exceptions: wrap Chinese in `<span lang="zh">…</span>`, and put image Source/Credit text in the figure caption. Afterward, compare the page against the Word document and confirm no citation or italic was lost.
 
 ---
 
