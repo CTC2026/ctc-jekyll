@@ -15,7 +15,7 @@ director: 'Wu Chen <span lang="zh">吴琛</span>'
 <div><dt>Title</dt><dd>The Story of the Western Wing <span lang="zh">西厢记</span></dd></div>
 <div><dt>Year</dt><dd>2011</dd></div>
 <div><dt>Style</dt><dd>Yueju <span lang="zh">越剧</span>/Shaoxing Opera</dd></div>
-<div><dt>Source</dt><dd>Yueju <span lang="zh">越剧</span>/Shaoxing opera stage recording via CCTV 11</dd></div>
+<div><dt>Source</dt><dd><em>Yueju</em> <span lang="zh">越剧</span>/Shaoxing opera stage recording via CCTV 11</dd></div>
 <div><dt>Producer</dt><dd>Shanghai Yue Opera Troupe <span lang="zh">上海越剧团</span></dd></div>
 <div><dt>Cast</dt><dd>Yang Tingna <span lang="zh">杨婷娜</span> and Qian Huili <span lang="zh">钱惠丽</span> (as Zhang Gong/Student Zhang), Chen Huidi <span lang="zh">陈慧迪</span>, Tang Xiaoling <span lang="zh">唐晓羚</span>, Hua Yiqing <span lang="zh">华怡青</span>, and Fang Yafen <span lang="zh">方亚芬</span> (as Cui Yingying), Sheng Shuyang <span lang="zh">盛舒扬</span> and Zhang Yongmei <span lang="zh">张咏梅</span> (as Hongniang)</dd></div>
 <div><dt>Director</dt><dd>Wu Chen <span lang="zh">吴琛</span></dd></div>
@@ -52,7 +52,7 @@ On his way to take the imperial examinations, Zhang Gong/Student Zhang (performe
   <figcaption><strong>Fig. 3.</strong> CD featuring recordings of Yuan Xuefen's <span lang="zh">袁雪芬</span> early performances. Issued by China Record Shanghai Company <span lang="zh">中国唱片上海公司</span>. Source: CTC owns this CD. Credit: Photo by CTC Project Team.</figcaption>
 </figure>
 
-Having spearheaded Yue opera reform in the 1940s, Yuan was well-known for seeking to raise the level of artistry of Yue opera by actively pursuing an aesthetic of "purity" (qing bai <span lang="zh">清白</span>). In Republican era Shanghai (1912–1949), actresses' stage performances were typically "associated with erotic indulgences," and the public was fascinated by their personal life, especially sexual indiscretions and scandals. This made the life of Yueju actresses, who had just made their way to Shanghai from the impoverished countryside in Zhejiang Province, even harder. In that context, Yuan Xuefen advocated that Yueju actresses should build a public persona around the idea of "purity." To achieve such a transformation, she suggested that actresses should not only restrain themselves in their personal life, but also eliminate erotic elements from their stage performances. At the same time, Yuan was also intent on honoring the literary features of the original playtext.
+Having spearheaded Yue opera reform in the 1940s, Yuan was well-known for seeking to raise the level of artistry of Yue opera by actively pursuing an aesthetic of "purity" (*qing bai* <span lang="zh">清白</span>). In Republican era Shanghai (1912–1949), actresses' stage performances were typically "associated with erotic indulgences," and the public was fascinated by their personal life, especially sexual indiscretions and scandals. This made the life of Yueju actresses, who had just made their way to Shanghai from the impoverished countryside in Zhejiang Province, even harder. In that context, Yuan Xuefen advocated that Yueju actresses should build a public persona around the idea of "purity." To achieve such a transformation, she suggested that actresses should not only restrain themselves in their personal life, but also eliminate erotic elements from their stage performances. At the same time, Yuan was also intent on honoring the literary features of the original playtext.
 
 ### The Spectrum of Romantic Nuance
 
@@ -98,7 +98,7 @@ In comparing the 1960s recording to the 2011 version, we can see that the latter
 
 ### Hongniang Between Purity and Cheerfulness
 
-In the 2011 version of The Story of the Western Wing, the feature of "purity" is perhaps most clearly manifested through the role of Hongniang. Hongniang's role type is "cheerful female" (hua dan <span lang="zh">花旦</span>). In contrast to the Beijing opera version Hongniang/Crimson (1976), in Yuan's Yue opera, Hongniang does not experience a sexual awakening of her own, nor does she banter flirtatiously with Student Zhang. We see some examples of her "purity" in the excerpts below.
+In the 2011 version of The Story of the Western Wing, the feature of "purity" is perhaps most clearly manifested through the role of Hongniang. Hongniang's role type is "cheerful female" (*hua dan* <span lang="zh">花旦</span>). In contrast to the Beijing opera version *Hongniang/Crimson* (1976), in Yuan's Yue opera, Hongniang does not experience a sexual awakening of her own, nor does she banter flirtatiously with Student Zhang. We see some examples of her "purity" in the excerpts below.
 
 **Dignity**
 
