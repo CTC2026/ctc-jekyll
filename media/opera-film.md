@@ -18,28 +18,28 @@ Opera films were shown in theaters, but in the 1950s, they were also shown by th
 ## Modules on Opera Film
 
 <dl class="module-list">
-<dt><a href="{{ '/plays/mulan/1956-opera-film/' | relative_url }}">Hua Mulan <span lang="zh">花木蘭</span> (1956)</a></dt>
+<dt><a href="{{ '/plays/mulan/1956-opera-film/' | relative_url }}"><em>Hua Mulan</em> <span lang="zh">花木蘭</span> (1956)</a></dt>
 <dd markdown="1">"Transforming Into a Man," a module on the 1956 PRC <em>Yu</em> opera film adaptation of *Mulan*.</dd>
 
 <dt><a href="{{ '/plays/guan-hanqing/doue-1959-opera-film1/' | relative_url }}"><em>Snow in June</em> <span lang="zh">六月雪</span> (1959)</a></dt>
 <dd markdown="1">"Constructing Shared Repertoires with Sign Language and Chinese Opera," a module on the Cantonese opera film adaptation of *The Injustice to Dou E*.</dd>
 
-<dt><a href="{{ '/plays/guan-hanqing/doue-1959-opera-film2/' | relative_url }}">The Injustice to Dou E <span lang="zh">窦娥冤</span> (1959)</a></dt>
+<dt><a href="{{ '/plays/guan-hanqing/doue-1959-opera-film2/' | relative_url }}"><em>The Injustice to Dou E</em> <span lang="zh">窦娥冤</span> (1959)</a></dt>
 <dd markdown="1">"Creating A Socialist Revolutionary Subject," a module on the <em>Pu</em> opera film adaptation of *The Injustice to Dou E*.</dd>
 
 <dt><a href="{{ '/plays/guan-hanqing/feiyimeng-1964-opera-film/' | relative_url }}"><em>The Crimson Palm</em> <span lang="zh">血手印</span> (1964)</a></dt>
 <dd markdown="1">"From Love Story to Film Noir," a module on a Hong Kong <em>Huangmei</em> opera film adaptation of *The Dream of the Crimson Robe* <span lang="zh">緋衣夢</span>.</dd>
 
-<dt><a href="{{ '/plays/mulan/1964-opera-film/' | relative_url }}">The Lady General Hua Mulan <span lang="zh">花木蘭</span> (1964)</a></dt>
+<dt><a href="{{ '/plays/mulan/1964-opera-film/' | relative_url }}"><em>The Lady General Hua Mulan</em> <span lang="zh">花木蘭</span> (1964)</a></dt>
 <dd markdown="1">"How to Assume a Male Martial Identity," a module on the 1964 Hong Kong <em>huangmeidiao</em> opera film.</dd>
 
 <dt><a href="{{ '/plays/xixiangji/1965-opera-film/' | relative_url }}"><em>The Story of the Western Wing</em> <span lang="zh">西廂記</span> (1965)</a></dt>
-<dd markdown="1">"The Importance of Hongniang," a module on the 1965 Shaw Brothers Huangmei opera film.</dd>
+<dd markdown="1">"The Importance of Hongniang," a module on the 1965 Shaw Brothers <em>Huangmei</em> opera film.</dd>
 
 <dt><a href="{{ '/plays/xixiangji/1976-opera-film1/' | relative_url }}">Crimson <span lang="zh">红娘</span> (1976)</a></dt>
 <dd markdown="1">"Crimson's Vocal Imitation of Other Characters," a module on the 1976 PRC Beijing opera film.</dd>
 
-<dt><a href="{{ '/plays/mudanting/1986-opera-film/' | relative_url }}">The Peony Pavilion <span lang="zh">牡丹亭</span> (1986)</a></dt>
+<dt><a href="{{ '/plays/mudanting/1986-opera-film/' | relative_url }}"><em>The Peony Pavilion</em> <span lang="zh">牡丹亭</span> (1986)</a></dt>
 <dd markdown="1">"Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.</dd>
 </dl>
 

@@ -21,7 +21,7 @@ troupe: 'Shanghai Kunqu Opera Troupe <span lang="zh">上海昆剧团</span>'
 
 <div class="module-info">
 <dl>
-<div><dt>Title</dt><dd>The Complete Lute <span lang="zh">全本琵琶记</span></dd></div>
+<div><dt>Title</dt><dd><em>The Complete Lute</em> <span lang="zh">全本琵琶记</span></dd></div>
 <div><dt>Year</dt><dd>2012</dd></div>
 <div><dt>Style</dt><dd>Kunqu <span lang="zh">昆曲</span></dd></div>
 <div><dt>Troupe</dt><dd>Shanghai Kunqu Opera Troupe <span lang="zh">上海昆剧团</span></dd></div>

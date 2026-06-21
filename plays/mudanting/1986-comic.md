@@ -53,7 +53,7 @@ As the comic shifts registers between more realistic and more abstract mise-en-s
 | Chinese Captions | CTC Translation |
 |---|---|
 | 她想，昔日韩氏红叶题诗，得遇于祐，终成眷属。 | She thought about how in the olden days, Ms. Han wrote a poem on a red leaf, which was found by Yu You, allowing them to eventually become a couple. |
-| 还有那《西厢记》里的崔莺莺，偶像张生，一见钟情，虽经波折，也如愿以偿。 | There's also Western Wing's Cui Yingying who met Student Zhang by chance, fell in love at first sight, and despite all the ups and downs, also had her wish fulfilled. |
+| 还有那《西厢记》里的崔莺莺，偶像张生，一见钟情，虽经波折，也如愿以偿。 | There's also *Western Wing*'s Cui Yingying who met Student Zhang by chance, fell in love at first sight, and despite all the ups and downs, also had her wish fulfilled. |
 | 而自己呢？ | And what about me, huh? |
 
 </details>

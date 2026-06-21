@@ -92,7 +92,7 @@ Cheng Ying's song is delivered in the *xianxia* tune. In Yue opera, this melody 
 <table class="transcript">
 <thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
-<tr><td>[弦下调] 程婴 (唱)：夜沉沉 风悚悚 冷月如弯勾。</td><td>[Xianxia tune]Cheng Ying sings: The night is heavy, the wind is howling, the moon is like a crooked hook.</td></tr>
+<tr><td>[弦下调] 程婴 (唱)：夜沉沉 风悚悚 冷月如弯勾。</td><td>[<em>Xianxia</em> tune]Cheng Ying sings: The night is heavy, the wind is howling, the moon is like a crooked hook.</td></tr>
 <tr><td>程婴：人寂寂 心寥寥 寒霜压满头。</td><td>Cheng Ying: The people are silent, my heart is lonely, burdened with cold and frost.</td></tr>
 <tr><td>程婴：黄叶飘 北雁归 安得旧巢在。</td><td>Cheng Ying: The yellow leaves have fallen, the wild geese have returned, did they ever find their old nest?</td></tr>
 <tr><td>程婴：繁星移 流云走 何处可停留。</td><td>Cheng Ying: The stars vanish, the clouds float, where do they get to rest?</td></tr>
@@ -134,7 +134,7 @@ The final scene reaches its climax when Cheng Ying poignantly yet reflexively si
 <table class="transcript">
 <thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
 <tbody>
-<tr><td>[清板] 程婴 (唱)：一段快意恩仇事。</td><td>[A cappella]Cheng Ying sings: A matter that does not require attachment to gratitude and hatred.</td></tr>
+<tr><td>[清板] 程婴 (唱)：一段快意恩仇事。</td><td>[<em>A cappella</em>]Cheng Ying sings: A matter that does not require attachment to gratitude and hatred.</td></tr>
 <tr><td>程婴：何须刀剑又血腥?</td><td>Cheng Ying: What's the need for swords and bloodshed?</td></tr>
 <tr><td>程婴：冤冤相报几时了。</td><td>Cheng Ying: If we keep seeking revenge, when will this cycle finally end?</td></tr>
 <tr><td>程婴：都随风吹雨飘零。</td><td>Cheng Ying: Let all be gone with the wind and the rain.</td></tr>

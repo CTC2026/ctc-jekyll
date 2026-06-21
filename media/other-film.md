@@ -32,10 +32,10 @@ In recent years, many plays have become part of a boom in full-length live actio
 <dt><a href="{{ '/plays/xixiangji/1999-film/' | relative_url }}"><em>Hongniang</em> (a.k.a. <em>Soubrette</em>) <span lang="zh">红娘</span> (1999)</a></dt>
 <dd markdown="1">"Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation.</dd>
 
-<dt><a href="{{ '/plays/mudanting/2001-film/' | relative_url }}">The Peony Pavilion <span lang="zh">遊園驚夢</span> (2001)</a></dt>
+<dt><a href="{{ '/plays/mudanting/2001-film/' | relative_url }}"><em>The Peony Pavilion</em> <span lang="zh">遊園驚夢</span> (2001)</a></dt>
 <dd markdown="1">"The Function of the Kunqu Performance Within the Film," a module on the Hong Kong feature film of *The Peony Pavilion*.</dd>
 
-<dt><a href="{{ '/plays/orphan-of-zhao/2010-film/' | relative_url }}">Sacrifice <span lang="zh">赵氏孤儿</span> (2010)</a></dt>
+<dt><a href="{{ '/plays/orphan-of-zhao/2010-film/' | relative_url }}"><em>Sacrifice</em> <span lang="zh">赵氏孤儿</span> (2010)</a></dt>
 <dd markdown="1">"Father-Son Love," a module on a film adaptation of *The Orphan of Zhao* by director Chen Kaige <span lang="zh">陈凯歌</span>.</dd>
 </dl>
 
