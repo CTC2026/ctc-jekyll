@@ -23,7 +23,7 @@ While *lianhuanhua* were popular throughout the 20th century, the format's heyda
 <dt><a href="{{ '/plays/pipaji/1958-comic/' | relative_url }}">New Year's Print of The Lute 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)</a></dt>
 <dd markdown="1">"Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* New Year's print of *The Lute*.</dd>
 
-<dt><a href="{{ '/plays/xixiangji/1958-comic/' | relative_url }}">The Western Wing <span lang="zh">西厢记</span> (1958)</a></dt>
+<dt><a href="{{ '/plays/xixiangji/1958-comic/' | relative_url }}"><em>The Western Wing</em> <span lang="zh">西厢记</span> (1958)</a></dt>
 <dd markdown="1">"How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s *lianhuanhua*.</dd>
 
 <dt><a href="{{ '/plays/pipaji/1985-comic/' | relative_url }}">The Lute <span lang="zh">琵琶记</span> (1985/1986)</a></dt>

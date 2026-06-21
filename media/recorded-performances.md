@@ -11,7 +11,7 @@ permalink: /media/recorded-performances/
 
 We feature recordings of live performances of traditional Chinese theater (also known as "Chinese Opera"). In this scenario, the live performance takes place in a designated theatrical space with a live audience. The liveness of the performance is an important facet of the theatrical communication. The recording of the performance is often an ancillary aspect of the production.
 
-Such live productions usually take place within the performance traditions of particular regional styles of Chinese theater. Some of the most well-known styles are Kun Opera (kunqu <span lang="zh">昆曲</span>), "Peking/Beijing Opera" (jingju <span lang="zh">京剧</span>), Cantonese Opera (yueju <span lang="zh">粤剧</span>), Huangmei Opera (huangmei diao <span lang="zh">黄梅调</span>), and Shaoxing Opera (yueju <span lang="zh">越剧</span>). Some of these forms have performance histories going back to the sixteenth century (Kun Opera); others originated in the nineteenth century (Peking/Beijing Opera; Cantonese Opera); others still are neo-traditional forms dating to the twentieth century (Huangmei and Shaoxing Opera). Moreover, currently, many of these traditions have particular different teaching lineages embedded within them, often originated by a particularly famous twentieth-century performer.
+Such live productions usually take place within the performance traditions of particular regional styles of Chinese theater. Some of the most well-known styles are Kun Opera (*kunqu* <span lang="zh">昆曲</span>), "Peking/Beijing Opera" (*jingju* <span lang="zh">京剧</span>), Cantonese Opera (*yueju* <span lang="zh">粤剧</span>), Huangmei Opera (*huangmei diao* <span lang="zh">黄梅调</span>), and Shaoxing Opera (*yueju* <span lang="zh">越剧</span>). Some of these forms have performance histories going back to the sixteenth century (Kun Opera); others originated in the nineteenth century (Peking/Beijing Opera; Cantonese Opera); others still are neo-traditional forms dating to the twentieth century (Huangmei and Shaoxing Opera). Moreover, currently, many of these traditions have particular different teaching lineages embedded within them, often originated by a particularly famous twentieth-century performer.
 
 This site makes the play the central point of departure, not a particular style or substyle of Chinese theater ("opera"). Some plays are more important in some regional forms than in others. Accordingly, in our choice of live adaptations, we are not exhaustive, but instead selective.
 
@@ -24,13 +24,13 @@ This site makes the play the central point of departure, not a particular style 
 <dt><a href="{{ '/plays/mudanting/2007-recorded-perf/' | relative_url }}">The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span> (2007)</a></dt>
 <dd markdown="1">"How to Express Love within the Theatrical Language of Kunqu," a module on a live performance "Youth Edition" of *The Peony Pavilion*.</dd>
 
-<dt><a href="{{ '/plays/xixiangji/2011-recorded-perf/' | relative_url }}">The Story of the Western Wing <span lang="zh">西厢记</span> (2011)</a></dt>
+<dt><a href="{{ '/plays/xixiangji/2011-recorded-perf/' | relative_url }}"><em>The Story of the Western Wing</em> <span lang="zh">西厢记</span> (2011)</a></dt>
 <dd markdown="1">"Striking a Balance Between Propriety and Playfulness," a module on a 2011 Shaoxing/Yue opera stage recording.</dd>
 
 <dt><a href="{{ '/plays/pipaji/2012-recorded-perf/' | relative_url }}">The Lute <span lang="zh">全本琵琶记</span> (2012)</a></dt>
 <dd markdown="1">"Techniques for Creating Sadness and Comic Relief," a module on a live performance of *The Lute* by the Shanghai Kunqu Opera Troupe.</dd>
 
-<dt><a href="{{ '/plays/guan-hanqing/zhanizi-2016-recorded-perf/' | relative_url }}">Yanyan <span lang="zh">燕燕</span> (2016)</a></dt>
+<dt><a href="{{ '/plays/guan-hanqing/zhanizi-2016-recorded-perf/' | relative_url }}"><em>Yanyan</em> <span lang="zh">燕燕</span> (2016)</a></dt>
 <dd markdown="1">"The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation of *Clever Maid*.</dd>
 
 <dt><a href="{{ '/plays/zhangxie/2017-recorded-perf/' | relative_url }}">Top Graduate Zhang Xie <span lang="zh">张协状元</span> (2017)</a></dt>
