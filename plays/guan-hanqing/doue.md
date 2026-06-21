@@ -12,12 +12,12 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 You can find modules that analyze various adaptations of *The Injustice to Dou E* <span lang="zh">竇娥冤</span> at the links below. To get a sense of the main themes and historical import of the original *The Injustice to Dou E*, please consult the "General Background" below.
 
-1. [Snow in June <span lang="zh">六月雪</span> (1959)]({{ '/plays/guan-hanqing/doue-1959-opera-film1/' | relative_url }})
+1. [*Snow in June* <span lang="zh">六月雪</span> (1959)]({{ '/plays/guan-hanqing/doue-1959-opera-film1/' | relative_url }})
    - "Constructing Shared Repertoires with Sign Language and Chinese Opera," a module on the Cantonese opera film adaptation of *The Injustice to Dou E*.
 2. [The Injustice to Dou E <span lang="zh">窦娥冤</span> (1959)]({{ '/plays/guan-hanqing/doue-1959-opera-film2/' | relative_url }})
-   - "Creating A Socialist Revolutionary Subject," a module on the Pu opera film adaptation of *The Injustice to Dou E*.
-3. [The Crimson Palm <span lang="zh">血手印</span> (1964)]({{ '/plays/guan-hanqing/feiyimeng-1964-opera-film/' | relative_url }})
-   - "From Love Story to Film Noir," a module on a Hong Kong Huangmei opera film adaptation of *The Dream of the Crimson Robe* <span lang="zh">緋衣夢</span>.
+   - "Creating A Socialist Revolutionary Subject," a module on the *Pu* opera film adaptation of *The Injustice to Dou E*.
+3. [*The Crimson Palm* <span lang="zh">血手印</span> (1964)]({{ '/plays/guan-hanqing/feiyimeng-1964-opera-film/' | relative_url }})
+   - "From Love Story to Film Noir," a module on a Hong Kong *Huangmei* opera film adaptation of *The Dream of the Crimson Robe* <span lang="zh">緋衣夢</span>.
 
 ## General Background
 
@@ -44,8 +44,8 @@ Thus, in accordance with the readings presented above and as exemplified by othe
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-- Patricia Sieber. "The Pavilion for Praying to the Moon and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.
-- -----. "The Thorn Hairpin." In *Routledge Handbook of Traditional Chinese Literature*, edited by Victor H. Mair and Zhenjun Zhang, 452-58. New York: Routledge, 2025.
+- Patricia Sieber. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina S. Llamas, 78-100. New York: Columbia University Press, 2022.
+- -----. "*The Thorn Hairpin*." In *Routledge Handbook of Traditional Chinese Literature*, edited by Victor H. Mair and Zhenjun Zhang, 452-58. New York: Routledge, 2025.
 </details>
 
 <p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
