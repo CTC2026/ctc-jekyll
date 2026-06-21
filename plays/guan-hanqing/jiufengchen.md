@@ -12,7 +12,7 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 You can find modules that analyze various adaptations of *Saving a Courtesan* at the links below. To get a sense of the main themes and historical import of the original *Saving a Courtesan*, please consult the "General Background" below.
 
-1. [Rescuing One's Sister in the Wind and Dust (2021)]({{ '/plays/guan-hanqing/jiufengchen-2021-modern-theater/' | relative_url }}) — "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.
+1. [*Rescuing One's Sister in the Wind and Dust* (2021)]({{ '/plays/guan-hanqing/jiufengchen-2021-modern-theater/' | relative_url }}) — "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.
 2. [*A Dream of Splendor* <span lang="zh">梦华录</span> (2022)]({{ '/plays/guan-hanqing/jiufengchen-2022-tv/' | relative_url }}) — "Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.
 
 ## General Background

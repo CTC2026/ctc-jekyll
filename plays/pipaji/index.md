@@ -12,11 +12,11 @@ banner_image: /assets/images/TheLute_ResourceBanner.png
 
 You can find modules that analyze various adaptations of *The Lute* at the links below. To get a sense of the main themes and historical import of the original *The Lute*, please consult the "General Background" below.
 
-- [New Year's Print of The Lute 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)](1958-comic/)
+- [New Year's Print of *The Lute* 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)](1958-comic/)
   - "Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* (narrative comic) New Year's print of *The Lute*.
-- [The Lute <span lang="zh">琵琶记</span> (1985/1986)](1985-comic/)
+- [*The Lute* <span lang="zh">琵琶记</span> (1985/1986)](1985-comic/)
   - "Creating Emotional Atmospheres," a module on a *lianhuanhua* adaptation of *The Lute*.
-- [The Lute <span lang="zh">全本琵琶记</span> (2012)](2012-recorded-perf/)
+- [*The Lute* <span lang="zh">全本琵琶记</span> (2012)](2012-recorded-perf/)
   - "Techniques for Creating Sadness and Comic Relief," a module on a live performance of *The Lute* by the Shanghai Kunqu Opera Troupe.
 
 ## General Background

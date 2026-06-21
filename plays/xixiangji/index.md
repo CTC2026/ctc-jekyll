@@ -26,7 +26,7 @@ You can find modules that analyze various adaptations of *The Western Wing* at t
   — "The Importance of Hongniang," a module on the 1965 Shaw Brothers Huangmei opera film of *The Western Wing*.
 - [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film1/)
   — "Crimson's Vocal Imitation of Other Characters," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
-- [Crimson <span lang="zh">红娘</span> (1976)](1976-opera-film2/)
+- [*Crimson* <span lang="zh">红娘</span> (1976)](1976-opera-film2/)
   — "The Western Wing as Revolutionary Opera," a module on the 1976 PRC Beijing opera film of *The Western Wing*.
 - [*Hongniang* (a.k.a. *Soubrette*) <span lang="zh">红娘</span> (1999)](1999-film/)
   — "Hongniang's Melodramatic Homecoming," a module on the 1999 PRC narrative film adaptation of *The Western Wing*.
