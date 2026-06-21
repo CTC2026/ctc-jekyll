@@ -51,7 +51,8 @@ In the Yuan *zaju* comedy, both of the younger characters are cast as sympatheti
 > But contrary to all expectations, I was made to acknowledge him [merely] as an elder brother [instead of a fiancé/husband]  
 > Mother, you are too calculating!  
 > I am afraid I am a mere pawn!  
-> Without any ifs ands or buts, you separated the two "sole mates."  
+> Without any ifs ands or buts, you separated the two "sole mates."
+>
 > <span lang="zh">若不是張解元識人多，</span>  
 > <span lang="zh">怎生救咱全家禍?</span>  
 > <span lang="zh">你則合有恩便報，</span>  
