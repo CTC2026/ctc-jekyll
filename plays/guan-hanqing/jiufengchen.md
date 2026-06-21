@@ -72,7 +72,8 @@ Upon her arrival at Zhou She's residence in Zhengzhou, things turn out even wors
 > Day after day, that scoundrel does not rest his hand.  
 > Wherever the unfeeling rod comes down,  
 > That's where fresh blood flows from your body.  
-> Day after day you are treated like a condemned criminal. . . .  
+> Day after day you are treated like a condemned criminal.  
+> . . .  
 > I'll show my painted face to save you, this battered spring ox (*nüchunniu* <span lang="zh">女春牛</span>).  
 > No matter what the risks, I will try everything and stop at nothing.  
 > Let him curse me all he wants.  
