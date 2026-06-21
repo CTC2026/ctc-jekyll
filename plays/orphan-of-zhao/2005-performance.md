@@ -16,7 +16,7 @@ director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 - A video of the production with Chinese (simplified) subtitles on [Bilibili](https://www.bilibili.com/video/BV1Nx411H7H1/?spm_id_from=333.337.search-card.all.click).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt="&quot;Prince of Yue opera&quot; Zhao Zhigang. Source: Xinmin Evening Newspaper, Dec. 22, 2024.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt=""Prince of Yue opera" Zhao Zhigang. Source: Xinmin Evening Newspaper, Dec. 22, 2024.">
   <figcaption><strong>Fig. 1.</strong> Portrait of "Prince of Yue opera" Zhao Zhigang, one of the rare and the most renowned Yue opera male actors active on the predominantly female contemporary Yue opera stage. Credit: <a href="https://paper.xinmin.cn/html/xmwb/2024-12-22/9/199520.html"><em>Xinmin Evening Newspaper</em> (<em>Xinmin wanbao</em> <span lang="zh">新民晚报</span>)</a>, December 22, 2024.</figcaption>
 </figure>
 
@@ -87,7 +87,26 @@ In the Peking opera rendition, Cheng Ying's extreme pain after losing his own so
 
 Cheng Ying's song is delivered in the *xianxia* tune. In Yue opera, this melody is typically sung when a character finds themselves at an impasse or a precarious juncture. It is frequently used before a character's death, such as Liang Shanbo's song delivered before his impending death in Yue opera's signature play *The Butterfly Lovers* (*Liang Shanbo and Zhu Yingtai* <span lang="zh">梁山伯与祝英台</span>). The rhythm of the tune is slower than the normal speed of Yue opera music. The melody's tone is mournful and emotionally evocative, facilitating the expression of lingering sorrow as well as Cheng Ying's inner brokenness. Zhao Zhigang's virtuoso singing, known for its subtle fluidity (*legato/portamento*), effectively conveys Cheng Ying's sorrow along with the poetic lyrics. The devotion to the depiction of Cheng Ying's vulnerability here adds a certain softness to the masculinity that contrasts with the explicit expressions of emotional brokenness in Peking opera.
 
-Translation notes for clip 1
+<details class="translation">
+<summary>Translation notes for clip 1</summary>
+<table class="transcript">
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>[弦下调] 程婴 (唱)：夜沉沉 风悚悚 冷月如弯勾。</td><td>[Xianxia tune]Cheng Ying sings: The night is heavy, the wind is howling, the moon is like a crooked hook.</td></tr>
+<tr><td>程婴：人寂寂 心寥寥 寒霜压满头。</td><td>Cheng Ying: The people are silent, my heart is lonely, burdened with cold and frost.</td></tr>
+<tr><td>程婴：黄叶飘 北雁归 安得旧巢在。</td><td>Cheng Ying: The yellow leaves have fallen, the wild geese have returned, did they ever find their old nest?</td></tr>
+<tr><td>程婴：繁星移 流云走 何处可停留。</td><td>Cheng Ying: The stars vanish, the clouds float, where do they get to rest?</td></tr>
+<tr><td>程婴：万家灯火 阴霾不再有。</td><td>Cheng Ying: In every other household, the lights are on, and the gloom is gone.</td></tr>
+<tr><td>程婴：芸芸众生 天伦乐悠悠。</td><td>Cheng Ying: Now everyone else gets to joyfully reunite with their family.</td></tr>
+<tr><td>程婴：此时我俨然阶下囚。</td><td>Cheng Ying: But right now it is as if I am a prisoner.</td></tr>
+<tr><td>程婴：我今夜恰似孤魂游。</td><td>Cheng Ying: It is as if I am a lonely, floating ghost tonight.</td></tr>
+<tr><td>程婴：叹人生多变命多舛。</td><td>Cheng Ying: Alas! Life is full of changes and fate full of misfortunes.</td></tr>
+<tr><td>程婴：叹世间好景不长久。</td><td>Cheng Ying: Alas! The good times don't last long in this world.</td></tr>
+<tr><td>程婴：便有千般委屈凭谁诉。</td><td>Cheng Ying: To whom can I tell my thousand grievances?</td></tr>
+<tr><td>程婴：从此茫茫苦海独泛舟。</td><td>Cheng Ying: From now on, I will forever sail alone in the vast sea of misery.</td></tr>
+</tbody>
+</table>
+</details>
 
 **Clip 2: Cheng Ying's Forsaking of Revenge \[2:25:02 - 2:28:56\]**
 
@@ -110,7 +129,18 @@ Strikingly, after much internal torment, Cheng Ying raises the sword, with which
 
 The final scene reaches its climax when Cheng Ying poignantly yet reflexively sings out his intention of forsaking revenge. Notably, he delivers these lines *a cappella* without musical accompaniment. The lack of a pre-structured rhythm along with the absence of musical accompaniment (*qingban* <span lang="zh">清板</span>) as embellishment instill a sense of spontaneity and plainness, signaling what is being said comes straight from Cheng Ying's heart. The freedom within the rhythm also musically embodies Cheng Ying's detachment from hatred and sorrow. Moreover, the melody pays tribute to the aesthetically delicate Yin school as its tenderness underscores Cheng Ying's emotional display, again registering a certain soft masculinity. Cheng Ying decides not to kill Tu'an Gu—or more precisely, not to be ultimately bound to an unquestioned mission of karmic revenge (*yuan bao yuan* <span lang="zh">冤报冤</span>). His refusal to resort to the violent resolution of revenge can also be seen as another aspect of his soft masculinity. As Cheng Ying sings, the giant sword that symbolically represents violence gradually ascends and disappears from the stage.
 
-Translation notes for clip 2
+<details class="translation">
+<summary>Translation notes for clip 2</summary>
+<table class="transcript">
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>[清板] 程婴 (唱)：一段快意恩仇事。</td><td>[A cappella]Cheng Ying sings: A matter that does not require attachment to gratitude and hatred.</td></tr>
+<tr><td>程婴：何须刀剑又血腥?</td><td>Cheng Ying: What's the need for swords and bloodshed?</td></tr>
+<tr><td>程婴：冤冤相报几时了。</td><td>Cheng Ying: If we keep seeking revenge, when will this cycle finally end?</td></tr>
+<tr><td>程婴：都随风吹雨飘零。</td><td>Cheng Ying: Let all be gone with the wind and the rain.</td></tr>
+</tbody>
+</table>
+</details>
 
 **Clip 3: The Physician's Benevolent Heart \[2:29:00 – 2:29:27\]**
 
@@ -124,7 +154,16 @@ Translation notes for clip 2
 
 Cheng Ying's forsaking of revenge should not be understood as a simple decision, but one that arises from a quite complex mindset. Cheng Ying certainly thinks that Tu'an Gu deserves to be killed: his decision to spare Tu'an Gu's life at the end does not mean that Cheng Ying decides to forgive Tu'an Gu personally for all his evil deeds, including the killing of Cheng's own son. It is rather that Cheng decides to let go of his attachment to the mission of revenge that seeks justice for bloodshed by perpetrating further bloodshed. In other words, Cheng Ying chooses to move on because he chooses to be a humanist rather than someone who blindly follows the mission of loyalty. The rationale for such a change has at least two sources. For one, there is an old Chinese saying passed down from the ancient physician Sun Simiao <span lang="zh">孙思邈</span>, ancient "China's King of Medicine" (*yaowang* <span lang="zh">药王</span>): "The physician has a benevolent heart" (*yizhe renxin* <span lang="zh">医者仁心</span>)," a phrase from the first work in Chinese history to comprehensively theorize and prescribe the ethics of physicians. Being benevolent (*ren*), a Confucian virtue and in this case an ethical requirement for a physician, means to treat others with humaneness. Cheng Ying decides to uphold the virtue at the heart of his profession <span lang="zh">草泽医人</span> (commoner physician), as he has upheld it throughout his life by saving lives and bringing healing. Second, the consciousness towards humanness very likely reflects China's post-Cultural-Revolution theme of humanism, as explored in Wang Xiaoying's other theatrical works, in aftermath of violence and trauma many people endured during that time. The chorus sings together at the very end:
 
-Translation notes for clip 3
+<details class="translation">
+<summary>Translation notes for clip 3</summary>
+<table class="transcript">
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>幕后女声独唱: 天地间一个治病救人者。</td><td>Backstage Solo Female Singing: A healer between heaven and earth.</td></tr>
+<tr><td>幕后女声独唱：只遗下一颗悬壶济世心。</td><td>Backstage Solo Female Singing: All he has left is the heart to help the world.</td></tr>
+</tbody>
+</table>
+</details>
 
 The onstage crowd --- rarely seen on Chinese opera stage --- assumes multiple functions. First, they represent a collective, legitimizing voice that urges Cheng Ying to kill Tu'an Gu, further contrasting Cheng Ying's difficult personal decision to give up revenge. In the Yue opera, Cheng Ying is portrayed as a lonely soul--misunderstood by the crowd in the previous section of the play and choosing to not follow the crowd's opinion at the end. Second, in the manner of a chorus in Greek tragedies, the chorus not only observes Cheng Ying's actions throughout the play, but renders a verdict on Cheng Ying's character at the end. Overall, the chorus ends the play with the ultimate message the Yue opera adaptation hopes to register in its reworking of the ancient story: subverting/inverting the theme of cyclical revenge-seeking <span lang="zh">冤报冤</span> in Ji Junxiang's Yuan *zaju* title, this contemporary version of *The Orphan of Zhao* in the 21st century is about letting go of hatred and bringing healing to mankind.
 

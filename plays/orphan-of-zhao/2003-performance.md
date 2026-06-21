@@ -65,7 +65,52 @@ In the scene "Massacre" ("Chaojia" <span lang="zh">抄家</span>), Cheng Ying is
   </div>
 </div>
 
-Translation notes for clip 1
+<details class="translation">
+<summary>Translation notes for clip 1</summary>
+<table class="transcript">
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>Cheng Ying starts to sing before he enters the stage from the left.</td></tr>
+<tr><td>程婴：昏王他把(入场)旨传下，要把赵氏满门杀。急急告知赵驸马。</td><td>Cheng Ying: The muddle-headed Duke… (enters the stage from the left) has disseminated a decree to kill the entire Zhao clan. I need to inform the Princess’s husband, Ducal Son-in-Law Zhao, in a hurry.</td></tr>
+<tr><td>[A eunuch is about to greet him but is stopped by Cheng Ying.]</td></tr>
+<tr><td>程婴：此时无暇把话答。(念白)快请驸马出来 。</td><td>Cheng Ying: There is no time for formalities. Speaks: Please inform your master, the Ducal Son-in-Law, of my presence.</td></tr>
+<tr><td>太监：有请驸马。</td><td>Eunuch: His Highness, the Ducal Son-in-Law.</td></tr>
+<tr><td>[Zhao Shuo enters the stage from the left.]</td></tr>
+<tr><td>程婴：驸马，大事不好了。</td><td>Cheng Ying: Ducal Son-in-Law, things are getting out of hand.</td></tr>
+<tr><td>赵朔：何事惊慌？</td><td>Zhao Shuo: Why are you in a panic?</td></tr>
+<tr><td>程婴：老丞相不知为了何故，被屠岸贾奸贼一剑劈死。如今抄杀你满门来了。</td><td>Cheng Ying: For reasons unknown, the Prime Minister was stabbed to death with a sword by the treacherous villain Tu’an Gu, and Tu’an is now coming to massacre your whole family.</td></tr>
+<tr><td>赵朔：闻言好似霹雷震，为何抄杀我满门？回头我把公主请（哭）。</td><td>Zhao Shuo: Hearing this news is a thunderbolt out of the blue. Why would he massacre our entire family? Let me ask the princess to come out (cries).</td></tr>
+<tr><td>庄姬 : 驸马痛哭为何情？</td><td>Zhuangji: Ducal Son-in-Law, why are you crying?</td></tr>
+<tr><td>赵朔：可恨那屠岸贾，剑劈我父一死，如今又奉旨抄杀我全家来了.</td><td>Zhao Shuo: That odious Tu’an Gu stabbed my father to death, and he bears a ducal decree authorizing him to massacre our whole family.</td></tr>
+<tr><td>庄姬：啊（昏倒）</td><td>Zhuangji: Ah… (faints).</td></tr>
+<tr><td>女仆：公主醒来。</td><td>Maid: Princess, please wake up!</td></tr>
+<tr><td>庄姬：闻凶报只觉得神魂不定，塌天大祸要临身。兄王不该宠奸佞，反来杀害忠良臣。去与兄长把理论。</td><td>Zhuangji: I am deeply perturbed after hearing this terrible news as this earthshattering disaster is approaching. My brother, the duke, should not have favored treacherous courtiers, who in turn murder the loyal and upright courtiers. I am going to reason with my brother.</td></tr>
+<tr><td>赵朔：且慢。他昏庸无能，你去也是无用啊。</td><td>Zhao Shuo: Hold on. He is muddle-headed and incompetent. You going there will be of no use.</td></tr>
+<tr><td>程婴：着啊。</td><td>Cheng Ying: That’s right.</td></tr>
+<tr><td>庄姬：纵然有理也难辩清，驸马速去逃活命。</td><td>Zhuangji: If it’s impossible to resolve this, then Ducal Son-in-law, please quickly leave to save your life.</td></tr>
+<tr><td>赵朔：公主，我怎能独自去逃生？</td><td>Zhao Shuo: Princess, how could I run away and just save myself?</td></tr>
+<tr><td>庄姬：若不然，夫妻们同归于尽。</td><td>Zhuangji: If not, let me die along with you.</td></tr>
+<tr><td>赵朔：你身怀六甲要临盆。公主啊，我死之后，公主若生一男取名赵武，日后也好与我全家报仇雪恨。</td><td>Zhao Shuo; You are with child and about to give birth. My princess, if the baby is a boy, he should be called Zhao Wu. One day he can avenge our whole family.</td></tr>
+<tr><td>庄姬：那奸贼知我有孕，焉能放过？</td><td>Zhuangji: The treacherous villain knows I am pregnant. How could he possibly let us go?</td></tr>
+<tr><td>赵朔：这……</td><td>Zhao Shuo: Ugh…</td></tr>
+<tr><td>女仆：公主乃是金枝玉叶，量他不敢加害。只是这产下的婴儿，恐怕难逃毒手吧。</td><td>Maid: Princess, you’re a descendant of the ducal family. He would not dare to harm you, but I fear that it would be hard for the newborn to evade the murderer.</td></tr>
+<tr><td>庄姬：夫君……</td><td>Zhuangji: My husband…</td></tr>
+<tr><td>程婴：驸马，我程婴虽是个草泽医生，颇知大义，如今你一家被贼陷害，我岂能袖手旁观？我有意待等公主分娩之后，将婴儿抱至我家抚养，将来也好与你赵家，报仇雪恨。</td><td>Cheng Ying: Ducal Son-in-Law, even though I, Cheng Ying, am just a commoner physician, I know a thing or two about righteousness. Since now your family is being framed by the villain, how can I be an idle bystander? I am prepared to take the baby to my house after the conclusion of the Princess’s labors and rear the child with great care so that one day the child can seek revenge for your Zhao family.</td></tr>
+<tr><td>赵朔：程先生如此大义，你上受我夫妻一拜。</td><td>Zhao Shuo: Master Cheng, you’re such a righteous person! Please accept our bows. [(Zhao Shuo and Zhuangji kneel and bow to Cheng Ying).]</td></tr>
+<tr><td>程婴：这就不敢（示意赵朔和庄姬起来）。乱臣贼子人人恨，可惜我无力杀贼身。公主哇,只是宫门太严紧。</td><td>Cheng Ying: Please don’t! (This means Zhao Shuo and Zhuangji should rise). Everybody hates corrupt officials and villains. Unfortunately, I do not have the ability to kill the villain. Princess, ah, it is, however, the case that the palace gates are strictly guarded.</td></tr>
+<tr><td>庄姬：是啊，我此番进得宫去，门禁森严，你又不能进宫，怎能将婴儿盗走？</td><td>Zhuangji: Yes indeed! When I entered the palace this time, security was very tight. You are not even allowed to enter the palace. How could you possibly abscond with the baby?</td></tr>
+<tr><td>程婴：这……（拍手表无奈）</td><td>Cheng Ying: It is… (claps his hands to indicate his helplessness).</td></tr>
+<tr><td>赵朔：哎呀……</td><td>Zhao Shuo: Sigh…</td></tr>
+<tr><td>庄姬：夫啊……</td><td>Zhuangji: My husband…</td></tr>
+<tr><td>程婴：有了啊!公主不必着急，待等公主分娩之后，就在宫门之外张下榜文，上写公主得下不治之症，太医束手无策，招草泽医人进宫调治。那时节我揭下榜文，应聘进宫，将婴儿盗出,你看如何？</td><td>Cheng Ying: I have an idea! Princess, you don’t need to worry. After you deliver the baby, you can post an official notice outside of the palace gate announcing that “The Princess is suffering from an incurable disease, and the imperial physicians have no treatments. We are looking for a doctor from among the commoners to enter the palace and prepare a cure.” I will accept the offer by taking the notice off, so that I have a legitimate reason to go to the palace and abscond with the baby. What do you think?</td></tr>
+<tr><td>庄姬：好哇。进宫全凭这榜文。</td><td>Zhuangji: Good idea! With this notice, you will be able to enter the palace.</td></tr>
+<tr><td>[A deafening sound of gongs and drums.]</td></tr>
+<tr><td>程婴：耳边有听人声震。</td><td>Cheng Ying: I hear a commotion outside.</td></tr>
+<tr><td>赵朔：想是奸贼到来临。（念）程先生大事托付在你身上，你速速逃走了吧。</td><td>Zhao Shuo: I am guessing that it must be the treacherous villain approaching. Speaks: Master Cheng, I entrust this great matter of life and death to you. Please escape quickly now.</td></tr>
+<tr><td>程婴：告辞了。</td><td>Cheng Ying: Farewell.</td></tr>
+</tbody>
+</table>
+</details>
 
 [**Cheng Ying's Taunting of General Han Jue \[1:03:57-1:11:12\]**](https://www.bilibili.com/video/BV1LW411y7pG/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=3837)
 
@@ -79,7 +124,49 @@ The second part of first act of the original *zaju* relays the encounter between
   </div>
 </div>
 
-Translation notes for clip 2
+<details class="translation">
+<summary>Translation notes for clip 2</summary>
+<table class="transcript">
+<thead><tr><th scope="col">Chinese Subtitles</th><th scope="col">CTC Translation</th></tr></thead>
+<tbody>
+<tr><td>韩厥：(白) 转来。</td><td>Han Jue speaks: Turn around.</td></tr>
+<tr><td>程婴：(白) 在。</td><td>Cheng Ying speaks: Yes, Sir.</td></tr>
+<tr><td>韩厥：(白) 什么人？</td><td>Han Jue speaks: Who is it?</td></tr>
+<tr><td>程婴：(白) 草泽医人。</td><td>Cheng Ying speaks: I am a commoner physician.</td></tr>
+<tr><td>韩厥：(白) 进宫何事？</td><td>Han Jue speaks: What brings you to the palace?</td></tr>
+<tr><td>程婴：(白) 与公主调治病症。</td><td>Cheng Ying speaks: I came to treat the Princess’s illness.</td></tr>
+<tr><td>韩厥：(白) 公主得何病症？</td><td>Han Jue speaks: What illness is the princess suffering from?</td></tr>
+<tr><td>程婴：(白) 肝郁不舒。</td><td>Cheng Ying speaks: She has a liver disorder.</td></tr>
+<tr><td>韩厥：(白) 可曾治好？</td><td>Han Jue speaks: Have you cured her?</td></tr>
+<tr><td>程婴 : (白) 药到病除。</td><td>Cheng Ying speaks: The symptoms lessened after my herbal medicine took effect.</td></tr>
+<tr><td>韩厥：(白) 箱中何物？</td><td>Han Jue speaks: What’s in the chest?</td></tr>
+<tr><td>程婴：(白) 甘草薄荷。</td><td>Cheng Ying speaks: Licorice and mint.</td></tr>
+<tr><td>韩厥：(白) 可有孤儿？</td><td>Han Jue speaks: Is there an orphan?</td></tr>
+<tr><td>程婴：(白) 这……这倒不曾听见过有这味药材。</td><td>Cheng Ying speaks: Em… I have not ever heard about this type of herbal medicine.</td></tr>
+<tr><td>韩厥：(白) 去吧。</td><td>Han Jue speaks: You can go.</td></tr>
+<tr><td>程婴：(白) 是（转身就走）。</td><td>Cheng Ying speaks: Yes (turns around and walks away immediately).</td></tr>
+<tr><td>韩厥：(白) 慢，转来，你为何神色慌张？</td><td>Han Jue speaks: Hold on, turn around. Why are you so flustered?</td></tr>
+<tr><td>程婴：(白) 我乃乡里郎中，见将军威严神武，心中有些害怕。</td><td>Cheng Ying speaks: I am a simple doctor from the countryside. When I see the general’s dignified appearance and martial bearing, I am a little scared.</td></tr>
+<tr><td>韩厥：(白) 定有夹带！</td><td>Han Jue speaks: You must be carrying something hidden in the chest.</td></tr>
+<tr><td>程婴：(白) 并无夹带。……并无夹带，并无夹带。</td><td>Cheng Ying speaks: I am not carrying anything hidden. I am not, I am not.</td></tr>
+<tr><td>韩厥：(白) 箱儿放下。俺要搜。</td><td>Han Jue speaks: Put down your chest. I am going to search it.</td></tr>
+<tr><td>程婴：(白) 好好好，请搜。</td><td>Cheng Ying speaks: Sure, sure, sure. Go ahead and search it.</td></tr>
+<tr><td>韩厥：(白) 去吧。</td><td>Han Jue speaks: You can go.</td></tr>
+<tr><td>程婴：(白) 是是是。</td><td>Cheng Ying speaks: Yes, general. Yes, yes.</td></tr>
+<tr><td>[The baby inside of the medicine chest cries out. ]</td></tr>
+<tr><td>韩厥：(白，语速加快) 你说箱中俱是甘草薄荷，里面为何有人？（程婴手放在箱子上，韩厥脚踩住箱子）有人声在内。</td><td>Han Jue speaks rapidly: You only mention licorice and mint in the chest, but why is there a person inside? (Cheng Ying puts his hands on the chest, but Han Jue puts his foot on the chest to keep it shut). I hear a human voice coming from the chest.</td></tr>
+<tr><td>程婴：(白) 这个……将军啊，将军啊，我是个草泽医人，与赵家是非亲非故。只因他全家被害，可叹世代忠良，就留下这一条根苗。是我不顾生死，是前来搭救，今被将军看破，你若贪图富贵，将我献与屠岸贾，你你你……就请功受赏去吧。</td><td>Cheng Ying speaks: Em… General, general, I am a commoner physician and neither a relative nor a friend of the Zhao family. Because their whole family is massacred, it is deeply lamentable that among the loyal and decent people of this age only this lone sprout is left. I am not worried about my own life and death, I came to rescue the orphan. Now that I have been found out by you, General, if you set store by wealth and rank, you can hand me over to Tu’an Gu. You, you, you… go collect a reward for your service!</td></tr>
+<tr><td>韩厥：（唱）此人说话有胆量，句句打动我心肠。若将孤儿来献上，这小小的婴孩也丧无常。大丈夫生在这世上，见义勇为也应当。(白)罢，（唱）韩厥今日将你放。(白) 去罢。</td><td>Han Jue sings: This person talks like he has a lot of nerve. Every sentence strikes a chord in me. If I turn this orphan in, this tiny baby will be put to death. Nowadays, when an honorable man sees righteous and courageous conduct, he should respond in kind. Speaks: Enough!  Sings: Today, Han Jue will let you go. Speaks: You go now!</td></tr>
+<tr><td>程婴：（白）多谢将军。（唱）多谢将军好心肠。倘若奸贼把罪降……</td><td>Cheng Ying speaks: Thank you, general. Sings: Thank you for your decency. If you’re punished by the treacherous villain…</td></tr>
+<tr><td>韩厥：（白）哎呀，（唱）生死二字哪放在心旁。</td><td>Han Jue speaks: Never mind. Sings: Why would the twin words of life and death be on my mind!</td></tr>
+<tr><td>程婴：（程婴奔去，转回，白）啊将军。</td><td>Cheng Ying rapidly departs, but he comes back and speaks: Ah, general.</td></tr>
+<tr><td>韩厥：（白）你为何去而复转？</td><td>Han Jue speaks: Why are you coming back?</td></tr>
+<tr><td>程婴：（白）非我去而复转，此事万万不可泄漏，倘若走漏消息，我程婴一死是无关紧要，倘若孤儿有一差二错，可叹赵家三百余口冤沉海底。</td><td>Cheng Ying speaks: I don’t want to come back, but you absolutely cannot let any information leak out about this matter. Otherwise, if this news gets out, my own life is of no concern, but if anything happens to the orphan, the prospects for the rectification of justice for the more than three hundred people from the Zhao family will be dim.</td></tr>
+<tr><td>韩厥：（白）哎呀（挥剑自刎）。</td><td>Han Jue speaks: Sigh… (cuts his own throat with his sword).</td></tr>
+<tr><td>Cheng Ying tries to stop Han Jue, but it is too late. Cheng Ying moves in a crouch towards Han Jue’s body. He hears shouts nearby and quickly leaves the palace.</td></tr>
+</tbody>
+</table>
+</details>
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
