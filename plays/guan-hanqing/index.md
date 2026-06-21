@@ -12,21 +12,21 @@ banner_image: /assets/images/guan_resourcebanner.png
 
 General background about the playwright Guan Hanqing can be found below. You can find introductions to each featured play by Guan Hanqing by following the links below. Follow further links to individual modules that analyze specific adaptations of the plays.
 
-### The Injustice to Dou E and Other Courtroom Dramas <span lang="zh">感天動地竇娥冤與其他公案劇</span>
+### *The Injustice to Dou E* and Other Courtroom Dramas <span lang="zh">感天動地竇娥冤與其他公案劇</span>
 1. [*Snow in June* <span lang="zh">六月雪</span> (1959)](doue-1959-opera-film1/)
    - "Constructing Shared Repertoires with Sign Language and Chinese Opera," a module on the Cantonese opera film adaptation of *The Injustice to Dou E*.
-2. [The Injustice to Dou E <span lang="zh">窦娥冤</span> (1959)](doue-1959-opera-film2/)
+2. [*The Injustice to Dou E* <span lang="zh">窦娥冤</span> (1959)](doue-1959-opera-film2/)
    - "Creating A Socialist Revolutionary Subject," a module on the *Pu* opera film adaptation of *The Injustice to Dou E*.
 3. [*The Crimson Palm* <span lang="zh">血手印</span> (1964)](feiyimeng-1964-opera-film/)
    - "From Love Story to Film Noir," a module on a Hong Kong *Huangmei* opera film adaptation of *The Dream of the Crimson Robe* <span lang="zh">緋衣夢</span>.
 
-### Saving a Courtesan <span lang="zh">趙盼兒風月救風塵</span>
-1. [Rescuing One's Sister in the Wind and Dust (2021)](jiufengchen-2021-modern-theater/)
+### *Saving a Courtesan* <span lang="zh">趙盼兒風月救風塵</span>
+1. [*Rescuing One's Sister in the Wind and Dust* (2021)](jiufengchen-2021-modern-theater/)
    - "Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.
 2. [*A Dream of Splendor* <span lang="zh">梦华录</span> (2022)](jiufengchen-2022-tv/)
    - "Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.
 
-### A Clever Maid Maneuvers Her Way into Romance <span lang="zh">詐妮子調風月</span>
+### *A Clever Maid Maneuvers Her Way into Romance* <span lang="zh">詐妮子調風月</span>
 1. [*Yanyan* <span lang="zh">燕燕</span> (2016)](zhanizi-2016-recorded-perf/)
    - "The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation of *Clever Maid*.
 
