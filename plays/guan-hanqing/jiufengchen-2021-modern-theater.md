@@ -27,6 +27,13 @@ playwright: Amy Ng
 <div><dt>Adaptation</dt><dd>Amy Ng</dd></div>
 <div><dt>Style</dt><dd>Semi-staged reading; spoken drama</dd></div>
 <div><dt>Based on the play by</dt><dd>Guan Hanqing</dd></div>
+<div><dt>Cast</dt><dd>Elizabeth Chan (as Pan'er), Frances Mayli Mccann (as Yinzhang), James Cooney (as Zhou She), Sky Yang (as Scholar An), Lourdes Faberes (as Mother Song/Innkeeper), Kwong Loke (as Judge/Slacker), Crystal Yu (as Ghost), Siu-see Hung (as Ghost), and Jennifer Lim (as Ghost)</dd></div>
+<div><dt>Composer and Sound Designer</dt><dd>Benjamin Grant</dd></div>
+<div><dt>Lighting Designer</dt><dd>Fraser Craig</dd></div>
+<div><dt>Recording and editing</dt><dd>Robin Fisher</dd></div>
+<div><dt>Venue</dt><dd>Almeida Theatre</dd></div>
+<div><dt>Language</dt><dd>English</dd></div>
+<div><dt>Duration</dt><dd>83 minutes</dd></div>
 </dl>
 </div>
 

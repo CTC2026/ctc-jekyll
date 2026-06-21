@@ -12,7 +12,7 @@ director: 'Zhang Xinshi <span lang="zh">張辛實</span>'
 
 ## Links to the Film
 
-- [The film with Chinese subtitles for arias (Traditional)](https://www.youtube.com/watch?v=1Gt3gdH2mfo)
+- [A link to the film with Chinese subtitles for arias (traditional)](https://www.youtube.com/watch?v=1Gt3gdH2mfo)
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_1.jpg" alt="Close-up of Dou E in a white headband, gazing off camera with a determined expression">

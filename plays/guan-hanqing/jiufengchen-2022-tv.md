@@ -6,13 +6,13 @@ permalink: /plays/guan-hanqing/jiufengchen-2022-tv/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
-media_type: Television Drama Series
+media_type: Serial TV Drama
 director: 'Yang Yang <span lang="zh">杨阳</span>'
 ---
 
 ## Links to the TV Drama
 
-[In Chinese with English and simplified Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1–6.)
+[In Chinese with English and simplified Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1-6).
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="A promotional image for A Dream of Splendor (2022). Source: The production.">

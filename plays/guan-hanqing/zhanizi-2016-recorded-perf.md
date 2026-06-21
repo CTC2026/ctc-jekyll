@@ -6,13 +6,17 @@ permalink: /plays/guan-hanqing/zhanizi-2016-recorded-perf/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
-media_type: 'Chuanju <span lang="zh">川剧高腔</span> (High-Pitch Sichuan Opera)'
-director: 'Li Zenglin <span lang="zh">李增林</span>'
+media_type: Live Performance
 ---
 
 ## Links to the Performance
 
-- The Chuanju adaptation *Yanyan* is available on Tencent QQ with simplified Chinese subtitles: [Part 1](https://v.qq.com/x/page/k00229z1dbx.html), [Part 2](https://v.qq.com/x/page/v00222a8jni.html), [Part 3](https://v.qq.com/x/page/m0022gblaow.html), [Part 4](https://v.qq.com/x/page/u0022la2aka.html).
+The Chuanju High-Pitch Adaptation Yanyan <span lang="zh">川剧高腔 《燕燕》</span>is available on Tencent's <span lang="zh">腾讯</span> streaming service QQ in four parts with simplified Chinese subtitles:
+
+- [Part 1](https://v.qq.com/x/page/k00229z1dbx.html)
+- [Part 2](https://v.qq.com/x/page/v00222a8jni.html)
+- [Part 3](https://v.qq.com/x/page/m0022gblaow.html)
+- [Part 4](https://v.qq.com/x/page/u0022la2aka.html)
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_1.png" alt="Yanyan (Wang Yumei) holding a cane asking the Lady of the House to beat her.">
@@ -28,7 +32,7 @@ director: 'Li Zenglin <span lang="zh">李增林</span>'
 <div><dt>Script</dt><dd>Xu Fen <span lang="zh">徐棻</span>, Zhang Yujun <span lang="zh">张羽军</span></dd></div>
 <div><dt>Director</dt><dd>Li Zenglin <span lang="zh">李增林</span></dd></div>
 <div><dt>Style</dt><dd>Chuanju <span lang="zh">川剧高腔</span> (High-Pitch Sichuan Opera)</dd></div>
-<div><dt>Cast</dt><dd>Wang Yumei <span lang="zh">王玉梅</span> (as Yanyan <span lang="zh">燕燕</span>); Wang Chao <span lang="zh">王超</span> (as Li Weide <span lang="zh">李维德</span>); Luo Fang <span lang="zh">罗芳</span> (as Yingying <span lang="zh">莺莺</span>); Ma Li <span lang="zh">马丽</span> (as Lady of the House <span lang="zh">夫人</span>); Peng Ling <span lang="zh">彭凌</span> (as Wang Si <span lang="zh">王四</span>); Li Qingjun <span lang="zh">李清君</span> (as Mei Hua <span lang="zh">梅花</span>, Yingying's servant)</dd></div>
+<div><dt>Cast</dt><dd>Wang Yumei <span lang="zh">王玉梅</span> (as Yanyan <span lang="zh">燕燕</span>); Wang Chao <span lang="zh">王超</span> (as Li Weide <span lang="zh">李维德</span>); Luo Fang <span lang="zh">罗芳</span> (as Yingying <span lang="zh">莺莺</span>); Ma Li <span lang="zh">马丽</span> (as Lady of the House <span lang="zh">夫人</span>); Peng Ling <span lang="zh">彭凌</span> (as Wang Si <span lang="zh">王四</span>, the servant of the Lady of the House); Li Qingjun <span lang="zh">李清君</span> (as Mei Hua <span lang="zh">梅花</span>, Yingying's servant)</dd></div>
 <div><dt>Duration</dt><dd>136 min</dd></div>
 </dl>
 </div>

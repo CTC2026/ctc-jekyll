@@ -6,7 +6,7 @@ permalink: /plays/mulan/1956-opera-film/
 play_id: mulan
 play_title: "The Female Mulan Joins the Army"
 banner_image: /assets/images/Mulan_ResourceBanner.png
-media_type: Yu Opera Film
+media_type: Opera Film
 director: 'Liu Guoquan <span lang="zh">劉國權</span>, Zhang Xinshi <span lang="zh">張辛實</span>'
 ---
 

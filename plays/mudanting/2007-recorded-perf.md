@@ -6,8 +6,8 @@ permalink: /plays/mudanting/2007-recorded-perf/
 play_id: mudanting
 play_title: "The Peony Pavilion"
 banner_image: /assets/images/Peony_RB_1.png
-media_type: 'Kunqu <span lang="zh">昆曲</span>'
-director: 'Wang Shiyu <span lang="zh">汪世瑜</span>'
+media_type: Recording of Live Performance
+media_subtype: Youth Edition
 ---
 
 ## Link to the Production

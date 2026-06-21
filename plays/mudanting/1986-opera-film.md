@@ -29,7 +29,7 @@ director: 'Fang Ying <span lang="zh">方荧</span>'
 <div><dt>Screenwriter</dt><dd>Hu Ji <span lang="zh">胡忌</span></dd></div>
 <div><dt>Producer</dt><dd>Nanjing Film Studio <span lang="zh">南京电影制片厂</span></dd></div>
 <div><dt>Cast</dt><dd>Zhang Jiqing <span lang="zh">张继青</span> (as Du Liniang), Wang Hengkai <span lang="zh">王亨恺</span> (as Liu Mengmei), Xu Hua <span lang="zh">徐华</span> (as Chunxiang), Wang Weijian <span lang="zh">王维艰</span> (as Madam Du)</dd></div>
-<div><dt>Language</dt><dd>Modified Mandarin adapted for Kunqu</dd></div>
+<div><dt>Language</dt><dd>modified Mandarin adapted for Kunqu</dd></div>
 </dl>
 </div>
 

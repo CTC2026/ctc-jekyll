@@ -6,8 +6,8 @@ permalink: /plays/zhangxie/2017-recorded-perf/
 play_id: zhangxie
 play_title: "Top Graduate Zhang Xie"
 banner_image: /assets/images/Play_Zhang_RB.png
-media_type: 'Yongjia-Style Kunqu Opera <span lang="zh">永嘉昆曲</span>'
-director: 'Sun Jianghai <span lang="zh">孙江海</span>'
+media_type: Recording of a Live Performance
+troupe: 'Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span>'
 ---
 
 ## Link to Recording
@@ -19,8 +19,8 @@ director: 'Sun Jianghai <span lang="zh">孙江海</span>'
 <div><dt>Title</dt><dd>Top Graduate Zhang Xie <span lang="zh">張協狀元</span></dd></div>
 <div><dt>Year</dt><dd>2017</dd></div>
 <div><dt>Style</dt><dd>Yongjia-Style Kunqu Opera <span lang="zh">永嘉昆曲</span></dd></div>
-<div><dt>Troupe</dt><dd>Yongjia Kunju Troupe <span lang="zh">永嘉昆劇团</span></dd></div>
-<div><dt>Cast</dt><dd>Lin Meimei <span lang="zh">林媚媚</span> (as Zhang Xie), You Tengteng <span lang="zh">由騰騰</span> (as Poorlass, Shenghua)</dd></div>
+<div><dt>Troupe</dt><dd>Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span></dd></div>
+<div><dt>Cast</dt><dd>Lin Meimei <span lang="zh">林媚媚</span> (as Zhang Xie), You Tengteng <span lang="zh">由腾腾</span> (as Poorlass, Shenghua)</dd></div>
 <div><dt>Director</dt><dd>Sun Jianghai <span lang="zh">孙江海</span></dd></div>
 <div><dt>Language</dt><dd>Chinese Mandarin</dd></div>
 <div><dt>Duration</dt><dd>120 minutes</dd></div>

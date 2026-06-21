@@ -6,7 +6,7 @@ permalink: /plays/xixiangji/2011-recorded-perf/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
-media_type: 'Yueju <span lang="zh">越剧</span>/Shaoxing Opera'
+media_type: Recording of a Live Performance
 director: 'Wu Chen <span lang="zh">吴琛</span>'
 ---
 

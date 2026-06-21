@@ -39,7 +39,7 @@ layout: default
 
   <div class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
-    {% if page.media_type or page.director %}
+    {% if page.media_type or page.director or page.playwright or page.troupe or page.media_subtype %}
     <div class="module-subtitle">
       {% if page.media_type %}
         {% assign mt = page.media_type %}
@@ -47,8 +47,9 @@ layout: default
         {% elsif mt contains 'Film' %}{% assign media_url = '/media/other-film/' %}
         {% elsif mt contains 'Lianhuanhua' %}{% assign media_url = '/media/lianhuanhua/' %}
         {% elsif mt contains 'Kunqu' or mt contains '昆曲' %}{% assign media_url = '/media/kun-opera/' %}
-        {% elsif mt contains 'TV' or mt contains 'Television' %}{% assign media_url = '/media/television/' %}
-        {% elsif mt contains 'Theater' or mt contains 'Reading' or mt contains 'Staged' %}{% assign media_url = '/media/modern-theater/' %}
+        {% elsif mt contains 'TV' or mt contains 'Television' or mt contains 'Serial' %}{% assign media_url = '/media/television/' %}
+        {% elsif mt contains 'Recording' or mt contains 'Performance' %}{% assign media_url = '/media/recorded-performances/' %}
+        {% elsif mt contains 'Theater' or mt contains 'Reading' or mt contains 'Staged' or mt contains 'Anglophone' %}{% assign media_url = '/media/modern-theater/' %}
         {% elsif mt contains 'Opera' %}{% assign media_url = '/media/recorded-performances/' %}
         {% else %}{% assign media_url = '' %}
         {% endif %}
@@ -56,8 +57,10 @@ layout: default
           {% if media_url != '' %}<a href="{{ media_url | relative_url }}">{{ page.media_type }}</a>{% else %}{{ page.media_type }}{% endif %}
         </p>
       {% endif %}
+      {% if page.media_subtype %}<p class="module-director">{{ page.media_subtype }}</p>{% endif %}
       {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}
       {% if page.playwright %}<p class="module-director"><strong>Playwright:</strong> {{ page.playwright }}</p>{% endif %}
+      {% if page.troupe %}<p class="module-director"><strong>Troupe:</strong> {{ page.troupe }}</p>{% endif %}
     </div>
     {% endif %}
     {{ content }}
