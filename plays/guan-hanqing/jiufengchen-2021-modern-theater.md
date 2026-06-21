@@ -6,13 +6,13 @@ permalink: /plays/guan-hanqing/jiufengchen-2021-modern-theater/
 play_id: guan-hanqing
 play_title: "The Injustice to Dou E and Other Plays by Guan Hanqing"
 banner_image: /assets/images/guan_resourcebanner.png
-media_type: Semi-Staged Reading; Spoken Drama
-director: Anthony Lau
+media_type: Anglophone Spoken Drama
+playwright: Amy Ng
 ---
 
-## Links to the Production
+## Links to the Performance
 
-- [The production on YouTube](https://www.youtube.com/watch?v=M_NHOGEpCVc)
+- The Anglophone play, performed as a semi-staged reading, is streaming on [YouTube](https://www.youtube.com/watch?v=M_NHOGEpCVc).
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_1.jpg" alt="Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.">
@@ -23,16 +23,10 @@ director: Anthony Lau
 <dl>
 <div><dt>Title</dt><dd>Rescuing One's Sister in the Wind and Dust</dd></div>
 <div><dt>Year</dt><dd>2021</dd></div>
-<div><dt>Style</dt><dd>Semi-Staged Reading; Spoken Drama</dd></div>
-<div><dt>Cast</dt><dd>Elizabeth Chan (as Pan'er), Frances Mayli Mccann (as Yinzhang), James Cooney (as Zhou She), Sky Yang (as Scholar An), Lourdes Faberes (as Mother Song/Innkeeper), Kwong Loke (as Judge/Slacker), Crystal Yu (as Ghost), Siu-see Hung (as Ghost), and Jennifer Lim (as Ghost)</dd></div>
-<div><dt>Director</dt><dd>Anthony Lau</dd></div>
-<div><dt>Writer/Adaptor</dt><dd>Amy Ng</dd></div>
-<div><dt>Composer and Sound Designer</dt><dd>Benjamin Grant</dd></div>
-<div><dt>Lighting Designer</dt><dd>Fraser Craig</dd></div>
-<div><dt>Recorder and editor</dt><dd>Robin Fisher</dd></div>
-<div><dt>Venue</dt><dd>Almeida Theatre</dd></div>
-<div><dt>Language</dt><dd>English</dd></div>
-<div><dt>Duration</dt><dd>83 minutes</dd></div>
+<div><dt>Direction</dt><dd>Anthony Lau</dd></div>
+<div><dt>Adaptation</dt><dd>Amy Ng</dd></div>
+<div><dt>Style</dt><dd>Semi-staged reading; spoken drama</dd></div>
+<div><dt>Based on the play by</dt><dd>Guan Hanqing</dd></div>
 </dl>
 </div>
 
