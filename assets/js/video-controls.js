@@ -53,6 +53,8 @@
     var currentAudio = null;
     var lastCueIdx = -1;
 
+    var DUCK_VOLUME = 0.25; // video volume while a description plays
+
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
       lastCueIdx = -1;
@@ -88,7 +90,8 @@
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
       currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=3');
-      video.volume = 0;
+      currentAudio.volume = 1;        // description at full volume
+      video.volume = DUCK_VOLUME;     // duck the film audio underneath it
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
