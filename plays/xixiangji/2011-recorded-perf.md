@@ -178,7 +178,7 @@ When Hongniang and Cui come to the garden, they both comment on the scenery. Whi
 </div>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Jiang, Jiang. *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai*. Seattle: University of Washington Press, 2011.
 - Wang, Shifu. *Jiping jiaozhu Xixiang ji* <span lang="zh">西厢记</span> (The Story of the Western Wing with Collected Annotations and Emendations). Annotated by Wang Jisi <span lang="zh">王季思</span>. Shanghai: Shanghai guji, 1987.
 - Wang, Shifu. *The Story of the Western Wing*. Edited and translated by Stephen H. West and Wilt L. Idema. Berkeley and Los Angeles: University of California Press, 1995.

@@ -187,7 +187,7 @@ Significantly, after taking his bow as the actor at the standing ovation, Zhao Z
 </figure>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Jiang, Jin. *Women Playing Men: Yue Opera and Social Change in Twentieth-Century Shanghai*. Seattle: University of Washington Press, 2011.
 - Li Chenjie <span lang="zh">李晨劼</span>, dir. "Yitan mingliu zhi zhaoshi gu'er" <span lang="zh">艺坛名流之赵氏孤儿</span>, *Cultural Celebrities*, Baishi TV Channel. Bilibili Video, May 30th, 2021. https://www.bilibili.com/video/BV1ry4y1g7Despm_id_from=333.788.videopod.episodes&vd_source=5c5a9c22214b5444dce3315355b092a8&p=2
 - Ni Shenzhen <span lang="zh">倪慎真</span>, dir. "Xingzhe buwang laishi lu: zhao zhigang zhuanfang" <span lang="zh">行者不忘来时路</span>: <span lang="zh">赵志刚专访</span>. *Kevin Hours*, SMG Docu TV Channel, Oct 13th, 2024. https://www.youtube.com/watch?v=QtE3GTOnis8&list=PL9ZfdZUrxXduT-qPY77ya00mzy28_ruKU&index=37

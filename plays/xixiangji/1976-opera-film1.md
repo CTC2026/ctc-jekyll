@@ -176,7 +176,7 @@ In front of Crimson and Student Zhang, Oriole "clarifies" that they are merely b
 The lines of dialogue (*nianbai* <span lang="zh">念白</span>) marked in red are delivered in Oriole's voice. Similar to the previous note, Crimson's imitative mode and impersonation suggest that she continues playing tricks on Student Zhang in order to probe the depths of his feelings for her mistress. She takes advantage of the fact that Student Zhang is so dazed by Oriole's capricious attitude that he has trouble telling the mistress and the maid apart. It also a reflection of Student Zhang's infatuation with Oriole. He always answers "yes" to all the questions from "Oriole" and admits it is all his fault even though we know that is not entirely true. Without Oriole's riddle poem, Student Zhang might not have had the gumption to jump across the wall to meet up with Oriole. Thus rather than being cast as a creepy stalker, Student Zhang is portrayed as a love-addled fool.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor: University of Michigan Press, 2021.
 - Sieber, Patricia. "*The Pavilion of Praying to the Moon* and *The Injustice of Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 74-100. New York: Columbia University Press, 2022.
 - Xing Fan. "Stars on the Rise: The *Jingju* Actresses in Republican China." In *Women in Asian Performance: Aesthetics and Politics*, edited by Arya Madhavan, 70-81. London and New York: Routledge, 2017.

@@ -40,7 +40,7 @@ In terms of a detailed plot summary, in act 1, a relative of the Lady of the Hou
 In modern renditions, many plot elements are thoroughly reworked to craft very different stories.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Sui Shusen <span lang="zh">隋樹森</span>, ed. *Quan Yuan sanqu* <span lang="zh">全元散曲</span> (The Complete Yuan *Sanqu* Songs). rev. ed. 2 vols. Beijing: Zhonghua shuju, 1989.
 - Shih-pe Wang. "Plays Within Songs: *Sanqu* Songs from Literary Refinement (*ya*) to Popular Appeal (*su*)." Trans. Erxin Wang. *The Journal of Chinese Literature and Culture* 8:2 (2021): 307–340.
 - Patricia Sieber. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 78–100. New York: Columbia University Press, 2022.

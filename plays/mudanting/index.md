@@ -39,7 +39,7 @@ It was this feeling of being able to vicariously tap into the surreal and yet pa
 In modern renditions, it is not only the love story that has garnered attention, but many productions on stage, screen, and paper have experimented with media old and new to capture some of the imaginative scope and linguistic daring of the original play.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Ko, Dorothy. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. Stanford, CA: Stanford University Press, 1995.
 - Lam, Lin Hong. "*The Peony Pavilion*: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.
 - Struve, Lynn. *The Dreaming Mind and the End of the Ming World*. Honolulu, HI: University of Hawaii Press, 2019.

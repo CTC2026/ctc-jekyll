@@ -37,7 +37,7 @@ The first extant theatrical rendition of Mulan dates to the Ming dynasty. *The F
 After Xu Wei's put the story of Mulan into the public spotlight, it has been continuously adapted into many artistic and popular genres until the present day, including novels, painting, dramas, movies, and video games. Later renditions retain the basic storyline of Xu Wei's Mulan, but add many other distinctive flourishes to appeal to new audiences.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Epstein, Maram. *Orthodox Passions: Narrating Filial Love During the High Qing*. Cambridge, MA: Harvard University Asia Center, 2019.
 - Fu, Hongchu. "The Cultural Fashioning of Filial Piety: A Reading of 'Xiao Zhangtu' (Little Zhang the Butcher)." *Journal of Song-Yuan Studies*, 29 (1999): 63-89.
 - Kwa, Shiamin. "The Female Mulan Joins the Army in Place of Her Father: Gender and Performance." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 151-167. New York: Columbia University Press, 2022.

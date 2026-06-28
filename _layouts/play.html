@@ -3,15 +3,16 @@ layout: default
 ---
 
 {% if page.banner_image %}
+{% assign banner_key = page.banner_image | split: '/' | last | split: '.' | first %}
 <div class="page-banner">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev{{ page.banner_image }}" alt="" aria-hidden="true" loading="eager" fetchpriority="high">
-  <div class="page-banner-title">{{ page.heading | default: page.title }}</div>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev{{ page.banner_image }}" alt="{{ page.banner_alt | default: site.data.banner_alt[banner_key] | default: page.play_title | escape }}" loading="eager" fetchpriority="high">
+  <h1 class="page-banner-title">{{ page.heading | default: page.title }}</h1>
 </div>
 {% endif %}
 
 <div class="ctc-sidebar-layout">
 
-  <nav class="ctc-sidebar" aria-label="{{ page.play_title }} navigation">
+  <nav class="ctc-sidebar" aria-label="{{ page.play_title | escape }} navigation">
     <ul>
       {% assign nav = site.data.play_nav[page.play_id] %}
       {% for item in nav %}
@@ -37,7 +38,7 @@ layout: default
     </ul>
   </nav>
 
-  <div class="ctc-sidebar-main page-content">
+  <main id="main-content" tabindex="-1" class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
     {% if page.media_type or page.director or page.playwright or page.troupe or page.media_subtype %}
     <div class="module-subtitle">
@@ -64,6 +65,6 @@ layout: default
     </div>
     {% endif %}
     {{ content }}
-  </div>
+  </main>
 
 </div>

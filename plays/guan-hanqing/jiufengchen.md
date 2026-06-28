@@ -89,7 +89,7 @@ By contrast, Zang Maoxun's <span lang="zh">臧懋循</span> (1550-1620) *Select 
 Many of Guan Hanqing's plays have an acutely modern feel to them, perhaps none more so than *Saving a Courtesan*. Yet, despite the obvious resonances with contemporary issues, adapting this particular play has proven to be particularly challenging.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Chen, Tianjun. "Emotion, Money, and Beauty: Variation and Innovation in the Story of Shuan Jian and Su Xiaoqing." *CHINOPERL: Journal of Chinese Oral and Performing Literature* 42: 2 (2023): 99–129.
 - Guan Hanqing <span lang="zh">關漢卿</span>. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing quanji* <span lang="zh">關漢卿全集</span> (The 1615/16 Zang Maoxun/*Select Yuan Plays* edition). Ann. Wang Xueqi <span lang="zh">王學奇</span>. Shijiazhuang: Hebei jiaoyu chubanshe, 1988.
 - -----. "Zhao Pan'er fengyue jiu fengchen" <span lang="zh">趙盼兒風月救風塵</span>. In *Guan Hanqing xiqu ji* <span lang="zh">關漢卿戲曲集</span> (The 1580s Guming jia edition). Ann. Wu Xiaoling <span lang="zh">吳曉鈴</span>. Beijing: Xiju chubanshe, 1958. My translations above refer to this edition.

@@ -237,7 +237,7 @@ The opera film's "gestic" signing illuminates "deaf signing" for a hearing audie
 In line with Hong Kong's increased attention to disability welfare, Lai Heung's introduction into this story invites reflection on deafness and muteness. In a dialogue with the stylized repertoire of Chinese opera, the film's portrayal of sensorial disability endows sign language with the potential for multimodal meaning-making. Through the character of Lai Heung and her community, the opera film tests the expressive spectrum of signing systems and shows how constructing shared repertoires can solve an impossible case. In the film's world, a multilingual chorus consisting of sign language along with the gestic performance of Cantonese opera is able to spell out truth and deliver justice in post-war Hong Kong.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - "Gongou lungaajan zoktin jau lyunfun" <span lang="zh">港澳聾啞人昨天有聯歡</span> (The Deaf and Mute from Hong Kong and Macau Celebrates at a Party Yesterday). *Ta Kung Pao* <span lang="zh">大公報</span>. 26 December 1955: 4.
 - Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and the Early 1960s*. Ann Arbor, MI: University of Michigan Press, 2021.
 - Li, Jia, Jia He, and Gladys Tang. "Investigating Sign Languages in the Chinese Context." In *The Routledge Handbook of Chinese Applied Linguistics*, pp. 747-772. New York: Routledge, 2019.

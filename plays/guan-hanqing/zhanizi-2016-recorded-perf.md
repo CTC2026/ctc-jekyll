@@ -239,7 +239,7 @@ Dignified, defiant, and vengeful are the adjectives that can be used to describe
 </details>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Chen, Xiaomei. *Acting the Right Part: Political Theater and Popular Drama in Contemporary China*. Honolulu: University of Hawaii Press, 2002.
 - Deng Yunjia <span lang="zh">邓运佳</span>, ed. *Chuanju yishu gailun* <span lang="zh">川剧艺术概论</span> (An Overview of the Art of *Chuanju*). Chengdu: Sichuan sheng shehuike xueyuan chubanshe, 1988.
 - Guan Hanqing <span lang="zh">關漢卿</span> (ca.1220s–after 1279) attr. *Zha nizi tiao fengyue* <span lang="zh">詐妮子調風月</span> (A Clever Maid Maneuvers Her Way into Romance). In *Yuankan zaju sanshi zhong* <span lang="zh">元刊雜劇三十種</span> (Thirty Yuan-Printed Plays), *Guben xiqu congkan siji* <span lang="zh">古本戲曲叢刊四集</span>. Shanghai: Commercial Press, 1958.

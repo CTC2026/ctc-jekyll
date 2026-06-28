@@ -169,7 +169,7 @@ The second part of first act of the original *zaju* relays the encounter between
 </details>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s.* Ann Arbor, MI: University of Michigan Press, 2021.
 - Huang, Pi-Twan and Wai-yee Li, trans. *The Zhao Orphan*. In *The Columbia Anthology of Yuan Drama*, edited by C.T. Hsia. Wai-yee Li, and George Kao, 20-55. New York: Columbia University Press, 2014.
 - Wang, Shih-pe. "*The Orphan of Zhao*: The Meaning of Loyalty and Filiality." In *How To Read Chinese Drama: A Guided Anthology,* edited by Patricia Sieber and Regina Llamas, 127-150. New York: Columbia University Press, 2022.

@@ -107,7 +107,7 @@ The conclusion to the film highlights the reactionary brutality of Madam Cui and
 This scene represents the pinnacle of class struggle as a central theme due to the characterizations of Madam Cui and Hongniang as each other's foils. Madam Cui, as the bourgeois oppressor, has a monopoly over violence and gleefully wields it through the stick she beats Hongniang with; but Hongniang, though she does not possess disciplinary power in this situation, is able to use her cunning and sense of justice to defend herself and the young couple, scoring a victory over the feudal system of the time. Hongniang's success in the climax exemplifies an idealized version of a revolutionary, who seizes a moment to dismantle reactionary forces. Hongniang has the last word with some advice for Student Zhang to remain faithful and return in triumph.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Liu, Siyuan. *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*. Ann Arbor, MI: The University of Michigan Press, 2021.
 - Mackerras, Colin. "Chinese Opera after the Cultural Revolution (1970-72)." *The China Quarterly* 55 (1973): 478–510.
 </details>

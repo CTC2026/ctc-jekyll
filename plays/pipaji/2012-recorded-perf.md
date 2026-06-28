@@ -247,7 +247,7 @@ Mother Cai swallows the husks and chokes to death. The death is shown in a sligh
 </div>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Llamas, Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How to Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 171-190. Columbia University Press, 2022.
 - Yip Siu Hing, comp. and Josh Stenberg, ed. *Kunqu Masters on Chinese Theatrical Performance*. London: Anthem Press, 2022.
 - Yip Siu Hing <span lang="zh">葉筆鑫</span>, comp. *Kunqu baizhong Dashi shuoxi* <span lang="zh">崑曲百種大師說戲</span>. 5 vols. Hong Kong: The Masters' Studio Limited, 2013.

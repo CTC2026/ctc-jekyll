@@ -184,7 +184,7 @@ Pan'er astutely sees through the fundamental inequality of the law and thereupon
 The ghosts' helplessness in the court further stresses that courtesans cannot count on romantic love, marriage, or law for protection; only sisterhood can save them. After the case concludes, Yinzhang decides there will be no wedding. The ghosts recite their credo once more to celebrate female friendship, driving home the major theme of the original *zaju* play.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Chow, Broderick D.V. "Here is a Story For Me: Representation and Visibility in *Miss Saigon* and *The Orphan of Zhao*." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 507–516.
 - Fenton, James. *The Orphan of Zhao*. London: Faber & Faber, 2012.
 - Ng, Amy. "Reflections on Adapting Classical Chinese Plays for a Contemporary Western Audience: Adapting Guan Hanqing's *Wind and Dust* for the Royal Shakespeare Company." For the "In Search of the Sayable: Traditional Chinese Plays, Literary Translations and Stage Performances" Conference at Ohio State University, 13–14 May 2023. Unpublished Conference Paper (used with the permission of the author).

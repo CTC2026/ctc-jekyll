@@ -44,7 +44,7 @@ Finally, Chinese theater is known to be sparing in its use of stage design and p
 In modern renditions of *Top Graduate*, these metatheatrical features continue to be of paramount importance.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Du Renjie <span lang="zh">杜仁傑</span>. "'Zhuangjia bushi goulan' <span lang="zh">莊家不識勾欄</span>." In Sui Shusen <span lang="zh">隋樹森</span>, ed. *Quan Yuan sanqu* <span lang="zh">全元散曲</span>, vol. 1, 31-32. Rev. ed. Beijing: Zhonghua, 1989.
 - Llamas Regina. "*Top Graduate Zhang Xie* and *The Lute*: Scholar, Family, and State." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 171-190.
 - Llamas, Regina. "Introduction." In her *Top Graduate Zhang Xie: The Earliest Extant Chinese Southern Play*, 1-88. New York: Columbia University Press, 2021.

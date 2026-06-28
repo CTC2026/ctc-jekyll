@@ -73,7 +73,7 @@ The other major plot modifications concern the character of the maid servant Hon
 At the level of the story, Hongniang's resourcefulness is at the heart of the single most consequential plot change, that is, the switch from the tale's sad to the play's happy ending. At the same time, insofar as the play version of *The Western Wing* channels multiple points of view through the perspective of the different lead singers, Hongniang, as the most mobile character within the play, is the perfect vehicle to broker access to all the characters' experiences and sensibilities. Contrary to what one might expect with the adoption of a monogamous marriage system in the Chinese-speaking world in the twentieth century, many of the modern adaptations discussed below continue to feature Hongniang as the focal point of narrative attention and interest.
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Owen, Stephen, trans. "Ying-ying's Story," in Stephen Owen, ed. and trans., *An Anthology of Chinese Literature: Beginnings to 1911*, 540-549. New York and London: W. W. Norton, 1996.
 - Guan Hanqing <span lang="zh">關漢卿</span>. "Cui Zhang shiliu shi" <span lang="zh">崔張十六事</span> (Sixteen Episodes in the Story of Cui and Zhang). In *Guan Hanqing quanji jiaozhu* <span lang="zh">關漢卿全集校注</span> (The Annotated Complete Works of Guan Hanqing), edited by Wang Xueqi <span lang="zh">王學奇</span>, 735-746. Shijiazhuang: Hebei jiaoyu chubanshe, 1990.
 </details>

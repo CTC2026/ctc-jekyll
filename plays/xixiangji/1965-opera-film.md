@@ -187,7 +187,7 @@ Instead of just providing explanations and offering gentle prodding, Hongniang's
 </div>
 
 <details class="works-consulted" markdown="1">
-<summary>Works Consulted</summary>
+<summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
 - Idema, Wilt. "The Story of the Western Wing: Tale, Ballad, and Play." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 31-51. Columbia University Press, 2022.
 - Liu, Siyuan. "Purifying Theatricality in Performance." In his *Transforming Tradition: The Reform of Chinese Theater in the 1950s and Early 1960s*, 98-156. Ann Arbor: University of Michigan Press, 2021.
 - Sieber, Patricia and Gillian Yanzhuang Zhang. "The Story of the Western Wing: Theater and the Printed Image." In *How To Read Chinese Drama*, edited by Patricia Sieber and Regina Llamas, 101-126. New York: Columbia University Press, 2022.

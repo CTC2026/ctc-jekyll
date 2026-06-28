@@ -94,14 +94,25 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 60px;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  /* min-height (not a fixed height) so enlarged text grows the bar instead of
+     being clipped (1.4.4 Resize Text). */
+  min-height: 60px;
   position: sticky;
   top: 0;
   z-index: 100;
 }
 
 .site-logo { display: flex; align-items: center; gap: 0.6rem; text-decoration: none; }
+/* 1.4.11 — the global a:hover underline rendered a red line (1.9:1) on the dark
+   header; the logo is plainly a link, so suppress the underline here. */
+.site-logo:hover { text-decoration: none; }
 .site-logo img { height: 20px; }
+
+/* 1.4.11 — search glyph drawn as a white-stroked SVG (≈13:1 on the dark header)
+   instead of a low-contrast color emoji. */
+.search-icon { display: block; }
 .site-title-en {
   color: var(--white);
   font-size: 0.78rem;
@@ -112,21 +123,25 @@ header {
   line-height: 1;
 }
 
-nav ul {
+/* These rules are scoped to #main-nav (the header nav). The play/about sidebar
+   is also a <nav>, so an unscoped `nav ul` selector leaked the mobile dropdown
+   styling (absolute position, dark background) onto the sidebar and painted it
+   over the banner. */
+#main-nav ul {
   list-style: none;
   display: flex;
   gap: 0;
 }
 
-nav ul li:nth-last-child(2) {
+#main-nav ul li:nth-last-child(2) {
   margin-left: auto;
 }
 
-nav ul li:last-child {
+#main-nav ul li:last-child {
   margin-left: 0;
 }
 
-nav ul li a {
+#main-nav ul li a {
   color: var(--white);
   padding: 0 1.25rem;
   height: 60px;
@@ -140,13 +155,13 @@ nav ul li a {
   white-space: nowrap;
 }
 
-nav ul li a:hover {
+#main-nav ul li a:hover {
   background: rgba(255,255,255,0.12);
   text-decoration: none;
 }
 
 /* 1.4.1 — active state uses underline, not color alone */
-nav ul li a.active {
+#main-nav ul li a.active {
   background: rgba(255,255,255,0.12);
   border-bottom: 3px solid #FAC53F;
 }
@@ -244,11 +259,14 @@ nav ul li a.active {
   height: auto;
 }
 
+/* page-banner-title is now an <h1> (1.3.1 / 2.4.6); reset heading margins so it
+   keeps sitting flush at the bottom of the banner. */
 .page-banner-title {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
+  margin: 0;
   padding: 3rem 3.5rem 1.2rem;
   background: linear-gradient(transparent, rgba(0,0,0,0.65));
   color: #fff;
@@ -486,7 +504,8 @@ footer {
   margin-top: 4rem;
 }
 
-footer a { color: #ffd966; }
+/* 1.4.1 — underline footer links so they are not distinguished by color alone */
+footer a { color: #ffd966; text-decoration: underline; }
 
 /* ── Mobile nav toggle ── */
 .nav-toggle {
@@ -507,15 +526,17 @@ footer a { color: #ffd966; }
 
 /* ── Responsive ── */
 
-/* Tablet and below: hamburger nav (full nav overflows at these widths) */
-@media (max-width: 1024px) {
+/* Tablet and below: hamburger nav (full nav overflows at these widths).
+   Breakpoint is in em so it also triggers when the user enlarges their browser
+   text — at 200% the desktop nav would otherwise overflow and clip (1.4.4). */
+@media (max-width: 64em) {
   .nav-toggle { display: flex; }
 
-  nav ul {
+  #main-nav ul {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 60px;
+    top: 100%;
     left: 0;
     right: 0;
     background: #2f2d2b;
@@ -523,12 +544,16 @@ footer a { color: #ffd966; }
     padding: 0.5rem 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
-  nav ul.nav-open { display: flex; }
-  nav ul li a { height: auto; padding: 0.8rem 1.5rem; }
+  #main-nav ul.nav-open { display: flex; }
+  #main-nav ul li a { height: auto; padding: 0.8rem 1.5rem; }
+  /* In the stacked dropdown, drop the desktop margin-left:auto that otherwise
+     right-aligns the search/last items. */
+  #main-nav ul li:nth-last-child(2),
+  #main-nav ul li:last-child { margin-left: 0; }
 }
 
 /* Tablet: page banner and float figures */
-@media (max-width: 900px) {
+@media (max-width: 56.25em) {
   .page-banner-title {
     font-size: 1.3rem;
     padding: 2rem 2rem 1rem;
@@ -545,7 +570,7 @@ footer a { color: #ffd966; }
 }
 
 /* Mobile: content and layout adjustments */
-@media (max-width: 768px) {
+@media (max-width: 48em) {
   .home-hero { height: 220px; }
 
   .home-performer { height: 70%; }
@@ -669,10 +694,14 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   text-decoration: none;
 }
 
+/* 1.4.1 — selected state carries a non-color cue (underline) in addition to the
+   colored background and left border. */
 .ctc-sidebar ul li a.sidebar-active {
   color: var(--red);
   border-left-color: var(--red);
   background: rgba(178, 8, 57, 0.07);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .ctc-sidebar > ul > li:first-child > a {
@@ -703,7 +732,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   clear: both;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 48em) {
   .ctc-sidebar-layout { flex-direction: column; }
   .ctc-sidebar {
     position: static;
@@ -897,10 +926,23 @@ details.works-consulted summary {
   font-size: 1rem; font-weight: 700; color: var(--red);
   cursor: pointer; list-style: none; padding: 0.3rem 0; user-select: none;
 }
+/* 1.3.1 / 2.4.6 — the summary label is a real <h2>; render it inline (so the
+   ▶ marker stays beside it) and at the same size as other section h2s, so the
+   programmatic level matches the visual presentation. */
+details.works-consulted summary .works-consulted-heading {
+  display: inline;
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--red);
+}
 details.works-consulted summary::-webkit-details-marker { display: none; }
 details.works-consulted summary::before { content: '▶  '; font-size: 0.7em; }
 details.works-consulted[open] summary::before { content: '▼  '; }
-details.translation summary:focus-visible,
+/* 2.4.7 — details.translation has overflow:hidden (for the rounded corners),
+   which clipped an outset focus ring and left the summary with no visible focus.
+   Draw it inset, in white, so it shows fully against the red summary bar. */
+details.translation summary:focus-visible { outline: 3px solid #fff; outline-offset: -3px; }
 details.works-consulted summary:focus-visible { outline: 3px solid #000; outline-offset: 2px; }
 
 details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
