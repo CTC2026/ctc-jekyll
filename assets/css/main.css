@@ -754,8 +754,9 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   }
   .ctc-sidebar > ul > li { display: inline-flex; align-items: center; }
   .ctc-sidebar > ul > li > a { padding: 0.5rem 0.9rem; font-size: 0.78rem; white-space: nowrap; }
-  /* Hide child sub-nav on mobile — parent link covers it */
-  .sidebar-children { display: none; }
+  /* Hide child sub-nav on mobile — parent link covers it.
+     Scoped to .ctc-sidebar so it outranks `.ctc-sidebar ul { display: block }`. */
+  .ctc-sidebar .sidebar-children { display: none; }
 }
 
 /* ── Module pages (play subpages) ── */
