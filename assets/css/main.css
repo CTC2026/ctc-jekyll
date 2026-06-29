@@ -679,7 +679,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .ctc-sidebar ul li a {
   display: block;
   padding: 0.55rem 0.75rem;
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--text);
   text-decoration: none;
@@ -705,7 +705,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar > ul > li:first-child > a {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-weight: 900;
 }
 
@@ -716,7 +716,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar .sidebar-children li a {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 400;
   padding: 0.25rem 0.75rem 0.25rem 1.5rem;
   border-left-width: 2px;
