@@ -115,7 +115,7 @@ Ask Claude Code to extract the Chinese dialogue lines from the TransChart for th
 
 ```
 Extract the Chinese dialogue lines from the TransChart for Feiyimeng Clip 4.
-Strip speaker labels and stage directions. Split singing verses line by line at punctuation boundaries (，。！？).
+Strip stage directions. Speaker labels are also removed here so the timing pass stays clean — they are required in the final captions and are added back in Part 3, Step 3. Split singing verses line by line at punctuation boundaries (，。！？).
 
 TransChart file: /Users/sophiali/Downloads/ctc-source-materials/Modules, Guan Hanqing/Modules, Feiyimeng Materials/Feiyimeng_1964_OperaFilm Materials/Feiyimeng_1964_OperaFilm_TransCharts.docx
 Clip number: 4
@@ -245,6 +245,15 @@ Output English captions: assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film
 
 These two caption files are the final subtitle products for the clip.
 
+### Step 3 — Add speaker identification and location
+
+MDAS 1.2.2 requires captions to identify **who is speaking** and **where the scene takes place** whenever either changes. The English VTT step above strips speaker labels, so add them back to both caption files (Chinese and English) by hand, using the TransChart as the source.
+
+- **Speaker:** when the speaker changes, prefix the line with the speaker's name and a colon — e.g. `Zhang Peizan: …`, `Xuechun: …`, `Chorus: …`. For sung lines use `Name (singing): …` (中文用 `名 [唱]：…`). Do **not** repeat the label on continuation lines by the same speaker — only at each change.
+- **Location:** when the scene cuts to a new place, insert a short bracketed cue at that moment — e.g. `[Court]` / `[公堂]`, `[Garden]` / `[花園]`. Add one **only when the location changes**; a clip that stays in a single location needs no location cue.
+
+Edit the `_captions_ch.vtt` and `_captions_en.vtt` files directly for this. Do **not** re-run `merge_captions.py` afterwards, or it will overwrite these additions (and the dialogue VTTs it merges from have no speaker labels).
+
 ### Option — Add sound labels manually
 
 Open the VTT file in VS Code and insert sound label blocks by hand. Labels go in square brackets:
@@ -293,6 +302,7 @@ Open the `_audiodesc.vtt` file in VS Code and check:
 - Descriptions should cover important visual actions that happen throughout the clip, including actions that coincide with dialogue — use the TransChart stage directions as the source
 - Verify visual details against the video (costume colours, setting, character names) — do not assume
 - No description should mention what characters are saying
+- When a description cannot sit at the exact moment it describes — because that action happens during dialogue, or the only silence window is before or after it — add a framing phrase so the timing stays clear. For example: `In the last scene, …` for something that already happened, `In the next scene, …` / `In the next scenes, …` for something about to happen, or `Back in the court, …` for a return to an earlier location.
 - Language is concise — each description will be read aloud within its time window at roughly 2.2 words per second; count words before finalising
 
 **Word limit per window**

@@ -89,7 +89,7 @@
       if (activeCueIdx < 0) return;
 
       var n = String(activeCueIdx + 1).padStart(2, '0');
-      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=3');
+      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=4');
       currentAudio.volume = 1;        // description at full volume
       video.volume = DUCK_VOLUME;     // duck the film audio underneath it
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
