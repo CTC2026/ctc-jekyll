@@ -120,6 +120,7 @@ Lin (i.e., Ivy Ling Po) sings the song on his way at night to fetch the gold fro
 
 <details class="translation" markdown="1">
 <summary>Translation notes for Clip 2</summary>
+
 | Chinese Captions | CTC Translation |
 |---|---|
 | [Lin Zhaode walks on forest path. It is dark.] | |
@@ -130,6 +131,7 @@ Lin (i.e., Ivy Ling Po) sings the song on his way at night to fetch the gold fro
 | <span lang="zh">林肇德 [唱]: 眼見園門正半掩，想必是雪春在裡面。</span> | Lin Zhaode (singing): I see that the garden gate is ajar. Xuechun must be inside. |
 | [Lin Zhaode arrives at the garden gate and is about to walk inside, but he notices that no one is there.] | |
 | <span lang="zh">林肇德: 雪春...</span> | Lin Zhaode: Xuechun… (looks around) |
+
 </details>
 
 Set in the woods on a meandering path and composed of shots that alternate between high and eye levels, this scene conveys a sense of visual disorientation. Musically, the song features multiple prolonged notes without breath breaks. The word <span lang="zh">心寒</span> (*xinhan*), for instance, could either express that one is "cold-hearted" due to a heartbreak, or is deeply scared that even one's heart shivers in chill. The protracted note for <span lang="zh">寒</span> (han) conveys a sense of being unfinished. It not only adds to the scene an air of suspense, but most importantly, it externalizes Lin's psychological struggle with that suspense: his attribution of this apprehension to his indebtedness to Qianjin. Naturally, then, follows his next line: "The gift of money from a beautiful lady is so affectionate, it makes me feel both ashamed of myself and fond of her." Chiaroscuro lighting adds a moody atmosphere to Lin's dramatic monologue.
@@ -163,6 +165,7 @@ By contrast, the Huangmei opera film does not distinguish between different sing
 
 <details class="translation" markdown="1">
 <summary>Translation notes for Clip 3</summary>
+
 | Chinese Captions | CTC Translation |
 |---|---|
 | [A female ghost appears and corners Zhang Peizan.] | |
@@ -179,6 +182,7 @@ By contrast, the Huangmei opera film does not distinguish between different sing
 | <span lang="zh">女鬼: 快説。兇刀在什麼地方？説。</span> | The female ghost: (chases Zhang in circles) Speak quickly. Where is the murder weapon? Speak! |
 | <span lang="zh">張培贊 [唱]: 藏在馬棚橫梁上。</span> | Zhang Peizan (singing): It's hidden on the beam of the stable. |
 | [Judge Bao appears from the sunroof and laughs. The female ghost reveals herself to be Qianjin. Zhang Peizan faints.] | |
+
 </details>
 
 ### The Scene of Denouement (1:11:40–1:14:06)
@@ -211,6 +215,7 @@ True to the plot formula of film noir, near its end, the film depicts a scene of
 
 <details class="translation" markdown="1">
 <summary>Translation notes for Clip 4</summary>
+
 | Chinese Captions | CTC Translation |
 |---|---|
 | [The murderer Zhang Peizan starts to state his crime in court.] | |
@@ -229,6 +234,7 @@ True to the plot formula of film noir, near its end, the film depicts a scene of
 | <span lang="zh">雪春: 救命啊!</span> | Xuechun: Help! |
 | [The flashback ends and the film cuts back to the court.] | |
 | <span lang="zh">張培贊: 我剛藏好兇刀和金子，就看見姑爺來了，就做了我的替死鬼了。</span> | Zhang Peizan: I saw Lin coming over just when I managed to hide the knife and the gold. So, he became my scapegoat! |
+
 </details>
 
 ## Conclusion
