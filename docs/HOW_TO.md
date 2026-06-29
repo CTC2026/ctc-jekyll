@@ -695,6 +695,8 @@ Place the `_4k` video file in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]
 
 > Video files processed with Topaz are named with a `_4k` suffix (e.g. `Feiyimeng_1964_OperaFilm_Clip_4_4k.mp4`). Always use the `_4k` version, not the original source file.
 
+> **Before upscaling a clip, always look for a clearer source first.** Search for a higher-quality version of the same scene (a better YouTube/Bilibili upload, an official restoration, a Blu-ray/DVD rip); a genuinely higher-resolution source beats an upscaled low-resolution one. Only upscale when no clearer source exists. See the [Topaz upscaling guide](HOW_TO_topaz_upscaling.md) for details.
+
 #### 6b — Upload to R2
 
 **Preferred: ask Claude Code to do the upload for you**

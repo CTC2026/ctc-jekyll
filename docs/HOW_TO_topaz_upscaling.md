@@ -13,6 +13,8 @@ Use Topaz when a video clip:
 
 You do **not** need to upscale clips that are already clear and high-resolution.
 
+> **Always look for a clearer source first — upscaling is a last resort.** Before upscaling, search for a higher-quality version of the same clip (a better YouTube or Bilibili upload, an official restoration, a Blu-ray/DVD rip, etc.). A genuinely higher-resolution source always looks better than an upscaled low-resolution one. Only upscale when no clearer source can be found.
+
 ---
 
 ## The Workflow
@@ -37,6 +39,8 @@ Original raw clip    →   Upscale & export         Save [Name]_2x.mp4   →   U
 ---
 
 ## Step 2 — Get the source clip
+
+**First, check whether a clearer version of the clip exists.** Before importing anything into Topaz, search online and across the available sources for a higher-quality version of the same scene — for example a higher-resolution or remastered upload on YouTube or Bilibili, an official restoration, or a Blu-ray/DVD source. If you find a clearer source, download and use it instead — and update the clip's source link on the page accordingly. Only continue with upscaling when no clearer source is available.
 
 The source clip can come from either place:
 
