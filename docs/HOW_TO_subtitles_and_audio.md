@@ -326,14 +326,28 @@ Output folder: assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/
 
 This writes `cue_01.mp3`, `cue_02.mp3`, … into the clip subfolder. Listen to each file and check that the reading pace fits within the VTT time window.
 
+### Boost the loudness (required)
+
+OpenAI TTS output is quiet (around -29 dB mean), and the player **ducks** the film audio under the description rather than muting it (see `assets/js/video-controls.js`), so a raw description is hard to hear over the opera music. Normalise every MP3 to about -14 LUFS before uploading — skip this and the descriptions come out too quiet:
+
+```bash
+for f in <output_folder>/cue_*.mp3; do
+  tmp="/tmp/$(basename "$f")"
+  ffmpeg -y -i "$f" -af "loudnorm=I=-14:TP=-1.0:LRA=11" -ar 24000 "$tmp" && mv "$tmp" "$f"
+done
+```
+
+`loudnorm` changes only the level, not the duration, so the cue timings stay valid. (Or just ask Claude Code: "boost the AD MP3s to -14 LUFS with loudnorm.") Confirm afterwards with `ffmpeg -i cue_01.mp3 -af volumedetect -f null /dev/null` — mean volume should be roughly -15 dB.
+
 ### Upload MP3s to Cloudflare R2
 
-MP3 files are too large for GitHub — ask Claude Code to upload them:
+MP3 files are too large for GitHub, so they live on Cloudflare R2 (bucket `ctc-media`). The R2 key must match `data-ad-mp3-base` on the `<video>`, which for this clip is `guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip4/` — **not** the local `assets/subtitles/...` path. Run the helper (wrangler reads the token from the gitignored `.env`):
 
+```bash
+bash upload_ad_to_r2.sh
 ```
-Upload all cue_*.mp3 files in assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/
-to Cloudflare R2 at ctc-media/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_4/.
-```
+
+It uploads each `cue_NN.mp3` to `ctc-media/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clipN/` and deletes any leftover cues from an earlier, longer version. After uploading, bump the `?v=` cache-buster in `video-controls.js` (e.g. `?v=4` → `?v=5`) so browsers fetch the new audio.
 
 ---
 
