@@ -657,7 +657,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar {
-  flex: 0 0 165px;
+  flex: 0 0 220px;
   background: #f7f3ee;
   border-right: 1px solid #ddd;
   padding: 6.2rem 0 3rem;
