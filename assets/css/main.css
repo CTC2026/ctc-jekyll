@@ -605,9 +605,6 @@ footer a { color: #ffd966; text-decoration: underline; }
   /* Subtitle controls: wrap on small screens */
   .subtitle-controls { flex-wrap: wrap; }
 
-  /* Module info: tighten spacing */
-  .module-info { font-size: 0.85rem; }
-
   /* Clip sections: tighten padding */
   .clip-section { padding: 0.75rem 1rem; }
 
@@ -667,7 +664,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar {
-  flex: 0 0 250px;
+  flex: 0 0 280px;
   background: #f7f3ee;
   border-right: 1px solid #ddd;
   padding: 3rem 0;
@@ -689,12 +686,12 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .ctc-sidebar ul li a {
   display: block;
   padding: 0.6rem 0.75rem;
-  font-size: 1.1rem;
   font-weight: 700;
   color: var(--text);
   text-decoration: none;
   line-height: 1.55;
   white-space: nowrap;
+  font-size: 1.2rem;
   border-left: 3px solid transparent;
   transition: background 0.15s, color 0.15s;
 }
@@ -716,7 +713,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar > ul > li:first-child > a {
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   font-weight: 900;
 }
 
@@ -727,7 +724,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar .sidebar-children li a {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 400;
   padding: 0.5rem 0.75rem 0.5rem 1.5rem;
   border-left-width: 2px;
@@ -830,8 +827,8 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 .module-info {
   margin: 0 0 2rem;
-  font-size: 0.88rem;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: 1.75;
 }
 /* "Information" is now a real <h2> inside .module-info (was a CSS ::before
    pseudo-heading, which is a visual heading with no programmatic equivalent). */
@@ -955,7 +952,7 @@ details.translation summary:focus-visible { outline: 3px solid #fff; outline-off
 details.works-consulted summary:focus-visible { outline: 3px solid #000; outline-offset: 2px; }
 
 details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
-details.works-consulted li { font-size: 0.85rem; margin-bottom: 0.6rem; line-height: 1.55; }
+details.works-consulted li { font-size: 1rem; margin-bottom: 0.6rem; line-height: 1.55; }
 
 .module-authors { margin-top: 2rem; font-size: 0.85rem; color: #595959; border-top: 1px solid #ddd; padding-top: 0.8rem; }
 
