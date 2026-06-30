@@ -11,6 +11,7 @@ director: 'Yueh Feng (Griffin Yueh) <span lang="zh">岳楓</span>'
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd><em>West Chamber</em> <span lang="zh">西廂記</span></dd></div>
 <div><dt>Year</dt><dd>1965</dd></div>

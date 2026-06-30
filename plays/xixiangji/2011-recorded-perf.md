@@ -11,6 +11,7 @@ director: 'Wu Chen <span lang="zh">吴琛</span>'
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>The Story of the Western Wing <span lang="zh">西厢记</span></dd></div>
 <div><dt>Year</dt><dd>2011</dd></div>

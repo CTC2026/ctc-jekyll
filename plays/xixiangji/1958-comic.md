@@ -10,6 +10,7 @@ media_type: Comic Book (Lianhuanhua)
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>The Western Wing <span lang="zh">西厢记</span></dd></div>
 <div><dt>Year</dt><dd>1958 [Reissued 1980]</dd></div>

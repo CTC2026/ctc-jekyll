@@ -20,6 +20,7 @@ playwright: Amy Ng
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>Rescuing One's Sister in the Wind and Dust</dd></div>
 <div><dt>Year</dt><dd>2021</dd></div>

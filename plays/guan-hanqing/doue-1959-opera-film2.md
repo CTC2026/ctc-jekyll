@@ -20,6 +20,7 @@ director: 'Zhang Xinshi <span lang="zh">張辛實</span>'
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Name</dt><dd><em>The Injustice to Dou E / Dou E Yuan</em> <span lang="zh">窦娥冤</span></dd></div>
 <div><dt>Year</dt><dd>1959</dd></div>

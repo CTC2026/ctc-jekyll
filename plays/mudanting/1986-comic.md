@@ -10,6 +10,7 @@ media_type: Lianhuanhua (Narrative Comics)
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>The Peony Pavilion <span lang="zh">牡丹亭</span></dd></div>
 <div><dt>Year</dt><dd>1986</dd></div>

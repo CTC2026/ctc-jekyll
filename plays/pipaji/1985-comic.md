@@ -19,6 +19,7 @@ media_type: Lianhuanhua (Narrative Comics)
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>"The Lute" <span lang="zh">琵琶记</span></dd></div>
 <div><dt>Year</dt><dd>1985</dd></div>

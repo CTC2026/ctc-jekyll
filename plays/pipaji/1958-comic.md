@@ -10,6 +10,7 @@ media_type: Lianhuanhua (Narrative Comics)
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>Lianhuanhua New Year's Print of The Lute <span lang="zh">年画连环画琵琶记</span></dd></div>
 <div><dt>Year</dt><dd>1958</dd></div>

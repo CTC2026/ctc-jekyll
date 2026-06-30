@@ -21,6 +21,7 @@ director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd><em>The Orphan of Zhao</em> (<em>Zhao shi gu'er</em> <span lang="zh">赵氏孤儿</span>)</dd></div>
 <div><dt>Year</dt><dd>2005</dd></div>

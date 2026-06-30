@@ -15,6 +15,7 @@ troupe: 'Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span>'
 - A video of the performance with Mandarin Chinese subtitles.
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>Top Graduate Zhang Xie <span lang="zh">張協狀元</span></dd></div>
 <div><dt>Year</dt><dd>2017</dd></div>

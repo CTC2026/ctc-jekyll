@@ -20,6 +20,7 @@ director: 'Lee Tit <span lang="zh">李鐵</span>'
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>Snow in June <span lang="zh">六月雪</span></dd></div>
 <div><dt>Year</dt><dd>1959</dd></div>

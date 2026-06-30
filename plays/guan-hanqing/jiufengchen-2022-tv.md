@@ -20,6 +20,7 @@ director: 'Yang Yang <span lang="zh">杨阳</span>'
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>A Dream of Splendor <span lang="zh">梦华录</span></dd></div>
 <div><dt>Year</dt><dd>2022</dd></div>

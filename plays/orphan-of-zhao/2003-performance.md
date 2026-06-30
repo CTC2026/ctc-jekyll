@@ -17,6 +17,7 @@ media_type: 'Beijing Opera <span lang="zh">京剧</span>'
 ## Links To The Recording
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd><em>The Orphan of Zhao</em> (<em>Zhao shi gu'er</em> <span lang="zh">赵氏孤儿</span>)</dd></div>
 <div><dt>Year</dt><dd>2003</dd></div>

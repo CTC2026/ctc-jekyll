@@ -10,6 +10,7 @@ media_type: Woodblock Prints
 ---
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>The Story of the Western Wing <span lang="zh">西廂記</span></dd></div>
 <div><dt>Publisher</dt><dd>Min Qiji <span lang="zh">閔薺伋</span> (1580–after 1661)</dd></div>

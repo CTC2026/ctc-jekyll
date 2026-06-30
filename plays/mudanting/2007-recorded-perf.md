@@ -20,6 +20,7 @@ media_subtype: Youth Edition
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd>The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span></dd></div>
 <div><dt>Year</dt><dd>2007</dd></div>

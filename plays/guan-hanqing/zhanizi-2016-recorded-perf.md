@@ -24,6 +24,7 @@ The *Chuanju* High-Pitch Adaptation Yanyan <span lang="zh">川剧高腔 《燕�
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Production</dt><dd>Sichuan Drama Theater in Chengdu <span lang="zh">成都市川剧院</span></dd></div>
 <div><dt>Publisher</dt><dd>Emei Film Studio Audio and Video Publishing House <span lang="zh">峨眉电影制片厂音像出版社</span></dd></div>

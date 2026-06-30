@@ -21,6 +21,7 @@ director: '<span lang="zh">岳楓</span> (Yueh Feng)'
 </figure>
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Name</dt><dd>The Lady General Hua Mulan <span lang="zh">花木蘭</span></dd></div>
 <div><dt>Year</dt><dd>1964</dd></div>

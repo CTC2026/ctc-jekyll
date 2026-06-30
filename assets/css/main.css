@@ -833,13 +833,10 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   font-size: 0.88rem;
   line-height: 1.6;
 }
-.module-info::before {
-  content: "Information";
-  display: block;
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: var(--red);
-  line-height: 1.2;
+/* "Information" is now a real <h2> inside .module-info (was a CSS ::before
+   pseudo-heading, which is a visual heading with no programmatic equivalent). */
+.module-info > h2 {
+  font-size: 1.35rem;
   margin-top: 2.5rem;
   margin-bottom: 1rem;
 }

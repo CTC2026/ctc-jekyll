@@ -16,6 +16,7 @@ director: 'Liu Guoquan <span lang="zh">劉國權</span>, Zhang Xinshi <span lang
 - [The film with Chinese subtitles (for dialogue and songs) on bilibili.](https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1)
 
 <div class="module-info">
+<h2>Information</h2>
 <dl>
 <div><dt>Name</dt><dd>Hua Mulan <span lang="zh">花木蘭</span></dd></div>
 <div><dt>Year</dt><dd>1956</dd></div>
