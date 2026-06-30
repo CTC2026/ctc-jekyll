@@ -68,21 +68,21 @@ In all the scenes below, it is evident that San-niang has a significant role in 
 In this scene, Pan'er runs into Zhou She and pretends to be delighted by his presence. She then asks him if he has already married Song Yinzhang. When he responds in the affirmative, she acts hurt by his decision. That is when Sun San-niang steps in and yells that Zhou She left Pan'er to marry her best friend, Yinzhang. Although this is not true, this simple outburst launches the sisters' plan to rescue Yinzhang. Sun San-niang's statement shows that Pan'er is interested in Zhou She. After the sisters walk away and step into their carriage, the pretend act is over, and Pan'er is seething with rage. Her facial expression does a complete turnabout; in the confined quarters of her carriage, she is free to vent her true feelings about Zhou She. Zhou She does not know that he is being tricked but the audience knows he is no match for the sworn sisters' elaborate scheme.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_2.png" alt="Pan'er and San-niang confront Zhou She. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_2.png" alt="Pan'er in pink faces Zhou She from behind while San-niang in blue watches in an outdoor courtyard.">
   <figcaption><strong>Fig. 2.</strong> Pan'er and San-niang confront Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 In Fig. 3, the main focus is on San-niang as she is the speaker in that scene, but both Pan'er and Zhou She are visible in the frame. Although the audience only sees the shoulder of Zhou She and the back of Pan'er, San-niang occupies the middle position. San-niang's physical position in this shot establishes her place in the scheme: the intermediary. Furthermore, her interaction with Zhou She amplifies Pan'er's feelings because she steps in to reiterate that Pan'er is hurt by Zhou She's decision to marry Yinzhang. San-niang recounting Zhao's experience as an outsider to Zhou She make Pan'er's reactions seem genuine and authentic. San-niang adds a third perspective to the pair, while her input propels the plan forward.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_3.png" alt="San-niang as intermediary between Pan'er and Zhou She. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_3.png" alt="San-niang in blue stands between Zhou She on the left and Pan'er in center, facing the camera.">
   <figcaption><strong>Fig. 3.</strong> San-niang as intermediary between Pan'er and Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
 Likewise, in Fig. 4, the main focus is again on Pan'er. San-niang is sitting to the side of Pan'er, giving the audience a side view of San-niang. Yet, there is space to the left of Pan'er but San-niang is positioned to the right instead. If San-niang was sitting on Pan'er's left, the two sisters would occupy equal positions but instead the focus remains on Pan'er. San-niang's position, not only in Fig. 4 but in Fig. 3 as well, is literally and figuratively secondary to Pan'er.
 
-<figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png" alt="Pan'er in the carriage revealing her true feelings. Source: A Dream of Splendor (2022).">
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png" alt="Pan'er in pink faces the camera in a traditional interior; San-niang in blue sits beside her in profile.">
   <figcaption><strong>Fig. 4.</strong> Pan'er in the carriage revealing her true feelings. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
@@ -90,13 +90,13 @@ Likewise, in Fig. 4, the main focus is again on Pan'er. San-niang is sitting to 
 
 In this scene, Zhou She comes to Zhao Pan'er's home. Prior to his entrance, Pan'er and San-niang exchange glances as a way of saying, "It's showtime." The actions and exchanges between the sisters prior to Zhou She entering the room is an example of dramatic irony because the sisters are explicitly preparing themselves to create a performance. The audience is thus privy to their act, while Zhou She is not. Once he comes in, Pan'er acts angry and demands that Zhou She tell her why he picked Song Yinzhang over her. This is obviously part of the plan but when the camera pans to Zhou She and San-niang, they both seem surprised. Later, while Pan'er continues her performance, the camera cuts to a close-up of San-niang subtly giggling at her sworn sister's dramatic performance. In this scene, Pan'er is the one to put on an elaborate and over-the-top act, but it is San-niang who opens the door and tells Zhou She in no uncertain terms to leave. In this way, San-niang's continuous coldness towards Zhou She makes it seem as though she is angry at Zhou She for his negligence of Pan'er. Thus, her short but meaningful interactions with Zhou She make Pan'er's act of the lovelorn woman believable. Moreover, the editing of San-niang also plays into the dramatic irony of the situation. It is evident that the main interactions are between Zhou She and Pan'er, as the editing style continuously shows the pair together on screen, occasionally showing a close-up of one of them when they speak. By contrast, more often than not, San-niang is shown in a single shot by herself.
 
-<figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_5.png" alt="Pan'er and San-niang exchange glances. Source: A Dream of Splendor (2022).">
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_5.png" alt="Close-up of San-niang in light blue with a pink hair ornament, glancing sideways.">
   <figcaption><strong>Fig. 5.</strong> Pan'er and San-niang exchange glances. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
-<figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_6.png" alt="Pan'er and Zhou She with San-niang at a distance. Source: A Dream of Splendor (2022).">
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_6.png" alt="San-niang in white stands alone in the foreground as Pan'er and Zhou She embrace on a balcony behind her.">
   <figcaption><strong>Fig. 6.</strong> Pan'er and Zhou She with San-niang at a distance. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
@@ -136,8 +136,8 @@ In this scene, Zhou She comes to Zhao Pan'er's home. Prior to his entrance, Pan'
 
 In Fig. 6, though Pan'er and Zhou She are in the distance, though at a remove from the camera, are still the focal point of the shot, a position underscored by the lighting. San-niang is positioned to the left of the couple and is cast in dark lighting. Similarly, at a symbolic level, the same holds true for the sisters' roles in the scheme. Pan'er does most of the outward performance, but San-niang's constant onlooker perspective allows her to both observe the interactions as well as step in when necessary to move the scheme along. Typically, her facial expressions go unnoticed by the pair because she is at a distance, but can be seen by the audience. Shots of San-niang unconsciously smirking, snickering, or laughing keep the irony of situation alive. Each cut to her reactions comically entertains and reminds the audience that everything Pan'er does is a part of a bigger plan.
 
-<figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_7.png" alt="Close-up of San-niang's reactions. Source: A Dream of Splendor (2022).">
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_7.png" alt="Close-up of San-niang with a knowing smile in a warmly lit interior.">
   <figcaption><strong>Fig. 7.</strong> Close-up of San-niang's reactions. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
 </figure>
 
