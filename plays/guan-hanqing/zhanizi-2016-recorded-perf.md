@@ -252,4 +252,5 @@ Dignified, defiant, and vengeful are the adjectives that can be used to describe
 - Zhang Chuanfang <span lang="zh">张传方</span>. "Tan 'San ge yatou de mingyun de wutai sheji'" <span lang="zh">谈</span>《<span lang="zh">三个丫头的命运</span>》<span lang="zh">的舞台设计</span> (A Discussion of the Stage Design for the Final Fate of Three Servants). *Sichuan xiju* <span lang="zh">四川戏剧</span>, 4 (1990): 41–43.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://www.linkedin.com/in/francesco-papani-0829612a1/">Francesco Papani</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://www.linkedin.com/in/francesco-papani-0829612a1/">Francesco Papani</a></p>

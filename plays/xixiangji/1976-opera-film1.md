@@ -183,4 +183,5 @@ The lines of dialogue (*nianbai* <span lang="zh">念白</span>) marked in red ar
 - Xing Fan. "Stars on the Rise: The *Jingju* Actresses in Republican China." In *Women in Asian Performance: Aesthetics and Politics*, edited by Arya Madhavan, 70-81. London and New York: Routledge, 2017.
 </details>
 
-<p class="module-authors"><strong>Authors:</strong> <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a> and <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Authors</h2>
+<p class="module-authors"><a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a> and <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

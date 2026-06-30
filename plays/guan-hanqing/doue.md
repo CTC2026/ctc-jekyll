@@ -48,4 +48,5 @@ Thus, in accordance with the readings presented above and as exemplified by othe
 - -----. "*The Thorn Hairpin*." In *Routledge Handbook of Traditional Chinese Literature*, edited by Victor H. Mair and Zhenjun Zhang, 452-58. New York: Routledge, 2025.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

@@ -45,4 +45,5 @@ After Xu Wei's put the story of Mulan into the public spotlight, it has been con
 - Yu, Jimmy Yung Fung. *Sanctity and Self-Inflicted Violence in Chinese Religions, 1500-1700*. New York: Oxford University Press, 2012.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

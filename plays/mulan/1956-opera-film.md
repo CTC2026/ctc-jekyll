@@ -140,4 +140,5 @@ During Mulan's service in the army, the change of voice is done in a subtle way;
 - "Yuju Hua Mulan juben" <span lang="zh">豫剧</span>《<span lang="zh">花木兰</span>》<span lang="zh">剧本</span> (The Script of the Yu Opera Hua Mulan). Jianpuwang. Accessed August 10, 2023. http://www.jianpuw.com/htm/qv/58010.htm.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>

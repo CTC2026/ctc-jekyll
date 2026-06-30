@@ -102,4 +102,5 @@ Many of Guan Hanqing's plays have an acutely modern feel to them, perhaps none m
 - Xia Tingzhi <span lang="zh">夏庭芝</span>. *Qinglou ji jianzhu* <span lang="zh">青樓集箋注</span>. Ann. Sun Chongtao <span lang="zh">孫崇涛</span> and Xu Hongtu <span lang="zh">徐宏圖</span>. Beijing: Zhongguo xiju chubanshe, 1990.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

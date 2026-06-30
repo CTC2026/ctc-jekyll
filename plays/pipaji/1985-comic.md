@@ -222,4 +222,5 @@ In the image, the arc of Miss Niu's extended hand matches the sweep of the flowe
 
 Cai Yong sits alone, still stooped over, in the center of the panel. Another rock formation fills the righthand side of the frame. It is menacing, threatening to swallow the pavilion whole. Only a few of the lotus flowers that had danced so gaily a page earlier remain visible. They are on the left of the panel, but just like they were unable to lift Cai Yong's spirits, they are too slight in stature to visually balance the rock formation. A tormented sorrow overwhelms both the character and the page.
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>

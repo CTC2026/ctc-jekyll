@@ -246,4 +246,5 @@ In line with Hong Kong's increased attention to disability welfare, Lai Heung's 
 - Sze, Felix, Connie Lo, Lisa Lo, and Kenny Chu. "Historical Development of Hong Kong Sign Language." *Sign Language Studies* 13, no. 2 (2013): 155-185.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://ealc.uchicago.edu/people/ka-kei-lau">Ka Kei Lau</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://ealc.uchicago.edu/people/ka-kei-lau">Ka Kei Lau</a></p>

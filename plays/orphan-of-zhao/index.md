@@ -61,4 +61,5 @@ After the founding of the People's Republic of China in 1949, methods more commo
 - Xu Jinwen <span lang="zh">徐錦文</span>. *Jingju Dong Huang: Zhongguo diyi nu laosheng* <span lang="zh">京劇冬皇</span>：<span lang="zh">中國第一女老生</span> (Queen Dong of Beijing Opera: China\'s First Female Performer of the Senior Male Role). Changsha: Hunan shifan daxue, 2011.
 </details>
 
-<p class="module-authors"><strong>Authors:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a> and <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a></p>
+<h2>Authors</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a> and <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a></p>

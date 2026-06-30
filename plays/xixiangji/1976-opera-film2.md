@@ -113,4 +113,5 @@ This scene represents the pinnacle of class struggle as a central theme due to t
 - Mackerras, Colin. "Chinese Opera after the Cultural Revolution (1970-72)." *The China Quarterly* 55 (1973): 478–510.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://www.linkedin.com/in/olivia-bobak/">Olivia Bobak</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://www.linkedin.com/in/olivia-bobak/">Olivia Bobak</a></p>

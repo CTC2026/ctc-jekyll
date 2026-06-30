@@ -50,4 +50,5 @@ The play is also remarkable for the female solidarity that characterizes the bon
 - Mulligan, Jean, intro. and trans. *The Lute: Kao Ming's P'i-p'a chi*. New York: Columbia University Press, 1980.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

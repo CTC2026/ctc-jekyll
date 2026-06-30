@@ -88,4 +88,5 @@ In the twenty-first century, Guan Hanqing's oeuvre has also entered feminist dis
 - Zhong Sicheng <span lang="zh">鍾嗣成</span>. *Jiaoding Luguibu sanzhong* <span lang="zh">校訂錄鬼簿三種</span> (Three Annotated Editions of *The Register of Ghosts*). Ed. Wang Gang <span lang="zh">王鋼</span>. Zhengzhou: Zhongzhou guji chubanshe, 1991.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

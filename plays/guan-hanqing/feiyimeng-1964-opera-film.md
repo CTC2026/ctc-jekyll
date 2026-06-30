@@ -250,4 +250,5 @@ Post-war Hong Kong cinema was full of ghost stories that used phantoms to explor
 - Yau, Esther C. M., and Tony Williams. "Introduction: Hong Kong Neo-Noir." In *Hong Kong Neo-Noir*, edited by Esther C. M. Yau and Tony Williams, 1–10. United Kingdom: Edinburgh University Press, 2017. http://www.jstor.org/stable/10.3366/j.ctt1g051jk.6.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://cla.umn.edu/about/directory/profile/yao00225">Kaixuan Yao</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://cla.umn.edu/about/directory/profile/yao00225">Kaixuan Yao</a></p>

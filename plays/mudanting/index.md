@@ -46,4 +46,5 @@ In modern renditions, it is not only the love story that has garnered attention,
 - Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on *The Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

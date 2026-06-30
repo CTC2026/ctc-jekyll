@@ -191,4 +191,5 @@ In conclusion, San-niang's character represents the idea that there are other wo
 - Tang Tang <span lang="zh">唐唐</span> and Bao Ye <span lang="zh">炮爷</span>. "Weishenme hui bei ma?" <span lang="zh">为什么会被骂</span> (Why Is it Being Criticized). *Weixin* <span lang="zh">微信</span> (WeChat). June 8, 2022. Accessed January 21, 2025.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://easc.osu.edu/people/eggens.1">Savanna Eggens</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/eggens.1">Savanna Eggens</a></p>

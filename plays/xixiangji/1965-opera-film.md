@@ -195,4 +195,5 @@ Instead of just providing explanations and offering gentle prodding, Hongniang's
 - Wang, Shi-fu. *The Story of the Western Wing*, edited and translated with an introduction by Stephen H. West and Wilt L. Idema. Berkeley and Los Angeles: University of California Press, 1995.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://fass.nus.edu.sg/cs/people/wang-erxin-%E7%8E%8B%E5%B0%94%E9%A6%A8/">Erxin Wang</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://fass.nus.edu.sg/cs/people/wang-erxin-%E7%8E%8B%E5%B0%94%E9%A6%A8/">Erxin Wang</a></p>

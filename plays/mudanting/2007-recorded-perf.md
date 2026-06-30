@@ -281,4 +281,5 @@ The two major characters, Du Liniang and Liu Mengmei, also engage in joint chora
 - Zhou, Wei. "A Peony Transplanted: Pai Hsien-yung and the Preservation of Chinese Kunqu." PhD Dissertation. University of Edinburgh, 2011.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>

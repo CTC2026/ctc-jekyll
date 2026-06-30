@@ -185,4 +185,5 @@ When Hongniang and Cui come to the garden, they both comment on the scenery. Whi
 - Wang, Shifu. *The Story of the Western Wing*. Edited and translated by Stephen H. West and Wilt L. Idema. Berkeley and Los Angeles: University of California Press, 1995.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://ealc.indiana.edu/people/ye-xuan.html">Xuan Ye</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://ealc.indiana.edu/people/ye-xuan.html">Xuan Ye</a></p>

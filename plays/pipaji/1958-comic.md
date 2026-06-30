@@ -173,4 +173,5 @@ This final panel thus works to overcome the *nianhua*'s two layers of inauspicio
 - Zhou, Chujiang <span lang="zh">周楚江</span>. "Shanghai meishu zhuanke xuexiao koushu shi zhi er" <span lang="zh">上海美术专科学校口述史之二</span> (Shanghai University Fine Arts College Oral History, No. 2). *Shanghai dansan* <span lang="zh">上海档案</span> (Shanghai Archives). Accessed June 12, 2023. https://www.archives.sh.cn/datd/slyj/ksls/202209/t20220923_66721.html
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>

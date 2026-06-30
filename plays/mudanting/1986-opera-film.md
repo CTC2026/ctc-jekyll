@@ -167,4 +167,5 @@ Like most forms of Chinese theater, Kunqu recounts famous stories and their emot
 - ---. "*Mudanting: Lihun*" <span lang="zh">牡丹亭：离魂</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 159-173. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://www.linkedin.com/in/jason-pang-wang/">Jason Wang</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://www.linkedin.com/in/jason-pang-wang/">Jason Wang</a></p>

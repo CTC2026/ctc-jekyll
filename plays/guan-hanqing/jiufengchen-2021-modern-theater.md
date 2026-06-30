@@ -194,4 +194,5 @@ The ghosts' helplessness in the court further stresses that courtesans cannot co
 - Rogers, Amanda and Ashley Thorpe. "A Controversial Company: Debating the Casting of the RSC's *The Orphan of Zhao*." *Contemporary Theatre Review* Vol. 24, No. 4 (2014): 428–435.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://www.cmlt.uga.edu/directory/people/wenbo-chang">Wenbo Chang</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://www.cmlt.uga.edu/directory/people/wenbo-chang">Wenbo Chang</a></p>

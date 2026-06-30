@@ -126,4 +126,5 @@ The final print depicts Scholar Zhang "returning home in glory" (*yijin huanxian
 - Wu Hung. *The Double Screen: Medium and Representation in Chinese Painting*. Chicago: University of Chicago Press, 1996.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://www.scrippscollege.edu/offices/profile/patricia-yu">Patricia J. Yu</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://www.scrippscollege.edu/offices/profile/patricia-yu">Patricia J. Yu</a></p>

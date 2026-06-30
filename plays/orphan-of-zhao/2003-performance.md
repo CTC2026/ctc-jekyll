@@ -180,4 +180,5 @@ The second part of first act of the original *zaju* relays the encounter between
 - Zang Maoxun <span lang="zh">臧懋循</span>. *Yuanqu xuan*<span lang="zh">元曲选</span> (*Select Yuan Plays*). 4 vols. Beijing: Zhonghua shuju, 1989.
 </details>
 
-<p class="module-authors"><strong>Authors:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a> and <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a></p>
+<h2>Authors</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a> and <a href="https://www.linkedin.com/in/zyanz">Gillian Yanzhuang Zhang</a></p>

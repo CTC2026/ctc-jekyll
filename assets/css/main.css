@@ -954,7 +954,7 @@ details.works-consulted summary:focus-visible { outline: 3px solid #000; outline
 details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
 details.works-consulted li { font-size: 1rem; margin-bottom: 0.6rem; line-height: 1.55; }
 
-.module-authors { margin-top: 2rem; font-size: 0.85rem; color: #595959; border-top: 1px solid #ddd; padding-top: 0.8rem; }
+.module-authors { font-size: 1.1rem; margin: 0.5rem 0 2rem; }
 
 .book-cover { display: inline-block; margin: 1.5rem 0; }
 .book-cover img { width: 220px; max-width: 100%; box-shadow: 0 2px 8px rgba(0,0,0,0.18); }

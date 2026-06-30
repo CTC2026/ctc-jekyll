@@ -170,4 +170,5 @@ First, she is featured on the far left of a panel (Fig. 7) otherwise occupied by
 
 Here, Du Liniang stands in the middle of the panel clutching a blank wall. A stark abstract composition of black and white shapes that vaguely echo the realistically rendered jagged lattice in panel 67 appears behind her to the right. Du Liniang's internal anguish appears here visually next to her—displaced onto an anxious exterior world. Unlike the earlier panels, which borrow mostly from the representational aesthetics of Chinese painting, this later sequence is strongly reminiscent of Western modern art. This hybrid mix of abstract forms from both traditions allows the comic to expressively give visual form to Du Liniang's emotions. It also strongly marks this *Peony Pavilion* as a product of the 1980s, when such sophisticated experiments in illustration marked a high point in Chinese *lianhuanhua* comic history.
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>

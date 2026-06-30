@@ -209,4 +209,5 @@ As in the poster, Dou E's red shirt obviously resonates with the red iconography
 - Zeitlin, Judith. "Operatic Ghosts on Screen: The Case of *A Test of Love* (1958)." *The Opera Quarterly* 26, no. 2–3 (2010): 220–255.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://asia.ubc.ca/profile/xiaoqiao-xu/">Xiaoqiao Xu</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://asia.ubc.ca/profile/xiaoqiao-xu/">Xiaoqiao Xu</a></p>

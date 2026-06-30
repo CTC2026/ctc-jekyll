@@ -197,4 +197,5 @@ Significantly, after taking his bow as the actor at the standing ovation, Zhao Z
 - "Zhongren jiezui wo duxing: bainian yueju mingduan shangxi---Yin guifang pian" <span lang="zh">众人皆醉我独醒</span>: <span lang="zh">百年越剧名段赏析</span>------<span lang="zh">尹桂芳篇</span> (*All are intoxicated I Alone Am Awake*: A Hundred Years of Yue Opera Selected Known Pieces---Chapter of Yin Guifang), *Meili Yueju Official Wechat Publication*, July 21st, 2023. https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://ealc.uchicago.edu/people/susanna-sun">Susanna Sun</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://ealc.uchicago.edu/people/susanna-sun">Susanna Sun</a></p>

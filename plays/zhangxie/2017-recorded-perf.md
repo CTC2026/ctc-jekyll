@@ -570,4 +570,5 @@ Wang Deyong is played by the same clown role actor (*chou* <span lang="zh">丑</
 - Zhongguo Dabaike quanshu <span lang="zh">中国大百科全书</span>. Yang Kun <span lang="zh">杨崑</span> (Yang Juan <span lang="zh">杨娟</span>).
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/zhao.3548">Li Zhao</a></p>

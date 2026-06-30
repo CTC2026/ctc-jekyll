@@ -46,4 +46,5 @@ In modern renditions, many plot elements are thoroughly reworked to craft very d
 - Patricia Sieber. "*The Pavilion for Praying to the Moon* and *The Injustice to Dou E*: The Innovation of the Female Lead." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 78–100. New York: Columbia University Press, 2022.
 </details>
 
-<p class="module-authors"><strong>Authors:</strong> <a href="https://www.linkedin.com/in/francesco-papani-0829612a1/">Francesco Papani</a> and <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Authors</h2>
+<p class="module-authors"><a href="https://www.linkedin.com/in/francesco-papani-0829612a1/">Francesco Papani</a> and <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

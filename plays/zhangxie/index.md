@@ -52,4 +52,5 @@ In modern renditions of *Top Graduate*, these metatheatrical features continue t
 - Qian Nanyang <span lang="zh">錢南揚</span> ed. and ann. *Zhang Xie zhuangyuan* <span lang="zh">張協狀元</span>. In his *Yongle dadian xiwen sanzhong jiaozhu* <span lang="zh">永樂大典戲文三種校注</span>, 1-217. Beijing: Zhonghua shuju, 1979.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://deall.osu.edu/people/sieber.6">Patricia Sieber</a></p>

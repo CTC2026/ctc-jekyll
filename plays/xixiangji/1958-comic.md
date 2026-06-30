@@ -293,4 +293,5 @@ The speech bubble thus sits at a complex confluence of cultural practices: with 
 - "Wang Shuhui lianhuanhua Xixiangji, gongbi renwu dianfeng zhi zuo" <span lang="zh">王叔晖连环画</span>《<span lang="zh">西厢记</span>》，<span lang="zh">工笔人物颠峰之作</span>. Zhongguo zihua wang <span lang="zh">中国字画网</span> (Chinese Calligraphy &amp; Painting Net). Accessed September 18, 2023.
 </details>
 
-<p class="module-authors"><strong>Author:</strong> <a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/keblinska.1">Julia Keblinska</a></p>
