@@ -57,7 +57,6 @@
 
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
-      lastCueIdx = -1;
     }
 
     function getDescTrack() {
@@ -84,20 +83,29 @@
       }
 
       if (activeCueIdx === lastCueIdx) return;
-      stopAudio();
       lastCueIdx = activeCueIdx;
+
+      // Entering the gap after a cue: let the current description play out to its
+      // natural end. (Previously we stopped it here, but `timeupdate` fires at
+      // irregular ~250ms intervals, so the cut landed at a different point every
+      // run — which is why the same clip sounded different each play and the last
+      // word sometimes got clipped.)
       if (activeCueIdx < 0) return;
 
+      // Entering a new cue: replace any still-playing description with this one.
+      stopAudio();
       var n = String(activeCueIdx + 1).padStart(2, '0');
-      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=4');
+      currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=5');
       currentAudio.volume = 1;        // description at full volume
       video.volume = DUCK_VOLUME;     // duck the film audio underneath it
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
     });
 
-    video.addEventListener('pause', stopAudio);
-    video.addEventListener('seeked', stopAudio);
+    // Pausing or seeking stops the current description and clears the tracked cue
+    // so it re-triggers cleanly on resume.
+    video.addEventListener('pause', function () { stopAudio(); lastCueIdx = -1; });
+    video.addEventListener('seeked', function () { stopAudio(); lastCueIdx = -1; });
   }
 
   // On load: lazy-load content images and set video preload
