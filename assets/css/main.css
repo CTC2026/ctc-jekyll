@@ -667,7 +667,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar {
-  flex: 0 0 200px;
+  flex: 0 0 250px;
   background: #f7f3ee;
   border-right: 1px solid #ddd;
   padding: 3rem 0;
@@ -688,12 +688,13 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 .ctc-sidebar ul li a {
   display: block;
-  padding: 0.55rem 0.75rem;
-  font-size: 1.05rem;
+  padding: 0.6rem 0.75rem;
+  font-size: 1.1rem;
   font-weight: 700;
   color: var(--text);
   text-decoration: none;
   line-height: 1.55;
+  white-space: nowrap;
   border-left: 3px solid transparent;
   transition: background 0.15s, color 0.15s;
 }
@@ -715,7 +716,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar > ul > li:first-child > a {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   font-weight: 900;
 }
 
@@ -726,9 +727,9 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 
 .ctc-sidebar .sidebar-children li a {
-  font-size: 0.92rem;
+  font-size: 1rem;
   font-weight: 400;
-  padding: 0.4rem 0.75rem 0.4rem 1.5rem;
+  padding: 0.5rem 0.75rem 0.5rem 1.5rem;
   border-left-width: 2px;
 }
 
