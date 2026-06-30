@@ -815,7 +815,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 .module-media-type {
   color: var(--red);
-  font-size: 1.2rem;
+  font-size: 1.35rem;
   font-weight: 700;
   margin: 0 0 0.3rem;
 }

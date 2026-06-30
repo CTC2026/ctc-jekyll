@@ -54,9 +54,9 @@ layout: default
         {% elsif mt contains 'Opera' %}{% assign media_url = '/media/recorded-performances/' %}
         {% else %}{% assign media_url = '' %}
         {% endif %}
-        <p class="module-media-type">
+        <h2 class="module-media-type">
           {% if media_url != '' %}<a href="{{ media_url | relative_url }}">{{ page.media_type }}</a>{% else %}{{ page.media_type }}{% endif %}
-        </p>
+        </h2>
       {% endif %}
       {% if page.media_subtype %}<p class="module-director">{{ page.media_subtype }}</p>{% endif %}
       {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}

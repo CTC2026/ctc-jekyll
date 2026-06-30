@@ -21,6 +21,8 @@ director: 'Chan Yau-San <span lang="zh">陳又新</span>'
   <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: <span lang="zh">千寻亿选</span>, "<span lang="zh">血手印的海报</span>." <span lang="zh">豆瓣电影</span>. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
 </figure>
 
+## Information
+
 <div class="module-info">
 <dl>
 <div><dt>Title</dt><dd>The Crimson Palm <span lang="zh">血手印</span></dd></div>
