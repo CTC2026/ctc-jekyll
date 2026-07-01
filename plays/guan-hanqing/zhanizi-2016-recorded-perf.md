@@ -72,7 +72,7 @@ The play opens with a dialogue between the Lady of the House and Yanyan. The Lad
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 1: Rather Die than Get Married — Yanyan rejects the proposed marriage (defiant gesture with the cane). Source: The production.</p>
+  <p class="clip-caption">Clip 1: Rather Die than Get Married: A Maid Rejecting Social Norms. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -104,7 +104,7 @@ In this scene, Yanyan is ordered to bring a quilt to Li Weide. While moving on t
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 2: A Heart in Turmoil — Yanyan's romantic passions expressed through quilt and lamp. Source: The production.</p>
+  <p class="clip-caption">Clip 2: A Heart in Turmoil: Yanyan's Romantic Passions. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -137,7 +137,7 @@ This scene is almost completely devoid of sung or spoken lines. Instead it focus
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 3: Fear and Worry — percussion-driven chase and evasion. Source: The production.</p>
+  <p class="clip-caption">Clip 3: Fear and Worry: Seduction. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -159,7 +159,7 @@ This clip showcases the somatic components of emotions on the stage and illustra
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 4: Pain and Anger — Yanyan's heartbreak expressed through rapid lyrics and physical performance. Source: The production.</p>
+  <p class="clip-caption">Clip 4: Pain and Anger: Heartbreak. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -189,7 +189,7 @@ Moreover, Yanyan's movements on the stage show not only how shaken she is, but a
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 5: Unspeakable Sadness — the moth symbol and Yanyan's slow, anguished singing. Source: The production.</p>
+  <p class="clip-caption">Clip 5: Unspeakable Sadness: The Symbol of the Moth. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -223,7 +223,7 @@ Dignified, defiant, and vengeful are the adjectives that can be used to describe
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 6: Yanyan's ultimate defiance — suicide in the nuptial bed. Source: The production.</p>
+  <p class="clip-caption">Clip 6: Yanyan's Ultimate Defiance: Suicide. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
