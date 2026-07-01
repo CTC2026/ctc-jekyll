@@ -578,14 +578,12 @@ footer a { color: #ffd966; text-decoration: underline; }
     width: 100%;
   }
 
-  .figure-row {
-    flex-direction: column;
-  }
-  .figure-row > figure,
-  .figure-row > .figure-stack {
+  .figure-stack-right {
+    float: none;
+    clear: both;
     width: 100%;
     max-width: 400px;
-    margin: 0 auto;
+    margin: 1.5rem auto;
   }
 }
 
@@ -890,30 +888,21 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .module-figure-right img { width: 100%; border: 1px solid #ddd; }
 .module-figure-right figcaption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; padding-bottom: 1rem; line-height: 1.6; text-align: left; }
 
-.figure-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-.figure-row > p {
-  flex: 1;
-  margin-top: 0;
-}
-.figure-row > figure,
-.figure-row > .figure-stack {
-  flex-shrink: 0;
+.figure-stack-right {
+  float: right;
+  clear: both;
+  margin: 0.5rem 0 1.5rem 1.5rem;
   width: 300px;
 }
-.figure-row figure {
+.figure-stack-right figure {
   text-align: center;
-  margin: 0 0 1rem;
+  margin-bottom: 0.75rem;
 }
-.figure-row figure img {
+.figure-stack-right figure img {
   width: 100%;
   border: 1px solid #ddd;
 }
-.figure-row figure figcaption {
+.figure-stack-right figure figcaption {
   font-size: 0.8rem;
   color: #595959;
   margin-top: 0.5rem;
