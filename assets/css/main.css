@@ -315,7 +315,6 @@ main h1, main h2, main h3 {
   color: var(--red);
   margin-bottom: 1rem;
   line-height: 1.2;
-  font-weight: normal;
 }
 
 main h1 {
