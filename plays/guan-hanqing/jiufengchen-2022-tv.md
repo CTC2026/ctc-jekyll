@@ -189,9 +189,9 @@ In conclusion, San-niang's character represents the idea that there are other wo
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
-- Chen, Daowen. "Sworn Siblings in *Sanyan* Stories." Master's thesis, Washington University, 2011.
+- Chen, Daowen. ["Sworn Siblings in *Sanyan* Stories."](https://openscholarship.wustl.edu/etd/758/) Master's thesis, Washington University, 2011.
 - Hu, TingTing and Cathy Yue Wang. "Strategic Sisterhood and the Girlfriend Gaze: Representation of Girlfriendship in the Chinese TV Drama *Ode to Joy*." *Critical Studies in Television*, 16(4), 2021: 394–411.
-- Tang Tang <span lang="zh">唐唐</span> and Bao Ye <span lang="zh">炮爷</span>. "Weishenme hui bei ma?" <span lang="zh">为什么会被骂</span> (Why Is it Being Criticized). Weixin <span lang="zh">微信</span> (WeChat). June 8, 2022. Accessed January 21, 2025.
+- Tang Tang <span lang="zh">唐唐</span> and Bao Ye <span lang="zh">炮爷</span>. ["Weishenme hui bei ma?" <span lang="zh">为什么会被骂</span> (Why Is it Being Criticized)](https://mp.weixin.qq.com/s?__biz=MzIzNjI1ODk2Mg==&mid=2651554501&idx=1&sn=0d19a3a9fc02e4a4fd367be4810da737&chksm=f325b138c452382efbb1ef9d52d007b0427b6db972b7f63b11f73710ad9cf327b9db9661a3b3#rd). Weixin <span lang="zh">微信</span> (WeChat). June 8, 2022. Accessed January 21, 2025.
 </details>
 
 <h2>Author</h2>
