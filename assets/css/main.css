@@ -697,7 +697,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .ctc-sidebar ul li a {
   display: block;
   padding: 0.6rem 0.75rem;
-  font-weight: 700;
+  font-weight: normal;
   color: var(--text);
   text-decoration: none;
   line-height: 1.55;
@@ -725,7 +725,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 .ctc-sidebar > ul > li:first-child > a {
   font-size: 1.35rem;
-  font-weight: 900;
+  font-weight: normal;
 }
 
 .sidebar-children {
