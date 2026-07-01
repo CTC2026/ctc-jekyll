@@ -12,7 +12,7 @@ director: 'Yang Yang <span lang="zh">杨阳</span>'
 
 ## Links to the TV Drama
 
-[In Chinese with English and simplified Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1-6).
+[In Chinese with English and Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1-6).
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="Promotional poster showing four cast members in traditional costumes against a painted floral background.">
@@ -27,8 +27,7 @@ director: 'Yang Yang <span lang="zh">杨阳</span>'
 <div><dt>Style</dt><dd>Television drama series</dd></div>
 <div><dt>Director</dt><dd>Yang Yang <span lang="zh">杨阳</span></dd></div>
 <div><dt>Genre</dt><dd>Historical fiction, romance, drama</dd></div>
-<div><dt>Writer</dt><dd>Zhang Wei <span lang="zh">张巍</span></dd></div>
-<div><dt>Cast</dt><dd>Liu Yifei <span lang="zh">刘亦菲</span> (as Zhao Pan'er <span lang="zh">赵盼儿</span>), Chen Xiao <span lang="zh">陈晓</span> (as Gu Qianfan <span lang="zh">顾千帆</span>), Liu Yan <span lang="zh">柳岩</span> (as Sun San-niang <span lang="zh">孙三娘</span>), Lin Yun <span lang="zh">林允</span> (as Song Yinzhang <span lang="zh">宋引章</span>), Zhang Xiang <span lang="zh">张翔</span> (as Zhou She <span lang="zh">周舍</span>)</dd></div>
+<div><dt>Cast</dt><dd>Liu Yifei <span lang="zh">刘亦菲</span> (as Zhao Pan'er <span lang="zh">赵盼儿</span>), Chen Xiao <span lang="zh">陈晓</span> (as Gu Qianfan <span lang="zh">顾千帆</span>), Liu Yan <span lang="zh">柳岩</span> (as Sun San-niang <span lang="zh">孙三娘</span>), Lin Yun <span lang="zh">林允</span> (as Song Yinzhang <span lang="zh">宋引章</span>), and Zhang Xiang <span lang="zh">张翔</span> (as Zhou She <span lang="zh">周舍</span>)</dd></div>
 <div><dt>Language</dt><dd>Mandarin Chinese</dd></div>
 <div><dt>Installments</dt><dd>40 episodes of 45 minutes</dd></div>
 </dl>
@@ -190,9 +189,10 @@ In conclusion, San-niang's character represents the idea that there are other wo
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
+- Zhang, Wei, writer. *A Dream of Splendor* <span lang="zh">梦华录</span>. Season 1, episodes 1-8. Directed by Yang Yang, featuring Liu Yifei, Chen Xiao, Liu Yan, and Lin Yun. Aired 2022, in broadcast syndication. <https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u>
 - Chen, Daowen. "Sworn Siblings in *Sanyan* Stories." Master's thesis, Washington University, 2011.
 - Hu, TingTing and Cathy Yue Wang. "Strategic Sisterhood and the Girlfriend Gaze: Representation of Girlfriendship in the Chinese TV Drama *Ode to Joy*." *Critical Studies in Television*, 16(4), 2021: 394–411.
-- Tang Tang <span lang="zh">唐唐</span> and Bao Ye <span lang="zh">炮爷</span>. "Weishenme hui bei ma?" <span lang="zh">为什么会被骂</span> (Why Is it Being Criticized). *Weixin* <span lang="zh">微信</span> (WeChat). June 8, 2022. Accessed January 21, 2025.
+- Tang Tang and Bao Ye. "Meng Hua Lu: Why is it being criticized." Last modified June 8, 2022. <https://m.huxiu.com/article/575927.html>
 </details>
 
 <h2>Author</h2>
