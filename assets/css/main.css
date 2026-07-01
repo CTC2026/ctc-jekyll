@@ -838,7 +838,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 
 .module-info {
   margin: 0 0 2rem;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.75;
 }
 /* "Information" is now a real <h2> inside .module-info (was a CSS ::before
@@ -856,8 +856,8 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   margin-bottom: 0.3rem;
 }
 .module-info dl > div::before { content: "•"; position: absolute; left: 0; color: var(--red); }
-.module-info dt { display: inline; font-weight: 700; color: var(--text); }
-.module-info dt::after { content: ": "; font-weight: 700; }
+.module-info dt { display: inline; color: var(--text); }
+.module-info dt::after { content: ": "; }
 .module-info dd { display: inline; margin: 0; padding: 0; }
 
 .module-figure {
