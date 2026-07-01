@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
-
 /* ── Variables ── */
 :root {
   --red:        #B20839;
@@ -61,7 +59,7 @@ footer *:focus-visible,
 /* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body {
-  font-family: 'Lato', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Georgia, 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', Times, serif;
   color: var(--text);
   background-color: #f5f0eb;
   background-image: url('https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/images/flower-bg.png');
