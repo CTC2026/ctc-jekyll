@@ -538,7 +538,7 @@ footer a { color: #ffd966; text-decoration: underline; }
 /* Tablet and below: hamburger nav (full nav overflows at these widths).
    Breakpoint is in em so it also triggers when the user enlarges their browser
    text — at 200% the desktop nav would otherwise overflow and clip (1.4.4). */
-@media (max-width: 64em) {
+@media (max-width: 72em) {
   .nav-toggle { display: flex; }
 
   #main-nav ul {
