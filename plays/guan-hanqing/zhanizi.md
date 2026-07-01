@@ -13,7 +13,7 @@ banner_image: /assets/images/guan_resourcebanner.png
 You can find modules that analyze various adaptations of *A Clever Maid Maneuvers Her Way into Romance* at the links below. To get a sense of the main themes and historical import of the original *Maneuvering into Romance*, please consult the "General Background" below.
 
 1. [*Yanyan* <span lang="zh">燕燕</span> (2016)]({{ '/plays/guan-hanqing/zhanizi-2016-recorded-perf/' | relative_url }})
-   - "The Physicality of Emotions on the Opera Stage," a module on a recorded performance of a Sichuan opera adaptation of *Maneuvering into Romance*.
+   - A module on a recorded performance of a Sichuan opera adaptation of *Maneuvering into Romance*.
 
 ## General Background
 
