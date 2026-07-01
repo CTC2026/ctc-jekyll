@@ -80,7 +80,7 @@ In addition, the seventh month is also when the Festival of the Weaving Goddess 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 1: Pan'er prepares food offerings for the ghost courtesans (08:55–10:12). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 1: Pan'er prepares food and invites ghost courtesans to partake of food offerings during the Ghost festival, thus ushering three new ghostly characters into the play. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Ghost Guides: A Play of Two Cities
@@ -95,7 +95,7 @@ In Act 1, Yinzhang leaves from Kaifeng for Zhengzhou, determined to become a res
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 2: Ghost guides in Act 1 (28:50–31:20). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 2: Yinzhang moves from Kaifeng to Zhengzhou to marry Zhou She, accompanied by the ghosts who tell stories about the miseries they suffered after they married into big families. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 In Act 3, Pan'er travels from Kaifeng to Zhengzhou to rescue Yinzhang from her disastrous marriage. The ghosts' comments about Zhengzhou as they enter the city make Pan'er realize how endearing Kaifeng, a place she once called a "pisspot," actually is. She concludes that "better [to be] a hungry ghost in the Old Capital than this death in life here, buried in the mansions with deep courtyards and high walls." In other words, it is better to be a courtesan of base status in Kaifeng than to be a married, respectable woman entrapped by oppressive patriarchy in Zhengzhou.
@@ -106,7 +106,7 @@ In Act 3, Pan'er travels from Kaifeng to Zhengzhou to rescue Yinzhang from her d
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 3: Ghost guides in Act 3 (56:03–57:01). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 3: Pan'er travels from Kaifeng to Zhengzhou to rescue Yinzhang from her disastrous marriage. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Ghost Critics of the Play Within the Play: Subverting the Archetypal Romance
@@ -123,7 +123,7 @@ In addition to lambasting his play, the ghosts also ridicule Scholar An's self-a
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 4: Ghost critics mock Scholar An's play (13:25–14:52). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 4: Scholar An proudly introduces his new play to Pan'er, while the ghosts, invisible to Scholar An, ruthlessly mock the plot of his play. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Ghost Sisters: Expanding From Sworn Brotherhood to Sworn Sisterhood
@@ -138,7 +138,7 @@ The original *Saving a Courtesan* celebrates female friendship and presents swor
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 5: "All for one and one for all" (14:54–15:03). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 5: The ghosts demand to watch something exciting: a war play with kung fu and acrobatics, a play about the Monkey King, or a play about the three sworn brothers. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 In Act 1, the bond between Yinzhang and Pan'er is ruptured when Yinzhang ignores Pan'er's warning about Zhou She and even accuses Pan'er of being jealous and controlling. Yinzhang's ingratitude deeply hurts Pan'er's feelings. In Act 2, Yinzhang realizes her mistake and sorely regrets it. She writes to Pan'er pleading for rescue from her dire situation. But Pan'er is still angry with Yinzhang and is reluctant to help her. Sworn sisterhood is put to the test, and the ghosts play a crucial role in repairing this ruptured bond.
@@ -151,7 +151,7 @@ In *Rescuing One's Sister*, the conversation between the ghosts and Pan'er takes
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 6: Ghosts encourage Pan'er to rescue Yinzhang (43:55–45:26). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 6: The ghosts urge Pan'er not to forget her obligation toward her sworn sister. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Invalid Ghost Accusation: Subverting the Legal System
@@ -166,7 +166,7 @@ To make this point even more explicit, Ng replaces the anonymous judge with Judg
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 7: Ghosts appear in court (1:15:55–1:16:57). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 7: The ghosts reveal themselves in court and accuse Zhou She of murder. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 But contrary to everyone's (including the audience's) expectation, the ghosts are summarily dismissed and their allegations declared invalid by Judge Bao on account of their marginalized social status. Zhou She declares that mere apparitions cannot hurt him. The sharp contrast between the horror the ghosts induce when they first reveal themselves and their deflated expressions upon dismissal runs counter to audience expectations. Unprotected by heavenly justice or human law, ghost courtesans are as vulnerable dead as when they were alive. As scary as they may look, the ghosts do not actually threaten the stability of the patriarchal system in the way people might expect. The audience's laughter in the recording at this moment underscores that the generic expectation was subverted.
@@ -179,7 +179,7 @@ Pan'er astutely sees through the fundamental inequality of the law and thereupon
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_8.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 8: Pan'er wins the case (1:20:40–1:21:41). Source: The production on Youtube.</p>
+  <p class="clip-caption">Clip 8: After the case concludes, Yinzhang decides there will be no wedding. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 The ghosts' helplessness in the court further stresses that courtesans cannot count on romantic love, marriage, or law for protection; only sisterhood can save them. After the case concludes, Yinzhang decides there will be no wedding. The ghosts recite their credo once more to celebrate female friendship, driving home the major theme of the original *zaju* play.

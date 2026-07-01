@@ -4,13 +4,13 @@ title: Search
 permalink: /search/
 ---
 
-<div class="search-wrap">
+<search class="search-wrap">
   <input type="search" id="search-input" class="search-input"
          placeholder="Type keywords to search…"
          aria-label="Search site content"
          autocomplete="off">
   <ul id="search-results" class="search-results" aria-label="Search results" aria-live="polite"></ul>
-</div>
+</search>
 
 <script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
 <script>
