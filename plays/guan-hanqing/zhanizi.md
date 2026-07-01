@@ -18,8 +18,8 @@ You can find modules that analyze various adaptations of *A Clever Maid Maneuver
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg" alt="A page from the Yuankan zaju sanshi zhong (Thirty Yuan-Printed Plays), one of our earliest extant dramatic imprints. Source: The image.">
-  <figcaption><strong>Fig. 1.</strong> A page from the <em>Yuankan zaju sanshi zhong</em> (Thirty Yuan-Printed Plays), one of our earliest extant dramatic imprints. Source: The image.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg" alt="A photo-reprint of the ca. 1330 printed edition of the play A Cunning Maid Maneuvers Her Way into Romance.">
+  <figcaption><strong>Fig. 1.</strong> A photo-reprint of the ca. 1330 printed edition of the play <em>A Cunning Maid Maneuvers Her Way into Romance</em>. Source: Reprint of <em>Yuankan zaju sanshi zhong</em> <span lang="zh">元刊雜劇三十種</span> (Thirty Yuan Printed Plays) found in <em>Guben xiqu congkan siji</em> <span lang="zh">古本戲曲叢刊四集</span> (Old opera collection in four parts). Shanghai: Commercial Press, 1958. Credit: Screenshot by CTC contributor.</figcaption>
 </figure>
 
 The Yuan *zaju* drama *A Clever Maid Maneuvers Her Way into Romance* (*Zha nizi tiao fengyue* <span lang="zh">詐妮子調風月</span>, hereafter *Maneuvering into Romance*) is one of the plays attributed to the major *zaju* <span lang="zh">雜劇</span> dramatist Guan Hanqing <span lang="zh">關漢卿</span> (c. 1220–after 1279). The play belongs to a group of thirty plays that are among our earliest extant dramatic imprints (*Yuankan zaju sanshi zhong* <span lang="zh">元刊雜劇三十種</span>, mid-fourteenth century).
