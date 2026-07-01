@@ -451,14 +451,14 @@ main blockquote {
 /* ── Contributors page dl/dt/dd (about layout has .ctc-sidebar-main) ── */
 .ctc-sidebar-main dl { margin: 0 0 2rem; padding-top: 1.5rem; border-top: 1px solid #ddd; }
 .ctc-sidebar-main dl:first-of-type { border-top: none; padding-top: 0; }
-.ctc-sidebar-main dl dt { font-size: 1.05rem; font-weight: 700; margin-bottom: 0.5rem; }
+.ctc-sidebar-main dl dt { font-size: 1.05rem; margin-bottom: 0.5rem; }
 .ctc-sidebar-main dl dt a { color: var(--red); }
 .ctc-sidebar-main dl dd { margin-left: 0; }
 .ctc-sidebar-main dl dd p { margin-bottom: 0.8rem; }
 
 /* ── Module listing dl on media pages ── */
 .module-list { margin: 1rem 0 1.5rem; }
-.module-list dt { font-weight: 700; color: var(--text); margin-top: 0.9rem; }
+.module-list dt { color: var(--text); margin-top: 0.9rem; }
 .module-list dd { margin-left: 0; color: #595959; font-size: 0.92rem; line-height: 1.6; }
 
 /* ── Search ── */
