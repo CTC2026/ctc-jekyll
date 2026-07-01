@@ -15,7 +15,7 @@ director: 'Yang Yang <span lang="zh">杨阳</span>'
 [In Chinese with English and simplified Chinese subtitles on YouTube.](https://www.youtube.com/watch?v=rqsJnjYm4KI&list=PLMX26aiIvX5rcYjAW7p_bguZDB-imN_4u&ab_channel=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-GettheWeTVAPP) (This module covers episodes 1-6).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="A promotional image for A Dream of Splendor (2022). Source: The production.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="Promotional poster showing four cast members in traditional costumes against a painted floral background.">
   <figcaption><strong>Fig. 1.</strong> A promotional poster for the TV series.</figcaption>
 </figure>
 
@@ -176,12 +176,12 @@ San-niang's reactions and actions are often very realistic, making her character
 </details>
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_8.png" alt="The two sisters embrace after the plan succeeds. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_8.png" alt="Yinzhang with blue floral hair ornament buries her tearful face in Pan'er's shoulder as they embrace.">
   <figcaption><strong>Fig. 8.</strong> Pan'er and Song Yinzhang hug each other after she has escaped her abusive husband, Zhou She.</figcaption>
 </figure>
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_9.png" alt="San-niang's secondary position in the frame. Source: A Dream of Splendor (2022).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_9.png" alt="Yinzhang in white smiles broadly at Pan'er, who looks down at her with a smile from the left.">
   <figcaption><strong>Fig. 9.</strong> Song Yinzhang is giddy over being given the house title and Pan'er's extensive efforts to save her.</figcaption>
 </figure>
 
