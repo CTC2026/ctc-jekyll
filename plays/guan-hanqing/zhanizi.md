@@ -18,7 +18,7 @@ You can find modules that analyze various adaptations of *A Clever Maid Maneuver
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg" alt="A photo-reprint of the ca. 1330 printed edition of the play A Cunning Maid Maneuvers Her Way into Romance.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi/Zhanizi_General_Intro_1.jpg" alt="Woodblock-printed columns of Chinese text, title in large characters at right, character names boxed in black.">
   <figcaption><strong>Fig. 1.</strong> A photo-reprint of the ca. 1330 printed edition of the play <em>A Cunning Maid Maneuvers Her Way into Romance</em>. Source: Reprint of <em>Yuankan zaju sanshi zhong</em> <span lang="zh">元刊雜劇三十種</span> (Thirty Yuan Printed Plays) found in <em>Guben xiqu congkan siji</em> <span lang="zh">古本戲曲叢刊四集</span> (Old opera collection in four parts). Shanghai: Commercial Press, 1958. Credit: Screenshot by CTC contributor.</figcaption>
 </figure>
 
