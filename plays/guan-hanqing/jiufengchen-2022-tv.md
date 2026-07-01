@@ -16,7 +16,7 @@ director: 'Yang Yang <span lang="zh">杨阳</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_1.png" alt="A promotional image for A Dream of Splendor (2022). Source: The production.">
-  <figcaption><strong>Fig. 1.</strong> A promotional image for <em>A Dream of Splendor</em> (2022). Source: The production.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> A promotional poster for the TV series.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -68,15 +68,15 @@ In all the scenes below, it is evident that San-niang has a significant role in 
 <div class="figure-stack-right">
 <figure>
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_2.png" alt="Pan'er in pink faces Zhou She from behind while San-niang in blue watches in an outdoor courtyard.">
-  <figcaption><strong>Fig. 2.</strong> Pan'er and San-niang confront Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 2.</strong> This shot shows the first step in the sworn sisters' plan. Zhao Pan'er is on the right and the back of Zhou She is on the left.</figcaption>
 </figure>
 <figure>
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_3.png" alt="San-niang in blue stands between Zhou She on the left and Pan'er in center, facing the camera.">
-  <figcaption><strong>Fig. 3.</strong> San-niang as intermediary between Pan'er and Zhou She. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 3.</strong> San-niang is pictured on the right and the back of Zhao Pan'er is on San-niang's left. This image captures the moment that Sun San-Niang establishes her role in the scheme.</figcaption>
 </figure>
 <figure>
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png" alt="Pan'er in pink faces the camera in a traditional interior; San-niang in blue sits beside her in profile.">
-  <figcaption><strong>Fig. 4.</strong> Pan'er in the carriage revealing her true feelings. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_4.png" alt="Pan'er in pink faces the camera in a carriage; San-niang in blue sits beside her in profile.">
+  <figcaption><strong>Fig. 4.</strong> Featured in this shot is Zhao Pan'er on the left and San-niang on the right. Zhao Pan'er and Sun San-Niang are by themselves in a carriage.</figcaption>
 </figure>
 </div>
 
@@ -91,7 +91,7 @@ Likewise, in Fig. 4, the main focus is again on Pan'er. San-niang is sitting to 
 <div class="figure-stack-right">
 <figure>
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_5.png" alt="Close-up of San-niang in light blue with a pink hair ornament, glancing sideways.">
-  <figcaption><strong>Fig. 5.</strong> Pan'er and San-niang exchange glances. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 5.</strong> In this single shot, San-niang smirks at the interaction between Pan'er and Zhou She.</figcaption>
 </figure>
 </div>
 
@@ -134,11 +134,11 @@ In this scene, Zhou She comes to Zhao Pan'er's home. Prior to his entrance, Pan'
 <div class="figure-stack-right">
 <figure>
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_6.png" alt="San-niang in white stands alone in the foreground as Pan'er and Zhou She embrace on a balcony behind her.">
-  <figcaption><strong>Fig. 6.</strong> Pan'er and Zhou She with San-niang at a distance. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 6.</strong> Pan'er and Zhou She embrace while San-niang scrutinizes their interaction through her intense gaze.</figcaption>
 </figure>
 <figure>
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_7.png" alt="Close-up of San-niang with a knowing smile in a warmly lit interior.">
-  <figcaption><strong>Fig. 7.</strong> Close-up of San-niang's reactions. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 7.</strong> San-Niang is seen snickering to herself at Zhou She's reactions.</figcaption>
 </figure>
 </div>
 
@@ -177,12 +177,12 @@ San-niang's reactions and actions are often very realistic, making her character
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_8.png" alt="The two sisters embrace after the plan succeeds. Source: A Dream of Splendor (2022).">
-  <figcaption><strong>Fig. 8.</strong> The two sisters embrace after the plan succeeds. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 8.</strong> Pan'er and Song Yinzhang hug each other after she has escaped her abusive husband, Zhou She.</figcaption>
 </figure>
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2022-tv/Jiufengchen_2022_TV_9.png" alt="San-niang's secondary position in the frame. Source: A Dream of Splendor (2022).">
-  <figcaption><strong>Fig. 9.</strong> San-niang's secondary position in the frame. Source: <em>A Dream of Splendor</em> (2022).</figcaption>
+  <figcaption><strong>Fig. 9.</strong> Song Yinzhang is giddy over being given the house title and Pan'er's extensive efforts to save her.</figcaption>
 </figure>
 
 In conclusion, San-niang's character represents the idea that there are other women just like Pan'er and Yinzhang. These two are not the only sisters who suffer an ill fate or endure struggles. In this way, San-niang adds an extra element to the sisterhood bond and trope. She is always willing to help her sisters out, especially Pan'er. Yet, San-niang's character is multimodal, fitting into the narrative in multiple ways. She not only offers solidarity to the sisterhood bond by being the supplementary sister to the two, but she also has her own story line outside her role as a sister. She is first woven into the initial story (this section derived from the play that is analyzed above) as a sworn sister, then used to narratively flesh out the remaining 34 episodes of the show as a third romantic lead. In this way, San-niang's character highlights the marriage trope by which she, along with her other sworn sisters, either get married or find romance with one of the male characters. Thus, the addition of San-niang not only provides an element of irony during the scheme and adds solidarity to the sisterhood, but her pursuit of romance in the remaining episodes allows the plot to expand enough to provide content for 40 episodes. San-niang is thus not only the mediator within the narrative, but also serves as a device specific to the long-form medium of contemporary Chinese television (an industry whose seasons regularly run into multiple tens of episodes).
