@@ -94,7 +94,7 @@ Film noir often opens with a scene that implies murder. *The Crimson Palm* begin
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_1_2x.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 1: The opening scene (00:38–01:03). Source: The film on Youtube.</p>
+  <p class="clip-caption">Clip 1: The opening scene of The Crimson Palm. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Path on the Outskirts (26:40–29:08)
@@ -116,7 +116,7 @@ Lin (i.e., Ivy Ling Po) sings the song on his way at night to fetch the gold fro
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
   </div>
-  <p class="clip-caption">Clip 2: "Path on the Outskirts" (26:40–29:08). Source: The film on Youtube.</p>
+  <p class="clip-caption">Clip 2: "Path on the Outskirts" by Ivy Ling Po. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -161,7 +161,7 @@ By contrast, the Huangmei opera film does not distinguish between different sing
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 3: Qianjin as femme fatale (1:09:12–1:11:18). Source: The film on Youtube.</p>
+  <p class="clip-caption">Clip 3: Qianjin impersonates the ghost of Xuechun. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -211,7 +211,7 @@ True to the plot formula of film noir, near its end, the film depicts a scene of
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 4: The scene of denouement (1:11:40–1:14:06). Source: The film on Youtube.</p>
+  <p class="clip-caption">Clip 4: The scene of denouement. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">

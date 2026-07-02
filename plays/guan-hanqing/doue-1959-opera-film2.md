@@ -70,7 +70,7 @@ Dou E, wronged by Tao Wu, the corrupt official who took Zhang Lü'er's bribe, de
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 1: An oppressed and virtuous Dou E in "feudal" society (1:07:34–1:12:40). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
+  <p class="clip-caption">Clip 1: An oppressed and virtuous Dou E in "feudal" society. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation">
@@ -111,7 +111,7 @@ This clip depicts the second version of Dou E. A ghost now, Dou E visits the hum
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 2: The female ghost as an extension of the earthly Dou E's suffering (1:21:40–1:31:29). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
+  <p class="clip-caption">Clip 2: The female ghost as an extension of the earthly Dou E's suffering. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation">
@@ -179,7 +179,7 @@ The smiling Dou E in the red shirt serves as a comparison with Dou E in the "feu
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film2/Doue_1959_OperaFilm2_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
-  <p class="clip-caption">Clip 3: Successful transformation of Dou E as a socialist revolutionary subject (1:38:11–1:38:45). Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">Youtube</a>.</p>
+  <p class="clip-caption">Clip 3: The successful transformation of Dou E as a socialist revolutionary subject. The smiling Dou E in the red shirt serves as a comparison with Dou E in the "feudal" society, where she can only attain justice as a ghost. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=1Gt3gdH2mfo">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 
