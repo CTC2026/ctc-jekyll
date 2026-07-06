@@ -111,17 +111,19 @@ Subtitles are created in two stages: first get the subtitle text, then use Arcti
 
 ### Step 1 — Get the subtitle text from the TransChart
 
-Ask Claude Code to extract the Chinese dialogue lines from the TransChart for the clip you are working on:
+Ask Claude Code to extract the Chinese caption text from the TransChart for the clip you are working on. The helper script `transchart_to_zh_text.py` pulls the dialogue lines from the TransChart `.docx`; Claude then condenses the scene tags by hand (that part needs judgment, so it is not fully automated).
 
 ```
-Extract the Chinese dialogue lines from the TransChart for Feiyimeng Clip 4.
-Strip stage directions. Speaker labels are also removed here so the timing pass stays clean — they are required in the final captions and are added back in Part 3, Step 3. Split singing verses line by line at punctuation boundaries (，。！？).
+Extract the Chinese caption text from the TransChart for Feiyimeng Clip 4.
+- Keep the speaker label on each line (e.g. 林肇德 [唱]:) — the caption track needs the speaker.
+- Split singing verses line by line at punctuation boundaries (，。！？).
+- For the bracketed stage directions, keep ONLY scene/location changes, condensed to a short Traditional-Chinese location tag (e.g. [森林小路，夜], [花園門口]). Drop pure action descriptions.
 
 TransChart file: /Users/sophiali/Downloads/ctc-source-materials/Modules, Guan Hanqing/Modules, Feiyimeng Materials/Feiyimeng_1964_OperaFilm Materials/Feiyimeng_1964_OperaFilm_TransCharts.docx
 Clip number: 4
 ```
 
-Copy the output lines — you will paste them into Arctime in the next step.
+Copy the output lines — you will paste them into Arctime in the next step. Because the speaker labels and location cues are already included here, they carry through to the **Chinese** captions automatically; only the English captions still need them added by hand (see Part 3, Step 3).
 
 ### Step 2 — Open Arctime and import the video
 
@@ -245,14 +247,14 @@ Output English captions: assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film
 
 These two caption files are the final subtitle products for the clip.
 
-### Step 3 — Add speaker identification and location
+### Step 3 — Check speaker identification, add location
 
-MDAS 1.2.2 requires captions to identify **who is speaking** and **where the scene takes place** whenever either changes. The English VTT step above strips speaker labels, so add them back to both caption files (Chinese and English) by hand, using the TransChart as the source.
+MDAS 1.2.2 requires captions to identify **who is speaking** and **where the scene takes place** whenever either changes.
 
-- **Speaker:** when the speaker changes, prefix the line with the speaker's name and a colon — e.g. `Zhang Peizan: …`, `Xuechun: …`, `Chorus: …`. For sung lines use `Name (singing): …` (中文用 `名 [唱]：…`). Do **not** repeat the label on continuation lines by the same speaker — only at each change.
-- **Location:** when the scene cuts to a new place, insert a short bracketed cue at that moment — e.g. `[Court]` / `[公堂]`, `[Garden]` / `[花園]`. Add one **only when the location changes**; a clip that stays in a single location needs no location cue.
+- **Speaker — already handled.** The Chinese captions keep the speaker from Part 1, Step 1, and `transchart_to_en_vtt.py` re-attaches the English speaker from the TransChart, both only at each change. Just spot-check that the labels look right (format: `Zhang Peizan: …`, sung lines `Name (singing): …` / 中文 `名 [唱]：…`; not repeated on continuation lines by the same speaker). Only the occasional UNMATCHED line needs a label added by hand.
+- **Location — add by hand.** When the scene cuts to a new place, insert a short bracketed cue at that moment — e.g. `[Court]` / `[公堂]`, `[Garden]` / `[花園]`. Add one **only when the location changes**; a clip that stays in one place needs none. Condensing a stage direction to a short tag takes judgment, so this stays manual; the Chinese cue was already added in Part 1, Step 1, so add the matching **English** cue here (and fix the Chinese one if needed).
 
-Edit the `_captions_ch.vtt` and `_captions_en.vtt` files directly for this. Do **not** re-run `merge_captions.py` afterwards, or it will overwrite these additions (and the dialogue VTTs it merges from have no speaker labels).
+Edit the `_captions_ch.vtt` and `_captions_en.vtt` files directly for this. Do **not** re-run `merge_captions.py` afterwards, or it will overwrite these additions.
 
 ### Option — Add sound labels manually
 
