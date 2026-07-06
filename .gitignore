@@ -27,6 +27,12 @@ test.srt
 # Wrangler / Cloudflare local state
 .wrangler/
 
+# Local a11y testing tooling (not part of the site; kept locally, not committed)
+node_modules/
+package.json
+package-lock.json
+a11y-repro.mjs
+
 # Local environment variables (API keys — do not commit)
 .env
 

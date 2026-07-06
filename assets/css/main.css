@@ -555,7 +555,20 @@ footer a { color: #ffd966; text-decoration: underline; }
     padding: 0.5rem 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
-  #main-nav ul.nav-open { display: flex; }
+  /* Open dropdown is its own scroll container so that at high zoom / short
+     viewports (1.4.10 Reflow) the items below the fold stay keyboard-reachable
+     (2.1.1): Tab auto-scrolls it into view and arrow keys scroll it. The
+     absolutely-positioned ul is out of flow, so without this neither the page
+     nor the menu could scroll to reveal the lower items. The calc() is a
+     header-height-unaware fallback; the inline script refines it to the exact
+     gap between the sticky header's bottom and the viewport bottom. */
+  #main-nav ul.nav-open {
+    display: flex;
+    max-height: calc(100vh - 60px);
+    max-height: calc(100dvh - 60px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
   #main-nav ul li a { height: auto; padding: 0.8rem 1.5rem; }
   /* In the stacked dropdown, drop the desktop margin-left:auto that otherwise
      right-aligns the search/last items. */
@@ -701,7 +714,11 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   color: var(--text);
   text-decoration: none;
   line-height: 1.55;
-  white-space: nowrap;
+  /* Wrap when the label is wider than the sidebar's 320px cap instead of
+     overflowing into the main column (1.4.10 / 1.4.4). max-content keeps
+     short labels on one line, so the desktop look is unchanged. */
+  white-space: normal;
+  overflow-wrap: anywhere;
   font-size: 1.2rem;
   border-left: 3px solid transparent;
   transition: background 0.15s, color 0.15s;
@@ -761,18 +778,23 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
     border-right: none;
     border-bottom: 1px solid #ddd;
     padding: 0.5rem 0;
-    overflow-x: auto;
   }
+  /* 1.4.10 Reflow — stack the sidebar links vertically instead of scrolling them
+     horizontally, so at 400% zoom / 320px there is no horizontal scrollbar and
+     labels wrap rather than run off-screen. */
   .ctc-sidebar > ul {
-    display: flex;
-    flex-wrap: nowrap;
+    display: block;
     border-top: none;
     padding-top: 0;
-    gap: 0;
-    white-space: nowrap;
   }
-  .ctc-sidebar > ul > li { display: inline-flex; align-items: center; }
-  .ctc-sidebar > ul > li > a { padding: 0.5rem 0.9rem; font-size: 0.78rem; white-space: nowrap; }
+  .ctc-sidebar > ul > li { display: block; }
+  .ctc-sidebar > ul > li > a {
+    display: block;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.78rem;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
   /* Hide child sub-nav on mobile — parent link covers it.
      Scoped to .ctc-sidebar so it outranks `.ctc-sidebar ul { display: block }`. */
   .ctc-sidebar .sidebar-children { display: none; }

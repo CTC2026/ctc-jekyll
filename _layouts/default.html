@@ -46,12 +46,25 @@
       var btn = document.querySelector('.nav-toggle');
       var nav = document.getElementById('main-nav');
       var list = nav && nav.querySelector('ul');
+      var header = document.querySelector('header');
       if (!btn || !list) return;
+      // Cap the open dropdown to the space between the sticky header's bottom and
+      // the viewport bottom, so at high zoom (1.4.10 Reflow) the menu scrolls
+      // internally instead of running off-screen — keeping lower items reachable
+      // by keyboard (2.1.1). CSS carries a fixed-subtraction fallback; this makes
+      // it header-height-aware (the header grows when text is enlarged).
+      function sizeMenu() {
+        if (!list.classList.contains('nav-open')) return;
+        var below = header ? header.getBoundingClientRect().bottom : 60;
+        list.style.maxHeight = Math.max(0, window.innerHeight - below) + 'px';
+      }
       btn.addEventListener('click', function() {
         var open = list.classList.toggle('nav-open');
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
         btn.setAttribute('aria-label', open ? 'Close navigation menu' : 'Open navigation menu');
+        if (open) sizeMenu(); else list.style.maxHeight = '';
       });
+      window.addEventListener('resize', sizeMenu);
     })();
   </script>
 
