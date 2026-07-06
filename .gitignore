@@ -32,6 +32,7 @@ node_modules/
 package.json
 package-lock.json
 a11y-repro.mjs
+a11y-axe.mjs
 
 # Local environment variables (API keys — do not commit)
 .env
