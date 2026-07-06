@@ -51,3 +51,7 @@ a11y-axe.mjs
 # Generated subtitle working files
 assets/subtitles/*_soundlabels.vtt
 assets/subtitles/*_audiodesc_audio/
+
+# local video working copies (uploaded to R2, never committed)
+clips_out/
+video_sources.tsv

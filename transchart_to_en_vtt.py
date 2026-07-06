@@ -6,6 +6,12 @@ each VTT cue's Chinese text against the transchart rows to find the English
 translation. Works even when one transchart row covers multiple VTT cues
 (e.g., multi-line singing verses).
 
+Speaker labels from the transchart's English column (e.g. "Lin Zhaode
+(singing):") are kept and re-attached to the output, but only when the speaker
+changes — so the caption identifies who is speaking (MDAS 1.2.2) without needing
+a manual pass. Location cues (bracketed scene changes) still need to be added by
+hand, since condensing them to a short tag takes judgment.
+
 Usage:
     python transchart_to_en_vtt.py <zh_vtt> <transchart_docx> <output_en_vtt> --clip N
 
@@ -53,6 +59,19 @@ def strip_speaker_label(text):
     return text
 
 
+def split_speaker(text):
+    """Split 'Speaker (action): body' into (speaker, body).
+
+    The speaker keeps its own parenthetical (e.g. 'Lin Zhaode (singing)'), which
+    the caption track needs. Returns (None, text) when there is no speaker prefix.
+    """
+    text = text.replace("\xa0", " ").strip()
+    m = re.match(r"^([^\:：]{1,40})[\:：]\s*(.*)$", text, re.S)
+    if m:
+        return m.group(1).strip(), m.group(2).strip()
+    return None, text
+
+
 def strip_stage_notes(en_text):
     """Remove inline stage direction parentheticals from English text."""
     return re.sub(r"\([^)]+\)\s*", "", en_text).strip()
@@ -64,7 +83,12 @@ def normalize_zh(text):
 
 
 def parse_clip_table(table):
-    """Return list of (zh_clean, zh_norm, en_clean) for dialogue rows only."""
+    """Return list of (zh_clean, zh_norm, en_body, en_speaker) for dialogue rows.
+
+    en_body is the translation with its speaker prefix split off (so matching and
+    verse-splitting work on the words alone) and inline action notes removed; the
+    speaker is kept separately and re-attached at output time, only when it changes.
+    """
     entries = []
     for row in table.rows[1:]:  # skip header
         cells = [c.text.replace("\xa0", " ").strip() for c in row.cells]
@@ -76,9 +100,10 @@ def parse_clip_table(table):
         if is_stage_direction(zh_raw, en_raw):
             continue
         zh_clean = strip_speaker_label(zh_raw)
-        en_clean = strip_stage_notes(strip_speaker_label(en_raw))
+        en_speaker, en_body = split_speaker(en_raw)
+        en_body = strip_stage_notes(en_body)
         zh_norm = normalize_zh(zh_clean)
-        entries.append((zh_clean, zh_norm, en_clean))
+        entries.append((zh_clean, zh_norm, en_body, en_speaker))
     return entries
 
 
@@ -253,12 +278,20 @@ def main():
 
     output_cues = []
     unmatched = []
+    prev_speaker = None
     for cue, match in zip(cues, translations):
         if match is None:
             unmatched.append(cue["text"])
             en = f"[UNMATCHED: {cue['text']}]"
         else:
             en = match[0]
+            speaker = entries[match[1]][3]
+            # Prefix the speaker only when it changes (MDAS 1.2.2), matching the
+            # caption convention of not repeating the label on continuation lines.
+            if speaker and speaker != prev_speaker:
+                en = f"{speaker}: {en}"
+            if speaker:
+                prev_speaker = speaker
         output_cues.append({**cue, "en": en})
 
     write_vtt(output_cues, args.output_en_vtt)
