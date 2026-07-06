@@ -56,7 +56,7 @@ In his own day as well as in subsequent dynasties, Guan Hanqing came to be known
 > <span lang="zh">驅梨園領袖</span>，<span lang="zh">總編修師首</span>，<span lang="zh">捻雜劇班頭</span> (Zhong, *Luguibu sanzhong*, 131)
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/Guan_General_Intro_3.jpg" alt=" ">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/Guan_General_Intro_3.jpg" alt="">
   <figcaption><strong>Fig. 3.</strong> 1958 Chinese postage stamp with invented portrait of Guan Hanqing, for the 700th anniversary of his works. Source: Wikimedia Commons.</figcaption>
 </figure>
 

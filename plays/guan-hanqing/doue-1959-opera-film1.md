@@ -134,12 +134,12 @@ The comical sequence with the parrot was calculated to align with the tastes and
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt=" ">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt="Lai Heung in a blue robe strides with arms raised in a walled courtyard while Tau Ngo in orange watches.">
   <figcaption><strong>Fig. 5.</strong> Lai Heung mimes Scholar Choi's gait before Tau Ngo. Source: The film.</figcaption>
 </figure>
 
 <figure class="module-figure-right" style="margin-top:-1.5rem">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt=" ">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt="Tau Ngo in orange poses mid-step in the same courtyard while Lai Heung in blue looks on by a wooden railing.">
   <figcaption><strong>Fig. 6.</strong> Tau Ngo mimes Scholar Choi's gait before Lai Heung. Source: The film.</figcaption>
 </figure>
 
