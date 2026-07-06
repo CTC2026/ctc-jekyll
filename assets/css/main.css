@@ -693,9 +693,15 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   border-right: 1px solid #ddd;
   padding: 3rem 0;
   overflow-wrap: break-word;
-  min-height: 100vh;
   position: sticky;
   top: 60px;
+  /* Cap the sidebar to the space below the sticky 60px header and let it scroll
+     internally. Without this, a zoomed-in sidebar taller than the viewport pins
+     at top:60 and its lower links are clipped below the fold — Tab focus moves
+     to them but the page can't scroll them into view (2.4.3 / 2.4.7). Fixed
+     height (not min-height) also keeps the beige panel/divider full-height. */
+  height: calc(100vh - 60px);
+  overflow-y: auto;
   align-self: flex-start;
 }
 
@@ -775,6 +781,11 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
     flex: none;
     width: 100%;
     min-height: unset;
+    /* Undo the desktop internal-scroll cap so the stacked sidebar grows to its
+       full height in normal page flow. */
+    height: auto;
+    max-height: none;
+    overflow-y: visible;
     border-right: none;
     border-bottom: 1px solid #ddd;
     padding: 0.5rem 0;
