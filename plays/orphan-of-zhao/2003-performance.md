@@ -5,7 +5,7 @@ permalink: /plays/orphan-of-zhao/2003-performance/
 play_id: orphan-of-zhao
 play_title: Orphan of Zhao
 banner_image: /assets/images/OrphanZhao_ResourceBanner.png
-media_type: 'Beijing Opera <span lang="zh">京剧</span>'
+media_type: Recording of Live Performance
 ---
 
 
@@ -15,6 +15,8 @@ media_type: 'Beijing Opera <span lang="zh">京剧</span>'
 </figure>
 
 ## Links To The Recording
+
+- [A video of the performance with Mandarin Chinese subtitles (simplified) on bilibili.](https://www.bilibili.com/video/BV1LW411y7pG/?spm_id_from=333.788.videocard.0)
 
 <div class="module-info">
 <h2>Information</h2>
