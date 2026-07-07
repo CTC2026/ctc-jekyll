@@ -77,6 +77,7 @@ a:hover { text-decoration: underline; }
 main p a,
 main li a,
 main blockquote a,
+main figcaption a,
 main td a { text-decoration: underline; }
 img { max-width: 100%; height: auto; display: block; }
 
