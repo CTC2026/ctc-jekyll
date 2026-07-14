@@ -53,7 +53,7 @@
     var currentAudio = null;
     var lastCueIdx = -1;
 
-    var DUCK_VOLUME = 0.1; // video volume while a description plays
+    var DUCK_VOLUME = 0.3; // video volume while a description plays
 
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
