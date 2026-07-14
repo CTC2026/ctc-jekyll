@@ -60,12 +60,12 @@ In the original *zaju* versions, in the prologue (\"wedge\" <span lang="zh">楔�
 In the scene "Massacre" ("Chaojia" <span lang="zh">抄家</span>), Cheng Ying is the messenger tipping off Zhao Shuo that Tu'an Gu is on his way to kill the Zhao family. Then, Cheng comes up with a plan to safely transfer the newborn baby out of the palace.
 
 <div class="clip-section">
-  <h3><a href='https://www.bilibili.com/video/BV1LW411y7pG/?spm_id_from=333.788.videocard.0'>A video of the performance with Mandarin Chinese subtitles (simplified) on bilibili.</a></h3>
   <div class="video-wrap">
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <p class="clip-caption">Clip 1: Cheng Ying's Creation of an Escape Plan for the Imperial Son-in-Law and the Princess. Source: The drama on <a target="_blank" href="https://www.bilibili.com/video/BV1LW411y7pG/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=3837">Bilibili</a>.</p>
 </div>
 
 <details class="translation">
@@ -125,6 +125,7 @@ The second part of first act of the original *zaju* relays the encounter between
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2003-performance/Zhaoshi_2003_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
+  <p class="clip-caption">Clip 2: Cheng Ying's Taunting of General Han Jue. Source: The drama on <a target="_blank" href="https://www.bilibili.com/video/BV1LW411y7pG/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=3837">Bilibili</a>.</p>
 </div>
 
 <details class="translation">
