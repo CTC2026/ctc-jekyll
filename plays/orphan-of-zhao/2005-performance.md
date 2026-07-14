@@ -10,13 +10,13 @@ director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 ---
 
 
-## Link to the Production
+## Links to the Production
 - A video of the production with Chinese (simplified) subtitles on [YouTube](https://youtu.be/FDfqk-BLNUw?si=C_TSeImRLy1c4Bsj).
 
 - A video of the production with Chinese (simplified) subtitles on [Bilibili](https://www.bilibili.com/video/BV1Nx411H7H1/?spm_id_from=333.337.search-card.all.click).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt=""Prince of Yue opera" Zhao Zhigang. Source: Xinmin Evening Newspaper, Dec. 22, 2024.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt="Studio portrait of a man in a black jacket and dark turtleneck, looking off to one side against a blue backdrop.">
   <figcaption><strong>Fig. 1.</strong> Portrait of "Prince of Yue opera" Zhao Zhigang, one of the rare and the most renowned Yue opera male actors active on the predominantly female contemporary Yue opera stage. Credit: <a href="https://paper.xinmin.cn/html/xmwb/2024-12-22/9/199520.html"><em>Xinmin Evening Newspaper</em> (<em>Xinmin wanbao</em> <span lang="zh">新民晚报</span>)</a>, December 22, 2024.</figcaption>
 </figure>
 
