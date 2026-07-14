@@ -54,6 +54,9 @@
     var lastCueIdx = -1;
 
     var DUCK_VOLUME = 0.3; // video volume while a description plays
+    var AD_VOLUME = 0.55;  // description volume: the AD voice is normalised ~5.5 dB
+                           // hotter than the quiet 1964 film track, so play it below
+                           // full scale to sit level with the film's normal volume
 
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
@@ -96,7 +99,7 @@
       stopAudio();
       var n = String(activeCueIdx + 1).padStart(2, '0');
       currentAudio = new Audio(base + 'cue_' + n + '.mp3?v=5');
-      currentAudio.volume = 1;        // description at full volume
+      currentAudio.volume = AD_VOLUME; // description level (see AD_VOLUME above)
       video.volume = DUCK_VOLUME;     // duck the film audio underneath it
       currentAudio.addEventListener('ended', function () { video.volume = 1; });
       currentAudio.play().catch(function (e) { console.warn('AD audio play blocked:', e); });
