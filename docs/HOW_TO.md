@@ -80,6 +80,17 @@ Raw originals   →   Edit/trim/resize  →   Upload for web  →   Live website
 9. [How to Publish Your Changes](#9-how-to-publish-your-changes)
 10. [Using Claude Code (AI) to Generate and Edit Content](#10-using-claude-code-ai-to-generate-and-edit-content)
 
+### Companion Guides
+
+Detailed guides for specific tasks. This document links to each one where it comes up, but they are all listed here so you can find them directly.
+
+| Guide | Use it when you are… |
+|---|---|
+| [Subtitles, Sound Labels, and Audio Descriptions](HOW_TO_subtitles_and_audio.md) | Creating the accessibility files for a video clip |
+| [Clip Sourcing and Alignment](HOW_TO_clip_source_and_alignment.md) | Looking for a clearer source for a clip, or re-cutting one so its subtitles and audio description still line up |
+| [Topaz Upscaling](HOW_TO_topaz_upscaling.md) | Improving a clip's quality when no clearer source exists |
+| [Alt Text](HOW_TO_alt_text.md) | Writing the description of an image for screen readers |
+
 ---
 
 ## 1. What You Need to Install
