@@ -13,7 +13,9 @@ Use Topaz when a video clip:
 
 You do **not** need to upscale clips that are already clear and high-resolution.
 
-> **Always look for a clearer source first — upscaling is a last resort.** Before upscaling, search for a higher-quality version of the same clip (a better YouTube or Bilibili upload, an official restoration, a Blu-ray/DVD rip, etc.). A genuinely higher-resolution source always looks better than an upscaled low-resolution one. Only upscale when no clearer source can be found.
+> **Always look for a clearer source first — upscaling is a last resort.** Before upscaling, search for a higher-quality version of the same clip (a better YouTube or Bilibili upload, an official restoration, a Blu-ray/DVD rip, etc.). A genuinely higher-resolution source always looks better than an upscaled low-resolution one. Only upscale when no clearer source can be found. See the [clip sourcing and alignment guide](HOW_TO_clip_source_and_alignment.md) for how to check a candidate source and re-cut a clip from it.
+
+> **Upscaling can make a clip worse.** Feiyimeng clips 3 and 4 were upscaled to `1920x1080`, but the extra pixels held no extra detail: dark areas broke into blocks, and the film's wide scope frame had been cropped to fill 16:9. Both were later replaced with a clean **native 480p** source that looked better and was about ten times smaller. If you upscale, compare the result against the original at full size before accepting it.
 
 ---
 
