@@ -5,7 +5,7 @@ permalink: /plays/orphan-of-zhao/2005-performance/
 play_id: orphan-of-zhao
 play_title: Orphan of Zhao
 banner_image: /assets/images/OrphanZhao_ResourceBanner.png
-media_type: 'Yue Opera <span lang="zh">越剧</span>'
+media_type: Recording of Live Performance
 director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 ---
 
@@ -17,7 +17,7 @@ director: 'Wang Xiaoying <span lang="zh">王晓鹰</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_1.png" alt="Studio portrait of a man in a black jacket and dark turtleneck, looking off to one side against a blue backdrop.">
-  <figcaption><strong>Fig. 1.</strong> Portrait of "Prince of Yue opera" Zhao Zhigang, one of the rare and the most renowned Yue opera male actors active on the predominantly female contemporary Yue opera stage. Credit: <a href="https://paper.xinmin.cn/html/xmwb/2024-12-22/9/199520.html"><em>Xinmin Evening Newspaper</em> (<em>Xinmin wanbao</em> <span lang="zh">新民晚报</span>)</a>, December 22, 2024.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Portrait of "Prince of Yue opera" Zhao Zhigang, one of the rare and the most renowned Yue opera male actors active on the predominantly female contemporary Yue opera stage. Source: This portrait is sourced from <a href="https://paper.xinmin.cn/html/xmwb/2024-12-22/9/199520.html"><em>Xinmin Evening Newspaper</em> (<em>Xinmin wanbao</em> <span lang="zh">新民晚报</span>)</a>, December 22, 2024.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -46,7 +46,7 @@ In his role as Cheng Ying, Zhao Zhigang sought to carve out a space for alternat
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_2.jpg" alt="Yin Guifang's portrayal of Qu Yuan in 1954, winning First Prize for Actors at the East China Opera Joint Showcase. Source: Meili Yueju WeChat.">
-  <figcaption><strong>Fig. 2.</strong> Image of Yin Guifang's portrayal of <em>Qu Yuan</em> in 1954. According to the caption found at the bottom of the image, in 1954, Yin Guifang participated in the East China Opera Joint Showcase with her play <em>Qu Yuan</em>, and won the First Prize for Actors. Kun and Peking Opera Master Yu Zhenfei commented that "the portrayal of Minister Qu Yuan by Yin Guifang captured the character's true spirit, contained considerable depth and was near perfect. My attempt at portraying Qu Yuan was put to shame in comparison with hers, so I gave up…and do not dare to play Qu Yuan again." Credit: <a href="https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ">Meili Yueju WeChat</a>.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> Image of Yin Guifang's portrayal of <em>Qu Yuan</em> in 1954. According to the caption found at the bottom of the image, in 1954, Yin Guifang participated in the East China Opera Joint Showcase with her play <em>Qu Yuan</em>, and won the First Prize for Actors. Kun and Peking Opera Master Yu Zhenfei commented that "the portrayal of Minister Qu Yuan by Yin Guifang captured the character's true spirit, contained considerable depth and was near perfect. My attempt at portraying Qu Yuan was put to shame in comparison with hers, so I gave up…and do not dare to play Qu Yuan again." Source: The image is sourced from a quality <a href="https://mp.weixin.qq.com/s/uG5XZP0Ql1E1CDYMawjiHQ">Wechat official account article</a> focusing on the history and particulars of Yin Guifang's Qu Yuan play.</figcaption>
 </figure>
 
 Zhao's idiosyncratic mix of roles had roots in his own training. Zhao's teacher Yin Guifang <span lang="zh">尹桂芳</span> (1919-2000), the creator of Yue opera's "Yin School" <span lang="zh">尹派</span>," was an important source of inspiration for Zhao's portrayal of Cheng Ying. One of Yin's signature and yet also unconventional roles was the 1954 portrayal of the lead role in *Qu Yuan* <span lang="zh">屈原</span>, a play written by famous feminist Republican-era writer Su Qing <span lang="zh">苏青</span> (1914-1982) about the trials and tribulations of the famous Warring-State poet and minister-in-exile. Despite initial opposition from her fans unaccustomed to Yin's typical romantic-scholar roles onstage, Yin Guifang's performance of Qu Yuan was imbued with a certain historical and political gravitas absent from the normative scholar-beauty narratives of the Yue opera stage (see Fig. 2). Yin's novel performance of the figure of Qu Yuan received high praise from renowned dramatist Tian Han <span lang="zh">田汉</span> (1898-1968), Beijing opera master Zhou Xinfang <span lang="zh">周信芳</span> (1895-1975), Kun opera master Yu Zhenfei <span lang="zh">俞振飞</span> (1902-1993), as well as the spoken drama and film star Zhao Dan <span lang="zh">赵丹</span> (1915-1980) alike. In fact, Zhao Dan, who had previously performed Qu Yuan in a spoken drama, commended Yin Guifang for surpassing his own rendition of the poet-cum-statesman.
@@ -55,12 +55,12 @@ Interestingly, it is worth noting that the costume and makeup design of Zhao Zhi
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_3.jpg" alt="Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. Source: Univ. of Leeds Digital Library of Chinese Theatre.">
-  <figcaption><strong>Fig. 3.</strong> Features Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. At the time of <em>The Orphan</em>, the couple were real-life partners, but they later divorced. Credit: <a href="https://ahc.leeds.ac.uk/research-project/93/school-of-languages-cultures-and-societies/795/chinese-theatre">University of Leeds Digital Library of Chinese Theatre <span lang="zh">中国戏剧资料库</span></a>.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Features Zhao Zhigang as Cheng Ying and Sun Zhijun as Cheng Ying's wife. At the time of <em>The Orphan</em>, the couple were real-life partners, but they later divorced. Source: This image is sourced from the entry of Yue opera's <em>The Orphan of Zhao</em> in the <a href="https://ahc.leeds.ac.uk/research-project/93/school-of-languages-cultures-and-societies/795/chinese-theatre">University of Leeds' Digital Library of Chinese Theatre <span lang="zh">中国戏剧资料库</span></a>.</figcaption>
 </figure>
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_4.png" alt="Close-up of Zhao Zhigang's facial makeup, showing resemblance to Yin Guifang's Qu Yuan (Fig. 2). Source: Bilibili. Credit: Screenshot by author.">
-  <figcaption><strong>Fig. 4.</strong> A close-up shot of Zhao Zhigang's facial makeup, sourced from a TV documentary about the production process of Yue opera's <em>The Orphan of Zhao</em>. Fig. 3 &amp; Fig. 4 together show that the costume and makeup design of Zhao Zhigang's Cheng Ying present striking visual resemblance with Yin Guifang's <em>Qu Yuan</em> in Fig. 2. Credit: <a href="https://www.bilibili.com/video/BV1ry4y1g7De/?spm_id_from=333.788.videopod.episodes&vd_source=5c5a9c22214b5444dce3315355b092a8&p=2">Bilibili</a>. Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 4.</strong> A close-up shot of Zhao Zhigang's facial makeup, sourced from a TV documentary about the production process of Yue opera's <em>The Orphan of Zhao</em>. Fig. 3 &amp; Fig. 4 together show that the costume and makeup design of Zhao Zhigang's Cheng Ying present striking visual resemblance with Yin Guifang's <em>Qu Yuan</em> in Fig. 2. Source: This image is sourced from <a href="https://www.bilibili.com/video/BV1ry4y1g7De/?spm_id_from=333.788.videopod.episodes&vd_source=5c5a9c22214b5444dce3315355b092a8&p=2">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 ## Plot Summary
@@ -125,7 +125,7 @@ Strikingly, after much internal torment, Cheng Ying raises the sword, with which
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_5.jpg" alt="A giant sword descends from above as Tu'an Gu disappears into the crowd.">
-  <figcaption><strong>Fig. 5.</strong> A giant sword descends from above into the crowd as Tu'an Gu disappears. Credit: <a href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>. Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 5.</strong> A giant sword descends from above into the crowd as Tu'an Gu disappears. Source: This image is sourced from <a href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 The final scene reaches its climax when Cheng Ying poignantly yet reflexively sings out his intention of forsaking revenge. Notably, he delivers these lines *a cappella* without musical accompaniment. The lack of a pre-structured rhythm along with the absence of musical accompaniment (*qingban* <span lang="zh">清板</span>) as embellishment instill a sense of spontaneity and plainness, signaling what is being said comes straight from Cheng Ying's heart. The freedom within the rhythm also musically embodies Cheng Ying's detachment from hatred and sorrow. Moreover, the melody pays tribute to the aesthetically delicate Yin school as its tenderness underscores Cheng Ying's emotional display, again registering a certain soft masculinity. Cheng Ying decides not to kill Tu'an Gu—or more precisely, not to be ultimately bound to an unquestioned mission of karmic revenge (*yuan bao yuan* <span lang="zh">冤报冤</span>). His refusal to resort to the violent resolution of revenge can also be seen as another aspect of his soft masculinity. As Cheng Ying sings, the giant sword that symbolically represents violence gradually ascends and disappears from the stage.
@@ -184,7 +184,7 @@ Significantly, after taking his bow as the actor at the standing ovation, Zhao Z
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/orphan-of-zhao/2005-performance/Zhaoshi_2005_RecordedPerf_6.png" alt="Zhao Zhigang, still in costume as Cheng Ying, discards the sword during the standing ovation — a Brechtian moment of detachment from revenge.">
-  <figcaption><strong>Fig. 6.</strong> A spotlight highlights the sword thrust to the ground before the stage goes dark. Credit: <a href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>. Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 6.</strong> A spotlight highlights the sword thrust to the ground before the stage goes dark. Source: This image is sourced from <a href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <details class="works-consulted" markdown="1">
