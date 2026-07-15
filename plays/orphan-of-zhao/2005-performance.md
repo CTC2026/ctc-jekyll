@@ -89,6 +89,7 @@ The Yue opera version of *The Orphan of Zhao* effectively utilizes new masculine
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Cheng Ying's vulnerable moment. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>.</p>
 </div>
 
 In the Peking opera rendition, Cheng Ying's extreme pain after losing his own son is only temporarily indicated through a series of ritualized movements, in which he turbulently moves the water sleeves, while ferociously stirring up his beard (see CTC "The Orphan of Zhao" module [2003](/plays/orphan-of-zhao/2003-performance/) and [2011](/plays/orphan-of-zhao/2011-tv/)). This set of movements abstractly signifies the extreme shock, pain, and emotional turmoil that Cheng Ying feels when witnessing how his son is smashed onto the ground. The Yue opera rendition instead dwells on Cheng Ying's emotional struggle. For one, Cheng Ying has to keep the secret of the true identity of the child to himself; at the same time, he has to endure being reviled by everyone else for having seemingly betrayed the orphan after having sacrificed his own child. Here, Cheng Ying is portrayed at his most vulnerable: he is full of agony and on the brink of despair.
@@ -130,6 +131,7 @@ Cheng Ying's song is delivered in the *Xianxia* tune (*Xianxia diao* <span lang=
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Cheng Ying's forsaking of revenge. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>.</p>
 </div>
 
 The most critical departure from the *zaju* plot is the Yue opera play's ending: Cheng Ying gives up on taking revenge against Tu'an Gu. As Cheng Ying places his hand on the sword needed to kill Tu'an Gu, the latter asks sarcastically: "Why don't you be quick about it?\" <span lang="zh">你怎么还不下手</span>. Adding to the dramatic tension, Cheng Ying's wife urges him to kill Tu'an Gu as well: "Kill him and avenge our murdered son!\" <span lang="zh">快杀了他</span> <span lang="zh">替我们的儿子报仇</span>. Then a huge onstage crowd escalates the request for the execution of Tu'an Gu, collectively chanting: "Kill him! Kill him!\" <span lang="zh">杀了他</span> <span lang="zh">杀了他</span>
@@ -170,6 +172,7 @@ The final scene reaches its climax when Cheng Ying poignantly yet reflexively si
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: The physician's benevolent heart. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>.</p>
 </div>
 
 Cheng Ying's forsaking of revenge should not be understood as a simple decision, but one that arises from quite a complex mindset. Cheng Ying certainly thinks that Tu'an Gu deserves to be killed: his decision to spare Tu'an Gu's life at the end does not mean that Cheng Ying decides to forgive Tu'an Gu personally for all his evil deeds, including the killing of Cheng's own son. It is rather that Cheng decides to let go of his attachment to the mission of revenge that seeks justice for bloodshed by perpetrating further bloodshed. In other words, Cheng Ying chooses to move on because he chooses to be a humanist rather than someone who blindly follows the mission of loyalty. The rationale for such a change has at least two sources. For one, there is an old Chinese saying passed down from the ancient physician Sun Simiao <span lang="zh">孙思邈</span>, ancient "China's King of Medicine" (*Yaowang* <span lang="zh">药王</span>): "The physician has a benevolent heart" (*yizhe renxin* <span lang="zh">医者仁心</span>), a phrase from the first work in Chinese history to comprehensively theorize and prescribe the ethics of physicians. Being benevolent (*ren*), a Confucian virtue and in this case an ethical requirement for a physician, means to treat others with humaneness. Cheng Ying decides to uphold the virtue at the heart of his profession as a commoner physician (*zaoyi yiren* <span lang="zh">草泽医人</span>), as he has upheld it throughout his life by healing people and saving lives. Second, the consciousness towards humanness very likely reflects China's post-Cultural-Revolution theme of humanism, as explored in Wang Xiaoying's other theatrical works. At the very end, we hear an ethereal female voice from the backstage, and again not accompanied with any music:
@@ -201,6 +204,7 @@ The onstage crowd --- rarely seen on Chinese opera stage --- assumes multiple fu
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: Zhao Zhigang's/Cheng Ying's "Brechtian" discarding of the sword. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=FDfqk-BLNUw">YouTube</a>.</p>
 </div>
 
 The value of non-violence is again reiterated during the standing ovation that the performance received from the audience. As the show ends, the stage fades to black and a spotlight highlights the sword previously buried in the ground by Cheng Ying. This is a deliberately silent, emphatic moment for the entire audience to reflect on the notion of revenge after viewing the play.
