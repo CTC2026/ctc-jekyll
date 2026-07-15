@@ -63,7 +63,7 @@ The song "Path on the Outskirts" is not only memorable as a standalone hit, but 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng <span lang="zh">鄧麗君</span>. Source: Youtube.</p>
+  <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng <span lang="zh">鄧麗君</span>. Source: <a target="_blank" href="https://www.youtube.com/watch?v=fqH58_ieYXM">YouTube</a>.</p>
 </div>
 
 This module focuses on how this Huangmei opera film blended operatic traditions with the conventions of film noir. The film employs noir-ish elements but also deviates from classic noir's narrative structure. Through such flexible adaptative choices, the film negotiates its attitude towards Hong Kong's legal system. Ceded to the United Kingdom after the Opium War (1839–42), Hong Kong remained a British crown colony after World War II (it became a "British dependent territory" in 1983). To build its post-war economy, British Hong Kong welcomed business from both US-sponsored Taiwan and communist China. The colonial government kept a "neutral" political stance, balancing demands from both camps. This oftentimes involved turning a blind eye to "minor" skirmishes and lax applications of laws as long as the public order remained undisturbed. Crucially, the colonial government also abused this rhetoric of neutrality to sideline critiques of genuine social problems of the Hong Kong society. Without explicitly referring to Cold War politics, *The Crimson Palm* holds an ambivalent attitude towards the colonial government's neutrality, while offering cinematic entertainment.
@@ -96,7 +96,7 @@ Film noir often opens with a scene that implies murder. *The Crimson Palm* begin
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_2.jpg" alt="Film title card: &quot;血手印&quot; above, &quot;The Crimson Palm&quot; below, in red on a dark, blood-stained door">
-  <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. The characters <span lang="zh">血手印</span> are written right to left, as is typical in the traditional Chinese typographic layout used in Hong Kong. Source: <em>The Crimson Palm</em> on YouTube. Credit: Screenshot by author from a link that is defunct. Please use the links at the head of the page to access the film.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> The title card of <em>The Crimson Palm</em>. The characters <span lang="zh">血手印</span> are written right to left, as is typical in the traditional Chinese typographic layout used in Hong Kong. Source: <em>The Crimson Palm</em> on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="clip-section">
@@ -115,7 +115,7 @@ Film noir often opens with a scene that implies murder. *The Crimson Palm* begin
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 1: The opening scene of The Crimson Palm. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 1: The opening scene of The Crimson Palm. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 ### Path on the Outskirts (26:40–29:08)
@@ -140,7 +140,7 @@ Lin (i.e., Ivy Ling Po) sings the song on his way at night to fetch the gold fro
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 2: "Path on the Outskirts" by Ivy Ling Po. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 2: "Path on the Outskirts" by Ivy Ling Po. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -185,7 +185,7 @@ By contrast, the Huangmei opera film does not distinguish between different sing
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 3: Qianjin impersonates the ghost of Xuechun. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 3: Qianjin impersonates the ghost of Xuechun. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -216,7 +216,7 @@ True to the plot formula of film noir, near its end, the film depicts a scene of
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_3.jpg" alt="In a garden, Xuechun looks around searching while Zhang Peizan in robes covers his face with sleeves">
-  <figcaption><strong>Fig. 3.</strong> Zhang Peizan disguises himself as Lin Zhaode, covering his face with his sleeves to deceive the maid Xuechun in the garden, in <em>The Crimson Palm</em>. Source: <em>The Crimson Palm</em> on YouTube. Credit: Screenshot by author from a link that is defunct. Please use the links at the head of the page to access the film.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Zhang Peizan disguises himself as Lin Zhaode, covering his face with his sleeves to deceive the maid Xuechun in the garden, in <em>The Crimson Palm</em>. Source: <em>The Crimson Palm</em> on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="clip-section">
@@ -235,7 +235,7 @@ True to the plot formula of film noir, near its end, the film depicts a scene of
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 4: The scene of denouement. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 4: The scene of denouement. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
