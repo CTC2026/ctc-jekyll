@@ -90,6 +90,12 @@ The most famous and iconic scene of the entire play is "Eating Husks" ("Chikang"
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Example 2: The Use of Melisma for Affective Emphasis**
@@ -119,6 +125,12 @@ In the aria set to the tune "Song of Filial Love" ("Xiaoshun ge" <span lang="zh"
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -153,6 +165,12 @@ In the scene "Taking Leave at the In-Laws' Grave" ("Biefen" <span lang="zh">åˆ«å
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -194,6 +212,12 @@ As is typical of comic roles, Mother Cai has few singing passages, all of which 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Example 2: Punning Use of Speech and Body Language**
@@ -211,6 +235,12 @@ Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to th
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Example 3: Using Exaggerated Body Language**
@@ -222,6 +252,12 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -244,6 +280,12 @@ Mother Cai swallows the husks and chokes to death. The death is shown in a sligh
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 

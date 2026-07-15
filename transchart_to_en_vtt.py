@@ -145,18 +145,22 @@ def assign_sentences_to_positions(en_sents, n):
     m = len(en_sents)
     if n <= m:
         return [(min(k * m // n, m - 1), 0, 1) for k in range(n)]
-    extra = n - m
-    word_counts = [len(s.split()) for s in en_sents]
-    sorted_by_len = sorted(range(m), key=lambda idx: word_counts[idx], reverse=True)
-    doubled = set(sorted_by_len[:extra])
+    # n > m: some sentences must be split across multiple cue positions.
+    # Distribute the n positions across the m sentences as evenly as possible;
+    # the longest sentences absorb the extra splits. Handles n > 2*m too (a
+    # single sentence split into 3+ parts), which the old doubling-only logic
+    # could not, and which crashed with an IndexError.
+    base, rem = divmod(n, m)
+    longest_first = sorted(range(m), key=lambda idx: len(en_sents[idx].split()), reverse=True)
+    parts = {idx: base for idx in range(m)}
+    for idx in longest_first[:rem]:
+        parts[idx] += 1
     result = []
     for s_idx in range(m):
-        if s_idx in doubled:
-            result.append((s_idx, 0, 2))
-            result.append((s_idx, 1, 2))
-        else:
-            result.append((s_idx, 0, 1))
-    return result  # length == n
+        total = parts[s_idx]
+        for occ in range(total):
+            result.append((s_idx, occ, total))
+    return result  # length == sum(parts) == n
 
 
 def match_all(cues, entries):
@@ -170,7 +174,10 @@ def match_all(cues, entries):
     pointer = 0  # current position in entries
 
     for i, cue in enumerate(cues):
-        cue_norm = normalize_zh(cue["text"])
+        # Strip the speaker label from the cue too: the Chinese VTT now carries
+        # labels (e.g. "林肇德 [唱]:"), and leaving them in would keep the first
+        # line of a verse from matching its transchart row.
+        cue_norm = normalize_zh(strip_speaker_label(cue["text"]))
         matched = False
         # Search forward from pointer
         for j in range(pointer, len(entries)):

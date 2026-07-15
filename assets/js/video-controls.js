@@ -129,23 +129,38 @@
     }
   });
 
-  // On load: default each video to Chinese subtitles if available, else English
+  // On load: disable controls that have no matching track, then default each
+  // video to Chinese subtitles (else English) if any subtitle track exists.
+  // The markup carries the full button row on every clip for visual
+  // consistency; buttons whose track isn't present yet are disabled rather
+  // than left as dead controls (they light up automatically once the track
+  // is added).
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.clip-section').forEach(function (section) {
       var video = section.querySelector('video');
       if (!video) return;
       setupADPlayback(video);
       var tracks = video.textTracks;
-      var hasZh = false;
+      var hasZh = false, hasEn = false, hasAD = false;
       for (var i = 0; i < tracks.length; i++) {
-        if (tracks[i].kind !== 'descriptions' && tracks[i].language === 'zh') {
-          hasZh = true;
-          break;
-        }
+        if (tracks[i].kind === 'descriptions') hasAD = true;
+        else if (tracks[i].language === 'zh') hasZh = true;
+        else if (tracks[i].language === 'en') hasEn = true;
       }
-      var defaultLang = hasZh ? 'zh' : 'en';
-      switchSub(video, defaultLang);
-      syncSubBtns(section, defaultLang);
+      section.querySelectorAll('.sub-btn').forEach(function (btn) {
+        var lang = btn.dataset.lang;
+        var ok = (lang === 'zh' && hasZh) || (lang === 'en' && hasEn) ||
+                 (lang === 'off' && (hasZh || hasEn)) || (lang === 'ad' && hasAD);
+        if (!ok) {
+          btn.disabled = true;
+          btn.setAttribute('aria-disabled', 'true');
+        }
+      });
+      if (hasZh || hasEn) {
+        var defaultLang = hasZh ? 'zh' : 'en';
+        switchSub(video, defaultLang);
+        syncSubBtns(section, defaultLang);
+      }
     });
   });
 })();

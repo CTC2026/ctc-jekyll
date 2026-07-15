@@ -52,6 +52,12 @@ The song "Path on the Outskirts" is not only memorable as a standalone hit, but 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_5_2x.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 5: "Path on the Outskirts" cover version by Teresa Teng <span lang="zh">鄧麗君</span>. Source: Youtube.</p>
 </div>
 
@@ -90,9 +96,19 @@ Film noir often opens with a scene that implies murder. *The Crimson Palm* begin
 
 <div class="clip-section">
   <div class="video-wrap">
-    <video id="clip1" controls crossorigin="anonymous">
+    <video id="clip1" controls crossorigin="anonymous"
+           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip1/">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_1_2x.mp4" type="video/mp4">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_1/Feiyimeng_1964_OperaFilm_Clip_1_captions_ch.vtt" default>
+      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_1/Feiyimeng_1964_OperaFilm_Clip_1_captions_en.vtt">
+      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_1/Feiyimeng_1964_OperaFilm_Clip_1_audiodesc.vtt">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 1: The opening scene of The Crimson Palm. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
@@ -105,16 +121,19 @@ Lin (i.e., Ivy Ling Po) sings the song on his way at night to fetch the gold fro
 
 <div class="clip-section">
   <div class="video-wrap">
-    <video id="clip2" controls crossorigin="anonymous">
+    <video id="clip2" controls crossorigin="anonymous"
+           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip2/">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_2_2x.mp4" type="video/mp4">
-      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip2-zh.vtt">
-      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/feiyimeng-clip2-en.vtt">
+      <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_2/Feiyimeng_1964_OperaFilm_Clip_2_captions_ch.vtt">
+      <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_2/Feiyimeng_1964_OperaFilm_Clip_2_captions_en.vtt">
+      <track kind="descriptions" label="Audio Description" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_2/Feiyimeng_1964_OperaFilm_Clip_2_audiodesc.vtt">
     </video>
   </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 2: "Path on the Outskirts" by Ivy Ling Po. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=xbU47S3J8mg">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>

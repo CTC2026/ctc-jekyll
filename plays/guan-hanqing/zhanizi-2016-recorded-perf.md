@@ -72,6 +72,12 @@ The play opens with a dialogue between the Lady of the House and Yanyan. The Lad
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 1: Rather Die than Get Married: A Maid Rejecting Social Norms. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -103,6 +109,12 @@ In this scene, Yanyan is ordered to bring a quilt to Li Weide. While moving on t
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 2: A Heart in Turmoil: Yanyan's Romantic Passions. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
@@ -137,6 +149,12 @@ This scene is almost completely devoid of sung or spoken lines. Instead it focus
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 3: Fear and Worry: Seduction. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -158,6 +176,12 @@ This clip showcases the somatic components of emotions on the stage and illustra
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 4: Pain and Anger: Heartbreak. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
@@ -188,6 +212,12 @@ Moreover, Yanyan's movements on the stage show not only how shaken she is, but a
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 5: Unspeakable Sadness: The Symbol of the Moth. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>
@@ -222,6 +252,12 @@ Dignified, defiant, and vengeful are the adjectives that can be used to describe
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/zhanizi-2016-recorded-perf/Zhanizi_2016_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 6: Yanyan's Ultimate Defiance: Suicide. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
 </div>

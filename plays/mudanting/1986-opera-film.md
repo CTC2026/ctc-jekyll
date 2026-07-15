@@ -81,6 +81,12 @@ Du Liniang even paints a portrait of herself after seeing her "thin" and "frail"
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 Having just returned from the garden, Du Liniang has now had a taste of freedom. The excursion prompts a deep reflection of how societal conditions have deprived her of the ability to pursue her own happiness. While she sings of a "turbulent heart" that accommodates her newfound thoughts of love, she slowly turns from side to side while sitting at her table, demonstrating the countless emotions that render her heart so tumultuous as well as her dissatisfaction over what she has been denied. She then slowly stands up, momentarily sits back down, and rises again to move to the front of the table, where she spins her "water sleeves" (*shuixiu* <span lang="zh">水袖</span>, long, exaggerated sleeves that resemble the flow of water when projected). During the next few lines, she laments the prospect of arranged marriage and condemns it as disingenuous. Such disdain is evident when she brings her hands together to convey the idea of arranged marriage, then releases her sleeves to condemn how it forces her to "throw" her youth away. As she makes her way around the front of the table, she again spins or releases her sleeves multiple times to express her intense agitation. She eventually returns to her chair and sits down slowly, letting her hands, which are raised in front of her chest, fall to her side, and letting her sleeves drop with a sigh full of hopelessness, while singing that only Heaven will listen to her lamentations.
@@ -106,6 +112,12 @@ Having just returned from the garden, Du Liniang has now had a taste of freedom.
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -138,6 +150,12 @@ At the end of this clip, a hint of crying becomes evident in the singer's voice 
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 

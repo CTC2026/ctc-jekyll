@@ -851,6 +851,16 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 .sub-btn:hover { background: var(--red); color: white; }
 .sub-btn.active { background: var(--red); color: white; }
+/* Disabled = track not present yet. Grey it out and override the default
+   .active state so a bare clip's default-Chinese button doesn't look live.
+   Disabled controls are exempt from 1.4.3 contrast. */
+.sub-btn:disabled {
+  border-color: #bbb;
+  color: #999;
+  background: transparent;
+  cursor: not-allowed;
+}
+.sub-btn:disabled:hover { background: transparent; color: #999; }
 
 .module-subtitle {
   margin-bottom: 1.5rem;

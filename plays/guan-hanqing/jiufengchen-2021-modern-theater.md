@@ -80,6 +80,12 @@ In addition, the seventh month is also when the Festival of the Weaving Goddess 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 1: Pan'er prepares food and invites ghost courtesans to partake of food offerings during the Ghost festival, thus ushering three new ghostly characters into the play. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -95,6 +101,12 @@ In Act 1, Yinzhang leaves from Kaifeng for Zhengzhou, determined to become a res
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 2: Yinzhang moves from Kaifeng to Zhengzhou to marry Zhou She, accompanied by the ghosts who tell stories about the miseries they suffered after they married into big families. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -105,6 +117,12 @@ In Act 3, Pan'er travels from Kaifeng to Zhengzhou to rescue Yinzhang from her d
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 3: Pan'er travels from Kaifeng to Zhengzhou to rescue Yinzhang from her disastrous marriage. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
@@ -123,6 +141,12 @@ In addition to lambasting his play, the ghosts also ridicule Scholar An's self-a
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 4: Scholar An proudly introduces his new play to Pan'er, while the ghosts, invisible to Scholar An, ruthlessly mock the plot of his play. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -138,6 +162,12 @@ The original *Saving a Courtesan* celebrates female friendship and presents swor
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 5: The ghosts demand to watch something exciting: a war play with kung fu and acrobatics, a play about the Monkey King, or a play about the three sworn brothers. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -150,6 +180,12 @@ In *Rescuing One's Sister*, the conversation between the ghosts and Pan'er takes
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_6.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 6: The ghosts urge Pan'er not to forget her obligation toward her sworn sister. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
@@ -166,6 +202,12 @@ To make this point even more explicit, Ng replaces the anonymous judge with Judg
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 7: The ghosts reveal themselves in court and accuse Zhou She of murder. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -178,6 +220,12 @@ Pan'er astutely sees through the fundamental inequality of the law and thereupon
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_Clip_8.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 8: After the case concludes, Yinzhang decides there will be no wedding. Source: The production on <a target="_blank" href="https://www.youtube.com/watch?v=M_NHOGEpCVc">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>

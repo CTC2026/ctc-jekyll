@@ -80,6 +80,12 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Mulan asks her father whether it's right for men and women to come forward and defend our country**
@@ -129,6 +135,12 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Mulan fights with her father**
@@ -151,6 +163,12 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -179,6 +197,12 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Mulan leaves for the border**
@@ -188,6 +212,12 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_Clip_5.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 

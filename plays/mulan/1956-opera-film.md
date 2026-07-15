@@ -67,6 +67,12 @@ The first transformation scene (29:43-31:40) takes place at Mulan's home. Mulan'
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 The second transformation scene, albeit an imaginary one, takes place when she serves in the army. As Mulan imagines that she has returned home, she restores her feminine identity. She unconsciously adopts a feminine style in her gestures and postures. However, after she uses a piece of curtain as handkerchief to cover her face—a quintessentially female gesture—she suddenly realizes that she is still in her male disguise. Thereupon, she once again assumes a male posture by putting her hands behind her back. (1:26:46-1:27:08). Thus, the film suggests that even during her service in the army, she never loses touch with her feminine identity.
@@ -92,6 +98,12 @@ The second transformation scene, albeit an imaginary one, takes place when she s
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_2.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -129,6 +141,12 @@ First, we hear Mulan's feminine voice resound from the inner chamber. Then, when
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 

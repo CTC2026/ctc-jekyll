@@ -94,6 +94,12 @@ A three-way comparison between the earliest edition of Wang Shifu's text (1499),
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 In comparing the 1960s recording to the 2011 version, we can see that the latter is quite loyal to Yuan's rendition, including the lyrics, movements, and gestures. However, some interesting differences between the two renditions can still be detected. For instance, in the song "A Phoenix Seeking his Mate," the 1960s version keeps the archaic sentence final particle xi <span lang="zh">兮</span>, while the 2011 version changes xi to the colloquial particle o <span lang="zh">哦</span>. In addition, the melody of the song differs in the two versions. For another, the two versions differ in how Student Zhang moves when he says that he is not a second Sima Xiangru <span lang="zh">司马相如</span> (B.C. 179 – B.C. 117). In the 1960s version, Student Zhang (played by Fan Ruijuan <span lang="zh">范瑞娟</span>) sits on a bench, while in the 2011 rendition (played by Qian Huili <span lang="zh">钱惠丽</span>), he stands up and walks closer to Yingying. At the same time, in the 1960s rendition, after Hongniang uses an excuse to leave Yingying alone with Zhang, Yingying remains at her spot. In the 2011 version, Yingying is portrayed as more coy; she starts to fidget and attempts to have Hongniang stay with her.
 
@@ -120,6 +126,12 @@ When Zhang sees Hongniang, he describes her as "behaving in a respectable and di
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 **Integrity**
 
@@ -144,6 +156,12 @@ When Hongniang refuses to help Zhang to send his letter to Cui, Zhang offers her
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 If Hongniang is represented as a proper maid, how does she inhabit this mischievous and cheerful role type? One way to create a light comic touch is to emphasize Hongniang's illiteracy and lack of understanding of literary traditions.
 
@@ -177,6 +195,12 @@ When Hongniang and Cui come to the garden, they both comment on the scenery. Whi
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>

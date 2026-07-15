@@ -67,6 +67,12 @@ In the opening scene, Divine Judge (cast as the comic, *jing* <span lang="zh">�
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 1: Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) horsing around on stage. Source: The production on Bilibili.</p>
 </div>
 
@@ -102,6 +108,12 @@ Divine Judge explains why he refuses to let Poorlass into the temple. He has som
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 2: Divine Judge explains why he refuses to let Poorless into the temple. Source: The production on Bilibili.</p>
 </div>
 
@@ -134,6 +146,12 @@ Similarly, when Little Demon later suggests that he hopes that Poorlass and Zhan
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 3: Little Demon and Divine Judge speculate about Poorlass and Zhang Xie. Source: The production on Bilibili.</p>
 </div>
 
@@ -146,6 +164,12 @@ Xiao'er (cast in the role of *chou* <span lang="zh">丑</span>) attempts to brea
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 4: Xiao'er breaks the door played by Divine Judge and Little Demon. Source: The production on Bilibili.</p>
 </div>
@@ -183,6 +207,12 @@ In this interlude, Divine Judge and Little Demon "assume the role of a door" (*z
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 5: Divine Judge (right) and Little Demon (left) perform a door. Source: The production on Bilibili.</p>
 </div>
 
@@ -216,6 +246,12 @@ Zhang Xie asks the Little Demon and Divine Judge to perform a door for the new h
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 6: Feeling exploited, Little Demon and Divine Judge use jokes to complain. Source: The production on Bilibili.</p>
 </div>
 
@@ -247,6 +283,12 @@ Here, Zhang Xie meets up with a eunuch from the palace. After hearing that he is
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 7: Zhang Xie meets up with an eunuch from the palace. Source: The production on Bilibili.</p>
 </div>
 
@@ -276,6 +318,12 @@ In Chinese, the severity shown during the first encounter is called "*xiama wei*
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_8.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 8: Wang Deyong requests that Zhang Xie dismount from his horse. Source: The production on Bilibili.</p>
 </div>
@@ -310,6 +358,12 @@ The following excerpt plays with the double meaning of the character *ku* <span 
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_9.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 9: Wang Deyong is asking his assistant clerk to perform a chair. Source: The production on Bilibili.</p>
 </div>
@@ -352,6 +406,12 @@ To add to the humor, Wang Deyong suddenly realizes the inappropriate nature of h
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_10.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 10: Wang Deyong sets up a parallel between the solemn matter of marriage and the mundane activity of purchasing a salted fish. Source: The production on Bilibili.</p>
 </div>
 
@@ -373,6 +433,12 @@ While gods and deities should typically present themselves as imposing authoriti
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_11.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 11: Two deities reveal themselves as greedy gluttons who seek to gobble up the meat. Source: The production on Bilibili.</p>
 </div>
@@ -401,6 +467,12 @@ Zhang Xie discusses the importance of life and reputation several times in the c
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_12.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 12: When Zhang Xie was robbed and first understood that life is more important than reputation, Poorlass corrects him, saying that the old saying says that "reputation matters (<span lang="zh">名节事大</span>)." Source: The production on Bilibili.</p>
 </div>
 
@@ -427,6 +499,12 @@ Officials are supposed to be steadfast in their adherence to Confucian principle
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_13.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 13: Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili.</p>
 </div>
@@ -469,6 +547,12 @@ When Xiao'er breaks the door, which is played by Divine Judge and Little Demon, 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_14.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 14: "The door is so soft that it is not steady today." Source: The production on Bilibili.</p>
 </div>
 
@@ -504,6 +588,12 @@ As a narrator, Little Demon is aware of the entire plot; as a character, he is p
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_15.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 15: "He and I are both characters in a play now!" Source: The production on Bilibili.</p>
 </div>
 
@@ -528,6 +618,12 @@ As a narrator, Little Demon is aware of the entire plot; as a character, he is p
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_16.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 16: Fake sitting. Source: The production on Bilibili.</p>
 </div>
@@ -558,6 +654,12 @@ Wang Deyong is played by the same clown role actor (*chou* <span lang="zh">丑</
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_Clip_17.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 17: Costume (identity) changes on the stage. Source: The production on Bilibili.</p>
 </div>

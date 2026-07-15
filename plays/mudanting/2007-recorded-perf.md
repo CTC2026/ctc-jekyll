@@ -72,6 +72,12 @@ The video clips listed below are arranged around the representation of "*qing*" 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 This clip is extracted from the iconic scene "Startled from the Dream." In this scene, Du Liniang roams around in the garden, while Du Bao, her father, is away on official business. With its profusion of blooming flowers, the garden sparks Liniang's romantic imagination. As she languidly begins to nap, she sees a young and handsome scholar, who holds out a willow branch to her and asks her to write a poem. In the dreamscape of the garden, they become quickly enamored of each other.
@@ -104,6 +110,12 @@ The "bump" or collision in this scene serves as a turning point in Liniang's emo
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_2.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 In Kunqu, sleeves are often considered an extension of the actor's body. In this scene from the play, during their first meeting, Liniang behaves with caution and shyness, while Liu Mengmei gently touches her sleeve and picks it up, as if touching her arms and hands. The sleeve movements make Liu Mengmei's expression of his deep affection for Liniang and his desire for greater intimacy with her more delicate, creating an ambiguous space for the expression of love. While Wang Shiyu, one of the performance instructors for the "Youth Edition," contributed the iconography of the sleeves, the "Youth Edition" rendition nevertheless consistently emphasizes the softness and beauty of long sleeves in an effort to create a perfect aesthetic world.
@@ -115,6 +127,12 @@ In Kunqu, sleeves are often considered an extension of the actor's body. In this
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_3.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -132,6 +150,12 @@ This is their "first glance" the second time around. However, the physical conta
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 In this scene from *The Peony Pavilion*, after spending an intimate night together, Liu Mengmei and Du Liniang have several interactions with their bare hands. However, when they walk down the stairs to the center of the stage, Liu Mengmei grasps Liniang's wrist covered by her sleeve rather than directly holding her hand.
@@ -148,6 +172,12 @@ This physical contact between their bodies, sleeves, and hands implies an increa
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_5.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 <div class="clip-section">
@@ -155,6 +185,12 @@ This physical contact between their bodies, sleeves, and hands implies an increa
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_6.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -180,6 +216,12 @@ While the act of "hiding" itself could be an echo of the behavioral norms for a 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_7.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 On the stage, eye contact is another common strategy for expressing love. In this scene, the characters soulfully gaze into each other's eyes. As the camera zooms in on their faces, narrative time is extended. While they dance, their eyes nevertheless remain fixed on each other.
@@ -201,6 +243,12 @@ On the stage, eye contact is another common strategy for expressing love. In thi
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_8.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 
@@ -241,6 +289,12 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_9.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 </div>
 
 **Major Characters' Chorus [31:12–34:00]**
@@ -264,6 +318,12 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_Clip_10.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
 </div>
 

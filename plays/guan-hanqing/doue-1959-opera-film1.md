@@ -76,6 +76,12 @@ In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi 
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_1.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 1: Tau Ngo is introduced to Lai Heung by Madam Choi. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -108,6 +114,12 @@ Although Tau Ngo suspects that her intended is coming home, she is too shy to as
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_2.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
@@ -153,6 +165,12 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_3.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 3: Tau Ngo and Lai Heung mime Scholar Choi's gait. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -171,6 +189,12 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_4.mp4" type="video/mp4">
     </video>
   </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
   <p class="clip-caption">Clip 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
@@ -188,6 +212,12 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_5.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 5: The cunning Cheung Lou takes advantage of Lai Heung. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
@@ -211,6 +241,12 @@ The trial at the end of the film dramatizes and amplifies Lai Heung's disability
     <video controls>
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_Clip_6.mp4" type="video/mp4">
     </video>
+  </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
   <p class="clip-caption">Clip 6: Scholar Choi interprets signing gestures. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=cL7Dq2XrfSI">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>

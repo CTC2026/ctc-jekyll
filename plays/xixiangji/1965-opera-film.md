@@ -57,6 +57,12 @@ In his examination of how playwright Wang Shifu <span lang="zh">王實甫</span>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_1.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 To capitalize on actress Li Ching's fame, Shaw Brothers' *West Chamber* continued to portray Hongniang as a central figure in the story. The film's posters and DVD covers always featured Hongniang as one of the main protagonists, second only to Ling Po's Student Zhang. Additionally, the character of Cui Yingying, who is traditionally the main female protagonist in the story, is often positioned as the third actress on the list. For example, the initial film credits present the characters and their actresses in a specific sequence. Without visual representation of the characters, the film first introduces the name of Student Zhang, portrayed by Ling Po, followed by Hongniang, played by Li Ching. As on the posters, the character of Cui Yingying, portrayed by Fang Yin, is presented as the third key figure. More importantly, this film elevates the visibility and importance of the character Hongniang through various means. Two specific scenes will be discussed below.
 
@@ -85,6 +91,12 @@ When Student Zhang first meets Hongniang and Yingying, the audience first hears 
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_2.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 ### The Interrogation (1:33:52-1:37:22)
 
@@ -123,6 +135,12 @@ The second example that highlights Hongniang is the famous rearranged scene of "
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_3.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 Upon learning of the affair, Madam Cui threatens to report the matter to the local court. Hongniang boldly interrupts Madam Cui and blames her for the affair, an atypically forward move for someone of her social station. In Wang Shifu's original playtext, Hongniang's listing of Madam Cui's mistakes had taken the form of dialogue rather than a song. By contrast, in the film, Hongniang asserts her agency by challenging Madam Cui's authority in an extended aria. She identifies three mistakes committed by Madam Cui in parallel form. In the delivery of this long aria about who should bear the blame for Zhang's and Yingying's affair, Hongniang demonstrates her moral discernment of right and wrong as well as her skills of persuasion. Through her powerful vocal performance, body gestures, and strategic use of pauses and emotional inflections, Hongniang successfully convinces Madam Cui to pursue Hongniang's proposed course of action. In Wang Shifu's playtext, Hongniang humbly says that she "would not dare presume to decide what's right," but hopes Madam Cui will give the matter consideration (<span lang="zh">紅娘不敢自專，乞望夫人台鑒</span>).
 
@@ -147,6 +165,12 @@ In the Shaw's *West Chamber*, Hongniang's characterization was possibly mediated
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_4.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 ### The Second Reprimand (1:38:54-1:41:50)
 
@@ -186,6 +210,12 @@ Instead of just providing explanations and offering gentle prodding, Hongniang's
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_Clip_5.mp4" type="video/mp4">
   </video>
 </div>
+  <div class="subtitle-controls" role="group" aria-label="Subtitle language">
+    <button class="sub-btn active" data-lang="zh">Chinese</button>
+    <button class="sub-btn" data-lang="en">English</button>
+    <button class="sub-btn" data-lang="off">Off</button>
+    <button class="sub-btn" data-lang="ad">Audio Description</button>
+  </div>
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
