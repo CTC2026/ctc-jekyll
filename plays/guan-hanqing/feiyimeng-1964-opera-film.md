@@ -49,7 +49,8 @@ The song "Path on the Outskirts" is not only memorable as a standalone hit, but 
 <div class="clip-section">
   <div class="video-wrap">
     <video id="clip5" controls crossorigin="anonymous"
-           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip5/">
+           data-ad-mp3-base="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/audiodesc_clip5/"
+           data-ad-volume="1" data-duck-volume="0.15">
       <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_Clip_5_2x.mp4" type="video/mp4">
       <track kind="subtitles" srclang="zh" label="中文" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_5/Feiyimeng_1964_OperaFilm_Clip_5_captions_ch.vtt" default>
       <track kind="subtitles" srclang="en" label="English" src="https://ctc2026.github.io/ctc-jekyll/assets/subtitles/guan-hanqing/feiyimeng-1964-opera-film/clip_5/Feiyimeng_1964_OperaFilm_Clip_5_captions_en.vtt">

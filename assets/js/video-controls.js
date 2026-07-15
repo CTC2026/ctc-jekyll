@@ -53,10 +53,14 @@
     var currentAudio = null;
     var lastCueIdx = -1;
 
-    var DUCK_VOLUME = 0.3; // video volume while a description plays
-    var AD_VOLUME = 0.55;  // description volume: the AD voice is normalised ~5.5 dB
-                           // hotter than the quiet 1964 film track, so play it below
-                           // full scale to sit level with the film's normal volume
+    // Volumes default to values tuned for the quiet 1964 film clips, but a clip
+    // can override them with data-duck-volume / data-ad-volume. Louder modern
+    // material (e.g. the Teresa Teng concert clip) needs a harder duck and a
+    // fuller AD level so the description is not buried under the music.
+    var DUCK_VOLUME = parseFloat(video.dataset.duckVolume);
+    if (isNaN(DUCK_VOLUME)) DUCK_VOLUME = 0.3; // video volume while a description plays
+    var AD_VOLUME = parseFloat(video.dataset.adVolume);
+    if (isNaN(AD_VOLUME)) AD_VOLUME = 0.55;    // description playback volume
 
     function stopAudio() {
       if (currentAudio) { currentAudio.pause(); currentAudio = null; video.volume = 1; }
