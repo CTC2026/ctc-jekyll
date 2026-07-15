@@ -243,6 +243,31 @@ A browser window will open — log in with the project's Cloudflare account cred
 
 ---
 
+### Step F — Install the video tools (for sourcing and cutting clips)
+
+These are needed to download a video segment from YouTube, cut it, and re-encode it for the web — see the [clip sourcing and alignment guide](HOW_TO_clip_source_and_alignment.md). You only need them if you are working with video clips.
+
+> **On a university or work computer, check your IT policy before installing or using these.** All three are free and open-source and run locally, but some institutions require approval for any installed software. In particular, downloading from YouTube with yt-dlp may raise terms-of-service or copyright questions — confirm with the project supervisor or OSU IT that your use is cleared before relying on it.
+
+- **yt-dlp** — downloads a segment from YouTube (or similar sites)
+- **ffmpeg** — cuts, trims, and re-encodes the clip; also extracts frames and measures audio
+- **deno** — a JavaScript runtime that yt-dlp needs in order to list every available resolution
+
+**🍎 Mac**
+```
+brew install yt-dlp ffmpeg deno
+```
+
+**🪟 Windows**
+```
+winget install yt-dlp.yt-dlp Gyan.FFmpeg DenoLand.Deno
+```
+(Or download ffmpeg from https://ffmpeg.org/download.html and add it to your PATH.)
+
+> **Keep yt-dlp up to date.** YouTube changes often, and an outdated yt-dlp may fail to download or silently hide the higher-resolution formats — so you could reject a source that is actually better. Update it with `brew upgrade yt-dlp` (Mac) or `winget upgrade yt-dlp.yt-dlp` (Windows).
+
+---
+
 ### Using Claude Code to complete the installation
 
 If you are not comfortable running commands yourself, you can use **Claude Code** — the AI assistant built into VS Code — to guide you through or complete the entire installation automatically.
@@ -288,6 +313,7 @@ from scratch. Please install the following tools in the correct order:
 4. Python and the pip packages: google-generativeai openai
 5. Node.js
 6. Wrangler (Cloudflare CLI)
+7. (Only if I will work with video clips) yt-dlp, ffmpeg, and deno
 
 After each step, confirm it was successful before moving to the next one.
 ```
