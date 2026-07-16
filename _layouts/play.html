@@ -12,7 +12,7 @@ layout: default
 
 <div class="ctc-sidebar-layout">
 
-  <nav class="ctc-sidebar" aria-label="{{ page.play_title | escape }} navigation">
+  <nav class="ctc-sidebar sidebar-{{ page.play_id }}" aria-label="{{ page.play_title | escape }} navigation">
     <ul>
       {% assign nav = site.data.play_nav[page.play_id] %}
       {% for item in nav %}

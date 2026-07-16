@@ -765,6 +765,13 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
   border-left-width: 2px;
 }
 
+/* Xixiangji has the longest module labels (e.g. "Revolutionary Opera (1976)"),
+   which push the auto-sized (max-content) sidebar to its 320px cap. Shrink the
+   type for this play only so the sidebar sits narrower. */
+.sidebar-xixiangji ul li a { font-size: 1.05rem; }
+.sidebar-xixiangji > ul > li:first-child > a { font-size: 1.2rem; }
+.sidebar-xixiangji .sidebar-children li a { font-size: 0.95rem; }
+
 .ctc-sidebar-main {
   flex: 1;
   min-width: 0;
