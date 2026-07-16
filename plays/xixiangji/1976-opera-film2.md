@@ -10,6 +10,10 @@ media_type: Beijing Opera Film
 director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 ---
 
+## Link to the Film
+
+- [The film with Chinese (simplified) and English subtitles on Bilibili.](https://www.bilibili.com/video/BV1Ps411v7Ht/)
+
 <div class="module-info">
 <h2>Information</h2>
 <dl>
