@@ -10,6 +10,11 @@ media_type: Recording of a Live Performance
 director: 'Wu Chen <span lang="zh">吴琛</span>'
 ---
 
+## Links to the Recording
+
+- [A video of the performance on bilibili with simplified Chinese subtitles](https://www.bilibili.com/video/BV19b411t7zR/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=880) (higher resolution).
+- [A video of the performance on YouTube with simplified Chinese subtitles](https://www.youtube.com/watch?v=4guCH9uTSbQ).
+
 <div class="module-info">
 <h2>Information</h2>
 <dl>
