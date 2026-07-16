@@ -10,6 +10,11 @@ media_type: Huangmei Opera Film
 director: 'Yueh Feng (Griffin Yueh) <span lang="zh">岳楓</span>'
 ---
 
+## Links to the Film
+
+- [The film with Mandarin Chinese subtitles (simplified) on bilibili.](https://www.bilibili.com/video/BV1q6YyeFEK4/)
+- [The film's official trailer (English subtitles) on YouTube.](https://www.youtube.com/watch?v=YKK-echB3Aw)
+
 <div class="module-info">
 <h2>Information</h2>
 <dl>
