@@ -6,8 +6,16 @@ permalink: /plays/xixiangji/1958-comic/
 play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
-media_type: Comic Book (Lianhuanhua)
+media_type: Lianhuanhua (Narrative Comics)
 ---
+
+## Links to the Lianhuanhua
+
+- The 1957 16-panel color version by Wang Shuhui can be found on the website [Chinese Calligraphy & Painting Net](http://www.cnzihua.cn/shuhuazatan/37159.html).
+- A "storytelling performance" of the 1958 *Western Wing* lianhuanhua is available at the following links. All three videos were posted by the user My Little Person Books <span lang="zh">我的小人书</span> (the term "little person book" is an alternative name for lianhuanhua).
+  - [With a male narrator.](https://www.youtube.com/watch?v=a5vZnpxXLBU)
+  - [With a female narrator.](https://www.youtube.com/watch?v=W3Ch3AfnmhA)
+  - [With a female narrator, but with the panels framed as if they are playing on television, with no captions, only audio narration.](https://www.youtube.com/watch?v=15p9yZXqJEo)
 
 <div class="module-info">
 <h2>Information</h2>
@@ -243,7 +251,7 @@ Second, speech bubbles, familiar from Western comics, are relatively rare in lia
 
 </details>
 
-In panel 74, Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song. Both the text and the style of the characters are copied here directly from an early version of the lianhuanhua. Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period. There are also some inconsistencies between this printed rendition and the lyrics as they appear printed elsewhere, further underscoring the "messiness" of print culture, even in the modern period.
+In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song. Both the text and the style of the characters are copied here directly from an early version of the lianhuanhua. Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period. There are also some inconsistencies between this printed rendition and the lyrics as they appear printed elsewhere, further underscoring the "messiness" of print culture, even in the modern period.
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg" alt="Panel 75 of the lianhuanhua.">
