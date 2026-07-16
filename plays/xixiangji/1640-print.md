@@ -24,6 +24,11 @@ publisher: 'Min Qiji <span lang="zh">閔薺伋</span> (1580–after 1661)'
 
 - Woodblock Prints held at the [Museum für Ostasiatische Kunst in Cologne](https://mok.kulturelles-erbe-koeln.de/documents/obj/05161815).
 
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_1.jpg" alt="Min Qiji album, portrait of Oriole.">
+  <figcaption><strong>Fig. 1.</strong> Min Qiji album, portrait of Oriole. Source: Min Qiji <span lang="zh">閔薺伋</span>. <em>The Story of the Western Wing</em> <span lang="zh">西廂記</span>, 1640, Woodblock print, 25.5 x 32.2 cm, <a target="_blank" href="https://mok.kulturelles-erbe-koeln.de/documents/obj/05161815/rba_d040420_01">Rheinisches Bildarchiv Köln</a>, accessed Jan. 15, 2024.</figcaption>
+</figure>
+
 <div class="module-info">
 <h2>Information</h2>
 <dl>
@@ -38,11 +43,6 @@ publisher: 'Min Qiji <span lang="zh">閔薺伋</span> (1580–after 1661)'
 </div>
 
 ## Introduction
-
-<figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1640-print/Xixiangji_1640_Print_1.jpg" alt="Min Qiji album, portrait of Oriole.">
-  <figcaption><strong>Fig. 1.</strong> Min Qiji album, portrait of Oriole. Source: Min Qiji <span lang="zh">閔薺伋</span>. <em>The Story of the Western Wing</em> <span lang="zh">西廂記</span>, 1640, Woodblock print, 25.5 x 32.2 cm, <a target="_blank" href="https://mok.kulturelles-erbe-koeln.de/documents/obj/05161815/rba_d040420_01">Rheinisches Bildarchiv Köln</a>, accessed Jan. 15, 2024.</figcaption>
-</figure>
 
 The Museum für Ostasiatische Kunst in Cologne, Germany, holds the only surviving and complete set of one of the most sophisticated print illustrations ever produced of Story of the Western Wing. Although the exact print designer remains unknown, this set of color woodblock prints was published by the publisher Min Qiji <span lang="zh">閔薺伋</span> (1580–after 1661) and will be referred to as the Min Qiji album in this unit. Published in 1640, the set is composed of a title sheet and twenty prints. Each of the twenty prints corresponds to the standard twenty scene division of the drama as established by the early seventeenth century. The prints, however, assume that its sophisticated audience is already familiar with the narrative beats of the drama, because each print is identified only by scene number, and not by any of the scene's titles.
 
