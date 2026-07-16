@@ -920,22 +920,6 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .module-figure img { width: 100%; border: 1px solid #ddd; }
 .module-figure figcaption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; line-height: 1.6; text-align: left; }
 
-/* Two cards side by side (e.g. the 1920 cigarette-card set), matching the
-   original site's paired layout. Each pair shares a translation table below. */
-.card-pair {
-  clear: both;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem 1.5rem;
-  align-items: start;
-  margin: 1.5rem auto;
-  max-width: 720px;
-}
-.card-pair .module-figure { margin: 0; max-width: 100%; }
-@media (max-width: 600px) {
-  .card-pair { grid-template-columns: 1fr; }
-}
-
 .module-figure-left {
   float: left;
   clear: both;
