@@ -12,11 +12,11 @@ director: 'Fang Ying <span lang="zh">方荧</span>'
 
 ## Link to the Film
 
-- The film with Chinese subtitles (simplified) on YouTube.
+- [The film with Chinese subtitles (simplified) on YouTube](https://www.youtube.com/watch?v=Asb5vzwdkp8).
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_1.jpg" alt="Zhang Jiqing passes on her Kunqu experience to Shan Wen, a student of the next generation of performers.">
-  <figcaption><strong>Fig. 1.</strong> Zhang Jiqing <span lang="zh">张继青</span> (in the back) passes on her valuable Kunqu experience to Shan Wen (in front), a student of the next generation of Kunqu performers. Source: This image is sourced from mudan.me.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Zhang Jiqing <span lang="zh">张继青</span> (in the back) passes on her valuable Kunqu experience to Shan Wen (in front), a student of the next generation of Kunqu performers. Source: This image is sourced from <a href="https://mudan.me/post/repost/2012/07/12/%E5%BC%A0%E7%BB%A7%E9%9D%92%E4%BA%B2%E6%8E%88%E5%8D%95%E9%9B%AF%E5%86%8D%E7%8E%B0%E7%BB%8F%E5%85%B8-%E7%89%A1%E4%B8%B9%E4%BA%AD.html">mudan.me</a>.</figcaption>
 </figure>
 
 <div class="module-info">
