@@ -24,8 +24,8 @@ You can find modules that analyze various adaptations of *The Female Mulan Joins
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg" alt="&quot;Four Paragons of Filial Piety&quot; (&quot;Sixiao tu&quot; 四孝圖), Yuan dynasty painting.">
-  <figcaption><strong>Fig. 1.</strong> "Four Paragons of Filial Piety" ("<em>Sixiao tu</em>" <span lang="zh">四孝圖</span>), Yuan dynasty painting.</figcaption>
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg" alt="Yuan dynasty handscroll depicting four scenes of children performing acts of filial devotion for their parents.">
+  <figcaption><strong>Fig. 1.</strong> "Four Paragons of Filial Piety" ("<em>Sixiao tu</em>" <span lang="zh">四孝圖</span>), anonymous Yuan dynasty handscroll. Source: National Palace Museum, Taipei. Open Data Collection, Image Number K2A001544N000000000PAC.</figcaption>
 </figure>
 
 The story of Mulan is one of the most famous and widely disseminated Chinese tales about a female martial hero. The earliest documented version of Mulan's story, the "Ballad of Mulan" ("*Mulan ci*" <span lang="zh">木蘭辭</span>), was likely composed sometime during the Northern Wei period (386-535 CE). Ruled by a Northern steppe people, this dynasty created a new blend of nomadic and agrarian traditions. Mulan, a loving daughter in martial guise, was one such innovation, joining Confucian notions of filial devotion with steppe customs of female martial bravery. It was in the Yuan dynasty---another era characterized by an increasingly cosmopolitan amalgamation of steppe practices, rural culture, and urban life---that we have the first evidence of the story of Mulan entering the theatrical repertoire. Even though all the Yuan *zaju* plays about her have been lost, we can surmise that the development of her tale fit within an expanding corpus of stories about filial heroes.
