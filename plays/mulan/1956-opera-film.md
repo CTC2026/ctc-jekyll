@@ -37,7 +37,7 @@ The script was written and the performance directed by Chang's husband, playwrig
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War.">
-  <figcaption><strong>Fig. 1.</strong> The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War. Source: A screenshot from a CCTV news segment on Chang. Credit: Screenshot by Julia Keblinska.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War. Source: A screenshot from a CCTV <a href="https://m.news.cctv.com/2021/06/02/ARTIJIIycLl7os4RCkclStIF210602.shtml">news segment</a> on Chang. Credit: Screenshot by Julia Keblinska.</figcaption>
 </figure>
 
 ## Plot Summary
@@ -55,11 +55,6 @@ In appreciation of Mulan's martial talents, Marshal He seeks to arrange a marria
 The first transformation scene (29:43-31:40) takes place at Mulan's home. Mulan's parents are hesitant to accept Mulan's idea of joining the army in place of her father. In her quest to convince them, Mulan first defeats her father to show her outstanding martial skill. She then expresses her strong determination to fulfill her filial duties. Mulan's father asks her to put on his armor before he makes the final decision.
 
 **Mulan tries on her father's armor**
-
-<details class="translation" markdown="1">
-<summary>Translation notes for clip 1</summary>
-
-</details>
 
 <div class="clip-section">
   <div class="video-wrap">
