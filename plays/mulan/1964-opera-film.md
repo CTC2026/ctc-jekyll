@@ -12,8 +12,8 @@ director: '<span lang="zh">岳楓</span> (Yueh Feng)'
 
 ## Links to the Film
 
-- [The film with Chinese subtitles (simplified) on YouTube.](https://www.youtube.com/watch?v=8szhBIzc9Xw&ab_channel=FrancisChin)
-- The film with English and Chinese (traditional) subtitles, [part 1](https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin) and [part 2](https://www.youtube.com/watch?v=qAqdgjAbrHE) on YouTube.
+- [The film with Chinese subtitles (simplified) on YouTube.](https://www.youtube.com/watch?v=qAqdgjAbrHE&ab_channel=OODrama%E6%AC%A7%E6%AC%A7%E6%83%85%E6%84%9F%E5%89%A7%E5%9C%BA%E2%80%94%E2%80%94%E5%8D%8E%E8%AF%AD%E6%83%85%E6%84%9F%E5%AE%B6%E5%BA%AD%E4%BC%A6%E7%90%86%E5%89%A7%E7%8B%AC%E6%92%AD)
+- The film with English and Chinese (traditional) subtitles, [part 1](https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin) and [part 2](https://www.youtube.com/watch?v=8szhBIzc9Xw&ab_channel=FrancisChin) on YouTube.
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_1.png" alt="A Hong Kong DVD of the Shaw Brothers' Lady General Hua Mulan distributed by Intercontinental Video Limited.">
