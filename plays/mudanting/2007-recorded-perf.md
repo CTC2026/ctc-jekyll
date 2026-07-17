@@ -12,11 +12,11 @@ media_subtype: Youth Edition
 
 ## Link to the Production
 
-- A video of the performance with Mandarin Chinese Subtitles on bilibili.
+- [A video of the performance with Mandarin Chinese Subtitles on bilibili](https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027).
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Promotion photo featuring Yu Jiulin 俞玖林 (as Liu Mengmei) and Shen Fengying 沈豐英 (as Du Liniang).">
-  <figcaption><strong>Fig. 1.</strong> Promotion photo featuring Yu Jiulin <span lang="zh">俞玖林</span> (as Liu Mengmei) and Shen Fengying <span lang="zh">沈豐英</span> (as Du Liniang). Source: This image can be found on the Culture CNJWANG <span lang="zh">中国吉林网</span> website.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Promotion photo featuring Yu Jiulin <span lang="zh">俞玖林</span> (as Liu Mengmei) and Shen Fengying <span lang="zh">沈豐英</span> (as Du Liniang). Source: This image can be found on the <a href="https://culture.cnjiwang.com/gxt/201609/2221076.html">Culture CNJWANG <span lang="zh">中国吉林网</span> website</a>.</figcaption>
 </figure>
 
 <div class="module-info">
