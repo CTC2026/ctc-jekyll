@@ -20,7 +20,7 @@ media_type: Lianhuanhua (Narrative Comics)
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>The Western Wing <span lang="zh">西厢记</span></dd></div>
+<div><dt>Title</dt><dd><em>The Western Wing</em> <span lang="zh">西厢记</span></dd></div>
 <div><dt>Year</dt><dd>1958 [Reissued 1980]</dd></div>
 <div><dt>Art</dt><dd>Wang Shuhui <span lang="zh">王叔晖</span></dd></div>
 <div><dt>Textual adaptation</dt><dd>Hong Cengling <span lang="zh">洪曾玲</span></dd></div>
