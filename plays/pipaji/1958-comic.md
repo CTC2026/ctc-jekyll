@@ -42,7 +42,7 @@ Although a print of the 1958 *nianhua lianhuanhua* of *The Lute* is not readily 
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_2.jpg" alt="The Western Wing nianhua lianhuanhua as it appears for auction on the old book online marketplace, Kongfz.">
-  <figcaption><strong>Fig. 2.</strong> <em>The Western Wing</em> <em>nianhua lianhuanhua</em> as it appears for auction on the old book online marketplace, Kongfz. Source: User Lotus Bookroom's posting on Kongfz.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> <em>The Western Wing</em> <em>nianhua lianhuanhua</em> as it appears for auction on the old book online marketplace, Kongfz. Source: User Lotus Bookroom's posting on <a href="https://book.kongfz.com/12050/2063611803/">Kongfz</a>.</figcaption>
 </figure>
 
 *The Western Wing* is rendered here in sixteen panels printed on four vertical strips; according to the 2010 reprint, *The Lute*'s 18 panels were originally printed on three strips. Captions to each panel would have appeared beneath the image.
