@@ -59,12 +59,12 @@ In the high socialist period (1949-1978), *lianhuanhua* served not only as enter
 Though Wang Shuhui's version of *The Western Wing* is not identifiably based on any cinematic adaptation of this work, it is related to filmgoing in socialist China when we consider how it was reproduced in the urban environment. In an interview, Wang Shuhui's nephew, illustrator Wang Weideng <span lang="zh">王维澄</span> (1929- ), notes that the panel in which Yingying reads Student Zhang's poetic missive in her bedchamber was reproduced in the much larger scale of a wall poster or mural in 1950s Beijing (the exact format is unclear). The image was bigger, he says, than the wall of his present-day living room. "Propaganda pictures" (*xuanchuanhua* <span lang="zh">宣传画</span>) of all types (posters, murals), were common, colorful sights in the socialist Chinese city (these days, such posters share urban wall space with large electronic screens that likewise show propaganda). In the 1950s case, the image was presumably "subtitled" with exhortations about proper socialist notions of marriage, encouraging young Chinese people to marry for love instead of accepting arranged matches that had been the norm in the pre-revolutionary period. This large-scale (undoubtedly color) reproduction of the panel, Wang Weideng recalls, adorned a wall in Goldfish Alley (*Jinyu hutong* <span lang="zh">金鱼胡同</span>) next to a movie theater. Since reading *lianhuanhua* comics, often rented from street peddlers while waiting to watch a film near a movie theater, was a well-known socialist Chinese pastime, one can easily imagine an urban scene unfolding in this alley as audiences/spectators/readers simultaneously engaged in multiple modes of reading, looking, and listening.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_2.png" alt="A hand points to a sepia ink manuscript: Yingying stands reading a letter as a maid bends over a dresser behind her.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_2.png" alt="Sepia ink manuscript: Yingying reads a letter by an open dressing box as Hongniang tends bedding on a couch behind her.">
   <figcaption><strong>Fig. 2.</strong> This is the panel that Wang Weideng indicates appeared as a propaganda poster. It is a reprint of Wang Shuhui's original drawing manuscript, 10 of which are held by the National Art Museum of China. Source: Bilibili Manhua's <a href="https://www.bilibili.com/video/BV155411w778/">documentary video</a> on Wang's <em>lianhuanhua</em>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_3.jpg" alt="Ink line panel: Yingying stands reading a poem sheet, a maid tidies a dresser behind; a verse box sits top right.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_3.jpg" alt="Ink line panel: Yingying reads a letter by an open dressing box as Hongniang arranges bedding on a couch behind her.">
   <figcaption><strong>Fig. 3.</strong> The analogous scene in the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ For our purposes, the 1950s *lianhuanhua* presents an interesting question about
 First, Student Zhang and Yingying's initial exchange of poetry is mediated through direct speech, that is, quoted lines, in the accompanying caption narrative (panels 20-25).
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg" alt="Ink line panel: Scholar Zhang, back turned, peeks on tiptoe through a latticed window in the garden wall, palms nearby.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg" alt="Ink line panel: Scholar Zhang peeks through a latticed window in the garden wall, leafy plants nearby.">
   <figcaption><strong>Fig. 4.</strong> Panel 20 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ In the panels above, Student Zhang is initially alerted to Yingying and Hongnian
 In the next panels (21, 22), Yingying and Hongniang stand next to an incense burner, presumably visible to Student Zhang who is just beyond the wall at the lattice on the far left of the two panels. In direct speech in the caption, Hongniang expresses Yingying's desire for romantic love (which the maiden is reluctant to say out loud). Yingying does, however, express "the sound of a deep sigh" (*changtan yisheng* <span lang="zh">长叹一声</span>), that "exposes a bitterness in her heart that she could not fully express" <span lang="zh">透露了心中说不尽的幽怨</span>.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg" alt="Ink line panel: Scholar Zhang stands on a rock reciting, head raised, beside a latticed wall and broad palm fronds.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg" alt="Ink line panel: Scholar Zhang stands on a rock reciting, head raised, beside a latticed wall and leafy plants.">
   <figcaption><strong>Fig. 7.</strong> Panel 23 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ This affective transmission is received by the eavesdropping Student Zhang, who 
 On the other side (panel 24), Yingying can be seen listening, her hand raised just so as if to catch sound waves emanating from the lattice on the left side of the panel (an "ear line" to where Student Zhang is speaking from).
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_9.jpg" alt="Ink line panel: Scholar Zhang gathers his robe as if to leap a wall, alone on a rock among palms and rockery.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_9.jpg" alt="Ink line panel: Scholar Zhang gathers his robe as if to leap a wall, alone on a rock among plants and rockery.">
   <figcaption><strong>Fig. 9.</strong> Panel 25 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -218,7 +218,7 @@ In this sequence of panels, then, the latticed window (an architectural element)
 Second, speech bubbles, familiar from Western comics, are relatively rare in *lianhuanhua*. Rather than being used for dialogue, they sometimes "voice" text characters read as we see in two poetic exchanges later in this *lianhuanhua*. In a significant poetic exchange, Student Zhang, desperate to gain Yingying's favor, heeds Hongniang's advice to play the zither for her mistress (panels 69-77). This time, the latticed window and a speech bubble serve to transmit a poetic voice. Specifically, the lyrics convey what the poet Sima Xiangru's <span lang="zh">司马相如</span> (179-118 BCE) sang in the famous zither serenade that reputedly seduced his desired Zhuo Wenjun <span lang="zh">卓文君</span>.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_10.jpg" alt="Ink line panel: Yingying stands alone below a latticed window by a wall, a verse box at right and grass tufts below.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_10.jpg" alt="Ink line panel: Yingying stands alone below a latticed window by a wall, lines of Chinese verse inset at upper right.">
   <figcaption><strong>Fig. 10.</strong> Panel 74 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
