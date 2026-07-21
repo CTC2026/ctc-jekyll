@@ -15,7 +15,7 @@ media_type: Lianhuanhua (Narrative Comics)
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="The first page of The Lute as it appears in the 7th 1985 issue of Lianhuanhua Pictorial.">
-  <figcaption><strong>Fig. 1.</strong> The first page of <em>The Lute</em> as it appears in the 7th 1985 issue of <em>Lianhuanhua Pictorial</em>. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art) &amp; Shi Ming <span lang="zh">士明</span> (text). <span lang="zh">琵琶记</span> ("The Lute"). <span lang="zh">连环画报</span> (<em>Lianhuanhua Pictorial</em>), 1987 no. 7. Credit: UC Berkeley's East Asian Library has this print issue, and the Chinese Studies Librarian, Jianye He, provided the scanned image.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> The first page of <em>The Lute</em> as it appears in the 7th 1985 issue of <em>Lianhuanhua Pictorial</em>. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art) &amp; Shi Ming <span lang="zh">士明</span> (text). <span lang="zh">琵琶记</span> ("The Lute"). <span lang="zh">连环画报</span> (<em>Lianhuanhua Pictorial</em>), 1985 no. 7. Credit: UC Berkeley's East Asian Library has this print issue, and the Chinese Studies Librarian, Jianye He, provided the scanned image.</figcaption>
 </figure>
 
 <div class="module-info">
