@@ -18,7 +18,7 @@ director: 'Wu Chen <span lang="zh">吴琛</span>'
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>The Story of the Western Wing <span lang="zh">西厢记</span></dd></div>
+<div><dt>Title</dt><dd><em>The Story of the Western Wing</em> <span lang="zh">西厢记</span></dd></div>
 <div><dt>Year</dt><dd>2011</dd></div>
 <div><dt>Style</dt><dd>Yueju <span lang="zh">越剧</span>/Shaoxing Opera</dd></div>
 <div><dt>Source</dt><dd><em>Yueju</em> <span lang="zh">越剧</span>/Shaoxing opera stage recording via CCTV 11</dd></div>

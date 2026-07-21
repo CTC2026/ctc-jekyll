@@ -17,7 +17,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd><em>Hongniang</em> (Crimson) <span lang="zh">红娘</span></dd></div>
+<div><dt>Title</dt><dd><em>Hongniang</em> (<em>Crimson</em>) <span lang="zh">红娘</span></dd></div>
 <div><dt>Year</dt><dd>1976</dd></div>
 <div><dt>Genre</dt><dd>Beijing Opera Film</dd></div>
 <div><dt>Director</dt><dd>Chen Fangqian <span lang="zh">陈方千</span> (1920-1985)</dd></div>
