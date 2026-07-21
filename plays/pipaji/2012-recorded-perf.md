@@ -16,7 +16,7 @@ troupe: 'Shanghai Kunqu Opera Troupe <span lang="zh">上海昆剧团</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_1.jpg" alt="A close-up of Liang Guyin in the role of Zhao Wuniang from 2010.">
-  <figcaption><strong>Fig. 1.</strong> A close-up of Liang Guyin <span lang="zh">梁谷音</span> in the role of Zhao Wuniang from 2010. Source: This image is sourced from The Chinese University of Hong Kong.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> A close-up of Liang Guyin <span lang="zh">梁谷音</span> in the role of Zhao Wuniang from 2010. Source: This image is sourced from <a href="https://www.cpr.cuhk.edu.hk/en/press/%E4%B8%AD%E5%A4%A7%E6%98%8E%E6%B8%85%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E6%8E%A8%E5%BB%A3%E5%B4%91%E5%8A%87%E8%97%9D%E8%A1%93%E6%96%BC%E6%9C%AC%E6%B8%AF%E5%9B%9B%E5%A4%A7%E5%AD%B8%E5%B7%A1%E8%BF%B4/">The Chinese University of Hong Kong</a>.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -178,7 +178,7 @@ Visually, every time when Wuniang and Elder Zhang sing lines together, especiall
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_2.png" alt="Screenshot from CCTV 11 with Ji Zhenhua as neighbor Zhang Guangcai on the left and Liang Guyin as Zhao Wuniang on the right as they exchange words of farewell at the tomb of Father and Mother Cai.">
-  <figcaption><strong>Fig. 2.</strong> Screenshot from CCTV 11 with Ji Zhenhua <span lang="zh">计镇华</span> as neighbor Zhang Guangcai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as they exchange words of farewell at the tomb of Father and Mother Cai. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> Screenshot from CCTV 11 with Ji Zhenhua <span lang="zh">计镇华</span> as neighbor Zhang Guangcai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as they exchange words of farewell at the tomb of Father and Mother Cai. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF/?p=2&share_source=copy_web">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 ### 2. Using Various Verbal Techniques and Physical Movements to Create Comic Effects
@@ -226,7 +226,7 @@ Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to th
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_3.jpg" alt="Screenshot from CCTV 11 with Zhang Mingrong as Mother Cai on the left and Liang Guyin as Zhao Wuniang on the right as Wuniang seeks to calm down Mother Cai.">
-  <figcaption><strong>Fig. 3.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as Wuniang seeks to calm down Mother Cai. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as Wuniang seeks to calm down Mother Cai. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="clip-section">
@@ -263,12 +263,12 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_4.jpg" alt="Screenshot from CCTV 11 with Zhang Mingrong as Mother Cai in the center flanked by Zhao Wuniang on the left and Father Cai on the right as they find out the truth about Wuniang's eating habits.">
-  <figcaption><strong>Fig. 4.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai in the center flanked by Zhao Wuniang on the left and Father Cai on the right as they find out the truth about Wuniang's eating habits. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 4.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai in the center flanked by Zhao Wuniang on the left and Father Cai on the right as they find out the truth about Wuniang's eating habits. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_5.jpg" alt="Screenshot from CCTV 11 with Zhang Mingrong as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law.">
-  <figcaption><strong>Fig. 5.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law. Source: The production on Bilibili. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 5.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 **Example 4: Metatheatrical Violation of Role Expectations**
