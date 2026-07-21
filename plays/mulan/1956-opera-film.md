@@ -12,8 +12,8 @@ director: 'Liu Guoquan <span lang="zh">劉國權</span>, Zhang Xinshi <span lang
 
 ## Links to the Film
 
-- [The film with Chinese subtitles (just for the songs) on bilibili.](https://www.bilibili.com/video/BV1c4411n7Fh/?spm_id_from=333.337.search-card.all.click)
-- [The film with Chinese subtitles (for dialogue and songs) on bilibili.](https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1)
+- [The film with Chinese subtitles (just for the songs) on bilibili.](https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1)
+- [The film with Chinese subtitles (for dialogue and songs) on bilibili.](https://www.bilibili.com/video/BV1c4411n7Fh/?spm_id_from=333.337.search-card.all.click)
 
 <div class="module-info">
 <h2>Information</h2>
@@ -33,7 +33,7 @@ director: 'Liu Guoquan <span lang="zh">劉國權</span>, Zhang Xinshi <span lang
 
 The main actress Chang Xiangyu <span lang="zh">常香玉</span> (1923-2004) was a famous Yu opera (<span lang="zh">豫</span>, Henan clapper opera) performer. In 1950, the Korean War (1950-1953) war broke out between North and South Korea to gain control over the Korean peninsula. The two sides were backed by the PR China and the US respectively. Starting in 1951, Chang Xiangyu performed renditions of Hua Mulan in her distinctive style of Henan clapper opera to support Chinese war efforts.
 
-The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang <span lang="zh">陳憲章</span> (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio <span lang="zh">長春電影製片廠</span> adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
+The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang <span lang="zh">陳憲章</span> (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. (Fig. 1) She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio <span lang="zh">長春電影製片廠</span> adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War.">
