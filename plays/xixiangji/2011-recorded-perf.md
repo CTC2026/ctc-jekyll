@@ -35,12 +35,12 @@ director: 'Wu Chen <span lang="zh">吴琛</span>'
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_1.jpg" alt="Image from the production of The Western Wing featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Student Zhang (Qian Huili) and Cui Yingying (Fang Yafen).">
-  <figcaption><strong>Fig. 1.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Student Zhang (Qian Huili <span lang="zh">钱惠丽</span>) and Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>). Source: Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Student Zhang (Qian Huili <span lang="zh">钱惠丽</span>) and Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>). Source: <a href="https://www.cof.gov.hk/2019/tc/yue.html">Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019</a>.</figcaption>
 </figure>
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_2.jpeg" alt="Image from the production of The Western Wing featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Cui Yingying (Fang Yafen) and Hongniang (Zhang Yongmei).">
-  <figcaption><strong>Fig. 2.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>) and Hongniang (Zhang Yongmei <span lang="zh">张咏梅</span>). Source: Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>) and Hongniang (Zhang Yongmei <span lang="zh">张咏梅</span>). Source: <a href="https://www.cof.gov.hk/2019/tc/yue.html">Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019</a>.</figcaption>
 </figure>
 
 Yuan Xuefen <span lang="zh">袁雪芬</span> (1922–2011), the former head of the Shanghai Yue Opera Troupe, passed away on Feb 19th, 2011. To honor Yuan and her transformative contribution to the development and performance of Yue opera, the Shanghai Yue Opera Troupe organized a series of commemorative performances later that same year. One of the performances they chose to pay tribute to was Yuan's rendition of The Story of the Western Wing.
@@ -62,7 +62,7 @@ Having spearheaded Yue opera reform in the 1940s, Yuan was well-known for seekin
 
 ### The Spectrum of Romantic Nuance
 
-A three-way comparison between the earliest edition of Wang Shifu's text (1499), early recordings of Yuan's work, and the 2011 commemorative version show that Yuan's work in the 1960s struck a balance between staying faithful to the explicit nature of the original playtext while also adhering to polite social norms. The earliest available recording of excerpts from Yuan's Western Wing date to the 1960s. One available scene is "Listening to the Lute" (Ting qin <span lang="zh">听琴</span>). In comparing Yuan's version to Wang Shifu's text, we can see that the lyrics in Yuan's adaptation are quite faithful to the original text found below:
+A three-way comparison between the earliest edition of Wang Shifu's text (1499), early recordings of Yuan's work, and the 2011 commemorative version show that Yuan's work in the 1960s struck a balance between staying faithful to the explicit nature of the original playtext while also adhering to polite social norms. The earliest available recording of excerpts from Yuan's Western Wing date to the 1960s. One available scene is "Listening to the Lute" (<a href="https://www.youtube.com/watch?v=FskiDvFT1CI&list=PLW882kcX3aYz5QcXmDUJ--ltvo1DBqxlR&index=43">Ting qin <span lang="zh">听琴</span></a>). In comparing Yuan's version to Wang Shifu's text, we can see that the lyrics in Yuan's adaptation are quite faithful to the original text found below:
 
 <details class="translation" markdown="1">
 <summary>Translation notes for clip 1</summary>

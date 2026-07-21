@@ -13,8 +13,8 @@ media_type: Lianhuanhua (Narrative Comics)
 
 - The 1957 16-panel color version by Wang Shuhui can be found on the website [Chinese Calligraphy & Painting Net](http://www.cnzihua.cn/shuhuazatan/37159.html).
 - A "storytelling performance" of the 1958 *Western Wing* *lianhuanhua* is available at the following links. All three videos were posted by the user My Little Person Books <span lang="zh">我的小人书</span> (the term "little person book" is an alternative name for *lianhuanhua*).
-  - [With a male narrator.](https://www.youtube.com/watch?v=a5vZnpxXLBU)
-  - [With a female narrator.](https://www.youtube.com/watch?v=W3Ch3AfnmhA)
+  - [With a male narrator.](https://www.youtube.com/watch?v=W3Ch3AfnmhA)
+  - [With a female narrator.](https://www.youtube.com/watch?v=a5vZnpxXLBU)
   - [With a female narrator, but with the panels framed as if they are playing on television, with no captions, only audio narration.](https://www.youtube.com/watch?v=15p9yZXqJEo)
 
 <div class="module-info">
@@ -94,7 +94,7 @@ For our purposes, the 1950s *lianhuanhua* presents an interesting question about
 First, Student Zhang and Yingying's initial exchange of poetry is mediated through direct speech, that is, quoted lines, in the accompanying caption narrative (panels 20-25).
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg" alt="Ink line panel: Scholar Zhang stands with his back turned at a garden wall corner, beside palm leaves and rockery.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_4.jpg" alt="Ink line panel: Scholar Zhang, back turned, peeks on tiptoe through a latticed window in the garden wall, palms nearby.">
   <figcaption><strong>Fig. 4.</strong> Panel 20 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -297,8 +297,8 @@ The speech bubble thus sits at a complex confluence of cultural practices: with 
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
-- Bilibili Manhua <span lang="zh">哔哩哔哩漫画</span>. "*Lianhuanhua* Xixiangji zuozhe hanjian digao baoguang! Gongbi shinü tu tai meile!" <span lang="zh">连环画</span>《<span lang="zh">西厢记</span>》<span lang="zh">作者罕见底稿曝光</span>! <span lang="zh">工笔仕女图太美了</span>. Posted May 3, 2021.
-- "Wang Shuhui *lianhuanhua* Xixiangji, gongbi renwu dianfeng zhi zuo" <span lang="zh">王叔晖连环画</span>《<span lang="zh">西厢记</span>》，<span lang="zh">工笔人物颠峰之作</span>. Zhongguo zihua wang <span lang="zh">中国字画网</span> (Chinese Calligraphy &amp; Painting Net). Accessed September 18, 2023.
+- Bilibili Manhua <span lang="zh">哔哩哔哩漫画</span>. "*Lianhuanhua* Xixiangji zuozhe hanjian digao baoguang! Gongbi shinü tu tai meile!" <a href="https://www.bilibili.com/video/BV155411w778/"><span lang="zh">连环画</span>《<span lang="zh">西厢记</span>》<span lang="zh">作者罕见底稿曝光</span>! <span lang="zh">工笔仕女图太美了</span></a>. Posted May 3, 2021.
+- "Wang Shuhui *lianhuanhua* Xixiangji, gongbi renwu dianfeng zhi zuo" <a href="http://www.cnzihua.cn/shuhuazatan/37159.html"><span lang="zh">王叔晖连环画</span>《<span lang="zh">西厢记</span>》，<span lang="zh">工笔人物颠峰之作</span></a>. Zhongguo zihua wang <span lang="zh">中国字画网</span> (Chinese Calligraphy &amp; Painting Net). Accessed September 18, 2023.
 </details>
 
 <h2>Author</h2>

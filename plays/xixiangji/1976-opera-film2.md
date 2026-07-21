@@ -33,7 +33,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang.">
-  <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from Douban <span lang="zh">豆瓣</span>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
 </figure>
 
 The Cultural Revolution was a tumultuous time in the early years of the PRC that greatly altered the political and cultural environment of the nation. Chinese opera was not exempt from these changes and was targeted as an art form that inappropriately romanticized the old, feudal culture. By the 1970s, the central party's belief regarding art was that all art is inherently political and represents the interests of a class (Mackerras 1970). Thus, the party recognized that the conventions of opera had to be modified to act as propaganda in its favor and all productions needed to center around the interests of the workers rather than that of feudal landlords, wealthy merchants, or other members of the bourgeois elite.
@@ -128,7 +128,7 @@ Hongniang's efforts to bring the couple together do not cease despite the challe
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Hongniang stops Madam Cui from beating her.">
-  <figcaption><strong>Fig. 2.</strong> Hongniang stops Madam Cui from beating her. Source: This image is sourced from <em>Hongniang</em> on Bilibili. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> Hongniang stops Madam Cui from beating her. Source: This image is sourced from <a href="https://www.bilibili.com/video/BV1Ps411v7Ht/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1044"><em>Hongniang</em> on Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 The conclusion to the film highlights the reactionary brutality of Madam Cui and the cunning resourcefulness of Hongniang, the representatives of the bourgeoisie and proletariat respectively. When Madam Cui discovers that her daughter and Student Zhang have been seeing each other behind her back with Hongniang's assistance, she confronts Hongniang in a final stand-off. Madam Cui cruelly scolds and beats Hongniang, threatening to turn her over to local authorities for ruining her family, but clever Hongniang finds a way to turn the situation around and outsmarts Madam Cui. Hongniang wields her circumstances in her favor yet again and builds a case against Madam Cui that she brought about her own demise, as the audience is already aware of, through her misdeeds. Eventually, Madam Cui gives in, so long as Student Zhang passes the imperial exam.
