@@ -13,9 +13,9 @@ media_type: Live Performance
 
 The *Chuanju* High-Pitch Adaptation Yanyan <span lang="zh">川剧高腔 《燕燕》</span>is available on Tencent's <span lang="zh">腾讯</span> streaming service QQ in four parts with simplified Chinese subtitles:
 
-- [Part 1](https://v.qq.com/x/page/k00229z1dbx.html)
+- [Part 1](https://v.qq.com/x/page/m0022gblaow.html)
 - [Part 2](https://v.qq.com/x/page/v00222a8jni.html)
-- [Part 3](https://v.qq.com/x/page/m0022gblaow.html)
+- [Part 3](https://v.qq.com/x/page/k00229z1dbx.html)
 - [Part 4](https://v.qq.com/x/page/u0022la2aka.html)
 
 <figure class="module-figure-right">

@@ -16,7 +16,7 @@ director: 'Lee Tit <span lang="zh">李鐵</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_1.png" alt="Tau Ngo cups both hands to her chin to convey her testimony; Scholar Choi stands beside her">
-  <figcaption><strong>Fig. 1.</strong> Yam Kim-fai <span lang="zh">任劍輝</span>, left, as Scholar Choi, and Fong Yim-Fen <span lang="zh">芳艷芬</span>, right, as Tau Ngo using sign language to convey her testimony, in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Yam Kim-fai <span lang="zh">任劍輝</span>, left, as Scholar Choi, and Fong Yim-Fen <span lang="zh">芳艷芬</span>, right, as Tau Ngo using sign language to convey her testimony, in <em>Snow in June</em> (1959). Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="module-info">
@@ -38,7 +38,7 @@ director: 'Lee Tit <span lang="zh">李鐵</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_2.png" alt="Tau Ngo raises both hands to her temples with thumbs up to convey her testimony; Scholar Choi looks on.">
-  <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen <span lang="zh">芳艷芬</span> as Tau Ngo using sign language to convey her testimony in <em>Snow in June</em> (1959). Source: The production.</figcaption>
+  <figcaption><strong>Fig. 2.</strong> Fong Yim-Fen <span lang="zh">芳艷芬</span> as Tau Ngo using sign language to convey her testimony in <em>Snow in June</em> (1959). Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Regional Sinophone films of the Cold War explored linguistic traditions beyond that of the state-sponsored "Putonghua" (<span lang="zh">普通話</span>, modern Mandarin Chinese) that was mandated in mainland China and culturally dominated the Hong Kong and Taiwan film industries in the 1950s and 60s. The 1959 Hong Kong film *Snow in June* offers a complex sociolinguistic commentary on Cold War Hong Kong. It is not only a Cantonese-language opera film that reflects the city's local language, but a production that further broadens the linguistic representation by including a Deaf character and recognizing sign language as part of Hong Kong's multilingual environment. In the film, sign language works metaphorically to reflect the tensions and communicative difficulties between Mandarin and regional forms of speech. Moreover, the addition of sign language to the film's linguistic palette showcases post-war Hong Kong's attempts to bring together a linguistically fragmented community through social welfare efforts.
@@ -65,7 +65,7 @@ From its 1956 live opera debut to its 1959 film production, *Snow in June* mirro
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_3.png" alt="Madam Choi makes a symmetrical sign for splitting chores, affirming Tau Ngo and Lai Heung as equals">
-  <figcaption><strong>Fig. 3.</strong> Madam Choi introduces Tau Ngo and Lai Heung as fellow sisters, signing a symmetrical gesture for splitting chores to affirm their equal status in the household. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 3.</strong> Madam Choi introduces Tau Ngo and Lai Heung as fellow sisters, signing a symmetrical gesture for splitting chores to affirm their equal status in the household. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=372s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 In this clip, Tau Ngo is introduced to Lai Heung as a fellow sister. Madam Choi tells the two girls to split the chores, affirming their equal status in the household through simultaneous speech and signing. The sign-gesture the Madam composes is a plausible signing variety. While the sign-gestures used in the film do not appear to be representative of an existing, formalized standard language, the film's handling of signing nevertheless echoes sign language education. Given that sign language was still being implemented in Hong Kong's deaf education, it is difficult to ascertain their accuracy vis-a-vis signing varieties used in Hong Kong at the time. But it is safe to say that there was a conscious effort in the emulation of actual sign language. Madam Choi's gesture almost mirror the signs for SHARING, SPLITTING, and their synonyms across sign language varieties, including in contemporary American Sign Language (ASL). This points to the possibility that the film did not merely use evocative sign gestures but made an effort to correlate such gestures to the sign language as it was developing at the time.
@@ -102,9 +102,9 @@ Lai Heung's affirmative repetition of Madam Choi's movements of handshapes enact
 
 ### Scene 2: Tau Ngo speaks through a parrot to confirm whether Scholar Choi is back in town
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_4.png" alt="In the garden, Tau Ngo uses a perched white parrot as her mouthpiece to ask Madam Choi about Scholar Choi's return">
-  <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot as a mouthpiece to indirectly ask about Scholar Choi's return, but Madam Choi sees through the ploy. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 4.</strong> Tau Ngo uses the parrot as a mouthpiece to indirectly ask about Scholar Choi's return, but Madam Choi sees through the ploy. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=372s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Although Tau Ngo suspects that her intended is coming home, she is too shy to ask Madam Choi directly about her prospective husband's arrival. Antsy to confirm the news, she decides on the spur of the moment to use a pet parrot as a "mouthpiece" for her question. Tau Ngo tells Madam Choi that the parrot has been calling "Choi has come back," hoping Madam Choi would verify the statement. But Madam Choi sees through her. She asks Tau Ngo how that could be, since the parrot came into the household only after Scholar Choi departure and doesn't know what the young man looks like! Tau Ngo's ploy is thus comically exposed.
@@ -145,14 +145,14 @@ The comical sequence with the parrot was calculated to align with the tastes and
 
 ### Scene 3: Tau Ngo and Lai Heung mime Scholar Choi's gait
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_5.png" alt="Lai Heung in a blue robe strides with arms raised in a walled courtyard while Tau Ngo in orange watches.">
-  <figcaption><strong>Fig. 5.</strong> Lai Heung mimes Scholar Choi's gait before Tau Ngo. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 5.</strong> Lai Heung mimes Scholar Choi's gait before Tau Ngo. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_6.png" alt="Tau Ngo in orange poses mid-step in the same courtyard while Lai Heung in blue looks on by a wooden railing.">
-  <figcaption><strong>Fig. 6.</strong> Tau Ngo mimes Scholar Choi's gait before Lai Heung. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 6.</strong> Tau Ngo mimes Scholar Choi's gait before Lai Heung. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 Giddy with excitement over Scholar Choi's arrival, the two girls imitate what they imagine might be his handsome stride. Lai Heung informs her friend of a gentleman's arrival, but Tau Ngo is disappointed when she realizes that Lai Heung has mistaken Cheung Lou for Scholar Choi. Similar to the parrot, Lai Heung was taken into the home after Scholar Choi left, and so does not know what he looks like. In this case, Lai Heung's misinterpretation of information is not directly caused by her disability. The girl accurately and comically relates the arrival of a new character.
@@ -176,9 +176,9 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
 
 ### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
 
-<figure class="module-figure-right" style="margin-top:-3rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung holds a bowl and raises her hand near her forehead in a sign gesture while Tau Ngo stands beside her.">
-  <figcaption><strong>Fig. 7.</strong> Lai Heung holds the soup bowl and raises her hand near her forehead in a coded sign gesture; the exchange with Tau Ngo blends opera conventions with real sign language. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 7.</strong> Lai Heung holds the soup bowl and raises her hand near her forehead in a coded sign gesture; the exchange with Tau Ngo blends opera conventions with real sign language. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 As in Scene 3, this is another confidential exchange, where the usual clarity the audience obtains through familiarity with the gestic repertoire of opera is occluded by the inclusion of real sign language. The gestic conversation in the scene is opaque, but eventually, the audience can make out that Tau Ngo gives up her hairpin so Lai Heung can buy mutton soup for Madam Choi and that Tau Ngo seems to be giving directions to Lai Heung. The audience is brought into the gestural conversation in a negotiation between inclusion and exclusion. While the audience may view these gestures primarily through the reigning conventions of opera, *Snow in June*'s invocation of the novel form of sign language threatens to overshadow this familiar code. Eventually, in the climatic court scene at the end of the film, Scholar Choi will lexicalize these coded gestures.
@@ -200,9 +200,9 @@ As in Scene 3, this is another confidential exchange, where the usual clarity th
 
 ### Scene 5: The cunning Cheung Lou takes advantage of Lai Heung
 
-<figure class="module-figure-right" style="margin-top:-2.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_8.png" alt="Cheung Lou lures Lai Heung away with a snack; Lai Heung is distracted by food as Cheung Lou doctors the soup">
-  <figcaption><strong>Fig. 8.</strong> Cheung Lou gestures profusely to ensure Lai Heung falls into his trap; distracted by food, she fails to notice him doctoring the mutton soup. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 8.</strong> Cheung Lou gestures profusely to ensure Lai Heung falls into his trap; distracted by food, she fails to notice him doctoring the mutton soup. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understands and falls into his trap. While she is a dupe here, a sensitive audience might tell that it is not so much her disability but dire poverty and hunger that causes her to be distracted by food as Cheung Lou doctors the mutton soup. If she seems vulnerable and careless here, the film redeems her in its finale in the courtroom when she provides crucial evidence to undo the injustice done to Tau Ngo. Cheung Lou's condescending attitude towards Lai Heung is even more explicit in the relatively recent adaptation by Guangzhou Cantonese Opera Troupe <span lang="zh">廣州粵劇團</span> of the 1956 original, where Cheung Lou mocks her voice. His contempt contrasts with Scholar Choi's elegance and patient interpretation in the next scene.
@@ -224,14 +224,14 @@ In this scene, Cheung Lou gestures profusely to ensure that Lai Heung understand
 
 ### Scene 6: Scholar Choi interprets signing gestures
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_9.png" alt="In court, Scholar Choi cups both hands in a circular bowl gesture, asking Lai Heung to confirm her sign for soup">
-  <figcaption><strong>Fig. 9.</strong> In court, Scholar Choi interprets Lai Heung's sign for soup, positing his translation as a question and awaiting her affirmation to avoid mistranslation. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 9.</strong> In court, Scholar Choi interprets Lai Heung's sign for soup, positing his translation as a question and awaiting her affirmation to avoid mistranslation. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
-<figure class="module-figure-right" style="margin-top:-1.5rem">
+<figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_10.png" alt="In court, Scholar Choi raises both arms wide with white sleeve cloths in a sign gesture during his interpretation">
-  <figcaption><strong>Fig. 10.</strong> Scholar Choi interprets Lai Heung's coded gestures in court; he poses each sign as a question and waits for her confirmation, contrasting with Cheung Lou's earlier condescension. Source: The film.</figcaption>
+  <figcaption><strong>Fig. 10.</strong> Scholar Choi interprets Lai Heung's coded gestures in court; he poses each sign as a question and waits for her confirmation, contrasting with Cheung Lou's earlier condescension. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 The trial at the end of the film dramatizes and amplifies Lai Heung's disability. Tau Ngo is wrongly accused of having poisoned Cheung Lou's mother, yet her only hope, Lai Heung, is not only Deaf and Mute but illiterate — doubly unable to communicate and thus reflective of the marginalized status of Deaf and Mute people that social welfare and education programs in the 50s and 60s would aim to ameliorate. Despite her disability and lack of education, in the cathartic and satisfactory culmination of the film, Lai Heung is able to convey Tau Ngo's earlier signed instructions (see scene 4) in collaboration with Scholar Choi. In a replay of gestic conversations in opera with new sign language, Scholar Choi's turn-taking exchange with Lai Heung in simultaneous speech and sign is clear and fluent, and the audience suddenly becomes aware of the truth through his interpretation. These gestures are not merely stylistic, but reminiscent of actual sign language varieties. The stroking of the chin to signify GOAT, the holding of a bowl to lips for SOUP, and the indication of a lower height for YOUTH can still be found in modern-day Hong Kong Sign Language (HKSL). Note that Scholar Choi is not merely putting words in her mouth as Tau Ngo had done with the parrot from scene 2; rather, he posits his speech as questions and awaits affirmation from Lai Heung to avoid mistranslations. While the parrot is a reference to Lai Heung's muteness, this is ultimately a red herring, since the parrot ends up being a foil, not a double.
