@@ -247,11 +247,13 @@ Second, speech bubbles, familiar from Western comics, are relatively rare in *li
 | <span lang="zh">願言配德兮，携手相将，</span> | How I wish that my talent is paired with her virtue, oh, and we lead each other hand-in-hand. |
 | <span lang="zh">不得于飛兮，使我淪亡！</span> | If we cannot fly together, it will be the end of me! |
 
-*Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua* (changes from the drama text and their slightly changed translations are highlighted).
-
 </details>
 
-In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song. Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua*. Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period. There are also some inconsistencies between this printed rendition and the lyrics as they appear printed elsewhere, further underscoring the "messiness" of print culture, even in the modern period.
+**\*Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua* (changes from the drama text and their slightly changed translations are highlighted).**
+
+In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song.
+
+Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua* (changes from the drama text highlighted). Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period. There are also some inconsistencies between this printed rendition and the lyrics as they appear printed elsewhere, further underscoring the "messiness" of print culture, even in the modern period.
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg" alt="Ink line panel: Yingying raises her sleeve to her face, weeping, by a garden wall near a tree.">
