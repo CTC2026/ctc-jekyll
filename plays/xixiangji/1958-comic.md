@@ -270,7 +270,7 @@ Both the text and the style of the characters are copied here directly from an e
 
 </details>
 
-In the next panel, Yingying is overcome with emotion upon hearing the poem and begins to cry. In panel 76, however, she tunes in again, when she suddenly hears Student Zhang push away his zither and complain: "The Madam's ungratefulness is nothing, but young mistress, you should not turn your back on me!" (direct speech in the image caption). In response, in panel 77, Yingying becomes frustrated that she cannot cross the wall and explain her feelings. Before she can do anything about it, however, Hongniang, sent by her mother, collects her to go do needlework.
+In the next panel, Yingying is overcome with emotion upon hearing the poem and begins to cry. In panel 76 (fig. 12), however, she tunes in again, when she suddenly hears Student Zhang push away his zither and complain: "The Madam's ungratefulness is nothing, but young mistress, you should not turn your back on me!" (direct speech in the image caption). In response, in panel 77, Yingying becomes frustrated that she cannot cross the wall and explain her feelings. Before she can do anything about it, however, Hongniang, sent by her mother, collects her to go do needlework.
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_12.jpg" alt="Ink line panel: Yingying stands head bowed below a tiled wall; Scholar Zhang speaks from the other side, upper right.">
