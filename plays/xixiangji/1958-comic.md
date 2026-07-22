@@ -151,7 +151,7 @@ In the panels above, Student Zhang is initially alerted to Yingying and Hongnian
 In the next panels (21, 22), Yingying and Hongniang stand next to an incense burner, presumably visible to Student Zhang who is just beyond the wall at the lattice on the far left of the two panels. In direct speech in the caption, Hongniang expresses Yingying's desire for romantic love (which the maiden is reluctant to say out loud). Yingying does, however, express "the sound of a deep sigh" (*changtan yisheng* <span lang="zh">长叹一声</span>), that "exposes a bitterness in her heart that she could not fully express" <span lang="zh">透露了心中说不尽的幽怨</span>.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg" alt="Ink line panel: Scholar Zhang stands on a rock reciting, head raised, beside a latticed wall and leafy plants.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_7.jpg" alt="Ink line panel: Scholar Zhang stands beside a rock reciting, head raised, by a latticed wall and leafy plants.">
   <figcaption><strong>Fig. 7.</strong> Panel 23 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ Second, speech bubbles, familiar from Western comics, are relatively rare in *li
 In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song. Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua*. Notice the mixture of simplified and traditional characters. The transition from traditional to simplified script was not yet complete in the 1950s, and it is common to see a mix of both in texts printed in this period. There are also some inconsistencies between this printed rendition and the lyrics as they appear printed elsewhere, further underscoring the "messiness" of print culture, even in the modern period.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg" alt="Ink line panel: Yingying raises her sleeve to her face, weeping, by a garden wall near a tree and a stone well.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_11.jpg" alt="Ink line panel: Yingying raises her sleeve to her face, weeping, by a garden wall near a tree.">
   <figcaption><strong>Fig. 11.</strong> Panel 75 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to S
 In the next panel, Yingying is overcome with emotion upon hearing the poem and begins to cry. In panel 76, however, she tunes in again, when she suddenly hears Student Zhang push away his zither and complain: "The Madam's ungratefulness is nothing, but young mistress, you should not turn your back on me!" (direct speech in the image caption). In response, in panel 77, Yingying becomes frustrated that she cannot cross the wall and explain her feelings. Before she can do anything about it, however, Hongniang, sent by her mother, collects her to go do needlework.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_12.jpg" alt="Ink line panel: Yingying stands head bowed below a tiled wall as Scholar Zhang peers over it from the upper right.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1958-comic/Xixiangji_1958_Comic_12.jpg" alt="Ink line panel: Yingying stands head bowed below a tiled wall; Scholar Zhang speaks from the other side, upper right.">
   <figcaption><strong>Fig. 12.</strong> Panel 76 of the <em>lianhuanhua</em>. Source: Wang Shuhui <span lang="zh">王叔暉</span> (illustration), Hong Cengling <span lang="zh">洪曾玲</span> (textual adaptation). <span lang="zh">西廂記</span> (<em>The Western Wing</em>). Beijing: People's Fine Arts Publishing House, 1980 [1958]. Credit: Scan and formatting courtesy of Julia Biller, OSU ASC Tech Services.</figcaption>
 </figure>
 
