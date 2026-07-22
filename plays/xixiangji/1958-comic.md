@@ -249,7 +249,7 @@ Second, speech bubbles, familiar from Western comics, are relatively rare in *li
 
 </details>
 
-**\*Both the text and the style of the characters are copied here directly from an early version of the *lianhuanhua* (changes from the drama text and their slightly changed translations are highlighted).**
+<p><strong><small>*Both the text and the style of the characters are copied here directly from an early version of the <em>lianhuanhua</em> (changes from the drama text and their slightly changed translations are highlighted).</small></strong></p>
 
 In panel 74 (fig. 10), Yingying stands next to the wall, intently listening to Student Zhang's song. Her face is turned away from him, while her ear is positioned just next to a latticed window located slightly above. The speech bubble appears directly below the window, giving voice to Zhang's plaint through Sima Xiangru's song.
 
