@@ -16,7 +16,7 @@ director: '<span lang="zh">岳楓</span> (Yueh Feng)'
 - The film with English and Chinese (traditional) subtitles, [part 1](https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin) and [part 2](https://www.youtube.com/watch?v=8szhBIzc9Xw&ab_channel=FrancisChin) on YouTube.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_1.png" alt="A Hong Kong DVD of the Shaw Brothers' Lady General Hua Mulan distributed by Intercontinental Video Limited.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1964-opera-film/Mulan_1964_OperaFilm_1.png" alt="Painted montage of armored warriors' faces against a stormy sky over a battlefield, with large Chinese title characters.">
   <figcaption><strong>Fig. 1.</strong> A Hong Kong DVD of the Shaw Brothers' <em>Lady General Hua Mulan</em> distributed by Intercontinental Video Limited. Source: CTC board member Marjorie Chan owns this DVD. Credit: Scan by Marjorie Chan.</figcaption>
 </figure>
 

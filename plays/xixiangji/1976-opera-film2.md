@@ -32,7 +32,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: an opera heroine in an ornate floral headdress fills the frame above two small costumed figures.">
   <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
 </figure>
 

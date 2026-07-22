@@ -36,7 +36,7 @@ The main actress Chang Xiangyu <span lang="zh">常香玉</span> (1923-2004) was 
 The script was written and the performance directed by Chang's husband, playwright Chen Xianzhang <span lang="zh">陳憲章</span> (1917-2000). From the proceeds of 170 live performances across China, Chang Xiangyu eventually raised 1.52 billion RMB and was able to donate one MiG-15 jet fighter aircraft to the People's Volunteer Army. (Fig. 1) She and her troupe also went to North Korea in 1953 in order to perform for the soldiers. In 1956, the acclaimed Changchun Film Studio <span lang="zh">長春電影製片廠</span> adapted Chang's live Mulan performance as an opera film. If Xu Wei's play had centered on Mulan's devotion to her family as the motivation for her military service, this new adaptation also foregrounded Mulan's patriotism.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_1.png" alt="Black-and-white photo of a smiling woman in a dark uniform beside a fighter jet marked 35, shown in a CCTV broadcast.">
   <figcaption><strong>Fig. 1.</strong> The actress Chang Xiangyu and the plane she donated to the Chinese army for the Korean War. Source: A screenshot from a CCTV <a href="https://m.news.cctv.com/2021/06/02/ARTIJIIycLl7os4RCkclStIF210602.shtml">news segment</a> on Chang. Credit: Screenshot by Julia Keblinska.</figcaption>
 </figure>
 

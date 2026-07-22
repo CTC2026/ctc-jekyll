@@ -41,7 +41,7 @@ In his adaptation, Zhang Lie considerably streamlined the original version of *T
 ## Plot Summary
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_1.png" alt="Lin Meimei (left, as Zhang Xie) and Wang Chenghu (right, as Wang Deyong) in Top Graduate Zhang Xie. Source: This image is sourced from an article on Sohu.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_1.png" alt="Actor in a red robe points to their chin beside a painted-face actor in a blue dragon-robe and tall headdress">
   <figcaption><strong>Fig. 1.</strong> Lin Meimei (left, as Zhang Xie) and Wang Chenghu (right, as Wang Deyong) in <em>Top Graduate Zhang Xie</em>. Source: This image is sourced from an article on <a href="https://www.sohu.com/a/498835930_121123887">Sohu</a>.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ In the opening scene, Divine Judge (cast as the comic, *jing* <span lang="zh">å‡
 </div>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_2.jpg" alt="Divine Judge (in red, right) and Little Demon (in purple, left) horsing around on stage. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_2.jpg" alt="A clown-faced actor in purple and a red-robed actor with a green sash leap in wide stances on a blue-lit stage">
   <figcaption><strong>Fig. 2.</strong> Divine Judge (in red, right) and Little Demon (in purple, left) horsing around on stage. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9?t=120.9">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Divine Judge explains why he refuses to let Poorlass into the temple. He has som
 Similarly, when Little Demon later suggests that he hopes that Poorlass and Zhang Xie could get married and raise children together so that the temple may be bustling with excitement, his vivid facial expression foreshadows his passion in matchmaking.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_3.jpg" alt="Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) are gossiping about Zhang Xie and Poorlass. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_3.jpg" alt="Clown-faced actor in purple, hand on chest, stands close to a red-faced actor in a red robe and green sash">
   <figcaption><strong>Fig. 3.</strong> Divine Judge (dressed in red, right) and Little Demon (dressed in purple, left) are gossiping about Zhang Xie and Poorlass. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=507">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -175,12 +175,12 @@ Xiao'er (cast in the role of *chou* <span lang="zh">ä¸‘</span>) attempts to brea
 </div>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_4.jpg" alt="Xiao'er (left) is trying to dash to the door performed by Divine Judge (middle) and Little Demon (left). Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_4.jpg" alt="Green-robed actor crouches holding a teapot, lunging toward a red-robed and a purple-clad actor by a grey set">
   <figcaption><strong>Fig. 4.</strong> Xiao'er (left) is trying to dash to the door performed by Divine Judge (middle) and Little Demon (left). Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_5.jpg" alt="Xiao'er (middle front), Divine Judge (right), and Little Demon (left) all fall to the ground. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_5.jpg" alt="Two white-robed actors on a platform, a green-robed actor seated centre, two more sprawled on the stage floor">
   <figcaption><strong>Fig. 5.</strong> Xiao'er (middle front), Divine Judge (right), and Little Demon (left) all fall to the ground. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -416,7 +416,7 @@ To add to the humor, Wang Deyong suddenly realizes the inappropriate nature of h
 </div>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_6.jpg" alt="Wang Deyong pretends to smell the salted fish. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_6.jpg" alt="Actor in a dark blue robe cups both hands to the nose beside a red-robed actor in a black cap on a blue stage">
   <figcaption><strong>Fig. 6.</strong> Wang Deyong pretends to smell the salted fish. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -510,17 +510,17 @@ Officials are supposed to be steadfast in their adherence to Confucian principle
 </div>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_7.jpg" alt="Zhang Xie is persuading himself to marry Poorlass because ostensibly reputation is less important than saving one's life. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_7.jpg" alt="Actor in a white robe and black cap with pink eye makeup raises one hand mid-gesture on a dark stage">
   <figcaption><strong>Fig. 7.</strong> Zhang Xie is persuading himself to marry Poorlass because ostensibly reputation is less important than saving one's life. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_8.jpg" alt="Poorlass corrects Zhang Xie, suggesting the old saying that &quot;reputation matters more than one's life.&quot; Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_8.jpg" alt="Female-role actor in a lilac chrysanthemum robe and ornate hairpiece gestures, two clown-faced actors at right">
   <figcaption><strong>Fig. 8.</strong> Poorlass corrects Zhang Xie, suggesting the old saying that "reputation matters more than one's life." Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_9.jpg" alt="Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on Bilibili. Credit: Screenshot by author.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/zhangxie/2017-recorded-perf/Zhangxie_2017_RecordedPerf_9.jpg" alt="Actor in a red robe and winged headdress with a painted face holds a white sleeve, other actors around them">
   <figcaption><strong>Fig. 9.</strong> Zhang Xie summarizes that the dynamic between reputation and life is pretty flexible: when you are in a lowly spot, it is life that matters; but when you are at your apex, reputation is more important. Source: The production on <a href="https://www.bilibili.com/video/BV18y4y117k9/?share_source=copy_web&t=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 

@@ -14,7 +14,7 @@ media_type: Lianhuanhua (Narrative Comics)
 - The 1985 version (in simplified Chinese characters): [16-panel 1985 *Lianhuanhua Pictorial* version.](https://www.laohuabao.com/huabao/lhhb-1985-7/110401852.html)
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="The first page of The Lute as it appears in the 7th 1985 issue of Lianhuanhua Pictorial.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="Magazine page of black-and-white line panels: thatched houses, gnarled trees, a riverside pavilion, and a town">
   <figcaption><strong>Fig. 1.</strong> The first page of <em>The Lute</em> as it appears in the 7th 1985 issue of <em>Lianhuanhua Pictorial</em>. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art) &amp; Shi Ming <span lang="zh">士明</span> (text). <span lang="zh">琵琶记</span> ("The Lute"). <span lang="zh">连环画报</span> (<em>Lianhuanhua Pictorial</em>), 1985 no. 7. Credit: UC Berkeley's East Asian Library has this print issue, and the Chinese Studies Librarian, Jianye He, provided the scanned image.</figcaption>
 </figure>
 
@@ -42,14 +42,14 @@ A new comic version of *The Lute* appeared in the periodical *Lianhuanhua Pictor
 The artist Chen Quansheng's <span lang="zh">陈全胜</span> (1950- ) 16-panel version of *The Lute* may not have secured a much coveted national art prize in 1985, but it did catch the eye of the publishing industry. It appeared again, extended to 94 panels, as part of an exquisite boxed set of Chinese drama adaptations published by the Jiangsu Fine Arts Press in 1986. The five plays in the box set range from the Yuan to Qing dynasties; the stylistic variety among the original texts is matched by the distinctive style of each adaptation. They plays include: Meng Hanqing's <span lang="zh">孟汉卿</span> (ca. 13th-14th centuries) *The Moheluo Doll* <span lang="zh">魔合罗</span>, Li Yu's <span lang="zh">李玉</span> (1602?-post 1670) *Register of the Pure and Loyal* <span lang="zh">清忠谱</span>, Tang Xianzu's <span lang="zh">汤显祖</span> (1550-1616) *The Peony Pavilion* <span lang="zh">牡丹亭</span>, Li Yu's <span lang="zh">李渔</span> (1611-1680) *The Mistake Caused by a Kite* <span lang="zh">风筝误</span>, and Gao Ming's <span lang="zh">高明</span> (ca. 1305-1370) *The Lute* <span lang="zh">琵琶记</span>. While each adaptation was drawn by different artists, each volume's cover design was created by the same artist, Feng Yinan <span lang="zh">冯忆南</span> (1955-), a Wuxi art school graduate from one of the first post-Cultural Revolution college cohorts. He is one of several relatively young contributors to the collection which showcased fresh talent and new styles.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_2.jpg" alt="The cover of The Lute as published by Jiangsu Fine Arts Press in 1986 with art by Feng Yinan.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_2.jpg" alt="Stylised painting of a woman in white carrying a pipa over her shoulder amid falling leaves on a red-brown ground">
   <figcaption><strong>Fig. 2.</strong> The cover of <em>The Lute</em> as published by Jiangsu Fine Arts Press in 1986 with art by Feng Yinan <span lang="zh">冯忆南</span>. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
 The 1986 version features a collaboration between the original artist Chen Quansheng and a slightly younger colleague, Yue Haibo <span lang="zh">岳海波</span> (1955-). The illustrators' playful embrace of traditional aesthetics is made visible in the two simulated "seals," in this case drawn onto the paper, that appear on panel 84 of the longer version of the comic (fig. 3). They read: "Quansheng" <span lang="zh">全胜</span> (top right, characters read right to left) and "Haibo" <span lang="zh">海波</span> (bottom right, characters read top to bottom). By using first names in their seals, the two artists simulate the intimate signatures of Chinese painters of yore whose work circulated among in-groups of friends and patrons. Indeed, the comic combines elements of traditional Chinese painting with expressive modernist flourishes; its stylized figures and backgrounds are rendered in a uniform style that at once evokes the distant past and feels fresh to post-Cultural Revolution (1966-1976) readers used to the more mimetically realistic look of socialist realist imagery enforced throughout that period.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_3.jpg" alt="Panel 84, Cai Yong's messenger encounters his parents' neighbor. The artists' seals are featured in the top right corner of the composition.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_3.jpg" alt="Line drawing of a man on horseback facing a bearded old man in a tall hat who raises both hands in greeting">
   <figcaption><strong>Fig. 3.</strong> Panel 84, Cai Yong's messenger encounters his parents' neighbor. The artists' seals are featured in the top right corner of the composition. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Rather than adopting a realist idiom, the style leans into a register more famil
 Although the story begins in an idyllic setting, a happy family home in the countryside, visual harbingers of strife appear almost immediately. The family is sitting on the porch of their home. In the comic's first panel (fig. 4), a tree looms to the left of the frame while a big bull balances its visual weight on the far right of the composition. The tree is leafy and the resting bull is plump; both are traditional symbols of longevity and reclusion that also suggest that the homestead is joyful and resources are plentiful. Yet the trunk is a bit gnarly and bends over the roof of home in a slightly menacing pose. The narration below the image informs us that political chaos has soured the family's son on pursuing an official position. He wants to be a scholar and maintain this idyllic family atmosphere.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_4.jpg" alt="Panel 1, in which the family's circumstances are introduced visually and textually.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_4.jpg" alt="Line drawing of two figures seated on the veranda of a thatched house by a gnarled tree, with an ox resting at right">
   <figcaption><strong>Fig. 4.</strong> Panel 1, in which the family's circumstances are introduced visually and textually. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Although the story begins in an idyllic setting, a happy family home in the coun
 A few panels later (fig. 5), when the elder Cai is well into demanding that his son Cai Yong <span lang="zh">蔡邕</span> go to the capital to take exams, the atmosphere has changed. The family is feasting outside, now flanked by two trees that overwhelm the composition. Their gnarled branches loom over the gathering and are shedding leaves. Though several chickens wander at the bottom of the frame, the restful rural life they suggest is clearly threatened by the arboreal storm above.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_5.jpg" alt="Panel 4, in which Cai Yong argues against his father's wishes for him to take exams.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_5.jpg" alt="Line drawing of three figures seated on a mat set with dishes, framed by two large gnarled trees, chickens nearby">
   <figcaption><strong>Fig. 5.</strong> Panel 4, in which Cai Yong argues against his father's wishes for him to take exams. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ A few panels later (fig. 5), when the elder Cai is well into demanding that his 
 Sitting on the left of the banquet mat, the father is shown gesturing towards the son, the command made visible by the vector of his hand. In the text below, Cai Yong reminds him that his parents are both old and he dare not go far away, so his father's command is difficult to obey. His father, however, insists that filial piety must be met with service to the nation for his social obligations to be met. The conflict narrated in the caption is redoubled visually above the dining family, engulfing them in a tense atmosphere.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_6.jpg" alt="Panel 5, Cai Yong is depressed because it seems he will have to go to the capital.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_6.jpg" alt="Line drawing of a lone figure standing on a stone arched bridge beside a drooping willow and a waterside mill">
   <figcaption><strong>Fig. 6.</strong> Panel 5, Cai Yong is depressed because it seems he will have to go to the capital. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ When he returns home, Cai Yong and his fretting mother continue to beg the elder
 The sorrowful willow in turn reappears several panels later when Cai Yong heads out to the capital. As in the previously discussed willow scene (fig. 6), the sweeping folds of clothes in this panel (fig. 8) resonate with the sweeping tendrils of the tree. Here too the environment and the characters seem to imbue each other with grief and longing.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_9.jpg" alt="In panel 32 Cai Yong tries to get out of an arranged marriage with a powerful family.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_9.jpg" alt="Line drawing of three men on a railed veranda; one bows while two others hold up a scroll, a banana plant at right">
   <figcaption><strong>Fig. 9.</strong> In panel 32 Cai Yong tries to get out of an arranged marriage with a powerful family. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ While Cai Yong's sojourn in the capital is decidedly urban (he visits inns and p
 So far, we have explored how trees and humans serve as emotional mirrors. In one of the original play's most famous scenes, the comic utilizes other landscape elements to much the same effect. After Cai Yong is forced to marry Prime Minister Niu's daughter, he gains wealth and political position, but remains deeply distraught.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_10.jpg" alt="Cai Yong is overcome with sorrow and plays the zither to dissipate his emotions.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_10.jpg" alt="Line drawing of a hilltop waterside pavilion among rocks and rippling water, with a small seated figure within">
   <figcaption><strong>Fig. 10.</strong> Cai Yong is overcome with sorrow and plays the zither to dissipate his emotions. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -207,7 +207,7 @@ Having guessed that her husband is hiding something from her after listening to 
 In the image, the arc of Miss Niu's extended hand matches the sweep of the flowers. She is gleeful as she takes in the lotuses, and the delicate fragrance of blooming roses. Her glee registers in the large lotuses dancing across the page. Yet, this whimsical environment has no effect on Cai Yong. He sits stooped over in the pavilion, seemingly staring into his wine bowl. Indeed, in the next panel (fig. 12), Miss Niu realizes that Cai Yong is still gloomy and leaves to enjoy chasing butterflies with her maid.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_12.jpg" alt="Cai Yong remains disconsolate as his new wife leaves to find joy elsewhere.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_12.jpg" alt="Line drawing of a waterside pavilion where a man sits at a table while a woman turns away toward the rockery">
   <figcaption><strong>Fig. 12.</strong> Cai Yong remains disconsolate as his new wife leaves to find joy elsewhere. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
