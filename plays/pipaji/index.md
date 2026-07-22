@@ -22,7 +22,7 @@ You can find modules that analyze various adaptations of *The Lute* at the links
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/general-intro/Pipaji_General_Intro_1.jpg" alt="Woodblock print of the three leads of The Lute standing together: Zhao Wuniang holding a lute in plain dress, Cai Bojie in thick-soled stage shoes, and the elegantly dressed Ms. Niu.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/general-intro/Pipaji_General_Intro_1.jpg" alt="Woodblock print: a plainly dressed woman holding a lute, a man in thick-soled stage shoes, and an elegantly dressed lady.">
   <figcaption><strong>Fig. 1.</strong> (from right to left): Zhao Wuniang, the young female lead (note the lute and the simple clothing); Cai Bojie, the young male lead (note the shoes with the thick soles, part of the theatrical costuming); Ms. Niu, the supporting young female (note her elegant clothing and abundant hair). Source: <em>Lianhuan huitu Qi caizi Pipa ji</em> <span lang="zh">連環繪圖七才子琵琶記</span> (The Sequentially Illustrated Seventh Book of Genius, The Lute). Shanghai: Jinzhang shuju, n.d. [1905?].</figcaption>
 </figure>
 
