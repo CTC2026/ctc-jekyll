@@ -78,7 +78,7 @@ The play opens with a dialogue between the Lady of the House and Yanyan. The Lad
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 1: Rather Die than Get Married: A Maid Rejecting Social Norms. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 1: Rather Die than Get Married: A Maid Rejecting Social Norms. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -116,7 +116,7 @@ In this scene, Yanyan is ordered to bring a quilt to Li Weide. While moving on t
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 2: A Heart in Turmoil: Yanyan's Romantic Passions. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 2: A Heart in Turmoil: Yanyan's Romantic Passions. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -155,7 +155,7 @@ This scene is almost completely devoid of sung or spoken lines. Instead it focus
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 3: Fear and Worry: Seduction. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 3: Fear and Worry: Seduction. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -183,7 +183,7 @@ This clip showcases the somatic components of emotions on the stage and illustra
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 4: Pain and Anger: Heartbreak. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 4: Pain and Anger: Heartbreak. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -219,7 +219,7 @@ Moreover, Yanyan's movements on the stage show not only how shaken she is, but a
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 5: Unspeakable Sadness: The Symbol of the Moth. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 5: Unspeakable Sadness: The Symbol of the Moth. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">
@@ -259,7 +259,7 @@ Dignified, defiant, and vengeful are the adjectives that can be used to describe
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 6: Yanyan's Ultimate Defiance: Suicide. Source: The performance on Tengxun. Credit: Clipped by CTC team.</p>
+  <p class="clip-caption">Clip 6: Yanyan's Ultimate Defiance: Suicide. Source: The performance on <a href="https://v.qq.com/x/page/m0022gblaow.html">Tengxun</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 <details class="translation" markdown="1">

@@ -18,7 +18,7 @@ director: 'Chan Yau-San <span lang="zh">陳又新</span>'
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/feiyimeng-1964-opera-film/Feiyimeng_1964_OperaFilm_1.jpg" alt="Film poster: main characters before a dark gate bearing crimson handprints; title in large red characters">
-  <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: <span lang="zh">千寻亿选</span>, "<span lang="zh">血手印的海报</span>." <span lang="zh">豆瓣电影</span>. douban.com. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: <span lang="zh">千寻亿选</span>, "<span lang="zh">血手印的海报</span>." <span lang="zh">豆瓣电影</span>. <a href="https://movie.douban.com/photos/photo/2333901880/">douban.com</a>. Apr. 15th 2016. Accessed Aug. 3rd 2024.</figcaption>
 </figure>
 
 <div class="module-info">

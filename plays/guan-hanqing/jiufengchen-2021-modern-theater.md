@@ -16,7 +16,7 @@ playwright: Amy Ng
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/jiufengchen-2021-modern-theater/Jiufengchen_2021_ModernTheater_1.jpg" alt="Six actors hold scripts on a brick-walled stage; three women in white stand at the back as a woman reads at the front.">
-  <figcaption><strong>Fig. 1.</strong> Elizabeth Chan as Pan'er in front; in the middle, Frances Mayli Mccann as Yinzhang stands while James Cooney as Zhou She sits; and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.</figcaption>
+  <figcaption><strong>Fig. 1.</strong> Elizabeth Chan as Pan'er in front; in the middle, Frances Mayli Mccann as Yinzhang stands while James Cooney as Zhou She sits; and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on <a href="https://www.youtube.com/watch?v=M_NHOGEpCVc">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <div class="module-info">
