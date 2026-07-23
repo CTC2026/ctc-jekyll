@@ -87,6 +87,7 @@ Du Liniang even paints a portrait of herself after seeing her "thin" and "frail"
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Du Liniang contrasts the garden with the monotonous life she has known. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=Asb5vzwdkp8">YouTube</a>.</p>
 </div>
 
 Having just returned from the garden, Du Liniang has now had a taste of freedom. The excursion prompts a deep reflection of how societal conditions have deprived her of the ability to pursue her own happiness. While she sings of a "turbulent heart" that accommodates her newfound thoughts of love, she slowly turns from side to side while sitting at her table, demonstrating the countless emotions that render her heart so tumultuous as well as her dissatisfaction over what she has been denied. She then slowly stands up, momentarily sits back down, and rises again to move to the front of the table, where she spins her "water sleeves" (*shuixiu* <span lang="zh">水袖</span>, long, exaggerated sleeves that resemble the flow of water when projected). During the next few lines, she laments the prospect of arranged marriage and condemns it as disingenuous. Such disdain is evident when she brings her hands together to convey the idea of arranged marriage, then releases her sleeves to condemn how it forces her to "throw" her youth away. As she makes her way around the front of the table, she again spins or releases her sleeves multiple times to express her intense agitation. She eventually returns to her chair and sits down slowly, letting her hands, which are raised in front of her chest, fall to her side, and letting her sleeves drop with a sigh full of hopelessness, while singing that only Heaven will listen to her lamentations.
@@ -119,6 +120,7 @@ Having just returned from the garden, Du Liniang has now had a taste of freedom.
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Du Liniang pursues her interrupted dream in the garden. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=Asb5vzwdkp8">YouTube</a>.</p>
 </div>
 
 Adamant about reclaiming the unprecedented joy that she experienced during her interrupted dream, Du Liniang secretly returns to the garden to "pursue" her reveries, hence the name of the scene, "Pursuing the Dream." The pleasant reminiscences of the events of her dream turn to grief and despair when she lays her eyes upon the plum tree. As she notices this large tree in the garden, she takes a small step back as if struck by something, then she moves forward and seems to reach for the tree, pleading for it to listen to her suffering. The immediate contrast is also evident in Zhang Jiqing's eyes and speed of movement: she suddenly gazes up with a hopeless gaze and then moves more slowly. In addition, the instruments stop playing, creating a moment of silence and reflection as Liniang contemplates her lonely future without the young scholar of whom she dreamt.
@@ -157,6 +159,7 @@ At the end of this clip, a hint of crying becomes evident in the singer's voice 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Du Liniang expresses her sorrow to Chunxiang during the Mid-Autumn Festival. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=Asb5vzwdkp8">YouTube</a>.</p>
 </div>
 
 This sequence takes place during the last act of the movie, "The Soul's Departure." The atmosphere is dark and somber in direct contrast to the vernal brightness of the three previous acts. Instead of a large window in the wall that gives way to natural light and lush vegetation, there is only an empty background that fades into the distance. Du Liniang, who is still struck by illness, asks Chunxiang what night it is, to which Chunxiang responds that the Mid-Autumn Festival has arrived. Observing the moon, Chunxiang remarks that it is surrounded by a light fog and a sprinkling of rain.

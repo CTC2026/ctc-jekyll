@@ -982,7 +982,7 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 }
 .clip-section h3 { font-size: 1rem; color: var(--red); margin-top: 0; margin-bottom: 0.75rem; }
 .clip-section .clip-desc { margin-bottom: 1rem; font-size: 0.9rem; }
-.clip-caption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; line-height: 1.6; }
+.clip-caption { font-size: 0.8rem; color: #595959; margin-top: 0.5rem; line-height: 1.6; text-align: left; }
 .clip-section video { display: block; width: 100%; aspect-ratio: 16 / 9; height: auto; object-fit: contain; background: #000; border-radius: 4px; }
 
 details.translation {

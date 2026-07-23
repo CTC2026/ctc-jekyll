@@ -68,6 +68,7 @@ The first transformation scene (29:43-31:40) takes place at Mulan's home. Mulan'
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Mulan tries on her father's armor. Source: The film on <a target="_blank" href="https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1">Bilibili</a>.</p>
 </div>
 
 The second transformation scene, albeit an imaginary one, takes place when she serves in the army. As Mulan imagines that she has returned home, she restores her feminine identity. She unconsciously adopts a feminine style in her gestures and postures. However, after she uses a piece of curtain as handkerchief to cover her face—a quintessentially female gesture—she suddenly realizes that she is still in her male disguise. Thereupon, she once again assumes a male posture by putting her hands behind her back. (1:26:46-1:27:08). Thus, the film suggests that even during her service in the army, she never loses touch with her feminine identity.
@@ -100,6 +101,7 @@ The second transformation scene, albeit an imaginary one, takes place when she s
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Mulan imagines her backing to home. Source: The film on <a target="_blank" href="https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1">Bilibili</a>.</p>
 </div>
 
 The third transformation scene takes place after Mulan's return home. Instead of narrating this transformation process from the perspective of Mulan, our audience follows the point of view of Marshal He, who finds out Hua Muli is not the person he has known for over ten years.
@@ -143,6 +145,7 @@ First, we hear Mulan's feminine voice resound from the inner chamber. Then, when
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Mulan greets Marshal He after restoring her female identity. Source: The film on <a target="_blank" href="https://www.bilibili.com/bangumi/play/ep314603?theme=movie&spm_id_from=333.788.recommend_more_video.-1">Bilibili</a>.</p>
 </div>
 
 During Mulan's service in the army, the change of voice is done in a subtle way; by contrast, in this scene, voice as a significant identifying mark of one's gender is highlighted. The gendered transformation of Mulan in this Yu opera version, therefore, hinges on three major factors: costumes, postures as well as voice.

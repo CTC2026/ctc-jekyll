@@ -78,6 +78,7 @@ The video clips listed below are arranged around the representation of "*qing*" 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Physical contact (body). Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 This clip is extracted from the iconic scene "Startled from the Dream." In this scene, Du Liniang roams around in the garden, while Du Bao, her father, is away on official business. With its profusion of blooming flowers, the garden sparks Liniang's romantic imagination. As she languidly begins to nap, she sees a young and handsome scholar, who holds out a willow branch to her and asks her to write a poem. In the dreamscape of the garden, they become quickly enamored of each other.
@@ -116,6 +117,7 @@ The "bump" or collision in this scene serves as a turning point in Liniang's emo
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Physical contact (sleeve). Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 In Kunqu, sleeves are often considered an extension of the actor's body. In this scene from the play, during their first meeting, Liniang behaves with caution and shyness, while Liu Mengmei gently touches her sleeve and picks it up, as if touching her arms and hands. The sleeve movements make Liu Mengmei's expression of his deep affection for Liniang and his desire for greater intimacy with her more delicate, creating an ambiguous space for the expression of love. While Wang Shiyu, one of the performance instructors for the "Youth Edition," contributed the iconography of the sleeves, the "Youth Edition" rendition nevertheless consistently emphasizes the softness and beauty of long sleeves in an effort to create a perfect aesthetic world.
@@ -134,6 +136,7 @@ In Kunqu, sleeves are often considered an extension of the actor's body. In this
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Physical contact (hands) 1. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Du Liniang, a restless ghost, hears Liu Mengmei's calls for her. Stirred, Liniang sneaks into his room.
@@ -156,6 +159,7 @@ This is their "first glance" the second time around. However, the physical conta
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: Physical contact (hands) 2. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 In this scene from *The Peony Pavilion*, after spending an intimate night together, Liu Mengmei and Du Liniang have several interactions with their bare hands. However, when they walk down the stairs to the center of the stage, Liu Mengmei grasps Liniang's wrist covered by her sleeve rather than directly holding her hand.
@@ -178,6 +182,7 @@ This physical contact between their bodies, sleeves, and hands implies an increa
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 5: Hiding from the other’s sight 1. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 <div class="clip-section">
@@ -192,6 +197,7 @@ This physical contact between their bodies, sleeves, and hands implies an increa
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 6: Hiding from the other’s sight 2. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 These two video clips are taken from the first meeting scene in *The Peony Pavilion*. In the first clip, Liniang fluctuates between looking straight at Liu Mengmei and hiding behind her sleeve. In the second clip, Liniang makes a more explicit attempt to hide her face from Liu Mengmei.
@@ -222,6 +228,7 @@ While the act of "hiding" itself could be an echo of the behavioral norms for a 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 7: Looking at each other’s eyes. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 On the stage, eye contact is another common strategy for expressing love. In this scene, the characters soulfully gaze into each other's eyes. As the camera zooms in on their faces, narrative time is extended. While they dance, their eyes nevertheless remain fixed on each other.
@@ -250,6 +257,7 @@ On the stage, eye contact is another common strategy for expressing love. In thi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 8: Looking at a self-portrait. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Liu Mengmei imagines the scene when Liniang drew her self-portrait that he had found in the garden. Liu Mengmei's gaze lingers on the painting during his soliloquy. However, since the painting is hanging on a wall, he has to turn his back toward the audience, which deviates from stage convention where actors typically face the audience. This action, however, underscores his obsession with Du Liniang.
@@ -295,6 +303,7 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 9: Flower deities. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 **Major Characters' Chorus [31:12–34:00]**
@@ -325,6 +334,7 @@ In Kunqu, the love-making scene is usually represented in a subtle way. Typicall
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 10: Major characters chorus. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
 The two major characters, Du Liniang and Liu Mengmei, also engage in joint choral singing. For example, after Liu Mengmei expresses his affection and desire to be with Du Liniang, Du Liniang subtly conveys her agreement by joining Liu's singing. This kind of joint singing serves as a way for the two characters to express their love and commitment to each other.

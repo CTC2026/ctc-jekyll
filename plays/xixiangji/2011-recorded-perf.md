@@ -98,6 +98,7 @@ A three-way comparison between the earliest edition of Wang Shifu's text (1499),
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_1.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 1: The spectrum of romantic nuance. Source: A recording of the production found on <a target="_blank" href="https://www.youtube.com/watch?v=4guCH9uTSbQ">Youtube</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -130,6 +131,7 @@ When Zhang sees Hongniang, he describes her as "behaving in a respectable and di
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_2.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 2: Dignity. Source: Video of the production on <a target="_blank" href="https://www.bilibili.com/video/BV19b411t7zR/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=880">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -160,6 +162,7 @@ When Hongniang refuses to help Zhang to send his letter to Cui, Zhang offers her
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_3.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 3: Integrity. Source: A recording of the production found on <a target="_blank" href="https://www.bilibili.com/video/BV19b411t7zR/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=880">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -199,6 +202,7 @@ When Hongniang and Cui come to the garden, they both comment on the scenery. Whi
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_Clip_4.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 4: Plain Language. Source: A recording of the production found on <a target="_blank" href="https://www.bilibili.com/video/BV19b411t7zR/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=880">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>

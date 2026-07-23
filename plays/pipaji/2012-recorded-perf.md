@@ -96,6 +96,7 @@ The most famous and iconic scene of the entire play is "Eating Husks" ("Chikang"
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Singing a Southern-Style title tune in a Northern Style. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 **Example 2: The Use of Melisma for Affective Emphasis**
@@ -132,6 +133,7 @@ In the aria set to the tune "Song of Filial Love" ("Xiaoshun ge" <span lang="zh"
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: The use of melisma for affective emphasis. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 **Example 3: Expressing Shared Emotion through Joint Singing of Identical Lines (*he* <span lang="zh">合</span>)**
@@ -172,6 +174,7 @@ In the scene "Taking Leave at the In-Laws' Grave" ("Biefen" <span lang="zh">别�
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Expressing shared emotion through joint singing of Identical lines. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 Visually, every time when Wuniang and Elder Zhang sing lines together, especially for the lines "What a bleak and chilly sight" (<span lang="zh">举目萧索</span>) and "Our eyes are full of tears" (<span lang="zh">满眼盈盈泪落</span>), not only are their voices in sync with one another, but they also perform their poses and actions symmetrically. For the visual parallelism, see the example picture below:
@@ -218,6 +221,7 @@ As is typical of comic roles, Mother Cai has few singing passages, all of which 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: The ample use of dialect. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 **Example 2: Punning Use of Speech and Body Language**
@@ -241,6 +245,7 @@ Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to th
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 5: Punning use of speech and body language. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 **Example 3: Using Exaggerated Body Language**
@@ -259,6 +264,7 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 6: Using exaggerated body language. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 <figure class="module-figure">
@@ -287,6 +293,7 @@ Mother Cai swallows the husks and chokes to death. The death is shown in a sligh
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 7: Metatheatrical violation of role expectations. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
 <details class="works-consulted" markdown="1">

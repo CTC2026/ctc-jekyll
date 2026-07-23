@@ -86,6 +86,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Hua Ming introduces a young man (Mulan in disguise) to Mulan's father. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 
 **Mulan asks her father whether it's right for men and women to come forward and defend our country**
@@ -141,6 +142,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Mulan asks her father whether it's right for men and women to come forwards and defend our country. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin">Youtube</a>.</p>
 </div>
 
 **Mulan fights with her father**
@@ -170,6 +172,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Mulan fights with her father. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin">Youtube</a>.</p>
 </div>
 
 **Mulan's father recognizes her**
@@ -203,6 +206,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: Mulan's father recognizes her. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin">Youtube</a>.</p>
 </div>
 
 **Mulan leaves for the border**
@@ -219,6 +223,7 @@ In addition, as was standard in operatic plots and in the *Love Eterne* opera fi
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 5: Mulan leaves for the border. Source: The film on <a target="_blank" href="https://www.youtube.com/watch?v=tQ3fqsL7ya0&t=963s&ab_channel=FrancisChin">Youtube</a>.</p>
 </div>
 
 <details class="works-consulted" markdown="1">
