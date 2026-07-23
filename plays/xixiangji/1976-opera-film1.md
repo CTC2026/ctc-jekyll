@@ -32,7 +32,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg" alt="A magazine feature on Zhao Yanxia in her role as Crimson.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg" alt="Magazine spread: a black-and-white portrait of Zhao Yanxia beside color opera stills and a photo of an actress in white.">
   <figcaption><strong>Fig. 1.</strong> A magazine feature on Zhao Yanxia in her role as Crimson. Source: Zhang Aiding. "Forever Young." <em>China's Screen</em>, 1980 no. 2. Credit: Photograph courtesy of Miao Hanbing.</figcaption>
 </figure>
 
@@ -71,13 +71,14 @@ Madam Cui sends Crimson to ask the abbot when the funerary mass for Oriole's fat
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_1.mp4" type="video/mp4">
   </video>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Crimson imitates Student Zhang's voice. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 Crimson repeats what Student Zhang said in his voice. However, while Student Zhang just delivered his lines, Crimson rubs her philtrum with her right index finger and swirling her index finger when she imitates Student Zhang's line "I'm still single." These gestures denote that she thinks that Student Zhang acted rashly; but rather than expressing disgust with his forwardness, her delivery makes fun of him and portrays him as a lovable fool.
 
@@ -100,13 +101,14 @@ Upset about Madam Cui's breach of promise, Crimson shifts her allegiance from Ma
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_2.mp4" type="video/mp4">
   </video>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Crimson imitates Madam Cui's voice. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 Madam Cui strategically arranges the seating for Oriole and Student Zhang. She insists that Student Zhang sit in the middle (also known as "the seat of honor," *shangzuo* <span lang="zh">上座</span>) and lets Oriole sit on the side. On the face of it, Madam Cui simply shows respect and gratitude to Student Zhang because the seat of honor is customarily reserved for the oldest or most important person in Chinese dining etiquette. However, the newlyweds at a wedding banquet usually sit next to each other on equal terms. Thus, the intentional seating arrangement is planned by Madam Cui to create a hierarchical relationship between Student Zhang and Oriole: an older brother and younger sister, and savior and the rescued, which further underlines that the marriage has been called off.
 
@@ -130,13 +132,14 @@ After Crimson complains about Madam Cui's breach of promise, she feels sympathy 
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_3.mp4" type="video/mp4">
   </video>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Crimson imitates the voice of a general male martial role. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 "Yes, Lady, at your service!" is delivered in the voice of a male martial role (*wusheng*). This change of voice might be the actress Zhao Yanxia's own tongue-in-cheek creation inspired by the training she had undergone by her father Zhao Xiaolou, a well-known martial role actor. Thus, it might be Zhao's creative way to show a sense of humor and to present the playful side of Crimson's personality, while also paying tribute to her father-cum-teacher. Oriole immediately responds "What tone of voice is that?!" <span lang="zh">什么腔调</span> to draw the audience's attention to Crimson's change of voice.
 
@@ -163,13 +166,14 @@ One night, Crimson and Oriole go to the garden to pray for Madam Cui's health an
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_4.mp4" type="video/mp4">
   </video>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: Crimson imitates Oriole's voice and even goes so far as to play Oriole's role. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 Following Oriole's queries, Crimson says, "Tell the truth, or I'll beat you" in Oriole's voice. Crimson realizes that Student Zhang is obsessed with Oriole and will do whatever Oriole asks him to do, so she plays tricks on him by scaring him with stern words in Oriole's voice. Student Zhang, the lovable fool, immediately refers to what Oriole wrote to him in her poem riddle. It makes Oriole extremely nervous, and she stops him as soon as she can, because she is worried that Crimson might report the incident to Madam Cui. Crimson is aware that Oriole and Student Zhang have mutual affection for one another, but Oriole's actions always belie her words. Thus, on the one hand, Crimson uses her impersonation of Oriole to make fun of Student Zhang. On the other hand, Crimson uses her impersonation to push Student Zhang and Oriole to declare their romantic intentions to each other.
 
@@ -200,13 +204,14 @@ In front of Crimson and Student Zhang, Oriole "clarifies" that they are merely b
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_Clip_5.mp4" type="video/mp4">
   </video>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 5: Crimson imitates Oriole's voice and even goes so far as to play Oriole's role. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 The lines of dialogue (*nianbai* <span lang="zh">念白</span>) marked in red are delivered in Oriole's voice. Similar to the previous note, Crimson's imitative mode and impersonation suggest that she continues playing tricks on Student Zhang in order to probe the depths of his feelings for her mistress. She takes advantage of the fact that Student Zhang is so dazed by Oriole's capricious attitude that he has trouble telling the mistress and the maid apart. It also a reflection of Student Zhang's infatuation with Oriole. He always answers "yes" to all the questions from "Oriole" and admits it is all his fault even though we know that is not entirely true. Without Oriole's riddle poem, Student Zhang might not have had the gumption to jump across the wall to meet up with Oriole. Thus rather than being cast as a creepy stalker, Student Zhang is portrayed as a love-addled fool.
 
