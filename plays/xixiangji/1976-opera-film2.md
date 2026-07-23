@@ -57,14 +57,14 @@ Before Hongniang can take the lead as the film's revolutionary hero, it first es
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_1.mp4" type="video/mp4">
   </video>
-  <p class="clip-caption">Clip 1: Madam Cui: The Unsympathetic Widow. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 1: Madam Cui: The Unsympathetic Widow. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 The film introduces Madam Cui as a character beholden to a feudal, anti-revolutionary ideology. Although this scene takes place at a ceremony for Madam Cui's late husband, the movie does not depict her as a sympathetic grieving widow. Upon learning of Student Zhang's devotion to his parents, Madam Cui demonstrates her approval and observes that Student Zhang is a filial son. This establishes that Madam Cui subscribes to Confucian ideology, a relic of the so-called "old culture." Her anti-revolutionary dogma is then further emphasized when she scolds Student Zhang for suggesting that he will also offer sacrifice for her husband, as it would be inappropriate since they are not family.
 
@@ -74,14 +74,14 @@ The film introduces Madam Cui as a character beholden to a feudal, anti-revoluti
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_2.mp4" type="video/mp4">
   </video>
-  <p class="clip-caption">Clip 2: Madam Cui Breaks Her Promise. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 2: Madam Cui Breaks Her Promise. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 Madam Cui promises that whoever can turn away the rebels attacking the monastery is entitled to have her daughter's hand in marriage. When Student Zhang asks Madam Cui if she is sure about her promise, she assents. When Student Zhang's plan to repel the rogue troops is successful, so he, Yingying, Hongniang, and the audience are all under the impression that Yingying is promised to be his wife. That is, until the celebratory banquet when Madam Cui proves that she is not only untrustworthy, but also manipulative.
 
@@ -95,14 +95,14 @@ From the audience's perspective, this scene cements Madam Cui as the evil force 
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_3.mp4" type="video/mp4">
   </video>
-  <p class="clip-caption">Clip 3: Hongniang Chooses Revolution. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 3: Hongniang Chooses Revolution. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 After Hongniang witnesses what she knows to be an injustice to Student Zhang and Yingying, she steps up as the revolutionary protagonist and takes a stand against her mistress. After that turning point, the plot focuses on Hongniang.
 
@@ -114,14 +114,14 @@ Signaling the active role she begins to take, Hongniang demonstrates her superio
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_4.mp4" type="video/mp4">
   </video>
-  <p class="clip-caption">Clip 4: Hongniang and Student Zhang Work Together in Solidarity. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
-</div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
     <button class="sub-btn" data-lang="en">English</button>
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
+  <p class="clip-caption">Clip 4: Hongniang and Student Zhang Work Together in Solidarity. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
+</div>
 
 Although this scene is ostensibly presented as an opportunity for Student Zhang and Yingying to spend time together, it instead becomes about Hongniang and Student Zhang working together, one of many such instances throughout the film. Immediately, Hongniang shows where her loyalties lie by lying to Madam Cui about the noise Student Zhang makes climbing over the wall in order to shield him. Not only does Hongniang's lie protect Zhang, it also spurs Madam Cui to leave out of fear. Yingying asks Hongniang to bring over a game, creating an opportunity for Hongniang to bring Student Zhang to Yingying. To illustrate their camaraderie, Hongniang literally covers for Student Zhang by hiding him behind a game board in order to allow him to sneak closer to Yingying, something Hongniang and Zhang must be in sync for, emphasized by the brief dance routine they perform together.
 
