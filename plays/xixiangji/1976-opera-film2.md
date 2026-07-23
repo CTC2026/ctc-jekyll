@@ -130,7 +130,7 @@ Hongniang's efforts to bring the couple together do not cease despite the challe
 ### Scene 5: Hongniang's Revolutionary Victory
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Opera stage: Madam Cui in a brown robe raises a stick as Hongniang, in red, kneels and lifts both white sleeves.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Opera stage: Madam Cui in a brown robe raises a stick as Hongniang kneels and lifts both white sleeves to block.">
   <figcaption><strong>Fig. 2.</strong> Hongniang stops Madam Cui from beating her. Source: This image is sourced from <a href="https://www.bilibili.com/video/BV1Ps411v7Ht/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1044"><em>Hongniang</em> on Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
