@@ -43,7 +43,7 @@ In 1962, three years prior to the release of *West Chamber*, in their official p
 However, work on Hongniang was temporarily suspended in late 1962 as the studio devoted resources to the production of another Huangmei opera film, *The Love Eterne* (*Liang Shanbo yu Zhu Yingtai* <span lang="zh">梁山伯與祝英台</span>). Released in 1963, this film was a huge box office success, quickly turning into an audience favorite in Hong Kong, Taiwan, Singapore, and other Chinese-speaking regions. Ling Po's impressive cross-gender performance as male scholar Liang Shangbo <span lang="zh">梁山伯</span> turned her into a star and earned her the first of many best-actress awards at the Taipei Golden Horse Awards (*Jinma jiang* <span lang="zh">金馬獎</span>), Taiwan's "Oscars" for Chinese-language cinema. The enthusiastic audience reception of Ling Po's cross-gender performance also affected casting choices in later Shaw Brothers productions.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png" alt="In a latticed study, Student Zhang sits at a desk as Hongniang stands opposite in a maroon vest, holding a booklet.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png" alt="In a latticed study, Student Zhang sits at a desk as Hongniang stands opposite in a maroon vest, one hand raised.">
   <figcaption><strong>Fig. 2.</strong> Li Ching as Hongniang giving advice to Ivy Ling Po as Student Zhang on how to convey his feelings to Yingying. Source: Screenshot from Intercontinental Video Limited DVD. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
