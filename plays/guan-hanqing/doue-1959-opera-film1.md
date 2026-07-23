@@ -176,7 +176,7 @@ In this extended scene, phonocentric expression is replaced with bodily forms of
 
 ### Scene 4: Tau Ngo instructs Lai Heung to purchase a bowl of mutton soup
 
-<figure class="module-figure-right">
+<figure class="module-figure-right" style="margin-top:1.5rem">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/guan-hanqing/doue-1959-opera-film1/Doue_1959_OperaFilm1_7.png" alt="Lai Heung holds a bowl and raises her hand near her forehead in a sign gesture while Tau Ngo stands beside her.">
   <figcaption><strong>Fig. 7.</strong> Lai Heung holds the soup bowl and raises her hand near her forehead in a coded sign gesture; the exchange with Tau Ngo blends opera conventions with real sign language. Source: The film on <a href="https://www.youtube.com/watch?v=cL7Dq2XrfSI&t=730s">Youtube</a>. Credit: Screenshot by author.</figcaption>
 </figure>
