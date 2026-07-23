@@ -14,12 +14,11 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 
 - [The film with Chinese (simplified) and English subtitles on Bilibili.](https://www.bilibili.com/video/BV1Ps411v7Ht/)
 
+<div class="module-info">
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: an opera heroine in an ornate floral headdress fills the frame above two small costumed figures.">
   <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
 </figure>
-
-<div class="module-info">
 <h2>Information</h2>
 <dl>
 <div><dt>Title</dt><dd><em>Hongniang</em> (<em>Crimson</em>) <span lang="zh">红娘</span></dd></div>
@@ -58,6 +57,7 @@ Before Hongniang can take the lead as the film's revolutionary hero, it first es
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_1.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 1: Madam Cui: The Unsympathetic Widow. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -74,6 +74,7 @@ The film introduces Madam Cui as a character beholden to a feudal, anti-revoluti
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_2.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 2: Madam Cui Breaks Her Promise. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -94,6 +95,7 @@ From the audience's perspective, this scene cements Madam Cui as the evil force 
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_3.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 3: Hongniang Chooses Revolution. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -112,6 +114,7 @@ Signaling the active role she begins to take, Hongniang demonstrates her superio
   <video controls>
     <source src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_Clip_4.mp4" type="video/mp4">
   </video>
+  <p class="clip-caption">Clip 4: Hongniang and Student Zhang Work Together in Solidarity. Source: The film on <a target="_blank" href="https://www.bilibili.com/video/BV1Ps411v7Ht/">Bilibili</a>.</p>
 </div>
   <div class="subtitle-controls" role="group" aria-label="Subtitle language">
     <button class="sub-btn active" data-lang="zh">Chinese</button>
@@ -131,9 +134,7 @@ Hongniang's efforts to bring the couple together do not cease despite the challe
   <figcaption><strong>Fig. 2.</strong> Hongniang stops Madam Cui from beating her. Source: This image is sourced from <a href="https://www.bilibili.com/video/BV1Ps411v7Ht/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1044"><em>Hongniang</em> on Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
-The conclusion to the film highlights the reactionary brutality of Madam Cui and the cunning resourcefulness of Hongniang, the representatives of the bourgeoisie and proletariat respectively. When Madam Cui discovers that her daughter and Student Zhang have been seeing each other behind her back with Hongniang's assistance, she confronts Hongniang in a final stand-off. Madam Cui cruelly scolds and beats Hongniang, threatening to turn her over to local authorities for ruining her family, but clever Hongniang finds a way to turn the situation around and outsmarts Madam Cui. Hongniang wields her circumstances in her favor yet again and builds a case against Madam Cui that she brought about her own demise, as the audience is already aware of, through her misdeeds. Eventually, Madam Cui gives in, so long as Student Zhang passes the imperial exam.
-
-This scene represents the pinnacle of class struggle as a central theme due to the characterizations of Madam Cui and Hongniang as each other's foils. Madam Cui, as the bourgeois oppressor, has a monopoly over violence and gleefully wields it through the stick she beats Hongniang with; but Hongniang, though she does not possess disciplinary power in this situation, is able to use her cunning and sense of justice to defend herself and the young couple, scoring a victory over the feudal system of the time. Hongniang's success in the climax exemplifies an idealized version of a revolutionary, who seizes a moment to dismantle reactionary forces. Hongniang has the last word with some advice for Student Zhang to remain faithful and return in triumph.
+The conclusion to the film highlights the reactionary brutality of Madam Cui and the cunning resourcefulness of Hongniang, the representatives of the bourgeoisie and proletariat respectively. When Madam Cui discovers that her daughter and Student Zhang have been seeing each other behind her back with Hongniang's assistance, she confronts Hongniang in a final stand-off. Madam Cui cruelly scolds and beats Hongniang, threatening to turn her over to local authorities for ruining her family, but clever Hongniang finds a way to turn the situation around and outsmarts Madam Cui. Hongniang wields her circumstances in her favor yet again and builds a case against Madam Cui that she brought about her own demise, as the audience is already aware of, through her misdeeds. Eventually, Madam Cui gives in, so long as Student Zhang passes the imperial exam. This scene represents the pinnacle of class struggle as a central theme due to the characterizations of Madam Cui and Hongniang as each other's foils. Madam Cui, as the bourgeois oppressor, has a monopoly over violence and gleefully wields it through the stick she beats Hongniang with; but Hongniang, though she does not possess disciplinary power in this situation, is able to use her cunning and sense of justice to defend herself and the young couple, scoring a victory over the feudal system of the time. Hongniang's success in the climax exemplifies an idealized version of a revolutionary, who seizes a moment to dismantle reactionary forces. Hongniang has the last word with some advice for Student Zhang to remain faithful and return in triumph.
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
