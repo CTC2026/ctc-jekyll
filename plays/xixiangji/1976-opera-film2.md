@@ -16,7 +16,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 
 <div class="module-info">
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: an opera heroine in an ornate floral headdress fills the frame above two small costumed figures.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: Hongniang in a rose-and-pearl headdress raises a white sleeve above two small costumed figures.">
   <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
 </figure>
 <h2>Information</h2>
@@ -130,7 +130,7 @@ Hongniang's efforts to bring the couple together do not cease despite the challe
 ### Scene 5: Hongniang's Revolutionary Victory
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Hongniang stops Madam Cui from beating her.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_2.png" alt="Opera stage: Madam Cui in a brown robe raises a stick as Hongniang, in red, kneels and lifts a white sleeve to block.">
   <figcaption><strong>Fig. 2.</strong> Hongniang stops Madam Cui from beating her. Source: This image is sourced from <a href="https://www.bilibili.com/video/BV1Ps411v7Ht/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1044"><em>Hongniang</em> on Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
