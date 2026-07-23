@@ -32,7 +32,7 @@ director: 'Yueh Feng (Griffin Yueh) <span lang="zh">岳楓</span>'
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_1.png" alt="Poster of Shaw Brothers' West Chamber (1965).">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_1.png" alt="Poster: Student Zhang in a gold robe and black cap smiles above Hongniang and Yingying, who holds an inscribed fan.">
   <figcaption><strong>Fig. 1.</strong> A Hong Kong DVD of the Shaw Brothers' <em>West Chamber</em> distributed by Intercontinental Video Limited. Source: CTC board member Marjorie Chan owns this DVD. Credit: Scan by Marjorie Chan.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ In 1962, three years prior to the release of *West Chamber*, in their official p
 However, work on Hongniang was temporarily suspended in late 1962 as the studio devoted resources to the production of another Huangmei opera film, *The Love Eterne* (*Liang Shanbo yu Zhu Yingtai* <span lang="zh">梁山伯與祝英台</span>). Released in 1963, this film was a huge box office success, quickly turning into an audience favorite in Hong Kong, Taiwan, Singapore, and other Chinese-speaking regions. Ling Po's impressive cross-gender performance as male scholar Liang Shangbo <span lang="zh">梁山伯</span> turned her into a star and earned her the first of many best-actress awards at the Taipei Golden Horse Awards (*Jinma jiang* <span lang="zh">金馬獎</span>), Taiwan's "Oscars" for Chinese-language cinema. The enthusiastic audience reception of Ling Po's cross-gender performance also affected casting choices in later Shaw Brothers productions.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png" alt="Ivy Ling Po (left) as Student Zhang and Li Ching as Hongniang in West Chamber.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1965-opera-film/Xixiangji_1965_OperaFilm_2.png" alt="In a latticed study, Student Zhang sits at a desk as Hongniang stands opposite in a maroon vest, holding a booklet.">
   <figcaption><strong>Fig. 2.</strong> Li Ching as Hongniang giving advice to Ivy Ling Po as Student Zhang on how to convey his feelings to Yingying. Source: Screenshot from Intercontinental Video Limited DVD. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
