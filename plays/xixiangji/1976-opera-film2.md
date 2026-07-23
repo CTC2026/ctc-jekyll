@@ -14,6 +14,11 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 
 - [The film with Chinese (simplified) and English subtitles on Bilibili.](https://www.bilibili.com/video/BV1Ps411v7Ht/)
 
+<figure class="module-figure-right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: an opera heroine in an ornate floral headdress fills the frame above two small costumed figures.">
+  <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
+</figure>
+
 <div class="module-info">
 <h2>Information</h2>
 <dl>
@@ -30,11 +35,6 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 </div>
 
 ## Introduction
-
-<figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film2/Xixiangji_1976_OperaFilm2_1.png" alt="Painted poster: an opera heroine in an ornate floral headdress fills the frame above two small costumed figures.">
-  <figcaption><strong>Fig. 1.</strong> Hongniang, as the large and central subject of the poster, looks beyond the small figures of Yingying and Student Zhang. Source: This image is sourced from <a href="https://movie.douban.com/photos/photo/2530223652/">Douban <span lang="zh">豆瓣</span></a>. Credit: Qianxun Yixuan <span lang="zh">千寻亿选</span>.</figcaption>
-</figure>
 
 The Cultural Revolution was a tumultuous time in the early years of the PRC that greatly altered the political and cultural environment of the nation. Chinese opera was not exempt from these changes and was targeted as an art form that inappropriately romanticized the old, feudal culture. By the 1970s, the central party's belief regarding art was that all art is inherently political and represents the interests of a class (Mackerras 1970). Thus, the party recognized that the conventions of opera had to be modified to act as propaganda in its favor and all productions needed to center around the interests of the workers rather than that of feudal landlords, wealthy merchants, or other members of the bourgeois elite.
 
