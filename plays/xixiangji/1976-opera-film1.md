@@ -32,7 +32,7 @@ director: 'Chen Fangqian <span lang="zh">陈方千</span>'
 ## Introduction
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg" alt="Magazine spread: a black-and-white portrait of Zhao Yanxia beside color opera stills and a photo of an actress in white.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/1976-opera-film1/Xixiangji_1976_OperaFilm1_1.jpg" alt="Magazine spread: a black-and-white portrait of Zhao Yanxia beside color stills and a photo of her as Crimson in white.">
   <figcaption><strong>Fig. 1.</strong> A magazine feature on Zhao Yanxia in her role as Crimson. Source: Zhang Aiding. "Forever Young." <em>China's Screen</em>, 1980 no. 2. Credit: Photograph courtesy of Miao Hanbing.</figcaption>
 </figure>
 
