@@ -32,15 +32,49 @@ In *The Lute*, Gao is at pains to show that such heartless abandonment may not b
 
 One of the central themes that runs through the play and that is developed in many arias, including the one cited below, is that the Confucian writings do not only inadequately prepare their readers for the many obstacles involved in the implementation of Confucian ideals; moreover, the very people allegedly most devoted to safeguarding these Confucian principles—fathers, ministers, and the emperor—become the prime forces who get in the way of the younger generation's desire to be loving and filial children. As Cai Bojie sings:
 
-> I think / Of the books I read in youth. / They said a son must become a model of filial service, / But never talked of the reality. / How could I have known that I would suffer so many troubles? / Forced by my father to attend the examinations, / Forced by the ruler to serve as counselor, / Forced by father-in-law to live in marriage— / Forced against my will three times, and now I must bear my pain in silence! / I can't escape blame from both sides. / Here, they call me naïve, bashful, cold; / There, they call me shiftless, fickle, and untrue (Mulligan, *The Lute*, 181).
+> I think<br>
+> Of the books I read in youth.<br>
+> They said a son must become a model of filial service,<br>
+> But never talked of the reality.<br>
+> How could I have known that I would suffer so many troubles?<br>
+> Forced by my father to attend the examinations,<br>
+> Forced by the ruler to serve as counselor,<br>
+> Forced by father-in-law to live in marriage—<br>
+> Forced against my will three times, and now I must bear my pain in silence!<br>
+> I can't escape blame from both sides.<br>
+> Here, they call me naïve, bashful, cold;<br>
+> There, they call me shiftless, fickle, and untrue (Mulligan, *The Lute*, 181).
 >
-> <span lang="zh">思量， / 幼讀文章， / 論事親為子也須要成模樣。 / 真情未講， / 道吃盡多磨障？ / 被親強來赴選場， / 被君強官為議郎， / 被婚強效鳳凰。 / 三被強衷腸說與誰行？ / 埋怨難禁這兩廂 / 這壁廂道咱是個不撑達害羞的喬相識， / 那壁廂道咱是個不賭是負心的薄倖郎。</span> (Qian, *Pipa ji*, 174).
+> <span lang="zh">思量，<br>
+> 幼讀文章，<br>
+> 論事親為子也須要成模樣。<br>
+> 真情未講，<br>
+> 道吃盡多磨障？<br>
+> 被親強來赴選場，<br>
+> 被君強官為議郎，<br>
+> 被婚強效鳳凰。<br>
+> 三被強衷腸說與誰行？<br>
+> 埋怨難禁這兩廂<br>
+> 這壁廂道咱是個不撑達害羞的喬相識，<br>
+> 那壁廂道咱是個不賭是負心的薄倖郎。</span> (Qian, *Pipa ji*, 174).
 
 It is the other main protagonist, Cai Bojie's first wife, Zhao Wuniang, whose songs develop the notion that love for one's husband and for one's in-laws require heroic efforts beyond anything that can be discussed or shared with anyone in the most affecting detail. After Cai's departure, Wuniang muses in a song:
 
-> Are you really such a dedicated scholar? / I only fear that in ten miles of red pavilions, / Power and wealth you'll covet. / But though you may forget me, / Surely your parents will stay in your thoughts. / There is no one to whom I can speak of this— / This cold, cold loneliness—how can I bear it? (Mulligan, *The Lute*, 82)
+> Are you really such a dedicated scholar?<br>
+> I only fear that in ten miles of red pavilions,<br>
+> Power and wealth you'll covet.<br>
+> But though you may forget me,<br>
+> Surely your parents will stay in your thoughts.<br>
+> There is no one to whom I can speak of this—<br>
+> This cold, cold loneliness—how can I bear it? (Mulligan, *The Lute*, 82)
 >
-> <span lang="zh">那些兒箇意孜孜， / 只怕十里紅樓， / 貪着人豪富。 / 雖然是忘了奴， / 也須索念父母。 / 無人說與， / 這凄凄冷冷怎生辜負</span> (Qian, *Pipa ji*, 65)
+> <span lang="zh">那些兒箇意孜孜，<br>
+> 只怕十里紅樓，<br>
+> 貪着人豪富。<br>
+> 雖然是忘了奴，<br>
+> 也須索念父母。<br>
+> 無人說與，<br>
+> 這凄凄冷冷怎生辜負</span> (Qian, *Pipa ji*, 65)
 
 When everything begins to fall apart, Wuniang goes to extreme lengths to hold the family together. Famine strikes and the family gradually runs out of food despite Wuniang's best efforts to scrounge together meals for her in-laws. The late Yuan period (1320-1366) was marked by a series of severe weather events that led to famine and eventually rebellion, hence the backdrop of starvation was not so much a melodramatic touch as an acute reminder of recent events. The theme of famine culminates in the iconic scene where Wuniang forces herself to swallow virtually inedible rice husks. She does this in secret to shield her in-laws from being overly worried about her and the family's dire straits, but her secrecy backfires: Mother Cai suspects that Wuniang keeps the best morsels for herself; however, once the truth comes out, Mother Cai dies of shame and Father Cai, similarly afflicted by shame, hunger, and illness, follows suit not too long after that. Thus it falls to Wuniang to provide a proper burial, even though she is reduced to utter penury. She cuts and sells her hair, she begins to build a grave mound with her bare hands before being assisted by divine helpers, and she draws their ancestral portrait—actions that illustrate both the desperate poverty, but also her resilience in the face of unspeakable adversity. Inspired by a divine dream, she sets out for the capital taking along the eponymous lute of the title of the play, singing songs about filial love, while begging to support her travel needs.
 
