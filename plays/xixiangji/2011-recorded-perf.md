@@ -54,7 +54,7 @@ On his way to take the imperial examinations, Zhang Gong/Student Zhang (performe
 ## Theme: Striking a Balance Between Propriety and Playfulness
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_3.jpeg" alt="CD cover for The Western Wing: a large sepia portrait of Cui Yingying and a smaller figure holding a white cloth.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_3.jpeg" alt="CD cover for The Western Wing: two sepia photos of Yuan Xuefen in operatic roles, one a large close-up portrait.">
   <figcaption><strong>Fig. 3.</strong> CD featuring recordings of Yuan Xuefen's <span lang="zh">袁雪芬</span> early performances. Issued by China Record Shanghai Company <span lang="zh">中国唱片上海公司</span>. Source: CTC owns this CD. Credit: Photo by CTC Project Team.</figcaption>
 </figure>
 
