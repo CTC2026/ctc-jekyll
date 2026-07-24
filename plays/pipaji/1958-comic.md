@@ -34,21 +34,21 @@ The *nianhua* was illustrated by Zheng Mukang <span lang="zh">郑慕康</span> (
 ## Theme: Reconciling Auspicious and Inauspicious Color Contrasts
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg" alt="Painted book cover: a woman in pink and a man in blue clasp hands beneath a willow by a pond, hills behind">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg" alt="Booklet cover: a framed painting of a woman in pink and a man in blue clasping hands by a willow pond, hills behind">
   <figcaption><strong>Fig. 1.</strong> Cover of <em>The Lute</em> <em>nianhua lianhuanhua</em> as republished by Shanghai Fine Arts Press in 2010. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
 Although a print of the 1958 *nianhua lianhuanhua* of *The Lute* is not readily available, consulting a similar adaptation of *The Western Wing* from 1958 can give us a sense of what the original looked like.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_2.jpg" alt="Sheet of sixteen small colour panels showing figures in traditional dress in domestic interiors, with watermarks">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_2.jpg" alt="Four vertical strips of sixteen small colour panels of robed figures in domestic and garden scenes, watermarked">
   <figcaption><strong>Fig. 2.</strong> <em>The Western Wing</em> <em>nianhua lianhuanhua</em> as it appears for auction on the old book online marketplace, Kongfz. Source: User Lotus Bookroom's posting on <a href="https://book.kongfz.com/12050/2063611803/">Kongfz</a>.</figcaption>
 </figure>
 
 *The Western Wing* is rendered here in sixteen panels printed on four vertical strips; according to the 2010 reprint, *The Lute*'s 18 panels were originally printed on three strips. Captions to each panel would have appeared beneath the image.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_3.png" alt="Book page with a red-bordered grid of small colour panels depicting figures in indoor and outdoor scenes">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_3.png" alt="Reprint page: a red-bordered grid of eighteen small colour panels of robed figures in indoor and outdoor scenes">
   <figcaption><strong>Fig. 3.</strong> A miniature of <em>The Lute</em> <em>nianhua lianhuanhua</em> as pictured in the 2010 reprint. Note that the order of panels snakes from left to right horizontally, with panels 1-3 in the first row and so on. The original print likely featured panels 1-6 on the first vertical strip, 7-12 on the second, and 13-18 on the last. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ The booklet's introductory essay by Liu Yongsheng <span lang="zh">刘永胜</spa
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_4.png" alt="Panel 4 of The Lute. Cai Yong sends away the matchmaker.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_4.png" alt="Cai Yong in a purple robe points to dismiss the green-robed matchmaker leaving through a red gate as a servant looks on">
   <figcaption><strong>Fig. 4.</strong> Panel 4 of <em>The Lute</em>. Cai Yong sends away the matchmaker. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Indeed, the somber gray tones of the landscape painting are a contrast to the ri
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_5.png" alt="An elderly couple, the woman leaning on a cane, step from a thatched gateway into a snowy field with a bare tree">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_5.png" alt="Cai Yong's elderly parents, the mother leaning on a staff, step from a thatched gate into a snowy field with a bare tree">
   <figcaption><strong>Fig. 5.</strong> Panel 5 of <em>The Lute</em>. The Cais await the return of their son. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Following on the heels of the matchmaker scene in the capital, the fifth panel r
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png" alt="Panel 8 of The Lute. Cai Yong ignores his new bride.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png" alt="A red-robed bride sits on the bed at left as Cai Yong, also in red, stands at right gazing out the window away from her">
   <figcaption><strong>Fig. 6.</strong> Panel 8 of <em>The Lute</em>. Cai Yong ignores his new bride. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Color works ambivalently even in the wedding scene featured in panel 8. The wedd
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="In a garden a man kneels playing a zither at a red table as an attendant with a round fan stands by a lotus pond">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Cai Yong kneels playing a zither at a red table in a garden as a servant fans him and his wife peeks from a pavilion">
   <figcaption><strong>Fig. 7.</strong> Panel 12 of <em>The Lute</em>. Cai Yong plays the zither and exposes his gloomy feelings to his new wife. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ The next time we return to Cai, in panel 12, he is once again melancholic, now p
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Two men stand in a temple hall of red pillars and bronze censers, gazing at a portrait scroll hung on a column">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Cai Yong in purple gestures toward a portrait scroll on a red temple pillar as a blue-robed servant stands by censers">
   <figcaption><strong>Fig. 8.</strong> Panel 16 of <em>The Lute</em>. Cai Yong finds a portrait of his parents in Mituo Temple. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ In panel 16, Cai finally "encounters" the parents he has been fretting over when
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_9.png" alt="In a pine grove a man in purple bows before a stone grave altar as an old man with a staff and others look on">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_9.png" alt="In a pine grove Cai Yong in purple bows at a stone grave altar as Elder Zhang points a staff and Wuniang looks on">
   <figcaption><strong>Fig. 9.</strong> Panel 18 of <em>The Lute</em>. Cai Yong prays at his parents' tomb back in his hometown. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
