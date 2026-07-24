@@ -38,12 +38,12 @@ Yuan Xuefen <span lang="zh">袁雪芬</span> (1922–2011), the former head of t
 In the 1950s and 1960s, dance and opera often formed part of the cultural repertoire of diplomacy, particularly among socialist allies. In October 1953, the first premier of the People's Republic of China, Zhou Enlai <span lang="zh">周恩来</span> (1898-1976), asked Yuan and her troupe to adapt Wang Shifu <span lang="zh">王实甫</span>'s *The Story of the Western Wing* for the Yue stage. After the conclusion of hostilities in the Korean War in the summer 1953, on November 23rd, Yuan's troupe performed *The Western Wing* for Premier Zhou and Kim Il-sung (1912-1994), the founder and president of North Korea (DPRK), in celebration of the ratification of the China-DPRK Economic and Cultural Cooperation Agreement. The 2011 version retained many features of Yuan's version and starred multiple generations of actresses from the Shanghai Yue Opera Troupe. As is typical in Yue opera, all role types are performed by women (see Fig. 1 and 2).
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_1.jpg" alt="A scholar in a black winged cap and green robe reaches toward a woman in a jeweled headdress and white gown.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_1.jpg" alt="Student Zhang in a winged cap and green robe reaches toward Cui Yingying in a jeweled headdress and white gown.">
   <figcaption><strong>Fig. 1.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Student Zhang (Qian Huili <span lang="zh">钱惠丽</span>) and Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>). Source: <a href="https://www.cof.gov.hk/2019/tc/yue.html">Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019</a>.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_2.jpeg" alt="A woman in a headdress holds a brush at an ornate red table; at right another in a green gown reads a white letter.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_2.jpeg" alt="Cui Yingying holds a brush at an ornate red table while Hongniang, in a green gown, reads a white letter.">
   <figcaption><strong>Fig. 2.</strong> Image from the production of <em>The Western Wing</em> featured as promotional material on the 2019 Chinese Opera Festival website. (from left to right): Cui Yingying (Fang Yafen <span lang="zh">方亚芬</span>) and Hongniang (Zhang Yongmei <span lang="zh">张咏梅</span>). Source: <a href="https://www.cof.gov.hk/2019/tc/yue.html">Chinese Opera Festival Zhongguo Xiqu jie <span lang="zh">中国戏曲节</span> 2019</a>.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ On his way to take the imperial examinations, Zhang Gong/Student Zhang (performe
 ## Theme: Striking a Balance Between Propriety and Playfulness
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_3.jpeg" alt="CD cover with bold Chinese title characters and two sepia photos of opera performers, one a large close-up face.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/xixiangji/2011-recorded-perf/Xixiangji_2011_RecordedPerf_3.jpeg" alt="CD cover for The Western Wing: a large sepia portrait of Cui Yingying and a smaller figure holding a white cloth.">
   <figcaption><strong>Fig. 3.</strong> CD featuring recordings of Yuan Xuefen's <span lang="zh">袁雪芬</span> early performances. Issued by China Record Shanghai Company <span lang="zh">中国唱片上海公司</span>. Source: CTC owns this CD. Credit: Photo by CTC Project Team.</figcaption>
 </figure>
 
