@@ -40,7 +40,7 @@ layout: default
 
   <main id="main-content" tabindex="-1" class="ctc-sidebar-main page-content">
     {% unless page.banner_image %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
-    {% if page.media_type or page.director or page.playwright or page.troupe or page.media_subtype or page.publisher %}
+    {% if page.media_type or page.director or page.playwright or page.troupe or page.media_subtype or page.publisher or page.producer %}
     <div class="module-subtitle">
       {% if page.media_type %}
         {% assign mt = page.media_type %}
@@ -60,6 +60,7 @@ layout: default
       {% endif %}
       {% if page.media_subtype %}<p class="module-director">{{ page.media_subtype }}</p>{% endif %}
       {% if page.director %}<p class="module-director"><strong>Director:</strong> {{ page.director }}</p>{% endif %}
+      {% if page.producer %}<p class="module-director"><strong>Producer:</strong> {{ page.producer }}</p>{% endif %}
       {% if page.playwright %}<p class="module-director"><strong>Playwright:</strong> {{ page.playwright }}</p>{% endif %}
       {% if page.troupe %}<p class="module-director"><strong>Troupe:</strong> {{ page.troupe }}</p>{% endif %}
       {% if page.publisher %}<p class="module-director"><strong>Publisher:</strong> {{ page.publisher }}</p>{% endif %}

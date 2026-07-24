@@ -7,7 +7,7 @@ play_id: xixiangji
 play_title: "The Story of the Western Wing"
 banner_image: /assets/images/WW_ResourceBanner.png
 media_type: Recording of a Live Performance
-director: 'Wu Chen <span lang="zh">吴琛</span>'
+producer: 'Shanghai Yue Opera Troupe <span lang="zh">上海越剧团</span>'
 ---
 
 ## Links to the Recording
