@@ -119,7 +119,7 @@ Color works ambivalently even in the wedding scene featured in panel 8. The wedd
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Cai Yong kneels playing a zither at a red table in a garden as a servant fans him and Miss Niu peeks from a pavilion">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Cai Yong sits playing a zither at a red table in a garden as a servant fans him and Miss Niu peeks from a pavilion">
   <figcaption><strong>Fig. 7.</strong> Panel 12 of <em>The Lute</em>. Cai Yong plays the zither and exposes his gloomy feelings to his new wife. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
