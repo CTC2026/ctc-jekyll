@@ -54,7 +54,7 @@ In our discussion below, we will focus on how singing techniques can express dee
 
 ### 1. Using Various Singing Techniques to Create a Sad Mood
 
-**Example 1: Singing a Southern-Style Title Tune in a Northern Style (*nanqu beichang* <span lang="zh">南曲北唱</span>)**
+[**Example 1: Singing a Southern-Style Title Tune in a Northern Style (*nanqu beichang* <span lang="zh">南曲北唱</span>)**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=136)
 
 The most famous and iconic scene of the entire play is "Eating Husks" ("Chikang" <span lang="zh">吃糠</span>). On account of this scene, Zhao Wuniang came to be known as the "husk wife" (*zaokang fu* <span lang="zh">糟糠妇</span>), a term that is still in use to denote a long-suffering wife. Zhao Wuniang's first aria right after entering the stage is called "Sheep on the Hillside" ("Shanpo yang" <span lang="zh">山坡羊</span>), a song pattern (*qupai* <span lang="zh">曲牌</span>) typically sung in the sweet and lingering style of southern music (*nanqu* <span lang="zh">南曲</span>). However, Wuniang's circumstances are precarious and riven with hardships. To avoid a dissonance between musical form and lyrical content, Wuniang delivers the aria introducing her difficult situation in a Northern musical style (*beiqu* <span lang="zh">北曲</span>). The vigorous and forceful tonality of this form is better suited to the somber mood of Wuniang's introductory aria.
 
@@ -99,7 +99,7 @@ The most famous and iconic scene of the entire play is "Eating Husks" ("Chikang"
   <p class="clip-caption">Clip 1: Singing a Southern-Style title tune in a Northern Style. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
-**Example 2: The Use of Melisma for Affective Emphasis**
+[**Example 2: The Use of Melisma for Affective Emphasis**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=963)
 
 In the aria set to the tune "Song of Filial Love" ("Xiaoshun ge" <span lang="zh">孝顺歌</span>), Zhao Wuniang sets up an extended comparison between herself and the rice husks. In the end, Zhao Wuniang overturns the metaphor between the husks and herself, because in her desperation, she feels that the husks are better off than she is. In the opening aria of this comparison, we can observe the use of melisma to emphasize Zhao Wuniang's suffering. Melisma is the practice of dwelling several beats on a single character, often with melodic ornamentation. It is commonly used in the Kun style of Chinese musical theater. In the aria below, the performer dwells on the character "*tong*" (<span lang="zh">痛</span>, "being in pain") to underline her physical misery. In a similar vein, at the beginning of the comparison between the husks and herself, the performer's singing draws out the pronominal characters for herself, "*nu*" <span lang="zh">奴</span> and "*jia*" <span lang="zh">家</span> ("I, this young woman") to highlight the introduction of this highly unconventional metaphor, thus using the vocal techniques to prepare the viewer for the mental distress implicit in such a comparison.
 
@@ -136,7 +136,7 @@ In the aria set to the tune "Song of Filial Love" ("Xiaoshun ge" <span lang="zh"
   <p class="clip-caption">Clip 2: The use of melisma for affective emphasis. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
-**Example 3: Expressing Shared Emotion through Joint Singing of Identical Lines (*he* <span lang="zh">合</span>)**
+[**Example 3: Expressing Shared Emotion through Joint Singing of Identical Lines (*he* <span lang="zh">合</span>)**](https://www.bilibili.com/video/BV13s411i7BF/?p=2&share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1006)
 
 In the scene "Taking Leave at the In-Laws' Grave" ("Biefen" <span lang="zh">别坟</span>), after burying her parents-in-law, Zhao Wuniang paints a portrait of her deceased in-laws and decides to go to the capital to look for her husband. When Elder Zhang hears that Wuniang is about to leave, he gives her money for her travel expenses and sees her off at her in-laws' grave. Worried that the grave will be neglected during her absence, she entrusts the care for the grave to Elder Zhang. In this interaction, parallelism and symmetry characterize vocal and visual aspects of the scene. Vocally, when one actor sings, the other performer simultaneously delivers their spoken responses (highlighted in red and green below). First, Wuniang sings, "Elder Zhang, please take care of it," while Elder Zhang speaks the line "You can count on me… no worries." Thereafter, the two roles switch the manner of delivery. Now Elder Zhang sings, "Never break this promise," while Wuniang says, "Thank you Elder Zhang," in response. Furthermore, the many instances of joint singing of the same lines demonstrate not only that Zhao Wuniang and Elder Zhang share the same emotions, but the joint delivery also magnifies these feelings (highlighted in blue below). Both protagonists have a deep personal connection to the late Father Cai and Mother Cai, and they are both worried that Wuniang's impending journey to the capital will be full of difficulties. In a similar vein, the repetition of certain words and lines throughout the interaction reinforces the pathos of the situation through verbal emphasis and musical accents (highlighted in purple). In some cases, the same singers repeat a line; in others, a jointly sung line is repeated by a solo singer or vice versa; in other cases still, a line is reprised later in the exchange.
 
@@ -188,7 +188,7 @@ Visually, every time when Wuniang and Elder Zhang sing lines together, especiall
 
 In this rearranged *The Lute*, Mother Cai <span lang="zh">蔡婆</span> in the role of comic (*jing*) is one of the roles that provides comic relief. Portraying her in this role allows the play to balance melancholy and somber emotions with a light comic touch. In this production, a very famous male comic actor, Zhang Mingrong plays Mother Cai. In dynastic times as well as the modern era, it was not uncommon for men to play the comic female parts. For one, starting from the middle of the Qing dynasty (mid-eighteenth century), female actors were banned from performing onstage; for another, with the commercial decline of commercial opportunities for Kunqu troupes in the late Qing dynasty, fewer actors specialized in "old female roles" (*laodan* <span lang="zh">老旦</span>) and as a result, old women were often played in a comic vein. Mother Cai, the mother of Cai Bojie and mother-in-law of Zhao Wuniang, disagrees with Father Cai in many respects. First, Father Cai compels his son to take the civil service exams and believes that examination success can help lift the family's status, whereas Mother Cai to some extent disagrees with her husband's worldly aspirations and wishes that her son stays home to look after them. The second and more consequential disagreement between Father Cai and Mother Cai is their attitude towards Zhao Wuniang. Mother Cai at first thinks Wuniang has been keeping all the good food for herself, but Father Cai disagrees and believes that Wuniang is a filial daughter-in-law and that Mother Cai might be wrong about her. This marital discord is a source of humor.
 
-**Example 1: The Ample Use of Dialect**
+[**Example 1: The Ample Use of Dialect**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=386)
 
 As is typical of comic roles, Mother Cai has few singing passages, all of which are delivered in Mandarin. In contrast, Father Cai, Zhao Wuniang, and neighbor Zhang Guangcai both sing and speak a lot, exclusively in Mandarin. However, as a comic *jing* role, Mother Cai delivers many spoken lines (*nianbai* <span lang="zh">念白</span>) in Wu dialect (*Subai* <span lang="zh">苏白</span>). The contrast between Wu dialect and Mandarin not only differentiates comic roles (*jing*) from a virtuous and moral role (*dan*, *laosheng*) but also distinguishes low status from high status protagonists. In this scene, Mother Cai is singing the first line, "Life is tough in the absence of grains <span lang="zh">生计萧条米粮缺少</span>," and the chorus echoes with, "Alas, life or death, no one can say for sure! <span lang="zh">啊呀天啊，真个死生难保</span>" in Mandarin, but then she switches to dialogue in Wu dialect to complain to Father Cai, carrying on in this manner for the rest of the play. The rhythm and delivery of Wu dialect successfully conveys a sense of humor.
 
@@ -224,7 +224,7 @@ As is typical of comic roles, Mother Cai has few singing passages, all of which 
   <p class="clip-caption">Clip 4: The ample use of dialect. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
-**Example 2: Punning Use of Speech and Body Language**
+[**Example 2: Punning Use of Speech and Body Language**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=513)
 
 Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to the capital, Zhao Wuniang comes to mediate the dispute and asks her mother-in-law to mollify her anger. Mother Cai responds, "I am starving so much so that my chest already clings to my back. There couldn't be any air/anger left in me anymore" <span lang="zh">我饿得前胸贴后背</span>，<span lang="zh">还有什么气</span>！Here the humor rests on the double entendre of "qi" <span lang="zh">气</span> as both "air/breath" and "anger." When Mother Cai delivers this line, she claps her hands twice to humorously parallel the situation in her line, "my chest already clings to my back." Her two palms figuratively represent her chest and her back.
 
@@ -248,7 +248,7 @@ Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to th
   <p class="clip-caption">Clip 5: Punning use of speech and body language. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115">Bilibili</a>.</p>
 </div>
 
-**Example 3: Using Exaggerated Body Language**
+[**Example 3: Using Exaggerated Body Language**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1512)
 
 Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It turns out that Wuniang is eating the husks and their false suspicion makes Mother Cai and Father Cai terribly embarrassed and ashamed. To express her shock and regret, Mother Cai slightly leans back, raises her head towards the sky, and her hand hits her forehead. She also uses her fist to hit her head.
 
@@ -277,7 +277,7 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
   <figcaption><strong>Fig. 5.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
-**Example 4: Metatheatrical Violation of Role Expectations**
+[**Example 4: Metatheatrical Violation of Role Expectations**](https://www.bilibili.com/video/BV13s411i7BF/?share_source=copy_web&vd_source=d542ca4696ac430b8529c65ae3d7832d&t=1772)
 
 Mother Cai swallows the husks and chokes to death. The death is shown in a slightly humorous way. When Wuniang goes to check on Mother Cai, Mother Cai does not respond, so Wuniang gives her a slight nudge, and Mother Cai rolls over and drops from the chair to the ground, and then lies motionless on the ground. This agile movement belongs to the repertoire of martial main role (*wusheng* <span lang="zh">武生</span>) or martial comic role (*wuchou* <span lang="zh">武丑</span>) actors. Zhang Mingrong, the actor playing Mother Cai, is skilled in the performance of martial comic roles, so this skillful, but unexpected body movement within the context of a female comic role provides humorous relief at an otherwise sad juncture of the play.
 
