@@ -15,7 +15,7 @@ troupe: 'Shanghai Kunqu Opera Troupe <span lang="zh">上海昆剧团</span>'
 - [A recording of the performance with Chinese subtitles on bilibili.](https://www.bilibili.com/video/BV13s411i7BF/?from=search&seid=2598124171264643115)
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_1.jpg" alt="A close-up of Liang Guyin in the role of Zhao Wuniang from 2010.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_1.jpg" alt="Zhao Wuniang in a blue robe and pearl headdress, white sleeves draping her arms, holds a brass teapot and a blue-and-white bowl.">
   <figcaption><strong>Fig. 1.</strong> A close-up of Liang Guyin <span lang="zh">梁谷音</span> in the role of Zhao Wuniang from 2010. Source: This image is sourced from <a href="https://www.cpr.cuhk.edu.hk/en/press/%E4%B8%AD%E5%A4%A7%E6%98%8E%E6%B8%85%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E6%8E%A8%E5%BB%A3%E5%B4%91%E5%8A%87%E8%97%9D%E8%A1%93%E6%96%BC%E6%9C%AC%E6%B8%AF%E5%9B%9B%E5%A4%A7%E5%AD%B8%E5%B7%A1%E8%BF%B4/">The Chinese University of Hong Kong</a>.</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ In the scene "Taking Leave at the In-Laws' Grave" ("Biefen" <span lang="zh">别�
 Visually, every time when Wuniang and Elder Zhang sing lines together, especially for the lines "What a bleak and chilly sight" (<span lang="zh">举目萧索</span>) and "Our eyes are full of tears" (<span lang="zh">满眼盈盈泪落</span>), not only are their voices in sync with one another, but they also perform their poses and actions symmetrically. For the visual parallelism, see the example picture below:
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_2.png" alt="Two Kunqu performers stand on either side of a grey grave mound on a gold-curtained stage.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_2.png" alt="Zhang Guangcai in dark blue and Zhao Wuniang in white face each other across a low grey grave mound before a gold curtain.">
   <figcaption><strong>Fig. 2.</strong> Screenshot from CCTV 11 with Ji Zhenhua <span lang="zh">计镇华</span> as neighbor Zhang Guangcai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as they exchange words of farewell at the tomb of Father and Mother Cai. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF/?p=2&share_source=copy_web">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -229,7 +229,7 @@ As is typical of comic roles, Mother Cai has few singing passages, all of which 
 Due to Mother Cai's anger over her husband's pressuring of Cai Bojie to go to the capital, Zhao Wuniang comes to mediate the dispute and asks her mother-in-law to mollify her anger. Mother Cai responds, "I am starving so much so that my chest already clings to my back. There couldn't be any air/anger left in me anymore" <span lang="zh">我饿得前胸贴后背</span>，<span lang="zh">还有什么气</span>！Here the humor rests on the double entendre of "qi" <span lang="zh">气</span> as both "air/breath" and "anger." When Mother Cai delivers this line, she claps her hands twice to humorously parallel the situation in her line, "my chest already clings to my back." Her two palms figuratively represent her chest and her back.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_3.jpg" alt="A grey-haired comic elder claps both raised hands, mouth open, beside a painted-face young woman in a blue robe.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_3.jpg" alt="Mother Cai in an olive headscarf claps raised hands, mouth open, beside Zhao Wuniang in a blue robe with a painted face.">
   <figcaption><strong>Fig. 3.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai on the left and Liang Guyin <span lang="zh">梁谷音</span> as Zhao Wuniang on the right as Wuniang seeks to calm down Mother Cai. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
@@ -268,12 +268,12 @@ Mother Cai decides to find out what delicacies Wuniang is eating on the sly. It 
 </div>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_4.jpg" alt="On a gold-curtained stage a robed elder recoils between a young woman in blue and an old man with a staff.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_4.jpg" alt="Mother Cai leans sharply back between Zhao Wuniang in blue at left and Father Cai with a staff at right, before a gold curtain.">
   <figcaption><strong>Fig. 4.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai in the center flanked by Zhao Wuniang on the left and Father Cai on the right as they find out the truth about Wuniang's eating habits. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_5.jpg" alt="Screenshot from CCTV 11 with Zhang Mingrong as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/2012-recorded-perf/Pipaji_2012_RecordedPerf_5.jpg" alt="Mother Cai, alone in an olive headscarf and dark robe, presses one hand to her forehead, a bowl in the other hand.">
   <figcaption><strong>Fig. 5.</strong> Screenshot from CCTV 11 with Zhang Mingrong <span lang="zh">张铭荣</span> as Mother Cai faulting herself for her groundless suspicions about her daughter-in-law. Source: The production on <a href="https://www.bilibili.com/video/BV13s411i7BF?p=1">Bilibili</a>. Credit: Screenshot by author.</figcaption>
 </figure>
 
