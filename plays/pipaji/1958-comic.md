@@ -136,7 +136,7 @@ The next time we return to Cai, in panel 12, he is once again melancholic, now p
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Cai Yong in purple gestures toward his parents' portrait scroll on a red temple pillar as two servants stand by censers">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Cai Yong in purple gestures toward his parents' portrait scroll on a red temple pillar as two servants stand behind him">
   <figcaption><strong>Fig. 8.</strong> Panel 16 of <em>The Lute</em>. Cai Yong finds a portrait of his parents in Mituo Temple. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
