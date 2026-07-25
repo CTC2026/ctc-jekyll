@@ -115,7 +115,7 @@ Sitting on the left of the banquet mat, the father is shown gesturing towards th
 In the next panel (fig. 6), the mood has shifted from tension to resignation. Cai Yong is increasingly sure he can't avoid travelling to the capital for exams. His head hangs down, its defeated pose mirrored in the weeping willow above him. The willow is all the more fitting in this scene because it is a traditional symbol of farewell and departure.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_7.jpg" alt="Panel 9, the argument continues.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_7.jpg" alt="Line drawing of a standing figure in a tall hat gesturing at three kneeling men on a mat, bare branches sweeping above">
   <figcaption><strong>Fig. 7.</strong> Panel 9, the argument continues. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ In the next panel (fig. 6), the mood has shifted from tension to resignation. Ca
 When he returns home, Cai Yong and his fretting mother continue to beg the elder Cai to reconsider (fig. 7). The family is joined by their neighbor, who has also joined the discussion and sits with them on the porch of their house. Angered by his son's reluctance to leave, the father rises. His hand is once again pointed, now in clear admonishment, at his son. Behind the family, a gnarly tree branch stretches halfway across the panel in a visual echo of the father's outstretched hand. Again, landscape and human figure mutually create and reinforce emotional disturbance. Even the folds in the family's robes echo the lines that represent the texture of the wood, suggesting an emotional connection between these figures and the environment they inhabit.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_8.jpg" alt="Cai's wife Wuniang sends her husband Cai Yong off to the capital in panel 16.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_8.jpg" alt="Line drawing of Wuniang in a canopied cart and Cai Yong in flowing robes parting beside a willow with sweeping tendrils">
   <figcaption><strong>Fig. 8.</strong> Cai's wife Wuniang <span lang="zh">五娘</span> sends her husband Cai Yong off to the capital in panel 16. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ Three years after his marriage, he remains ignorant of the goings-on at home and
 Having guessed that her husband is hiding something from her after listening to his song, Cai Yong's new wife Miss Niu <span lang="zh">牛小姐</span> is herself saddened. She has figured out that he is thinking of another woman. She thus arranges for a servant to bring wine to a cooling pavilion next to the lotus pond in their garden to distract him. Cai Yong is still sorrowful but dares not refuse and joins his wife in admiring the lotuses. In panel 60 (fig. 11), the two sit in a pavilion on the left side of the frame, while floating lotuses sweep from the bottom left to the top right.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_11.jpg" alt="Cai Yong and his new wife take in the lotus pond.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_11.jpg" alt="Line drawing of Cai Yong and his wife seated in a waterside pavilion beside a pond of large round lotus pads">
   <figcaption><strong>Fig. 11.</strong> Cai Yong and his new wife take in the lotus pond. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
