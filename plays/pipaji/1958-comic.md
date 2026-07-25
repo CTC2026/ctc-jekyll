@@ -34,7 +34,7 @@ The *nianhua* was illustrated by Zheng Mukang <span lang="zh">郑慕康</span> (
 ## Theme: Reconciling Auspicious and Inauspicious Color Contrasts
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg" alt="Booklet cover: a framed painting of a woman in pink and a man in blue clasping hands by a willow pond, hills behind">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_1.jpg" alt="Booklet cover: a painting of Wuniang in pink and Cai Yong in blue clasping hands by a willow pond, hills behind">
   <figcaption><strong>Fig. 1.</strong> Cover of <em>The Lute</em> <em>nianhua lianhuanhua</em> as republished by Shanghai Fine Arts Press in 2010. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Following on the heels of the matchmaker scene in the capital, the fifth panel r
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png" alt="A red-robed bride sits on the bed at left as Cai Yong, also in red, stands at right gazing out the window away from her">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_6.png" alt="Miss Niu, in red, sits on the bed at left as Cai Yong, also in red, stands at right gazing out the window away from her">
   <figcaption><strong>Fig. 6.</strong> Panel 8 of <em>The Lute</em>. Cai Yong ignores his new bride. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Color works ambivalently even in the wedding scene featured in panel 8. The wedd
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Cai Yong kneels playing a zither at a red table in a garden as a servant fans him and his wife peeks from a pavilion">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_7.png" alt="Cai Yong kneels playing a zither at a red table in a garden as a servant fans him and Miss Niu peeks from a pavilion">
   <figcaption><strong>Fig. 7.</strong> Panel 12 of <em>The Lute</em>. Cai Yong plays the zither and exposes his gloomy feelings to his new wife. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ The next time we return to Cai, in panel 12, he is once again melancholic, now p
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Cai Yong in purple gestures toward a portrait scroll on a red temple pillar as a blue-robed servant stands by censers">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1958-comic/Pipaji_1958_Comic_8.png" alt="Cai Yong in purple gestures toward his parents' portrait scroll on a red temple pillar as a servant stands by censers">
   <figcaption><strong>Fig. 8.</strong> Panel 16 of <em>The Lute</em>. Cai Yong finds a portrait of his parents in Mituo Temple. Source: Zheng Mukang <span lang="zh">郑慕康</span> (illustrator), Zhou Chujiang <span lang="zh">周楚江</span> (illustrator), and Zhi Guo <span lang="zh">治国</span> (text adaptation). <span lang="zh">年画连环画《琵琶记》</span> (Serial New Year's Print of <em>The Lute</em>). Shanghai: Shanghai People's Fine Publishing House, [1958] 2010. Credit: Scan by author.</figcaption>
 </figure>
 
