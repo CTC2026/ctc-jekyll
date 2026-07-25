@@ -9,9 +9,9 @@ banner_image: /assets/images/TheLute_ResourceBanner.png
 media_type: Lianhuanhua (Narrative Comics)
 ---
 
-## Links to the Lianhuanhua
+## Links to the *Lianhuanhua*
 
-- The 1985 version (in simplified Chinese characters): [16-panel 1985 *Lianhuanhua Pictorial* version.](https://www.laohuabao.com/huabao/lhhb-1985-7/110401852.html)
+- [The 1985 version (in simplified Chinese characters) 16-panel 1985 Lianhuanhua Pictorial version.](https://www.laohuabao.com/huabao/lhhb-1985-7/110401852.html)
 
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="Magazine page of black-and-white line panels: thatched houses, gnarled trees, a riverside pavilion, and a town">
@@ -53,7 +53,7 @@ The 1986 version features a collaboration between the original artist Chen Quans
   <figcaption><strong>Fig. 3.</strong> Panel 84, Cai Yong's messenger encounters his parents' neighbor. The artists' seals are featured in the top right corner of the composition. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
-Rather than adopting a realist idiom, the style leans into a register more familiar to folk tales. In a stark contrast to the adaptation of *Peony Pavilion* featured in the same box set and analyzed in another [CTC module](/plays/mudanting/1986-comic/), this comic version of *The Lute* does not focus emotion through the perspective of a single character. Characters' faces are never presented in close-ups and rarely drawn in detail; we may read about how individual characters are feeling in the narration, but there is little sense of individual interiority, or inner emotional life, in the visual representation of each character. Instead, emotional turmoil is expressed in theatrical gestures and moody landscapes that interact graphically on the page. Poses of sorrow, defeat, or outrage are mirrored in the trees and rocks that surround the protagonists, embedding them in an affective space that is bigger than any single individual. The emotional weight of the story emerges from the interaction of human and environment, an atmosphere that is mutually created by both the figures and the background of the image.
+Rather than adopting a realist idiom, the style leans into a register more familiar to folk tales. In a stark contrast to the adaptation of *Peony Pavilion* featured in the same box set and analyzed in another [CTC module]({{ '/plays/mudanting/1986-comic/' | relative_url }}), this comic version of *The Lute* does not focus emotion through the perspective of a single character. Characters' faces are never presented in close-ups and rarely drawn in detail; we may read about how individual characters are feeling in the narration, but there is little sense of individual interiority, or inner emotional life, in the visual representation of each character. Instead, emotional turmoil is expressed in theatrical gestures and moody landscapes that interact graphically on the page. Poses of sorrow, defeat, or outrage are mirrored in the trees and rocks that surround the protagonists, embedding them in an affective space that is bigger than any single individual. The emotional weight of the story emerges from the interaction of human and environment, an atmosphere that is mutually created by both the figures and the background of the image.
 
 ## Theme: Creating Emotional Atmospheres
 
