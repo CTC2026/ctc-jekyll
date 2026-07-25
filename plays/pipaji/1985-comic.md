@@ -115,7 +115,7 @@ Sitting on the left of the banquet mat, the father is shown gesturing towards th
 In the next panel (fig. 6), the mood has shifted from tension to resignation. Cai Yong is increasingly sure he can't avoid travelling to the capital for exams. His head hangs down, its defeated pose mirrored in the weeping willow above him. The willow is all the more fitting in this scene because it is a traditional symbol of farewell and departure.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_7.jpg" alt="Line drawing of a standing figure in a tall hat gesturing at three kneeling men on a mat, bare branches sweeping above">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_7.jpg" alt="Line drawing of Cai's father standing over his kneeling family and Elder Zhang on a mat, bare branches sweeping above">
   <figcaption><strong>Fig. 7.</strong> Panel 9, the argument continues. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
