@@ -150,7 +150,7 @@ When he returns home, Cai Yong and his fretting mother continue to beg the elder
 The sorrowful willow in turn reappears several panels later when Cai Yong heads out to the capital. As in the previously discussed willow scene (fig. 6), the sweeping folds of clothes in this panel (fig. 8) resonate with the sweeping tendrils of the tree. Here too the environment and the characters seem to imbue each other with grief and longing.
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_9.jpg" alt="Line drawing of Cai Yong bowing on a railed veranda as two officials hold up an edict scroll, a banana plant at right">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_9.jpg" alt="Line drawing of Cai Yong bowing on a railed veranda as two officials gesture with raised hands, a banana plant at right">
   <figcaption><strong>Fig. 9.</strong> In panel 32 Cai Yong tries to get out of an arranged marriage with a powerful family. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
