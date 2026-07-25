@@ -12,7 +12,7 @@ media_type: Lianhuanhua (Narrative Comics)
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>Lianhuanhua New Year's Print of The Lute <span lang="zh">年画连环画琵琶记</span></dd></div>
+<div><dt>Title</dt><dd>Lianhuanhua New Year's Print of <em>The Lute</em> <span lang="zh">年画连环画琵琶记</span></dd></div>
 <div><dt>Year</dt><dd>1958</dd></div>
 <div><dt>Art</dt><dd>Zheng Mukang <span lang="zh">郑慕康</span> and Zhou Chujiang <span lang="zh">周楚江</span></dd></div>
 <div><dt>Textual adaptation</dt><dd>Zhi Guo <span lang="zh">治国</span></dd></div>
