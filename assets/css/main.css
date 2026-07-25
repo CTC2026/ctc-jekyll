@@ -1039,6 +1039,7 @@ details.works-consulted summary:focus-visible { outline: 3px solid #000; outline
 
 details.works-consulted ul { padding-left: 1.2rem; margin: 0.5rem 0; }
 details.works-consulted li { font-size: 1rem; margin-bottom: 0.6rem; line-height: 1.55; }
+details.works-consulted a { text-decoration: underline; }
 
 .module-authors { font-size: 1.1rem; margin: 0.5rem 0 2rem; }
 
