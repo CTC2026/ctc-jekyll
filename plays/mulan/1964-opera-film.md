@@ -7,7 +7,7 @@ play_id: mulan
 play_title: "The Female Mulan Joins the Army"
 banner_image: /assets/images/Mulan_ResourceBanner.png
 media_type: Huangmei Opera Film
-director: '<span lang="zh">岳楓</span> (Yueh Feng)'
+director: 'Yueh Feng <span lang="zh">岳楓</span>'
 ---
 
 ## Links to the Film
