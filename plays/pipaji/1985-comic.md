@@ -14,7 +14,7 @@ media_type: Lianhuanhua (Narrative Comics)
 - [The 1985 version (in simplified Chinese characters) 16-panel 1985 Lianhuanhua Pictorial version.](https://www.laohuabao.com/huabao/lhhb-1985-7/110401852.html)
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="Pictorial page: a brushed title at left beside a line panel of thatched houses, a gnarled tree, and a riverside pavilion">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_1.jpg" alt="Pictorial page: a brushed title at left beside panels of thatched houses, a gnarled tree, and a riverside pavilion">
   <figcaption><strong>Fig. 1.</strong> The first page of <em>The Lute</em> as it appears in the 7th 1985 issue of <em>Lianhuanhua Pictorial</em>. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art) &amp; Shi Ming <span lang="zh">士明</span> (text). <span lang="zh">琵琶记</span> ("The Lute"). <span lang="zh">连环画报</span> (<em>Lianhuanhua Pictorial</em>), 1985 no. 7. Credit: UC Berkeley's East Asian Library has this print issue, and the Chinese Studies Librarian, Jianye He, provided the scanned image.</figcaption>
 </figure>
 
