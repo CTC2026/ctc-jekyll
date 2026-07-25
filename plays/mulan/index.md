@@ -24,7 +24,7 @@ You can find modules that analyze various adaptations of *The Female Mulan Joins
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg" alt="Ink-and-color silk painting of a son bringing oranges to his seated father and standing mother, with servants nearby.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/general-intro/Mulan_General_Intro_1.jpg" alt="Ink-and-color silk painting of a son bringing oranges to his seated father in a garden, with attendants nearby.">
   <figcaption><strong>Fig. 1.</strong> "Four Paragons of Filial Piety" ("<em>Sixiao tu</em>" <span lang="zh">四孝圖</span>), anonymous Yuan dynasty handscroll. Source: National Palace Museum, Taipei. Open Data Collection, Image Number K2A001544N000000000PAC.</figcaption>
 </figure>
 
