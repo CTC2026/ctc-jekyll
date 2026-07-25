@@ -48,7 +48,7 @@ The artist Chen Quansheng's <span lang="zh">陈全胜</span> (1950- ) 16-panel v
 
 The 1986 version features a collaboration between the original artist Chen Quansheng and a slightly younger colleague, Yue Haibo <span lang="zh">岳海波</span> (1955-). The illustrators' playful embrace of traditional aesthetics is made visible in the two simulated "seals," in this case drawn onto the paper, that appear on panel 84 of the longer version of the comic (fig. 3). They read: "Quansheng" <span lang="zh">全胜</span> (top right, characters read right to left) and "Haibo" <span lang="zh">海波</span> (bottom right, characters read top to bottom). By using first names in their seals, the two artists simulate the intimate signatures of Chinese painters of yore whose work circulated among in-groups of friends and patrons. Indeed, the comic combines elements of traditional Chinese painting with expressive modernist flourishes; its stylized figures and backgrounds are rendered in a uniform style that at once evokes the distant past and feels fresh to post-Cultural Revolution (1966-1976) readers used to the more mimetically realistic look of socialist realist imagery enforced throughout that period.
 
-<figure class="module-figure-left">
+<figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_3.jpg" alt="Line drawing of a man on horseback facing a bearded old man in a tall hat who raises both hands in greeting">
   <figcaption><strong>Fig. 3.</strong> Panel 84, Cai Yong's messenger encounters his parents' neighbor. The artists' seals are featured in the top right corner of the composition. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
@@ -188,7 +188,7 @@ Three years after his marriage, he remains ignorant of the goings-on at home and
 
 Having guessed that her husband is hiding something from her after listening to his song, Cai Yong's new wife Miss Niu <span lang="zh">牛小姐</span> is herself saddened. She has figured out that he is thinking of another woman. She thus arranges for a servant to bring wine to a cooling pavilion next to the lotus pond in their garden to distract him. Cai Yong is still sorrowful but dares not refuse and joins his wife in admiring the lotuses. In panel 60 (fig. 11), the two sit in a pavilion on the left side of the frame, while floating lotuses sweep from the bottom left to the top right.
 
-<figure class="module-figure-left">
+<figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/pipaji/1985-comic/Pipaji_1985_Comic_11.jpg" alt="Cai Yong and his new wife take in the lotus pond.">
   <figcaption><strong>Fig. 11.</strong> Cai Yong and his new wife take in the lotus pond. Source: Chen Quansheng <span lang="zh">陈全胜</span> (art), Yue Haibo <span lang="zh">岳海波</span> (art) &amp; Gen Ai <span lang="zh">艮皑</span> (text). <span lang="zh">琵琶记</span> (<em>The Lute</em>). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
