@@ -26,6 +26,7 @@ Purely decorative images (borders, dividers, background patterns) use `alt=""`.
 | **Avoid parentheses** | Parentheses can be read awkwardly by screen readers; rewrite as a full sentence instead |
 | **Write a complete sentence or phrase** | Incomplete descriptions leave blind users without enough context |
 | **Describe what can be seen** | Describe the specific visual content — gestures, poses, setting, text visible in the image — rather than repeating the narrative context already in the figcaption |
+| **Name people when identifiable** | Use the depicted character's name (from the figcaption or the play's cast) rather than a generic "figure," "man," or "woman." Only use a generic term when the person genuinely can't be identified |
 
 ### Rules for writing figcaptions
 
