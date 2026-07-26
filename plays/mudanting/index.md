@@ -26,7 +26,7 @@ You can find modules that analyze various adaptations of *The Peony Pavilion* at
 ## General Background
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/general-intro/Mudanting_General_Intro_1.jpg" alt="Woodblock print of Du Liniang asleep at a desk, with a dream bubble showing her meeting a young man in a garden.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/general-intro/Mudanting_General_Intro_1.jpg" alt="Woodblock print of Du Liniang dozing at a desk; a dream bubble shows her meeting a young man in a willow garden.">
   <figcaption><strong>Fig. 1.</strong> Drawn in accordance with the late Ming convention of a "dream bubble," the female heroine Du Liniang <span lang="zh">杜麗娘</span> falls asleep and has a fateful dream encounter with a young man. Source: Tang Xianzu <span lang="zh">湯顯祖</span>. <em>Huanhun ji</em> <span lang="zh">還魂記</span> (Wanli edition of Shuyetang Publishing House <span lang="zh">書業堂刊本</span>). In Zang Maoxun <span lang="zh">臧懋循</span>, ed. <em>Linchuan simeng</em> <span lang="zh">臨川四夢</span>. Collected in the <a href="https://www.loc.gov/item/2021666375">Library of Congress</a> (Washington, D.C.). Credit: <em>The Four Dreams of Linchuan</em> <span lang="zh">臨川四夢</span>, World Digital Library.</figcaption>
 </figure>
 
