@@ -15,7 +15,7 @@ director: 'Fang Ying <span lang="zh">方荧</span>'
 - [The film with Chinese subtitles (simplified) on YouTube](https://www.youtube.com/watch?v=Asb5vzwdkp8).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_1.jpg" alt="Zhang Jiqing passes on her Kunqu experience to Shan Wen, a student of the next generation of performers.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-opera-film/Mudanting_1986_OperaFilm_1.jpg" alt="Zhang Jiqing stands behind with a raised fan as Shan Wen crouches in front with a painted fan, both posing in a garden.">
   <figcaption><strong>Fig. 1.</strong> Zhang Jiqing <span lang="zh">张继青</span> (in the back) passes on her valuable Kunqu experience to Shan Wen (in front), a student of the next generation of Kunqu performers. Source: This image is sourced from <a href="https://mudan.me/post/repost/2012/07/12/%E5%BC%A0%E7%BB%A7%E9%9D%92%E4%BA%B2%E6%8E%88%E5%8D%95%E9%9B%AF%E5%86%8D%E7%8E%B0%E7%BB%8F%E5%85%B8-%E7%89%A1%E4%B8%B9%E4%BA%AD.html">mudan.me</a>.</figcaption>
 </figure>
 
@@ -179,10 +179,10 @@ Like most forms of Chinese theater, Kunqu recounts famous stories and their emot
 - Chen, Lang <span lang="zh">陈朗</span>. "Suzhou budi shi'eryong – Ji Kunqu chuanxisuo chengli liushi zhounian jinian huodong" <span lang="zh">苏州捕笛十二咏</span> (Remembering the Activities Commemorating the Sixtieth Anniversary of the Establishment of the Kunqu Chuanxisuo in Suzhou). *Renmin xiju* (1982).
 - Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.
 - Song, Jie <span lang="zh">宋洁</span>. "Mudanting de dianying chuanbo" «<span lang="zh">牡丹亭</span>»<span lang="zh">的电影传播</span> (A Study of *The Peony Pavilion*'s Dissemination Through Film). Master's thesis, Lanzhou University. 2012.
-- Sun, Yisen <span lang="zh">孙以森</span>. "Wo wei Mao Zedong lu diwang jiangxiang caizi jiaren xi" <span lang="zh">我为毛泽东录帝王将相才子佳人戏</span> [I Recorded Feudal Scholar-Beauty Romances for Mao Zedong], *Zhongguo xinwen zhoukan*, 2010.
+- Sun, Yisen <span lang="zh">孙以森</span>. "Wo wei Mao Zedong lu diwang jiangxiang caizi jiaren xi" <span lang="zh">我为毛泽东录帝王将相才子佳人戏</span> [I Recorded Feudal Scholar-Beauty Romances for Mao Zedong], *Zhongguo xinwen zhoukan*, 2010, https://www.wenxuecity.com/blog/201107/37995/25381.html. Accessed 9 Dec. 2024.
 - Tang, Xianzu <span lang="zh">汤显祖</span>. *The Peony Pavilion: Mudan ting*. 2nd edition. Trans. Cyril Birch. Bloomington: Indiana University Press, 2002.
 - Wu, Gang <span lang="zh">吴钢</span>. "Zhang Jiqing de di'er wanfan Xunmeng" <span lang="zh">张继青的第二碗饭《寻梦》</span> (Zhang Jiqing's Second Livelihood via "Pursuing the Dream"). *Zhongguo xiju*, 2020: 77-78.
-- Yang, Daniel S. P. "Theatre in Post-Cultural Revolution China: A Report Based on Field Research in the Fall and Winter of 1981." *Asian Theatre Journal*, vol. 1, no. 1, 1984, pp. 90–103.
+- Yang, Daniel S. P. "Theatre in Post-Cultural Revolution China: A Report Based on Field Research in the Fall and Winter of 1981." *Asian Theatre Journal*, vol. 1, no. 1, 1984, pp. 90–103. JSTOR, https://doi.org/10.2307/1124368. Accessed 9 Dec. 2024.
 - Zhang Jiqing <span lang="zh">张继青</span>. "*Mudanting: Jingmeng*" <span lang="zh">牡丹亭：惊梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 343-354. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
 - ---. "*Mudanting: Xunmeng*" <span lang="zh">牡丹亭：寻梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 355-366. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
 - ---. "*Mudanting: Lihun*" <span lang="zh">牡丹亭：离魂</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 159-173. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
