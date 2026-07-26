@@ -56,6 +56,22 @@ The first transformation scene (29:43-31:40) takes place at Mulan's home. Mulan'
 
 **Mulan tries on her father's armor**
 
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 1</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 木蘭的姐妹：爹爹，快點來呀！ | Mulan's sister: Father, come quick! |
+| 木蘭（穿上父親的鎧甲）：見過爹娘。 | Mulan (dressed in her father's armor): I pay my respects, Father and Mother. |
+| 花弧：我兒打扮起來，倒有個男子氣概。 | Hua Hu (father): Dressed up like this, my child, you really do have a manly bearing. |
+| 花弧：見了元帥可會施禮麼？ | Hua Hu: When you meet the Marshal, will you be able to perform the salute? |
+| 木蘭：女兒我會施禮。 | Mulan: Your daughter knows how to perform the salute. |
+| 花弧：施來我看。 | Hua Hu: Perform it, then, and let me see. |
+| 木蘭：爹娘請看。 | Mulan: Father, Mother, please watch. |
+| 木蘭（行禮）：元帥在上，花木蘭，參見元帥。 | Mulan (performing the salute): Honored Marshal, I, Hua Mulan, pay my respects to you. |
+
+</details>
+
 <div class="clip-section">
   <div class="video-wrap">
     <video controls>
