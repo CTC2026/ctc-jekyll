@@ -109,6 +109,47 @@ The Claude Code prompts in this guide require file paths. To get the correct pat
 
 Subtitles are created in two stages: first get the subtitle text, then use Arctime to assign timestamps.
 
+### If there is no subtitle text source — transcribe the clip audio (Whisper)
+
+Most clips get their Chinese text from a TransChart (Step 1) or an existing subtitle track. When neither exists — the clip's own audio is the only source — you can generate a **draft** transcript from the audio with OpenAI Whisper, then correct it by hand.
+
+**Install once** (ffmpeg from the video tools in the main guide must already be installed):
+
+**🍎 Mac**
+```
+pip3 install -U openai-whisper
+```
+
+**🪟 Windows**
+```
+pip install -U openai-whisper
+```
+
+**Tell Claude Code:**
+
+```
+Transcribe the dialogue in this clip so I can build the Chinese subtitles.
+- Extract the audio and run Whisper (model large-v3, language Chinese).
+- The clip is old/operatic, so treat the output as a rough draft: show it
+  to me as a table and flag uncertain lines. Do NOT put it on a page until
+  I have verified it.
+
+Clip: assets/plays/mulan/1956-opera-film/Mulan_1956_OperaFilm_Clip_1.mp4
+```
+
+Under the hood this runs:
+
+```bash
+ffmpeg -i <clip>.mp4 -ac 1 -ar 16000 clip.wav
+whisper clip.wav --language Chinese --model large-v3 --output_format srt
+```
+
+The first run downloads the `large-v3` model (~3 GB) to `~/.cache/whisper/`; later runs reuse it. A ~2-minute clip takes a few minutes on CPU — let it run in the background.
+
+> **Whisper output must be verified.** On 1950s–60s opera audio it mishears proper names (e.g. 花木力 → 花木梨) and archaic or sung lines. Check every line against a subtitled source — a Bilibili or YouTube upload with captions — before using it. **Never commit raw Whisper output to a page.** Once corrected, hand the verified lines to Arctime (Step 2), or use them directly in a translation-notes table on the module page.
+
+> If the clip already has **burned-in** subtitles, you do not need Whisper. Ask Claude Code to read them from extracted frames instead: `ffmpeg -i <clip>.mp4 -vf "fps=1/2" f_%03d.jpg` (one frame every 2 seconds), then review the frames.
+
 ### Step 1 — Get the subtitle text from the TransChart
 
 Ask Claude Code to extract the Chinese caption text from the TransChart for the clip you are working on. The helper script `transchart_to_zh_text.py` pulls the dialogue lines from the TransChart `.docx`; Claude then condenses the scene tags by hand (that part needs judgment, so it is not fully automated).
