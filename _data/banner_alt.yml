@@ -2,7 +2,7 @@
 # file name (without path or extension). Used by the play/about layouts as a
 # fallback when a page has no explicit `banner_alt` in its front matter.
 # Keep each under 120 characters.
-Mulan_ResourceBanner: "Collage from Mulan adaptations: a poster warrior; a helmeted opera performer and a woman; a woman in a headband."
+Mulan_ResourceBanner: "Mulan across adaptations: a warrior on a poster; an opera performer helmeted and unarmored; a woman in a headband."
 OrphanZhao_ResourceBanner: "Collage from Orphan of Zhao adaptations: a floral pattern, Cheng Ying white-bearded in the middle, blue-robed at right."
 Peony_RB_1: "Collage from Peony Pavilion adaptations: a Kunqu pair — a woman in headdress and a scholar — by a red pavilion."
 Play_Zhang_RB: "Collage from Zhang Xie adaptations: the Water God Temple, two painted-face opera performers, a mural of robed figures."
