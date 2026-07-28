@@ -1096,3 +1096,10 @@ details.works-consulted a { text-decoration: underline; }
   line-height: 1.65;
   background: #f7f7f7;
 }
+
+/* Inline text links in body content are always underlined (clear link
+   affordance; doesn't rely on the red color alone). Card and pill/button
+   links stay undecorated — the higher-specificity resets guarantee it. */
+.page-content a { text-decoration: underline; }
+.page-content .card a,
+.page-content .module-nav a { text-decoration: none; }
