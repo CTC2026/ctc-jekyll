@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: page
 title: Media Types and Opera Styles
 permalink: /media/
 ---
