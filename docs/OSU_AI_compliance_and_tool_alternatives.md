@@ -81,6 +81,25 @@ out-of-channel · ❌ not on the approved list · — not an AI tool (policy doe
 | **Adobe Premiere / After Effects** | ✅ Adobe is OSU-approved; upscaling weaker than Topaz's dedicated models. |
 | **No upscaling** | Free; clearly worse viewing quality for old films. |
 
+#### Whisper (OpenAI, run locally)
+**Why use it**
+- A fallback ASR step for the rare clip whose Chinese dialogue has no TransChart and no
+  existing subtitle track — it produces a rough draft transcript to correct by hand.
+- Runs **entirely on the contributor's own machine** (the `large-v3` model downloads once);
+  no audio or video is sent to any hosted service.
+
+**Compliance note:** Because Whisper runs locally and offline, the OSU "approved cloud
+channel" concern does **not** apply — nothing leaves the machine. It is the AI tool with
+the *lowest* compliance exposure in this workflow (local model, not a hosted service).
+
+**Substitutes**
+
+| Substitute | Trade-off |
+|---|---|
+| **OpenAI Whisper API (hosted)** | Same model, no local GPU/CPU cost; ⚠️ reintroduces the personal-key/cloud-channel gap that the local install avoids. |
+| **Arctime built-in / Subtitle Edit ASR** | Integrated with timestamping; quality on old operatic audio is weaker. |
+| **Manual transcription** | Fully accurate; slow, and hard for archaic/sung lines. |
+
 ### Supporting infrastructure
 
 | Tool | Why it's used | Substitutes |
@@ -94,6 +113,9 @@ out-of-channel · ❌ not on the approved list · — not an AI tool (policy doe
 | **Python** | De facto language for the AI/media scripts; rich libraries; readable for non-specialists. | Node.js, shell scripts (limited for API work). |
 | **Node.js / Wrangler** | Cloudflare's official CLI — required for authenticated R2 uploads with correct content-types and `--remote`. | Cloudflare dashboard upload, `rclone` / `aws s3` CLI against R2. |
 | **Arctime Pro** | Purpose-built subtitle timestamping with waveform alignment; exports WebVTT directly. | Subtitle Edit (free), Aegisub (free), Whisper for a first-pass transcript. |
+| **yt-dlp** | Downloads a specific segment of a source video so a clearer clip can be sourced before resorting to Topaz upscaling; `-F` lists real available resolutions. | Manual download tools, browser extensions (less reliable, no resolution listing). ⚠️ Downloading from YouTube may raise terms-of-service/copyright questions — clear each use with the supervisor/OSU IT, per the HOW_TO warning. |
+| **ffmpeg** | Cuts, trims, re-encodes, and crops clips; extracts frames for source comparison; measures/normalizes audio (e.g. AD loudness). Also the runtime Whisper depends on. | HandBrake (GUI, less scriptable), Avidemux. — open-source utility, no AI/data-channel concern. |
+| **deno** | JavaScript runtime yt-dlp uses to enumerate every available resolution; without it some higher-res formats stay hidden. | Node.js (yt-dlp prefers deno for this). — open-source utility. |
 
 **Pattern across the AI substitutes:** the highest-value swap isn't a *different product* —
 it's the **same model through OSU's approved channel** (Claude→Bedrock, Gemini→Vertex,
@@ -136,8 +158,9 @@ this is about the *account channel*, not the data.
      reserving repo automation for a sanctioned setup.
 
 4. **Topaz Video AI** — not on the approved list at all. Lower urgency (no data sent to a
-   hosted model), but flag it to OCIO; if disallowed, the fallback is Adobe (OSU-approved)
-   or open-source Real-ESRGAN.
+   hosted model), and lower reliance now that the workflow looks for a clearer source (via
+   yt-dlp/ffmpeg) before upscaling — Topaz is a last resort. Still flag it to OCIO; if
+   disallowed, the fallback is Adobe (OSU-approved) or open-source Real-ESRGAN.
 
 **What I need from you:**
 - Approval to open the OCIO/OSU cloud access requests (AWS Bedrock, Azure OpenAI, Vertex AI).
@@ -173,6 +196,7 @@ one-time license purchases. Where an OSU institutional account is used, the cost
 | **Microsoft Teams / M365** | OSU license | **$0** | Provided by OSU institutional license. |
 | **GitHub** (CTC2026 org) | Free tier | **$0** | Public repo; no Copilot in use. |
 | **VS Code, Ruby/Jekyll, Python, Node/Wrangler** | Open source | **$0** | All free. |
+| **yt-dlp, ffmpeg, deno, Whisper** | Open source | **$0** | Clip-sourcing and local-transcription tools; all free and run locally. |
 | **Recurring subtotal** | | **≈ $27–127/mo** | Typical realistic case ≈ **$30/mo** (Claude Pro + light API use). |
 
 ### One-time / license purchases (not monthly)
