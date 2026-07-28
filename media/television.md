@@ -4,8 +4,8 @@ title: Television
 permalink: /media/television/
 ---
 
-<figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_TV_1.png" alt="Television">
+<figure class="module-figure">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_TV_1.png" alt="An opera performer stands in front of Beijing's Bird's Nest National Stadium, with Chinese text overlaid on screen.">
   <figcaption>Fig. 1: An opera performer in front of the "Bird's Nest" National Stadium in Beijing as seen in CCTV 11's October 10th, 2023 episode of <em>Pear Garden Weekly</em> <span lang="zh">梨园周刊</span> segment about the 7th Chinese Opera Culture Week <span lang="zh">中国戏曲文化周</span>, held in Beijing from September 28th to October 10th, 2023. The text that is appearing on screen reads: "With landscape as the backdrop, stepping into the drama with you" <span lang="zh">山水为幕，与君入戏</span>. Source: Screenshot from CCTV 11's October 10th, 2023 episode of <a href="https://tv.cctv.com/2023/10/23/VIDEb0EXmiXMdYQ7Hcnq2RG2231023.shtml?spm=C89386.P8bIQDAGXkVU.EYSbwaDcMDwY.27"><em>Pear Garden Weekly</em></a>. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
