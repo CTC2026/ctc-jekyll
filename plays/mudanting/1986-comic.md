@@ -30,7 +30,7 @@ The exquisite Jiangsu Fine Arts Press box set *Chinese Classic Drama Picture Lib
 The original time of composition of the five plays adapted in the box set range from the Yuan to the Qing dynasties; the stylistic variety among the original texts is matched by the distinctive style of each adaptation. The plays include: Meng Hanqing's <span lang="zh">孟汉卿</span> (ca. 13th–14th centuries) *The Moheluo Doll* (*Moheluo* <span lang="zh">魔合罗</span>), Li Yu's <span lang="zh">李玉</span> (1602?-post 1670) *The Register of the Pure and Loyal* (*Qingzhong pu* <span lang="zh">清忠谱</span>), Tang Xianzu's <span lang="zh">汤显祖</span> (1550-1616) *The Peony Pavilion* (*Mudan ting* <span lang="zh">牡丹亭</span>), Li Yu's <span lang="zh">李渔</span> (1611-1680) *The Mistake Caused by a Kite* (*Fengzheng wu* <span lang="zh">风筝误</span>), and Gao Ming's <span lang="zh">高明</span> (ca. 1305-1370) *The Lute* (*Pipa ji* <span lang="zh">琵琶记</span>).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_1.jpg" alt="Painted illustration of a woman in a flowing red robe on a red-pillared terrace amid stylised blue rocks.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_1.jpg" alt="Color cover art: Du Liniang in a red robe stands before a red-railed, red-pillared terrace amid stylized blue rocks.">
   <figcaption><strong>Fig. 1.</strong> Cover of <em>The Peony Pavilion</em> comic book with art by Feng Yinan <span lang="zh">冯忆南</span>. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ As the comic shifts registers between more realistic and more abstract mise-en-s
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_2.jpg" alt="Panel 23, Du Liniang eyes the reader.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_2.jpg" alt="Line drawing: Du Liniang sits on a long low carved wooden couch, gazing directly out at the viewer.">
   <figcaption><strong>Fig. 2.</strong> Panel 23, Du Liniang eyes the reader. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by CTC Project Team; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ This panel stands out in the comic because it is the only one in which Du Linian
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_3.jpg" alt="Panel 26, Du Liniang, seemingly alone, in her dream.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_3.jpg" alt="Line drawing: Du Liniang stands by a tall garden rock beside a pond with swimming geese and overhanging leaves.">
   <figcaption><strong>Fig. 3.</strong> Panel 26, Du Liniang, seemingly alone, in her dream. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Several panels into the dream, Du Liniang stands pictured to the left of the pan
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_4.jpg" alt="Ink drawing: a young woman sits facing a seated elder and a standing maid in an ornate room with lattice screens.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_4.jpg" alt="Line drawing: Du Liniang sits facing a seated elderly woman and a standing maid in an ornate latticed room.">
   <figcaption><strong>Fig. 4.</strong> Panel 30, Du Liniang gets a scolding and an interdiction against further cavorting in the garden. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Once Du Liniang awakens, the comic reverts to a realistic style that is common i
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg" alt="Ink drawing: a woman stands pensively by a bamboo-blind window beside a long empty table, hand at her chin.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg" alt="Line drawing: Du Liniang stands hand-to-chin by a bamboo-blind window and a long bare table in near-empty space.">
   <figcaption><strong>Fig. 5.</strong> Panel 31, Du Liniang remembers garden delights and sulks next to the window. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ In the subsequent panel (panel 31, Fig. 5), Du Liniang stands thoughtfully next 
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg" alt="Ink drawing: a woman lowers her head beside a hanging scroll bearing a woman's portrait, near a latticed screen.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg" alt="Line drawing: Du Liniang lowers her head beside a hanging scroll portrait of herself, near a dense lattice screen.">
   <figcaption><strong>Fig. 6.</strong> Panel 67, a distraught Du Liniang framed by her portrait and a window lattice. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ In the subsequent panel (panel 31, Fig. 5), Du Liniang stands thoughtfully next 
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_7.jpg" alt="Ink drawing: a lone woman stands at the far left against a large geometric lattice window filling the frame.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_7.jpg" alt="Line drawing: Du Liniang stands small at far left against a large panel of geometric lattice windows.">
   <figcaption><strong>Fig. 7.</strong> Panel 68, Du Liniang, still distraught, next to an abstracted lattice window. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
@@ -164,7 +164,7 @@ First, she is featured on the far left of a panel (Fig. 7) otherwise occupied by
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_8.jpg" alt="Ink drawing: a woman leans against a wall with a raised hand amid stark angular black-and-white shapes.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_8.jpg" alt="Line drawing: Du Liniang leans on a wall with one hand raised amid stark angular black-and-white shapes.">
   <figcaption><strong>Fig. 8.</strong> Panel 69, Du Liniang's distress has fully emerged onto the mise-en-scène. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
