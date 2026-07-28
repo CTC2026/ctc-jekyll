@@ -173,7 +173,7 @@ A typical session starts with a review of the aria learned the previous week, su
 If someone in the group plays the bamboo flute, the primary accompanying instrument in Kun Opera, instrumental support is added in the later stages to help singers refine their pitch and rhythm. To keep sessions lively, teachers often share anecdotes and backstage stories, especially if they are former professionals. These stories may include their own training experiences with their mentors. It's worth noting that Kun Opera acting is less commonly taught in these groups, likely due to space constraints and the physical demands on the instructors.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="Students sit around tables in a traditional room hung with calligraphy, facing an instructor, some holding scores.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="Students sit at tables in a room hung with calligraphy, facing an instructor; some hold scores, others play flutes.">
   <figcaption>Fig. 9: A session of a Kun Opera study society at Nanjing University. The person in the floral shirt at the center (face partially obscured) is the instructor, while the others are student members. Two participants are playing the bamboo flute. When weather permits, the society meets in a room located in a Suzhou Garden. When it is extremely hot or cold, the gatherings are relocated to an indoor room. Credit: Photo by the author.</figcaption>
 </figure>
 
