@@ -5,7 +5,7 @@ permalink: /media/lianhuanhua/
 ---
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Comic_1.jpg" alt="Panel 23, Du Liniang eyes the reader. Illustration by Liu Changhua, text adaptation by Liang Chen. The Peony Pavilion. Jiangsu Fine Arts Press, 1986.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Comic_1.jpg" alt="Ink comic panel: Du Liniang, a young woman in flowing robes, sits on a long low bench and gazes toward the viewer.">
   <figcaption>Fig. 1: Panel 23, Du Liniang eyes the reader. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> <em>Mudanting</em> (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by CTC Project Team; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
