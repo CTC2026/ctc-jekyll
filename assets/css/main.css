@@ -1120,4 +1120,9 @@ details.works-consulted a { text-decoration: underline; }
     width: 46%;
     max-width: 46%;
   }
+  /* A heading tagged .beside-figure sits next to a floated figure instead of
+     clearing below it (main h3 { clear: both } otherwise drops the heading
+     under the image and leaves an empty gap beside the photo). */
+  .media-kun-opera h2.beside-figure,
+  .media-kun-opera h3.beside-figure { clear: none; }
 }

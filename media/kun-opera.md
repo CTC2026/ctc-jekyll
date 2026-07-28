@@ -7,14 +7,15 @@ page_class: media-kun-opera
 
 *By Zhe Cheng*
 
+## Part 1: The Revival of Kun Opera in 21st Century China
+
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_1.jpeg" alt="Kun Opera performers on stage in elaborate traditional costumes">
   <figcaption>Fig. 1: A stage photo from the Kun Opera <em>The Dream of Southern Bough</em> (<em>Nanke Meng</em> <span lang="zh">南柯梦</span>) by Jiangsu Province Kun Opera Troupe. This play was written by renowned Ming dynasty playwright Tang Xianzu (<span lang="zh">汤显祖</span>, 1550–1616). In the image, the leading male, Chunyu Fen (<span lang="zh">淳于棼</span>), is portrayed by Shi Xiaming (<span lang="zh">施夏明</span>). Source: This image is sourced from the <a href="https://mp.weixin.qq.com/s/0QJvFe-2N3OBj82CzWXcKg">Official WeChat Account</a> of the Jiangsu Province Kun Opera Troupe <span lang="zh">江苏省昆剧院</span>.</figcaption>
 </figure>
 
-## Part 1: The Revival of Kun Opera in 21st Century China
-
 ### Designation of Kun Opera as UNESCO Intangible Cultural Heritage (ICH)
+{: .beside-figure }
 
 In 2001, UNESCO released its first *Representative List of the Intangible Cultural Heritage of Humanity* (ICH), and [Kun Opera](https://ich.unesco.org/en/RL/kun-qu-opera-00004) (*kunqu* <span lang="zh">昆曲</span>) was among the selected items. This marked a significant turning point for Kun Opera.
 
@@ -108,21 +109,21 @@ Beyond tourism, the concept of garden-based Kun Opera has developed into a new f
 
 Lastly, one particularly interesting example of contemporary Kun Opera performance takes place at the Nanjing Museum. Since 2013, the museum has opened a permanent exhibition hall for so-called "intangible cultural heritage." In the exhibition, a tea house-style theatre was built to stage traditional Chinese performing arts such as Kun Opera, *pingtan* <span lang="zh">评弹</span> storytelling, and *baiju* <span lang="zh">白局</span> comic singing.
 
-The combination of theatre and tea house is not a new invention in Chinese performance culture. It dates back to the Qing dynasty (1644–1911), when performances often took place in restaurants. The restaurants didn't organize performances themselves but allowed wealthy patrons to invite troupes for private entertainment. The host would pay both the restaurant and the performers separately, choosing which highlight scenes to watch while enjoying a banquet with guests. These events were still technically open to the public — other patrons seated around the edges could watch the show for free.
-
-Later, the location of these performances shifted from restaurants to tea houses, which focused more exclusively on theatrical enjoyment. Food and alcohol were no longer central; instead, tea and light snacks were served. Unlike restaurant performances, tea house performances had set programs posted in advance. Patrons could check the schedule and attend a tea house on the day of a show that interested them. Tickets were not typically sold — instead, guests were charged for tea and refreshments. However, good seating often required advance reservations.
-
 <figure class="module-figure-right">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_4.jpg" alt="View from the surrounding corridor at the Nanjing Museum tea house theatre, where a man is taking a picture of the show">
   <figcaption>Fig. 4: View from the surrounding corridor, where visitors stand to watch the performance. In the photo, a man is taking a picture of the show. Credit: Photo by the author.</figcaption>
 </figure>
 
-This is exactly how the tea house theatre at the Nanjing Museum operates today. Any museum visitor can stop by and watch the performance from the outer corridor free of charge. But for those who wish to sit and enjoy the show more comfortably, there are two options. One can order tea and snacks from the menu and be seated on the ground floor, close to the stage. Alternatively, for 200 yuan (about $30), visitors can book a private second-floor room, which includes premium seating, tea, snacks, and fresh fruit. The second-floor seats offer a better view and a quieter environment. All the seating is available on a first-come, first-served basis.
+The combination of theatre and tea house is not a new invention in Chinese performance culture. It dates back to the Qing dynasty (1644–1911), when performances often took place in restaurants. The restaurants didn't organize performances themselves but allowed wealthy patrons to invite troupes for private entertainment. The host would pay both the restaurant and the performers separately, choosing which highlight scenes to watch while enjoying a banquet with guests. These events were still technically open to the public — other patrons seated around the edges could watch the show for free.
+
+Later, the location of these performances shifted from restaurants to tea houses, which focused more exclusively on theatrical enjoyment. Food and alcohol were no longer central; instead, tea and light snacks were served. Unlike restaurant performances, tea house performances had set programs posted in advance. Patrons could check the schedule and attend a tea house on the day of a show that interested them. Tickets were not typically sold — instead, guests were charged for tea and refreshments. However, good seating often required advance reservations.
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_5.jpg" alt="Full view of the audience seating area at the tea house theatre in the Nanjing Museum, with paying guests on the ground floor and museum visitors in the surrounding corridor">
   <figcaption>Fig. 5: An actor waits in the corridor for his entrance. Small red teapots can be seen on the side shelves and on every table for audience self-service. Several audience members are already eating snacks while watching the performance. Credit: Photo by the author.</figcaption>
 </figure>
+
+This is exactly how the tea house theatre at the Nanjing Museum operates today. Any museum visitor can stop by and watch the performance from the outer corridor free of charge. But for those who wish to sit and enjoy the show more comfortably, there are two options. One can order tea and snacks from the menu and be seated on the ground floor, close to the stage. Alternatively, for 200 yuan (about $30), visitors can book a private second-floor room, which includes premium seating, tea, snacks, and fresh fruit. The second-floor seats offer a better view and a quieter environment. All the seating is available on a first-come, first-served basis.
 
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
@@ -154,12 +155,12 @@ Beyond the influence of *The Peony Pavilion: The Youth Edition*, the Chinese gov
 
 Meanwhile, encouraged by the Youth Edition's success, other troupes adopted similar strategies and created new youth-oriented productions. Notable examples include *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>, 2008) by the Suzhou Kun Opera Troupe, *1699: The Peach Blossom Fan* (*1699: Taohua shan* 1699: <span lang="zh">桃花扇</span>, 2006) by the Jiangsu Province Kun Opera Troupe, and *The Dream of the Red Chamber* (*Honglou meng* <span lang="zh">红楼梦</span>, 2011) by the Northern Kun Opera Troupe.
 
-Alongside these productions, a new generation of Kun Opera performers, many still in their early twenties, emerged as rising stars. Over the past decade, with the rise of these young performers, fan communities have grown significantly. The internet has played a very important role in this development: many fan circles exist primarily online, through WeChat and QQ chat groups, Tieba (<span lang="zh">贴吧</span>, a BBS-like forum), and social media platforms such as Weibo (<span lang="zh">微博</span>, similar to Twitter/X). Fans share reviews of performances, post photos of performances they have seen, and exchange anecdotes about performers. Offline fan communities also exist, including the Kun Opera Study Societies that will be introduced later. Among these fans, young people, especially university students, make up a significant proportion, though there are also some middle-aged enthusiasts. In the past five years, China's musical theatre market has also seen a surge among younger generations. These two subcultural communities began to influence each other, forming a very vibrant and stable audience group.
-
 <figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
   <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theater. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
 </figure>
+
+Alongside these productions, a new generation of Kun Opera performers, many still in their early twenties, emerged as rising stars. Over the past decade, with the rise of these young performers, fan communities have grown significantly. The internet has played a very important role in this development: many fan circles exist primarily online, through WeChat and QQ chat groups, Tieba (<span lang="zh">贴吧</span>, a BBS-like forum), and social media platforms such as Weibo (<span lang="zh">微博</span>, similar to Twitter/X). Fans share reviews of performances, post photos of performances they have seen, and exchange anecdotes about performers. Offline fan communities also exist, including the Kun Opera Study Societies that will be introduced later. Among these fans, young people, especially university students, make up a significant proportion, though there are also some middle-aged enthusiasts. In the past five years, China's musical theatre market has also seen a surge among younger generations. These two subcultural communities began to influence each other, forming a very vibrant and stable audience group.
 
 ### Amateur Kun Opera Singing Societies
 
