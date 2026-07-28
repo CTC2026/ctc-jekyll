@@ -10,7 +10,7 @@ banner_image: /assets/images/Peony_RB_1.png
 
 ## Contents
 
-You can find modules that analyze various adaptations of *The Peony Pavilion* at the links below. To get a sense of the main themes and historical import of the original *The Peony Pavilion*, please consult the "General Background" below.
+You can find modules that analyze various adaptations of *The Peony Pavilion* at the links below. To get a sense of the main themes and historical import of the original *Peony Pavilion*, please consult the "General Background" below.
 
 1. [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-opera-film/)
    - "Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.
