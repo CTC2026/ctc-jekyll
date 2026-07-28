@@ -54,7 +54,7 @@ As the comic shifts registers between more realistic and more abstract mise-en-s
 | Chinese Captions | CTC Translation |
 |---|---|
 | 她想，昔日韩氏红叶题诗，得遇于祐，终成眷属。 | She thought about how in the olden days, Ms. Han wrote a poem on a red leaf, which was found by Yu You, allowing them to eventually become a couple. |
-| 还有那《西厢记》里的崔莺莺，偶像张生，一见钟情，虽经波折，也如愿以偿。 | There's also *Western Wing*'s Cui Yingying who met Student Zhang by chance, fell in love at first sight, and despite all the ups and downs, also had her wish fulfilled. |
+| 还有那《西厢记》里的崔莺莺，偶逢张生，一见钟情，虽经波折，也如愿以偿。 | There's also *Western Wing*'s Cui Yingying who met Student Zhang by chance, fell in love at first sight, and despite all the ups and downs, also had her wish fulfilled. |
 | 而自己呢？ | And what about me, huh? |
 
 </details>
@@ -141,7 +141,7 @@ In the subsequent panel (panel 31, Fig. 5), Du Liniang stands thoughtfully next 
 
 | Chinese Captions | CTC Translation |
 |---|---|
-| 终于，丽娘把自己三年前在园中与柳秀才相会的经过情景以及自己死后葬于园中梅树下，留下画像，父母迁任扬州等情说了。 | Finally, Liniang recounted the circumstances of her meeting with Scholar Liu in the garden three years ago as well as her death and burial under the garden's plum tree, and all about leaving behind the portrait and her parents' move to take up a post in Yangzhou. |
+| 终于，丽娘把自己三年前在园中与柳秀才相会的经过情景以及自己死后葬于园中梅树之下，留下画像，父母迁任扬州等情说了。 | Finally, Liniang recounted the circumstances of her meeting with Scholar Liu in the garden three years ago as well as her death and burial under the garden's plum tree, and all about leaving behind the portrait and her parents' move to take up a post in Yangzhou. |
 | 柳梦梅听了，喜出望外，表示丽娘即使是鬼魂，也要结为夫妻。 | Liu Mengmei heard this and was exceptionally thrilled, since it expressed that even though she was a ghost, Liniang wanted to be united as husband and wife. |
 
 </details>

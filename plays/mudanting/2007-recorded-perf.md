@@ -52,7 +52,7 @@ In short, while attempting to keep the essence of Tang's text, Pai and his colla
 
 In keeping with the conventions of *chuanqi* drama, Tang Xianzu's text, while recounting the love story between Liu Mengmei and Du Liniang, interweaves that story within other plot threads that involve agriculture, officialdom, and warfare. Meanwhile, the "Youth Edition" focuses on the love story to the exclusion of other plotlines.
 
-Collaborating with Prof. Hua Wei <span lang="zh">華瑋</span> (Chinese University of Hong Kong), Prof. Chang Shu-hsing <span lang="zh">張淑香</span> (National Taiwan University), and Prof. Xin Yiyun <span lang="zh">辛意雲</span> (Taipei National University of the Arts), Pai condensed the original script of 55 scenes into a 27-scene play, running for approximately 8 hours on stage. In most tour performances, the 3-day performance was divided into three parts, all of which underlined the main thread that Pai aspired to bring out—the importance of "love" (*qing* <span lang="zh">情</span>). The three segments were respectively entitled: (1) love in dreams; (2) love between humans and ghosts; and (3) love in the earthly realm.
+Collaborating with Prof. Hua Wei <span lang="zh">華瑋</span> (Chinese University of Hong Kong), Prof. Chang Shu-hsing <span lang="zh">張淑香</span> (National Taiwan University), and Prof. Xin Yiyun <span lang="zh">辛意雲</span> (Taipei National University of the Arts), Pai condensed the original script of 55 scenes into a 27-scene play, running for approximately 8 hours on stage. In most tour performances, the 3-day performance was divided into three parts, all of which underlined the main thread that Pai aspired to bring out, that is the importance of "love" (*qing* <span lang="zh">情</span>). The three segments were respectively entitled, (1) love in dreams; (2) love between humans and ghosts; and (3) love in the earthly realm.
 
 As experts and scholars in Chinese literature and drama, Professors Hua, Chang and Xin worked together with Pai to preserve the most important expressions of *qing* while streamlining other elements. As a result, the 27-scene "Youth Edition" made only minor changes to the story line itself, while seeking to give equal billing to the two main protagonists. Deleted content included outdated references and allusions as well as graphic expressions and sexual innuendo in comic scenes (Li, 2005). Meanwhile, in order to foreground the love story between the two main protagonists, the "Youth Edition" shortened the dialogue for supporting characters and rendered it in plain language (Zhang, Huang, 2010). However, despite its compactness, the "Youth Edition" retained two scenes devoted to Liu Mengmei, namely "Moored at Huai'an" (*Huai bo* <span lang="zh">淮泊</span>) and "Interrogation under the Rod" (*Yingkao* <span lang="zh">硬拷</span>). Furthermore, this version also highlighted Liu Mengmei's "garden tour" in the scene "The Portrait Recovered" (*Shi hua* <span lang="zh">拾畫</span>), an echo of Du Liniang's famous garden scenes "Startled from the Dream" (*Jingmeng* <span lang="zh">驚夢</span>) and "Retracing the Dream" (*Xunmeng* <span lang="zh">尋夢</span>). Such mirroring reflects the "Youth Edition's" attempt to make the male protagonist (Liu Mengmei) as important as the female one (Du Liniang).
 
@@ -120,7 +120,9 @@ The "bump" or collision in this scene serves as a turning point in Liniang's emo
   <p class="clip-caption">Clip 2: Physical contact (sleeve). Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
-In Kunqu, sleeves are often considered an extension of the actor's body. In this scene from the play, during their first meeting, Liniang behaves with caution and shyness, while Liu Mengmei gently touches her sleeve and picks it up, as if touching her arms and hands. The sleeve movements make Liu Mengmei's expression of his deep affection for Liniang and his desire for greater intimacy with her more delicate, creating an ambiguous space for the expression of love. While Wang Shiyu, one of the performance instructors for the "Youth Edition," contributed the iconography of the sleeves, the "Youth Edition" rendition nevertheless consistently emphasizes the softness and beauty of long sleeves in an effort to create a perfect aesthetic world.
+In Kunqu, sleeves are often considered an extension of the actor's body. In this scene from the play, during their first meeting, Liniang behaves with caution and shyness, while Liu Mengmei gently touches her sleeve and picks it up, as if touching her arms and hands. The sleeve movements make Liu Mengmei's expression of his deep affection for Liniang and his desire for greater intimacy with her more delicate, creating an ambiguous space for the expression of love.
+
+While Wang Shiyu, one of the performance instructors for the "Youth Edition," contributed the iconography of the sleeves, the "Youth Edition" rendition nevertheless consistently emphasizes the softness and beauty of long sleeves in an effort to create a perfect aesthetic world.
 
 **Physical Contact (Hands 1) [06:45–07:00]**
 
@@ -260,13 +262,17 @@ On the stage, eye contact is another common strategy for expressing love. In thi
   <p class="clip-caption">Clip 8: Looking at a self-portrait. Source: The production on <a target="_blank" href="https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027">Bilibili</a>.</p>
 </div>
 
-In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Liu Mengmei imagines the scene when Liniang drew her self-portrait that he had found in the garden. Liu Mengmei's gaze lingers on the painting during his soliloquy. However, since the painting is hanging on a wall, he has to turn his back toward the audience, which deviates from stage convention where actors typically face the audience. This action, however, underscores his obsession with Du Liniang.
+In the scene "Union in the Shades" (*You gou* <span lang="zh">幽媾</span>), Liu Mengmei imagines the scene when Liniang drew her self-portrait that he had found in the garden. Liu Mengmei's gaze lingers on the painting during his soliloquy.
+
+However, since the painting is hanging on a wall, he has to turn his back toward the audience, which deviates from stage convention where actors typically face the audience. This action, however, underscores his obsession with Du Liniang.
 
 ### Chorus
 
 **Flower Deities [34:30–37:40]**
 
-In Kunqu, the love-making scene is usually represented in a subtle way. Typically, the two main characters will exit together; by the time they return on stage, the erotic scene will have already concluded (Chen 1998). In *The Peony Pavilion*, flower deities (<span lang="zh">花神</span>, *huashen*) take the role of narrator. After Du Liniang and Liu Mengmei leave the stage, the flower deities come out and with their dancing evoke the intimacy between the two lovers in a poetic and metaphorical manner. Along with the dance, the flower deities also sing a chorus song, whose lyrics indicate the consummation of the union between the two protagonists. The transitional scene of the flower deities allows the audience to imagine the lovemaking, while adding a dreamy and ethereal atmosphere to the play.
+In Kunqu, the love-making scene is usually represented in a subtle way. Typically, the two main characters will exit together; by the time they return on stage, the erotic scene will have already concluded (Chen 1998).
+
+In *The Peony Pavilion*, flower deities (<span lang="zh">花神</span>, *huashen*) take the role of narrator. After Du Liniang and Liu Mengmei leave the stage, the flower deities come out and with their dancing evoke the intimacy between the two lovers in a poetic and metaphorical manner. Along with the dance, the flower deities also sing a chorus song, whose lyrics indicate the consummation of the union between the two protagonists. The transitional scene of the flower deities allows the audience to imagine the lovemaking, while adding a dreamy and ethereal atmosphere to the play.
 
 <details class="translation" markdown="1">
 <summary>Translation notes for clip 9</summary>
@@ -348,7 +354,7 @@ The two major characters, Du Liniang and Liu Mengmei, also engage in joint chora
 - Tang, Xianzu. Birch, Cyril trans., *The Peony Pavilion: Mudan ting*. 2nd edition. Bloomington: Indiana University Press, 2002.
 - Wang Shiyu. "The Stirring Zither" ("Qintiao" <span lang="zh">琴挑</span>) from *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>). Trans. and ann. Guo Chao. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 59-85. London: Anthem Press, 2022.
 - Zhang Jiqing. "The Mad Dream" ("Chimeng" <span lang="zh">痴梦</span>) from *Lanke Mountain* (*Lanke shan* <span lang="zh">烂柯山</span>). Trans. and ann. Josh Stenberg. In *Kunqu Masters on Chinese Theatrical Performance*, comp. by Yip Siu Hing and ed. by Josh Stenberg, 89-110. London: Anthem Press, 2022.
-- Zhou, Wei. "A Peony Transplanted: Pai Hsien-yung and the Preservation of Chinese Kunqu." PhD Dissertation. University of Edinburgh, 2011.
+- Zhou, Wei. "A *Peony* Transplanted: Pai Hsien-yung and the Preservation of Chinese *Kunqu*." PhD Dissertation. University of Edinburgh, 2011.
 </details>
 
 <h2>Author</h2>

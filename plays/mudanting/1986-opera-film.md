@@ -176,16 +176,16 @@ Like most forms of Chinese theater, Kunqu recounts famous stories and their emot
 
 <details class="works-consulted" markdown="1">
 <summary><h2 class="works-consulted-heading">Works Consulted</h2></summary>
-- Chen, Lang <span lang="zh">陈朗</span>. "Suzhou budi shi'eryong – Ji Kunqu chuanxisuo chengli liushi zhounian jinian huodong" <span lang="zh">苏州捕笛十二咏</span> (Remembering the Activities Commemorating the Sixtieth Anniversary of the Establishment of the Kunqu Chuanxisuo in Suzhou). *Renmin xiju* (1982).
+- Chen, Lang <span lang="zh">陈朗</span>. "Suzhou budi shi'eryong – Ji Kunqu chuanxisuo chengli liushi zhounian jinian huodong" <span lang="zh">苏州捕笛十二咏 – 记昆曲传习所成立六十周年纪念活动</span> (Remembering the Activities Commemorating the Sixtieth Anniversary of the Establishment of the Kunqu Chuanxisuo in Suzhou). *Renmin xiju* (1982).
 - Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.
 - Song, Jie <span lang="zh">宋洁</span>. "Mudanting de dianying chuanbo" «<span lang="zh">牡丹亭</span>»<span lang="zh">的电影传播</span> (A Study of *The Peony Pavilion*'s Dissemination Through Film). Master's thesis, Lanzhou University. 2012.
 - Sun, Yisen <span lang="zh">孙以森</span>. "Wo wei Mao Zedong lu diwang jiangxiang caizi jiaren xi" <span lang="zh">我为毛泽东录帝王将相才子佳人戏</span> [I Recorded Feudal Scholar-Beauty Romances for Mao Zedong], *Zhongguo xinwen zhoukan*, 2010, <https://www.wenxuecity.com/blog/201107/37995/25381.html>. Accessed 9 Dec. 2024.
 - Tang, Xianzu <span lang="zh">汤显祖</span>. *The Peony Pavilion: Mudan ting*. 2nd edition. Trans. Cyril Birch. Bloomington: Indiana University Press, 2002.
-- Wu, Gang <span lang="zh">吴钢</span>. "Zhang Jiqing de di'er wanfan Xunmeng" <span lang="zh">张继青的第二碗饭《寻梦》</span> (Zhang Jiqing's Second Livelihood via "Pursuing the Dream"). *Zhongguo xiju*, 2020: 77-78.
+- Wu, Gang <span lang="zh">吴钢</span>. "Zhang Jiqing de di'er wanfan Xunmeng" <span lang="zh">张继青的第二碗饭 «寻梦»</span> (Zhang Jiqing's Second Livelihood via "Pursuing the Dream"). *Zhongguo xiju*, 2020: 77-78.
 - Yang, Daniel S. P. "Theatre in Post-Cultural Revolution China: A Report Based on Field Research in the Fall and Winter of 1981." *Asian Theatre Journal*, vol. 1, no. 1, 1984, pp. 90–103. JSTOR, <https://doi.org/10.2307/1124368>. Accessed 9 Dec. 2024.
-- Zhang Jiqing <span lang="zh">张继青</span>. "*Mudanting: Jingmeng*" <span lang="zh">牡丹亭：惊梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 343-354. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
-- ---. "*Mudanting: Xunmeng*" <span lang="zh">牡丹亭：寻梦</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 355-366. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
-- ---. "*Mudanting: Lihun*" <span lang="zh">牡丹亭：离魂</span>. In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span>, 159-173. Changsha, China: Hunan dianzi yinxiang chuban she, 2010.
+- Zhang Jiqing <span lang="zh">张继青</span>. "*Mudanting: Jingmeng*" <span lang="zh">牡丹亭：惊梦</span> ("The Interrupted Dream" in *The Peony Pavilion*). In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span> (One Hundred Pieces of Kunqu, Master Performers Talk about Their Scenes), 343-354. Changsha, China: Hunan dianzi yinxiang chuban she, 2010. Text and DVD.
+- ---. "*Mudanting: Xunmeng*" <span lang="zh">牡丹亭：寻梦</span> ("Pursuing the Dream" in *The Peony Pavilion*). In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span> (One Hundred Pieces of Kunqu, Master Performers Talk about Their Scenes), 355-366. Changsha, China: Hunan dianzi yinxiang chuban she, 2010. Text and DVD.
+- ---. "*Mudanting: Lihun*" <span lang="zh">牡丹亭：离魂</span> ("The Soul's Departure" in *The Peony Pavilion*). In *Kunqu baizhong, Dashi shuoxi* <span lang="zh">昆曲百种大师说戏</span> (One Hundred Pieces of Kunqu, Master Performers Talk about Their Scenes), 159-173. Changsha, China: Hunan dianzi yinxiang chuban she, 2010. Text and DVD.
 </details>
 
 <h2>Author</h2>
