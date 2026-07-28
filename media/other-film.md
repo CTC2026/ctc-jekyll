@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Other Types of Film
 permalink: /media/other-film/
 ---

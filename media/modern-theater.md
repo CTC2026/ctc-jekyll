@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Modern Theater and Mixed Media Performances
 permalink: /media/modern-theater/
 ---

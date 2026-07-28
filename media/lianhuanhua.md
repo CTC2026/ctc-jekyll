@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Lianhuanhua (Narrative Comics)
 permalink: /media/lianhuanhua/
 ---

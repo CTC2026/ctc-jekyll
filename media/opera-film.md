@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Opera Film
 permalink: /media/opera-film/
 ---

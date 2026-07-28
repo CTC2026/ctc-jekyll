@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Television
 permalink: /media/television/
 ---

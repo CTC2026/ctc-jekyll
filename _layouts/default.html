@@ -74,7 +74,7 @@
     landmark (1.3.1) and "skip to main content" lands on the article, not the
     sidebar (2.4.3). All other layouts get the default main wrapper here.
   {% endcomment %}
-  {% if page.layout == 'play' or page.layout == 'about' %}
+  {% if page.layout == 'play' or page.layout == 'about' or page.layout == 'media' %}
     {{ content }}
   {% else %}
   <main id="main-content" tabindex="-1">

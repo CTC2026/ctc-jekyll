@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Kun Opera
 permalink: /media/kun-opera/
 ---

@@ -1,0 +1,20 @@
+# Sidebar navigation for the Media Types and Opera Styles section.
+# Mirrors the structure of play_nav.yml (Intro/Overview first, then siblings).
+- title: Overview
+  url: /media/
+- title: Recordings of Live Performances
+  url: /media/recorded-performances/
+- title: Opera Film
+  url: /media/opera-film/
+- title: Other Types of Film
+  url: /media/other-film/
+- title: Lianhuanhua (Narrative Comics)
+  url: /media/lianhuanhua/
+- title: Television
+  url: /media/television/
+- title: Modern Theater and Mixed Media
+  url: /media/modern-theater/
+- title: Crowdsourced Productions
+  url: /media/crowdsourced/
+- title: Kunqu/Kun Opera
+  url: /media/kun-opera/

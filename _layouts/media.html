@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% if page.banner_image %}
+{% assign banner_key = page.banner_image | split: '/' | last | split: '.' | first %}
+<div class="page-banner">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev{{ page.banner_image }}" alt="{{ page.banner_alt | default: site.data.banner_alt[banner_key] | default: page.title | escape }}">
+  <h1 class="page-banner-title">{{ page.title }}</h1>
+</div>
+{% endif %}
+
+<div class="ctc-sidebar-layout">
+
+  <nav class="ctc-sidebar" aria-label="Media Types and Opera Styles navigation">
+    <ul>
+      {% for item in site.data.media_nav %}
+      <li>
+        <a href="{{ item.url | relative_url }}"
+           {% if page.url == item.url %}class="sidebar-active" aria-current="page"{% endif %}>
+          {{ item.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <main id="main-content" tabindex="-1" class="ctc-sidebar-main page-content">
+    {% unless page.banner_image %}<h1>{{ page.title }}</h1>{% endunless %}
+    {{ content }}
+  </main>
+
+</div>

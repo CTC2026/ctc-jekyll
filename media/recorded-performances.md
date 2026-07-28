@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media
 title: Recordings of Live Performances of Traditional Chinese Theater
 permalink: /media/recorded-performances/
 ---
