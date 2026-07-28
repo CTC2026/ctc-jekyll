@@ -4,8 +4,8 @@ title: Other Types of Film
 permalink: /media/other-film/
 ---
 
-<figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Film_1.png" alt="Other Types of Film">
+<figure class="module-figure">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_Film_1.png" alt="A robed man demonstrates a fighting move to a boy in a white robe in a flowering meadow below green hills.">
   <figcaption>Fig. 1: Learning to fight in <em>Sacrifice</em> (2010). Source: A screenshot from the trailer of <em>Sacrifice</em> on <a href="https://www.youtube.com/watch?v=YmbirnR32zE&amp;ab_channel=RottenTomatoesComingSoon">Youtube</a>. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
