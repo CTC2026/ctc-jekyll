@@ -211,6 +211,14 @@ pip install google-genai openai python-docx
 
 > Use **`google-genai`** (the current Google GenAI SDK) — not the older `google-generativeai` package. The scripts import `from google import genai`, which only works with `google-genai`. `python-docx` is needed to read the TransChart `.docx` files.
 
+**Optional — Whisper (only for transcribing clips that have no subtitle source).** Most clips get their Chinese text from a TransChart or an existing subtitle track. If you will ever need to transcribe a clip's audio from scratch, also install Whisper:
+
+```
+pip install -U openai-whisper
+```
+
+> Whisper needs **ffmpeg**, which is installed in Step F below. The first time you run it, it downloads a large model file (~3 GB), so install it only if you expect to need it. Full usage is in the [subtitles and audio guide](HOW_TO_subtitles_and_audio.md).
+
 #### Install the Python extension in VS Code
 
 1. Open VS Code and click the **Extensions** icon ( `⊞` ) in the left sidebar

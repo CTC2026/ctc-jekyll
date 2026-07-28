@@ -113,7 +113,7 @@ Subtitles are created in two stages: first get the subtitle text, then use Arcti
 
 Most clips get their Chinese text from a TransChart (Step 1) or an existing subtitle track. When neither exists — the clip's own audio is the only source — you can generate a **draft** transcript from the audio with OpenAI Whisper, then correct it by hand.
 
-**Install once** (ffmpeg from the video tools in the main guide must already be installed):
+**Install once** (ffmpeg from the video tools in the main guide must already be installed). This is the optional Whisper step from HOW_TO.md Section 1, Step D — skip it if you already installed Whisper there:
 
 **🍎 Mac**
 ```
