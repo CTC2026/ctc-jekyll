@@ -2,6 +2,7 @@
 layout: media
 title: Kun Opera
 permalink: /media/kun-opera/
+page_class: media-kun-opera
 ---
 
 *By Zhe Cheng*
@@ -29,7 +30,7 @@ A good case in point is *The Peony Pavilion: The Youth Edition* in 2004. The ada
 
 The convenor and producer of *The Peony Pavilion: The Youth Edition* is Bai Xianyong (Pai Hsien-yung <span lang="zh">白先勇</span>, b.1937), a Taiwanese writer and emeritus professor of Chinese literature at the University of California, Santa Barbara. Bai is also an aficionado of Chinese theatre. He initiated the project to make a [modern adaptation]({{ '/plays/mudanting/2007-recorded-perf/' | relative_url }}) of *The Peony Pavilion*.
 
-<figure class="module-figure-right">
+<figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_2.jpg" alt="Bai Xianyong at the 20th-anniversary tour of The Peony Pavilion: The Youth Edition">
   <figcaption>Fig. 2: Bai Xianyong at the 20th-anniversary tour of <em>The Peony Pavilion: The Youth Edition</em>. Source: This image is sourced from the <a href="https://www.cna.com.tw/news/acul/202401220303.aspx">Central News Agency (CNA)</a>. Credit: Photo by Xu Peihong.</figcaption>
 </figure>
@@ -123,7 +124,7 @@ This is exactly how the tea house theatre at the Nanjing Museum operates today. 
   <figcaption>Fig. 5: An actor waits in the corridor for his entrance. Small red teapots can be seen on the side shelves and on every table for audience self-service. Several audience members are already eating snacks while watching the performance. Credit: Photo by the author.</figcaption>
 </figure>
 
-<figure class="module-figure-right">
+<figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
   <figcaption>Fig. 6: View of the performance from a second-floor room at the tea house theatre. The bottom left shows a screen displaying bilingual Chinese–English subtitles. In the center left is the stage, built in the style of a traditional Chinese theatre but adapted with modern lighting and sound systems. To the right of the stage is the live band, dressed in black. In the center right is the audience seating area. The ground floor is paying guests seated around square tables with tea and snacks. The private rooms on the second floor are visible in the background. Credit: Photo by the author.</figcaption>
 </figure>
@@ -155,7 +156,7 @@ Meanwhile, encouraged by the Youth Edition's success, other troupes adopted simi
 
 Alongside these productions, a new generation of Kun Opera performers, many still in their early twenties, emerged as rising stars. Over the past decade, with the rise of these young performers, fan communities have grown significantly. The internet has played a very important role in this development: many fan circles exist primarily online, through WeChat and QQ chat groups, Tieba (<span lang="zh">贴吧</span>, a BBS-like forum), and social media platforms such as Weibo (<span lang="zh">微博</span>, similar to Twitter/X). Fans share reviews of performances, post photos of performances they have seen, and exchange anecdotes about performers. Offline fan communities also exist, including the Kun Opera Study Societies that will be introduced later. Among these fans, young people, especially university students, make up a significant proportion, though there are also some middle-aged enthusiasts. In the past five years, China's musical theatre market has also seen a surge among younger generations. These two subcultural communities began to influence each other, forming a very vibrant and stable audience group.
 
-<figure class="module-figure-right">
+<figure class="module-figure-left">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
   <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theater. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
 </figure>

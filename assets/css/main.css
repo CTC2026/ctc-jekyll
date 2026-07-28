@@ -1108,3 +1108,16 @@ details.works-consulted a { text-decoration: underline; }
 .page-content a { text-decoration: underline; }
 .page-content .card a,
 .page-content .module-nav a { text-decoration: none; }
+
+/* Kun Opera page: the source layout sizes the floated photos at roughly half
+   the text column (larger than the default 300px cap) and alternates them
+   left/right down the article. Scope the enlargement to this page and to the
+   desktop float context only — below 56.25em the figures still stack full
+   width (the responsive rule at the max-width: 56.25em breakpoint wins there). */
+@media (min-width: 56.25em) {
+  .media-kun-opera .module-figure-left,
+  .media-kun-opera .module-figure-right {
+    width: 46%;
+    max-width: 46%;
+  }
+}
