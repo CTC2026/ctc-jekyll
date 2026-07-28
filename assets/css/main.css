@@ -460,7 +460,7 @@ main blockquote {
 /* ── Module listing dl on media pages ── */
 .module-list { margin: 1rem 0 1.5rem; }
 .module-list dt { color: var(--text); margin-top: 0.9rem; }
-.module-list dd { margin-left: 0; color: #595959; font-size: 0.92rem; line-height: 1.6; }
+.module-list dd { margin-left: 0; color: #595959; font-size: 1.1rem; line-height: 1.6; }
 
 /* ── Search ── */
 .search-wrap { margin-top: 1.5rem; }
