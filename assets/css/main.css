@@ -1121,8 +1121,10 @@ details.works-consulted a { text-decoration: underline; }
     max-width: 46%;
   }
   /* A heading tagged .beside-figure sits next to a floated figure instead of
-     clearing below it (main h3 { clear: both } otherwise drops the heading
-     under the image and leaves an empty gap beside the photo). */
-  .media-kun-opera h2.beside-figure,
-  .media-kun-opera h3.beside-figure { clear: none; }
+     clearing below it (main h2/h3 { clear: both } otherwise drops the heading
+     under the image and leaves an empty gap beside the photo). Available on
+     every page; below the 56.25em breakpoint figures stack full width, so the
+     heading clears normally there. */
+  .page-content h2.beside-figure,
+  .page-content h3.beside-figure { clear: none; }
 }

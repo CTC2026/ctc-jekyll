@@ -86,6 +86,8 @@ Detailed guides for specific tasks. This document links to each one where it com
 
 | Guide | Use it when you are… |
 |---|---|
+| [Media Types (Opera Styles) Pages](HOW_TO_media.md) | Adding or editing a format-level page in the Media Types section (Opera Film, Lianhuanhua, Kun Opera, …) |
+| [Figure Placement and Sizing](HOW_TO_figures.md) | Deciding where an image sits on the page, or fixing empty space beside a floated figure |
 | [Subtitles, Sound Labels, and Audio Descriptions](HOW_TO_subtitles_and_audio.md) | Creating the accessibility files for a video clip |
 | [Clip Sourcing and Alignment](HOW_TO_clip_source_and_alignment.md) | Looking for a clearer source for a clip, or re-cutting one so its subtitles and audio description still line up |
 | [Topaz Upscaling](HOW_TO_topaz_upscaling.md) | Improving a clip's quality when no clearer source exists |
@@ -462,19 +464,27 @@ ctc-jekyll/
 │   └── ...
 │
 ├── about/              ← The "About" section pages
-├── media/              ← The "Media Types" section pages
+├── media/              ← The "Media Types" / "Opera Styles" section pages
+│   ├── kun-opera.md
+│   ├── lianhuanhua.md
+│   └── ...             ← one page per media format (see HOW_TO_media.md)
 │
 ├── assets/
 │   ├── images/         ← Banner images and logos
-│   └── plays/          ← Images for each play (one subfolder per play)
+│   ├── plays/          ← Images for each play (one subfolder per play)
+│   └── media/          ← Images for the Media Types pages
 │
 ├── _data/
-│   └── play_nav.yml    ← Controls the sidebar menu on play pages
+│   ├── play_nav.yml    ← Controls the sidebar menu on play pages
+│   ├── media_nav.yml   ← Controls the sidebar menu on Media Types pages
+│   └── banner_alt.yml  ← Alt text for the per-play banner images
 │
 └── index.md            ← The homepage
 ```
 
 Each page on the website is a **text file** ending in `.md`. You write the content of the page in that file.
+
+> The `media/` pages (Media Types / Opera Styles) work almost exactly like play pages but use their own layout and sidebar. Adding or editing one is covered in its own guide — see [HOW_TO_media.md](HOW_TO_media.md).
 
 ---
 
@@ -730,7 +740,7 @@ Place the `_4k` video file in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]
 - **If you processed the video yourself** — copy it directly from wherever you saved it locally.
 - **If someone else processed it** — download it from **Teams / Processed / [play-name] / [year]-[type] /** (Teams is used as shared backup storage between contributors).
 
-> Video files processed with Topaz are named with a `_4k` suffix (e.g. `Feiyimeng_1964_OperaFilm_Clip_4_4k.mp4`). Always use the `_4k` version, not the original source file.
+> Video files processed with Topaz carry a suffix showing how they were upscaled — usually `_2x` (2x output, the common case), or `_4k` when a Film 4K preset was used (e.g. `Feiyimeng_1964_OperaFilm_Clip_4_2x.mp4`). Always use the upscaled version, not the original source file. See the [Topaz upscaling guide](HOW_TO_topaz_upscaling.md) for which suffix goes with which preset.
 
 > **Before upscaling a clip, always look for a clearer source first.** Search for a higher-quality version of the same scene (a better YouTube/Bilibili upload, an official restoration, a Blu-ray/DVD rip); a genuinely higher-resolution source beats an upscaled low-resolution one. Only upscale when no clearer source exists. See the [Topaz upscaling guide](HOW_TO_topaz_upscaling.md) for details.
 
@@ -805,6 +815,8 @@ You do not need to add any special attributes to your images or video clips. The
 - **Banner images and the site logo** are excluded from lazy loading because they are visible immediately when the page opens.
 
 This behavior is built into the site-wide JavaScript and applies to every new page you create without any extra steps. The only exception: if you add an image *outside* the standard page banner — meaning an image that appears at the very top of the page, visible immediately before scrolling, but not placed inside the `.page-banner` section that all play pages use — add `loading="eager"` to that image tag so it loads immediately. In practice this is unlikely to come up, since every play page uses the same banner layout and that banner image already loads eagerly by default.
+
+**Links are underlined automatically, too.** For accessibility (WCAG 1.4.1, so color is not the only thing marking a link), every inline text link in the page body, in figcaptions, and in Works Consulted lists is underlined by the site-wide CSS. You do **not** add any underline styling yourself — just write ordinary links (`<a href="…">…</a>` or Markdown `[text](url)`) and the site handles the rest.
 
 ---
 

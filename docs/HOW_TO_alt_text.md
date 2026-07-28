@@ -69,7 +69,7 @@ Credit: [e.g. "Scan by author" or photographer name, if any]
 Why it matters for this module: [one sentence on its relevance to the content]
 
 Rules to follow:
-- Alt text: 25 words or fewer, no source or credit info, no parentheses,
+- Alt text: under 120 characters, no source or credit info, no parentheses,
   do not duplicate the figcaption, describe what is visible and why it matters
 - If the figcaption already fully describes the image, use alt=""
 - Figcaption: include figure number, full description, source, and credit;
@@ -95,7 +95,7 @@ Credit: [e.g. "Scan by author" or photographer name, if any]
 Why it matters for this module: [one sentence on its relevance to the content]
 
 Rules to follow:
-- Alt text: 25 words or fewer, no source or credit info, no parentheses,
+- Alt text: under 120 characters, no source or credit info, no parentheses,
   do not duplicate the figcaption, describe what is visible and why it matters
 - If the figcaption already fully describes the image, use alt=""
 - Figcaption: include figure number, full description, source, and credit;
@@ -108,7 +108,7 @@ Please give me one draft of each, ready to paste into the .md file.
 ### Step 3 — Review and edit the draft
 
 Read the output and check:
-- Alt text is 25 words or fewer and does not repeat the figcaption
+- Alt text is under 120 characters and does not repeat the figcaption
 - Figcaption contains all source and credit information
 - Neither contains parentheses
 - Chinese names and titles are wrapped in `<span lang="zh">...</span>`
@@ -174,6 +174,27 @@ Key points:
 - The `alt="..."` attribute goes inside the `<img>` tag
 - The alt text and the caption serve different purposes — do not copy one from the other
 - Never leave `alt` completely missing from the tag — use `alt=""` for decorative images
+
+---
+
+## Part 3.5 — Alt Text for Banner Images
+
+The large banner image at the top of each play and media page needs alt text too, but it works differently from a body figure — you usually don't write it on the page itself. Instead there is a shared file, `_data/banner_alt.yml`, that holds one description per banner image, keyed by the image's file name (without the folder path or extension). The layout uses it automatically as the banner's alt text.
+
+```yaml
+# _data/banner_alt.yml
+Mulan_ResourceBanner: "Mulan across adaptations: a warrior on a poster; an opera performer helmeted and unarmored; a woman in a headband."
+OrphanZhao_ResourceBanner: "Collage from Orphan of Zhao adaptations: a floral pattern, Cheng Ying white-bearded in the middle, blue-robed at right."
+```
+
+- The key is the banner file name only. For `banner_image: /assets/images/Mulan_ResourceBanner.png`, the key is `Mulan_ResourceBanner`.
+- Keep each description **under 120 characters**, like any alt text. Most banners are collages, so name the play and briefly describe each panel.
+- **Priority:** a page's own `banner_alt:` in its frontmatter wins if present; otherwise the layout falls back to `banner_alt.yml`; if neither exists it falls back to the page title. So the normal way to set a banner's alt text is to add a line to `banner_alt.yml`.
+
+When you add a **new** play (or a media page with a banner), add its banner's alt text to `_data/banner_alt.yml` at the same time.
+
+> **Using Claude Code:**
+> *"In `_data/banner_alt.yml`, add an entry for the banner `Xixiangji_ResourceBanner`. It's a collage from West Wing adaptations showing [describe the panels]. Keep it under 120 characters."*
 
 ---
 

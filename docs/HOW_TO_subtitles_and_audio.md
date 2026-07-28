@@ -447,6 +447,37 @@ The resulting video code will look like:
 
 ---
 
+## Part 7 — Translation Notes Table on the Module Page
+
+Some clips also get a **translation notes** table directly on the module page — a collapsible box, below the clip, that lays the Chinese dialogue next to the CTC English translation line by line. It lets a reader study the wording without scrubbing the video, and it is where the verified transcription from Whisper (see Part 1) or the TransChart translation ends up when it is useful as reference text.
+
+This is page content, not a VTT file. It goes in the clip's `.md` page, right after the clip's `</div>`.
+
+### The markup
+
+Use a `<details>` box with `class="translation"` and a two-column table. The `<summary>` line is what the reader clicks to expand it:
+
+```html
+<details class="translation" markdown="1">
+<summary>Translation notes for clip 1</summary>
+
+| Chinese Subtitles | CTC Translation |
+|---|---|
+| 木蘭的姐妹：爹爹，快點來呀！ | Mulan's sister: Father, come quick! |
+| 木蘭（穿上父親的鎧甲）：見過爹娘。 | Mulan (dressed in her father's armor): I pay my respects, Father and Mother. |
+
+</details>
+```
+
+- `markdown="1"` on the `<details>` is required so kramdown renders the Markdown table inside it.
+- Keep the blank lines around the table — without them the table won't render.
+- One row per dialogue line, in order. Keep the speaker label in the Chinese cell and mirror it in the English cell.
+
+> **Using Claude Code:**
+> *"In `plays/mulan/1956-opera-film.md`, add a collapsible translation-notes table after clip 1 titled 'Translation notes for clip 1'. Use `<details class=\"translation\" markdown=\"1\">` with a two-column Chinese / CTC Translation table. Here are the lines: [paste Chinese and English]."*
+
+---
+
 ## File Naming Convention
 
 All files live under `assets/subtitles/[play-name]/[year]-[type]/clip_[N]/`.
