@@ -4,8 +4,8 @@ title: Modern Theater and Mixed Media Performances
 permalink: /media/modern-theater/
 ---
 
-<figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_ModernTheater_1.jpg" alt="Modern Theater and Mixed Media Performances">
+<figure class="module-figure">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_ModernTheater_1.jpg" alt="Pan'er stands in front; Yinzhang stands and Zhou She sits behind her; three Ghosts stand at the back.">
   <figcaption>Fig. 1: Screenshot with Elizabeth Chan as Pan'er in front, Frances Mayli Mccann as Yinzhang (standing) and James Cooney as Zhou She (sitting) in the middle, and Crystal Yu, Siu-see Hung, and Jennifer Lim as the three Ghosts in the back. Source: The production on Youtube. Credit: Screenshot by author.</figcaption>
 </figure>
 
