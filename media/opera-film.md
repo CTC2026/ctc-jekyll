@@ -5,7 +5,7 @@ permalink: /media/opera-film/
 ---
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/Mediatype_OperaFilm_1.jpeg" alt="Opera Film">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/Mediatype_OperaFilm_1.jpeg" alt="VCD cover: an armored Mulan in a plumed helmet before a sepia military camp, with a bold red Chinese title.">
   <figcaption>Fig. 1: The cover of a VCD of the 1956 <em>Hua Mulan</em> issued by the Beijing Audiovisual Company and held by the OSU libraries. Source: The <a href="https://library.ohio-state.edu/search/o63133501">VCD</a> is held by the OSU libraries. Credit: Photograph by CTC Project Team.</figcaption>
 </figure>
 
