@@ -10,7 +10,7 @@ page_class: media-kun-opera
 ## Part 1: The Revival of Kun Opera in 21st Century China
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_1.jpeg" alt="Kun Opera performers on stage in elaborate traditional costumes">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_1.jpeg" alt="Chunyu Fen, in a white robe with blue floral embroidery and an ornate headdress, raises one arm, sleeve trailing.">
   <figcaption>Fig. 1: A stage photo from the Kun Opera <em>The Dream of Southern Bough</em> (<em>Nanke Meng</em> <span lang="zh">南柯梦</span>) by Jiangsu Province Kun Opera Troupe. This play was written by renowned Ming dynasty playwright Tang Xianzu (<span lang="zh">汤显祖</span>, 1550–1616). In the image, the leading male, Chunyu Fen (<span lang="zh">淳于棼</span>), is portrayed by Shi Xiaming (<span lang="zh">施夏明</span>). Source: This image is sourced from the <a href="https://mp.weixin.qq.com/s/0QJvFe-2N3OBj82CzWXcKg">Official WeChat Account</a> of the Jiangsu Province Kun Opera Troupe <span lang="zh">江苏省昆剧院</span>.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ A good case in point is *The Peony Pavilion: The Youth Edition* in 2004. The ada
 The convenor and producer of *The Peony Pavilion: The Youth Edition* is Bai Xianyong (Pai Hsien-yung <span lang="zh">白先勇</span>, b.1937), a Taiwanese writer and emeritus professor of Chinese literature at the University of California, Santa Barbara. Bai is also an aficionado of Chinese theatre. He initiated the project to make a [modern adaptation]({{ '/plays/mudanting/2007-recorded-perf/' | relative_url }}) of *The Peony Pavilion*.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_2.jpg" alt="Bai Xianyong at the 20th-anniversary tour of The Peony Pavilion: The Youth Edition">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_2.jpg" alt="Bai Xianyong, in a grey suit and red scarf, stands before a pink poster for the show.">
   <figcaption>Fig. 2: Bai Xianyong at the 20th-anniversary tour of <em>The Peony Pavilion: The Youth Edition</em>. Source: This image is sourced from the <a href="https://www.cna.com.tw/news/acul/202401220303.aspx">Central News Agency (CNA)</a>. Credit: Photo by Xu Peihong.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Compared to classical works, newly created Kun Opera represents a broader and mo
 One of the most distinctive features of new Kun Opera is that it is no longer confined to imperial Chinese settings. Because these works are not based on pre-existing stories, they are free to explore modern or even contemporary time periods. For instance, *Qu Qiubai* <span lang="zh">瞿秋白</span> (2023) produced by the Jiangsu Province Kun Opera Troupe is set in 1935. The protagonist Qu Qiubai is one of the early leaders of the Chinese Communist Party and the show is about his last days in prison. Another work by the same troupe, *Love the City Wuhan* (*Juan jiangcheng* <span lang="zh">眷江城</span>) (2020), tells a story set in a Wuhan hospital during the early stages of the Covid-19 pandemic. In such productions, the historical setting shifts to modern times, and the costumes change accordingly — military uniforms, lab coats, and hospital gowns replace traditional robes (see Fig. 3). Yet the performance methods remain rooted in classical Kun Opera aesthetics, resulting in visual and stylistic contrasts that challenge audience expectations.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_3.jpg" alt="A still from Qu Qiubai. The male character Qu Qiubai is portrayed by Shi Xiaming, and the female character Yang Zhihua is portrayed by Xu Sijia">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_3.jpg" alt="Qu Qiubai, in a pale coat, points ahead while Yang Zhihua stands beside him in a light gown on a dark stage.">
   <figcaption>Fig. 3: A still from <em>Qu Qiubai</em> <span lang="zh">瞿秋白</span>. The male character, Qu Qiubai, is portrayed by Shi Xiaming <span lang="zh">施夏明</span>, and the female character, Yang Zhihua <span lang="zh">杨之华</span>, is portrayed by Xu Sijia <span lang="zh">徐思佳</span>. Source: This image is sourced from <a href="https://www.sohu.com/a/644558708_114988">Sohu</a>.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Beyond tourism, the concept of garden-based Kun Opera has developed into a new f
 Lastly, one particularly interesting example of contemporary Kun Opera performance takes place at the Nanjing Museum. Since 2013, the museum has opened a permanent exhibition hall for so-called "intangible cultural heritage." In the exhibition, a tea house-style theatre was built to stage traditional Chinese performing arts such as Kun Opera, *pingtan* <span lang="zh">评弹</span> storytelling, and *baiju* <span lang="zh">白局</span> comic singing.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_4.jpg" alt="View from the surrounding corridor at the Nanjing Museum tea house theatre, where a man is taking a picture of the show">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_4.jpg" alt="From a dark corridor, a man raises his phone to photograph a red-lantern-lit stage while a seated audience watches.">
   <figcaption>Fig. 4: View from the surrounding corridor, where visitors stand to watch the performance. In the photo, a man is taking a picture of the show. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -119,14 +119,14 @@ The combination of theatre and tea house is not a new invention in Chinese perfo
 Later, the location of these performances shifted from restaurants to tea houses, which focused more exclusively on theatrical enjoyment. Food and alcohol were no longer central; instead, tea and light snacks were served. Unlike restaurant performances, tea house performances had set programs posted in advance. Patrons could check the schedule and attend a tea house on the day of a show that interested them. Tickets were not typically sold — instead, guests were charged for tea and refreshments. However, good seating often required advance reservations.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_5.jpg" alt="Full view of the audience seating area at the tea house theatre in the Nanjing Museum, with paying guests on the ground floor and museum visitors in the surrounding corridor">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_5.jpg" alt="An actor stands near a red-walled corridor as audience members sit at tables with small red teapots, eating snacks.">
   <figcaption>Fig. 5: An actor waits in the corridor for his entrance. Small red teapots can be seen on the side shelves and on every table for audience self-service. Several audience members are already eating snacks while watching the performance. Credit: Photo by the author.</figcaption>
 </figure>
 
 This is exactly how the tea house theatre at the Nanjing Museum operates today. Any museum visitor can stop by and watch the performance from the outer corridor free of charge. But for those who wish to sit and enjoy the show more comfortably, there are two options. One can order tea and snacks from the menu and be seated on the ground floor, close to the stage. Alternatively, for 200 yuan (about $30), visitors can book a private second-floor room, which includes premium seating, tea, snacks, and fresh fruit. The second-floor seats offer a better view and a quieter environment. All the seating is available on a first-come, first-served basis.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="View of the performance from a second-floor room at the tea house theatre, showing bilingual subtitles, the stage with modern lighting, and the live band dressed in black">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_6.png" alt="From a second-floor room, the lantern-lit stage sits at center, the black-clad band at right, and audience below.">
   <figcaption>Fig. 6: View of the performance from a second-floor room at the tea house theatre. The bottom left shows a screen displaying bilingual Chinese–English subtitles. In the center left is the stage, built in the style of a traditional Chinese theatre but adapted with modern lighting and sound systems. To the right of the stage is the live band, dressed in black. In the center right is the audience seating area. The ground floor is paying guests seated around square tables with tea and snacks. The private rooms on the second floor are visible in the background. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ For a long time, young adults typically considered Chinese traditional theatre a
 As noted above, *The Peony Pavilion: The Youth Edition* was created with the explicit goal of attracting young audiences — those more accustomed to Hollywood blockbusters, Hong Kong cinema, or Korean dramas — to the world of traditional Chinese theatre. The production team cast two exceptionally attractive young performers, designed lavish sets and costumes, and adjusted the narrative pacing to align with contemporary viewing habits and expectations. This strategy proved highly successful, opening up the Kun Opera market to younger generations.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two audience members dressed in their own traditional Chinese clothing pose for a photo in front of a digital poster at the theatre hall">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two people in traditional Chinese dress pose before a large digital poster showing the show's title and an opera figure.">
   <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (<em>Changshengdian</em> <span lang="zh">长生殿</span>) show. In the theater hall, they pose for a photo in front of the digital poster. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ Beyond the influence of *The Peony Pavilion: The Youth Edition*, the Chinese gov
 Meanwhile, encouraged by the Youth Edition's success, other troupes adopted similar strategies and created new youth-oriented productions. Notable examples include *The Jade Hairpin* (*Yuzan ji* <span lang="zh">玉簪记</span>, 2008) by the Suzhou Kun Opera Troupe, *1699: The Peach Blossom Fan* (*1699: Taohua shan* 1699: <span lang="zh">桃花扇</span>, 2006) by the Jiangsu Province Kun Opera Troupe, and *The Dream of the Red Chamber* (*Honglou meng* <span lang="zh">红楼梦</span>, 2011) by the Northern Kun Opera Troupe.
 
 <figure class="module-figure-left">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="Before the performance, temporary fan booths are set up inside the theatre. An audience member shows a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_8.jpg" alt="At an indoor booth, a young woman holds up a stamp she collected; a stamp poster and other fans are behind her.">
   <figcaption>Fig. 8: Before the performance, temporary booths are set up inside the theater. Some are organized by the troupe, distributing booklets, while others are run by fans, selling or giving away fan-made items such as stickers, fridge magnets, and pins. Pictured is an audience member showing a stamp she collected from a fan-run booth, featuring a cartoon image of that day's leading actor. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ A typical session starts with a review of the aria learned the previous week, su
 If someone in the group plays the bamboo flute, the primary accompanying instrument in Kun Opera, instrumental support is added in the later stages to help singers refine their pitch and rhythm. To keep sessions lively, teachers often share anecdotes and backstage stories, especially if they are former professionals. These stories may include their own training experiences with their mentors. It's worth noting that Kun Opera acting is less commonly taught in these groups, likely due to space constraints and the physical demands on the instructors.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="A session of a Kun Opera study society at Nanjing University. The instructor in a floral shirt is at center, with student members around them. Two participants are playing the bamboo flute">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_9.jpg" alt="Students sit around tables in a traditional room hung with calligraphy, facing an instructor, some holding scores.">
   <figcaption>Fig. 9: A session of a Kun Opera study society at Nanjing University. The person in the floral shirt at the center (face partially obscured) is the instructor, while the others are student members. Two participants are playing the bamboo flute. When weather permits, the society meets in a room located in a Suzhou Garden. When it is extremely hot or cold, the gatherings are relocated to an indoor room. Credit: Photo by the author.</figcaption>
 </figure>
 
