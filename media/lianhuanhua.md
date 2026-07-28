@@ -21,15 +21,15 @@ While *lianhuanhua* were popular throughout the 20th century, the format's heyda
 
 <dl class="module-list">
 <dt><a href="{{ '/plays/pipaji/1958-comic/' | relative_url }}">New Year's Print of <em>The Lute</em> 《<span lang="zh">琵琶记</span>》<span lang="zh">年画连环画</span> (1958)</a></dt>
-<dd markdown="1">"Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* New Year's print of *The Lute*.</dd>
+<dd markdown="span">"Reconciling Auspicious and Inauspicious Color Contrasts," a module on the 1958 *lianhuanhua* New Year's print of *The Lute*.</dd>
 
 <dt><a href="{{ '/plays/xixiangji/1958-comic/' | relative_url }}"><em>The Western Wing</em> <span lang="zh">西厢记</span> (1958)</a></dt>
-<dd markdown="1">"How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s *lianhuanhua*.</dd>
+<dd markdown="span">"How to Make the Poetic Voice Audible in a Silent Medium," a module on the late 1950s *lianhuanhua*.</dd>
 
 <dt><a href="{{ '/plays/pipaji/1985-comic/' | relative_url }}"><em>The Lute</em> <span lang="zh">琵琶记</span> (1985/1986)</a></dt>
-<dd markdown="1">"Creating Emotional Atmospheres," a module on a *lianhuanhua* adaptation of *The Lute*.</dd>
+<dd markdown="span">"Creating Emotional Atmospheres," a module on a *lianhuanhua* adaptation of *The Lute*.</dd>
 
 <dt><a href="{{ '/plays/mudanting/1986-comic/' | relative_url }}"><em>The Peony Pavilion</em> <span lang="zh">牡丹亭</span> (1986)</a></dt>
-<dd markdown="1">"The Mise-en-Scène of Emotion," a module on a *lianhuanhua* adaptation of *The Peony Pavilion*.</dd>
+<dd markdown="span">"The Mise-en-Scène of Emotion," a module on a *lianhuanhua* adaptation of *The Peony Pavilion*.</dd>
 </dl>
 

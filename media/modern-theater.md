@@ -19,6 +19,6 @@ In recent years, playwrights in the Chinese-speaking world as well as the diaspo
 
 <dl class="module-list">
 <dt><a href="{{ '/plays/guan-hanqing/jiufengchen-2021-modern-theater/' | relative_url }}">Rescuing One's Sister in the Wind and Dust (2021)</a></dt>
-<dd markdown="1">"Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.</dd>
+<dd markdown="span">"Ghosts as an Intercultural Bridge," a module on the English-language spoken play adaptation of *Saving a Courtesan*.</dd>
 </dl>
 

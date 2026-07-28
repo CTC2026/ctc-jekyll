@@ -21,13 +21,13 @@ In addition to the adaptation of whole plays, Chinese television programming als
 
 <dl class="module-list">
 <dt><a href="{{ '/plays/mudanting/2009-tv/' | relative_url }}"><em>The Return of the Soul at the Peony Pavilion</em> <span lang="zh">牡丹亭還魂记</span> (2009)</a></dt>
-<dd markdown="1">"The Expression of <em>Qing</em> in the Hybrid Medium of Yue Opera TV Drama," a module about a televisual adaptation of *The Peony Pavilion* by CCTV.</dd>
+<dd markdown="span">"The Expression of <em>Qing</em> in the Hybrid Medium of Yue Opera TV Drama," a module about a televisual adaptation of *The Peony Pavilion* by CCTV.</dd>
 
 <dt><a href="{{ '/plays/orphan-of-zhao/2011-tv/' | relative_url }}">The Ink and Vermillion Edition of <em>The Orphan of Zhao</em> (2011)</a></dt>
-<dd markdown="1">"Stage as a Narrator," a module on a TV recording of the "Ink and Vermilion" edition adapted by Wang Peiyu <span lang="zh">王珮瑜</span>.</dd>
+<dd markdown="span">"Stage as a Narrator," a module on a TV recording of the "Ink and Vermilion" edition adapted by Wang Peiyu <span lang="zh">王珮瑜</span>.</dd>
 
 <dt><a href="{{ '/plays/guan-hanqing/jiufengchen-2022-tv/' | relative_url }}"><em>A Dream of Splendor</em> <span lang="zh">梦华录</span> (2022)</a></dt>
-<dd markdown="1">"Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.</dd>
+<dd markdown="span">"Dramatic Irony through Editing and Character Addition," a module on the mainland Chinese television series adaptation of *Saving a Courtesan*.</dd>
 </dl>
 
 <details class="works-consulted" markdown="1">
