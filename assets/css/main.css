@@ -772,6 +772,11 @@ main p, main li, main blockquote, main h1, main h2, main h3 {
 .sidebar-xixiangji > ul > li:first-child > a { font-size: 1.2rem; }
 .sidebar-xixiangji .sidebar-children li a { font-size: 0.95rem; }
 
+/* Media Types section has long labels too; shrink the type so the
+   auto-sized (max-content) sidebar sits narrower. */
+.sidebar-media ul li a { font-size: 1rem; }
+.sidebar-media > ul > li:first-child > a { font-size: 1.1rem; }
+
 .ctc-sidebar-main {
   flex: 1;
   min-width: 0;
