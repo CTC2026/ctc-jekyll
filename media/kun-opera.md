@@ -5,8 +5,6 @@ permalink: /media/kun-opera/
 page_class: media-kun-opera
 ---
 
-*By Zhe Cheng*
-
 ## Part 1: The Revival of Kun Opera in 21st Century China
 
 <figure class="module-figure-right">
@@ -259,3 +257,6 @@ Another way to buy tickets is through major ticketing platforms. You can downloa
 - Xie Yufeng <span lang="zh">解玉峰</span>. "Yetan Zhongguo Kunqu zuowei wenhua yichan de baocun wenti <span lang="zh">也谈中国昆曲作为文化遗产的保存问题</span> (Discussion on the Preservation of Kun Opera as Cultural Heritage in China)." *Xiju yishu* <span lang="zh">戏剧艺术</span> (*Theatre Arts*), no. 1 (2005): 52–61.
 - Chunru yaoshan bisiwei <span lang="zh">春入遥山碧四围</span>. "Jijian Kunqu rukeng zhinan (san): Dangjin bada kuntuan ji qi yuanliu <span lang="zh">极简昆曲入坑指南</span>(<span lang="zh">三</span>)<span lang="zh">当今八大昆团及其源流</span> (Minimalist Guide to Getting into Kun Opera (Part 3): Today's Eight Kun Opera Troupes and Their Origins)." Bilibili, 2023. Accessed 8 Aug 2025.
 </details>
+
+<h2>Author</h2>
+<p class="module-authors"><a href="https://easc.osu.edu/people/cheng.2154">Zhe Cheng</a></p>
