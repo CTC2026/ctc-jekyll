@@ -17,7 +17,7 @@ troupe: 'Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span>'
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>Top Graduate Zhang Xie <span lang="zh">張協狀元</span></dd></div>
+<div><dt>Title</dt><dd><em>Top Graduate Zhang Xie</em> <span lang="zh">張協狀元</span></dd></div>
 <div><dt>Year</dt><dd>2017</dd></div>
 <div><dt>Style</dt><dd>Yongjia-Style Kunqu Opera <span lang="zh">永嘉昆曲</span></dd></div>
 <div><dt>Troupe</dt><dd>Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span></dd></div>

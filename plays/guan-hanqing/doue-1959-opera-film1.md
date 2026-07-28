@@ -22,7 +22,7 @@ director: 'Lee Tit <span lang="zh">李鐵</span>'
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>Snow in June <span lang="zh">六月雪</span></dd></div>
+<div><dt>Title</dt><dd><em>Snow in June</em> <span lang="zh">六月雪</span></dd></div>
 <div><dt>Year</dt><dd>1959</dd></div>
 <div><dt>Cast</dt><dd>Yam Kim-fai <span lang="zh">任劍輝</span> (1913-1989) as Scholar Choi <span lang="zh">蔡昌宗</span>, Fong Yim-Fen <span lang="zh">芳艷芬</span> as Tau Ngo <span lang="zh">竇娥</span>, Leung Xing Poh <span lang="zh">梁醒波</span> (1908-1981) as Zhang <span lang="zh">張驢兒</span>, Poon Yat An <span lang="zh">半日安</span> (1902-1964) as Madam Choi <span lang="zh">蔡母</span>, Yim Tou Hong <span lang="zh">艷桃紅</span> as Lai Heung <span lang="zh">荔香</span></dd></div>
 <div><dt>Screenplay</dt><dd>Mang Kong-Lung <span lang="zh">孟江龍</span>, adapted from the 1956 script by <span lang="zh">唐滌生</span> Tong Tik-sang</dd></div>

@@ -21,12 +21,12 @@ media_type: Lianhuanhua (Narrative Comics)
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>"The Lute" <span lang="zh">琵琶记</span></dd></div>
+<div><dt>Title</dt><dd><em>The Lute</em> <span lang="zh">琵琶记</span></dd></div>
 <div><dt>Year</dt><dd>1985</dd></div>
 <div><dt>Art</dt><dd>Chen Quansheng <span lang="zh">陈全胜</span></dd></div>
 <div><dt>Textual adaptation</dt><dd>Shi Ming <span lang="zh">士明</span></dd></div>
 <div><dt>Magazine</dt><dd>Lianhuanhua Pictorial <span lang="zh">连环画报</span> 1985 no. 7, pp. 14-17</dd></div>
-<div><dt>Title</dt><dd>The Lute (1986)</dd></div>
+<div><dt>Title</dt><dd><em>The Lute</em> (1986)</dd></div>
 <div><dt>Year</dt><dd>1986</dd></div>
 <div><dt>Art</dt><dd>Chen Quansheng <span lang="zh">陈全胜</span> &amp; Yue Haibo <span lang="zh">岳海波</span></dd></div>
 <div><dt>Cover design</dt><dd>Feng Yinan <span lang="zh">冯忆南</span></dd></div>

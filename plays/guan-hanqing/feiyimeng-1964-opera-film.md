@@ -24,7 +24,7 @@ director: 'Chan Yau-San <span lang="zh">陳又新</span>'
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>The Crimson Palm <span lang="zh">血手印</span></dd></div>
+<div><dt>Title</dt><dd><em>The Crimson Palm</em> <span lang="zh">血手印</span></dd></div>
 <div><dt>Year</dt><dd>1964</dd></div>
 <div><dt>Genre</dt><dd>Huangmei Opera Film</dd></div>
 <div><dt>Director</dt><dd>Chan Yau-San <span lang="zh">陳又新</span></dd></div>

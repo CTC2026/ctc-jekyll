@@ -28,7 +28,7 @@ The *Chuanju* High-Pitch Adaptation Yanyan <span lang="zh">川剧高腔 《燕�
 <dl>
 <div><dt>Production</dt><dd>Sichuan Drama Theater in Chengdu <span lang="zh">成都市川剧院</span></dd></div>
 <div><dt>Publisher</dt><dd>Emei Film Studio Audio and Video Publishing House <span lang="zh">峨眉电影制片厂音像出版社</span></dd></div>
-<div><dt>Title</dt><dd>Yanyan <span lang="zh">燕燕</span></dd></div>
+<div><dt>Title</dt><dd><em>Yanyan</em> <span lang="zh">燕燕</span></dd></div>
 <div><dt>Year</dt><dd>2016</dd></div>
 <div><dt>Script</dt><dd>Xu Fen <span lang="zh">徐棻</span>, Zhang Yujun <span lang="zh">张羽军</span></dd></div>
 <div><dt>Director</dt><dd>Li Zenglin <span lang="zh">李增林</span></dd></div>

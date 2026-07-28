@@ -22,7 +22,7 @@ playwright: Amy Ng
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>Rescuing One's Sister in the Wind and Dust</dd></div>
+<div><dt>Title</dt><dd><em>Rescuing One's Sister in the Wind and Dust</em></dd></div>
 <div><dt>Year</dt><dd>2021</dd></div>
 <div><dt>Direction</dt><dd>Anthony Lau</dd></div>
 <div><dt>Adaptation</dt><dd>Amy Ng</dd></div>
