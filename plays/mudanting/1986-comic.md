@@ -12,7 +12,7 @@ media_type: Lianhuanhua (Narrative Comics)
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>The Peony Pavilion <span lang="zh">牡丹亭</span></dd></div>
+<div><dt>Title</dt><dd><em>The Peony Pavilion</em> <span lang="zh">牡丹亭</span></dd></div>
 <div><dt>Year</dt><dd>1986</dd></div>
 <div><dt>Art</dt><dd>Liu Changhua <span lang="zh">刘昌华</span></dd></div>
 <div><dt>Cover design</dt><dd>Feng Yinan <span lang="zh">冯忆南</span></dd></div>

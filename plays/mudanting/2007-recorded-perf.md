@@ -22,7 +22,7 @@ media_subtype: Youth Edition
 <div class="module-info">
 <h2>Information</h2>
 <dl>
-<div><dt>Title</dt><dd>The Peony Pavilion: The Youth Edition <span lang="zh">青春版牡丹亭</span></dd></div>
+<div><dt>Title</dt><dd><em>The Peony Pavilion: The Youth Edition</em> <span lang="zh">青春版牡丹亭</span></dd></div>
 <div><dt>Year</dt><dd>2007</dd></div>
 <div><dt>Style</dt><dd>Kunqu <span lang="zh">昆曲</span></dd></div>
 <div><dt>Producer</dt><dd>Pai Hsien-yung <span lang="zh">白先勇</span></dd></div>

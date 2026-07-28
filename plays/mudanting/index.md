@@ -10,7 +10,7 @@ banner_image: /assets/images/Peony_RB_1.png
 
 ## Contents
 
-You can find modules that analyze various adaptations of *The Peony Pavilion* at the links below. To get a sense of the main themes and historical import of the original *Peony Pavilion*, please consult the "General Background" below.
+You can find modules that analyze various adaptations of *The Peony Pavilion* at the links below. To get a sense of the main themes and historical import of the original *The Peony Pavilion*, please consult the "General Background" below.
 
 1. [*The Peony Pavilion* <span lang="zh">牡丹亭</span> (1986)](1986-opera-film/)
    - "Expressing Du Liniang's Sorrow with Kunqu's Gestic Theatricality," a module on the 1986 Kunqu opera film of *The Peony Pavilion*.
@@ -34,7 +34,7 @@ After its appearance at the tail end of the sixteenth century (1598), *The Peony
 
 Many elements of playwright Tang Xianzu's <span lang="zh">湯顯祖</span> (1550-1616) signature play were not new—the garden setting, the dreams, the ghost elements, the self-initiated lovemaking, and the obstreperous parents had all been staples of the theatrical lore since at least the Yuan dynasty (1271-1368). Partly, what gave Tang's drama a special resonance was that the creation of his play coincided with what historian Lynn Struve has called one of world literature's great "dream blooms" (Struve 2019). In such an era, writers tap into the trope of the "dream" and develop it in new ways. In Tang's play, dreams function a little bit like a form of science fiction—however, what is made visible is not some adventure into outer space, but instead dreams allow for the gripping visualization of interior spaces—that is, the typically invisible realm of feelings made manifest for anyone to identify with. And in no small measure it was Tang's sublime use of all registers of the written Chinese vernacular—lyrical dreaminess, nature imagery, earthy humor, folksy burlesque, pedantic formalism among others—that made the flights of the characters' imaginations come to life for readers and viewers alike.
 
-It was this feeling of being able to vicariously tap into the surreal and yet palpably tangible experience of the heroine's journey that captivated scores of female readers and viewers in the seventeenth and eighteenth centuries. Cui Yingying <span lang="zh">崔鶯鶯</span>, the heroine of *The Western Wing* (*Xixiang ji* <span lang="zh">西廂記</span>) was a household name, but it was the *Peony Pavilion*'s Du Liniang, who became an icon of heightened sensibility, imaginative depth and beauty that people began to identify with. Much like the internet lets "users" become "fans," "followers," and "creators," Tang's play became a platform that touched the lives of its audience. Some young women wrote poetry about it; others annotated *The Peony Pavilion*, and on account of their own untimely death, became part of the lore surrounding the play. Others imagined themselves in love with the playwright. In short, the play supplied a newly mediated language of intimacy for fostering community outside the confines of immediate family.
+It was this feeling of being able to vicariously tap into the surreal and yet palpably tangible experience of the heroine's journey that captivated scores of female readers and viewers in the seventeenth and eighteenth centuries. Cui Yingying <span lang="zh">崔鶯鶯</span>, the heroine of *The Western Wing* (*Xixiang ji* <span lang="zh">西廂記</span>) was a household name, but it was *The Peony Pavilion*'s Du Liniang, who became an icon of heightened sensibility, imaginative depth and beauty that people began to identify with. Much like the internet lets "users" become "fans," "followers," and "creators," Tang's play became a platform that touched the lives of its audience. Some young women wrote poetry about it; others annotated *The Peony Pavilion*, and on account of their own untimely death, became part of the lore surrounding the play. Others imagined themselves in love with the playwright. In short, the play supplied a newly mediated language of intimacy for fostering community outside the confines of immediate family.
 
 In modern renditions, it is not only the love story that has garnered attention, but many productions on stage, screen, and paper have experimented with media old and new to capture some of the imaginative scope and linguistic daring of the original play.
 
@@ -43,7 +43,7 @@ In modern renditions, it is not only the love story that has garnered attention,
 - Ko, Dorothy. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. Stanford, CA: Stanford University Press, 1995.
 - Lam, Lin Hong. "*The Peony Pavilion*: Emotions, Dreams, and Spectatorship." In *How To Read Chinese Drama: A Guided Anthology*, edited by Patricia Sieber and Regina Llamas, 212-234. New York: Columbia University Press, 2022.
 - Struve, Lynn. *The Dreaming Mind and the End of the Ming World*. Honolulu, HI: University of Hawaii Press, 2019.
-- Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on the *Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.
+- Zeitlin, Judith. "Shared Dreams: The Story of the Three Wives' Commentary on *The Peony Pavilion*." *Harvard Journal of Asiatic Studies* 54: 1 (1994): 127-179.
 </details>
 
 <h2>Author</h2>
