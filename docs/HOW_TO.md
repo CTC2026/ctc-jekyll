@@ -206,8 +206,10 @@ Download and install Python from https://www.python.org (click "Latest Release")
 
 Then install the required packages (same on both systems):
 ```
-pip install google-generativeai openai
+pip install google-genai openai python-docx
 ```
+
+> Use **`google-genai`** (the current Google GenAI SDK) — not the older `google-generativeai` package. The scripts import `from google import genai`, which only works with `google-genai`. `python-docx` is needed to read the TransChart `.docx` files.
 
 #### Install the Python extension in VS Code
 
@@ -312,7 +314,7 @@ from scratch. Please install the following tools in the correct order:
 1. Homebrew (Mac only)
 2. Ruby and Bundler
 3. Jekyll
-4. Python and the pip packages: google-generativeai openai
+4. Python and the pip packages: google-genai openai python-docx
 5. Node.js
 6. Wrangler (Cloudflare CLI)
 7. (Only if I will work with video clips) yt-dlp, ffmpeg, and deno
