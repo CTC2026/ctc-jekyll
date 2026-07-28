@@ -16,6 +16,8 @@ title: Home
 
 <h1>Welcome</h1>
 
+<p class="home-intro">Connecting the dots between the written theatrical corpus of the past and its modern adaptations of the stage and screen and other media.</p>
+
 <div class="card-grid">
   <a href="{{ '/about/' | relative_url }}" class="card">
     <div class="card-body">
