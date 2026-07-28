@@ -1,12 +1,12 @@
 ---
 layout: page
-title: How to Teach With Chinese Theater Collaborative
+title: How to Teach with Chinese Theater Collaborative
 permalink: /how-to-teach/
 ---
 
 By all accounts, teaching traditional Chinese theater in a global context can be challenging. In recent years, however, many scholars and theater practitioners have begun to create more resources that allow for Chinese plays to come alive in the global classroom. The Chinese Theater Collaborative site enhances those resources through references to, analysis of, and visual excerpts from important modern productions of iconic plays.
 
-Some of the specific ways that using the "Chinese Theater Collaborative" can enrich teaching the classroom:
+**Some of the specific ways that using the "Chinese Theater Collaborative" can enrich teaching the classroom:**
 
 1. Examine continuity and change in Chinese approaches to ethical dilemmas, individual agency and power structures
 2. Explore the expressive repertoire of Chinese theater and other media through thematic analysis
