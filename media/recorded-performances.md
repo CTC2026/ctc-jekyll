@@ -4,7 +4,7 @@ title: Recordings of Live Performances of Traditional Chinese Theater
 permalink: /media/recorded-performances/
 ---
 
-<figure class="module-figure-right">
+<figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_RecordedPerf_1.png" alt="Recordings of Live Performances">
   <figcaption>Fig. 1: Feeling exploited, Little Demon and Divine Judge use jokes to complain. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
