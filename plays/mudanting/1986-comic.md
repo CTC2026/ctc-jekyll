@@ -132,7 +132,7 @@ In the subsequent panel (panel 31, Fig. 5), Du Liniang stands thoughtfully next 
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg" alt="Line drawing: Du Liniang lowers her head beside a hanging scroll portrait of herself, near a dense lattice screen.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_6.jpg" alt="Line drawing: Du Liniang bows her head, hand to her face, beside a hanging portrait scroll near a lattice screen.">
   <figcaption><strong>Fig. 6.</strong> Panel 67, a distraught Du Liniang framed by her portrait and a window lattice. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
