@@ -139,7 +139,7 @@ For a long time, young adults typically considered Chinese traditional theatre a
 As noted above, *The Peony Pavilion: The Youth Edition* was created with the explicit goal of attracting young audiences — those more accustomed to Hollywood blockbusters, Hong Kong cinema, or Korean dramas — to the world of traditional Chinese theatre. The production team cast two exceptionally attractive young performers, designed lavish sets and costumes, and adjusted the narrative pacing to align with contemporary viewing habits and expectations. This strategy proved highly successful, opening up the Kun Opera market to younger generations.
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two people in traditional Chinese dress pose before a large digital poster showing the show's title and an opera figure.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/OperaType_Kun_7.jpg" alt="Two people in traditional Chinese dress pose before a digital poster of the show's title and several opera figures.">
   <figcaption>Fig. 7: Two audience members dressed in their own traditional Chinese clothing to watch <em>The Palace of Eternal Life</em> (<em>Changshengdian</em> <span lang="zh">长生殿</span>) show. In the theater hall, they pose for a photo in front of the digital poster. Credit: Photo by the author.</figcaption>
 </figure>
 
@@ -246,16 +246,16 @@ Another way to buy tickets is through major ticketing platforms. You can downloa
 
 <details class="works-consulted" markdown="1">
 <summary>Works Consulted</summary>
-- Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.
-- Sieber, Patricia, and Regina Llamas, eds. *How to Read Chinese Drama: A Guided Anthology*. How to Read Chinese Literature Series. Columbia University Press, 2022.
 - Bai Xianyong <span lang="zh">白先勇</span>, ed. *Mudan Huakai Ershi Nian* <span lang="zh">牡丹花开二十年</span> (*Twenty Years of Peony Blossoms*). Beijing: Writers Publishing House, 2024.
-- Fu Jin <span lang="zh">傅谨</span>, ed. *Bai Xianyong yu Qingchunban Mudan Ting* <span lang="zh">白先勇与青春版</span>《<span lang="zh">牡丹亭</span>》(*Bai Xianyong and The Peony Pavilion: The Youth Edition*). Beijing: Central Compilation & Translation Press, 2014.
-- Liao Ben <span lang="zh">廖奔</span>. *Zhongguo gudai juchang shi* <span lang="zh">中国古代剧场史</span> (*The History of Ancient Chinese Theatre*). Beijing: People's Literature Publishing House, 2012.
-- Wu Xinlei <span lang="zh">吴新雷</span>, ed. *Kunqu yishu gailun* <span lang="zh">昆曲艺术概论</span> (*An Introduction to Kun Opera Art*). Taiyuan: Shanxi Education Press, 2011.
 - Chen Moyun <span lang="zh">陈默耘</span>. *Kunqu qushe yanjiu* <span lang="zh">昆曲曲社研究</span> (*A Study of Kun Opera Societies*). Master's thesis, East China Normal University, 2007.
-- Xie Boliang <span lang="zh">谢柏梁</span>. "Chuantong xiju wenhua yichan baohu de Zhongguo moshi <span lang="zh">传统戏剧文化遗产保护的中国模式</span> (The Chinese Model of Preserving Traditional Theatre as Cultural Heritage)." *Zhongguo Wenyi Pinglun* <span lang="zh">中国文艺评论</span> (*China Literature and Art Review*), no. 3 (2016): 60–67.
-- Xie Yufeng <span lang="zh">解玉峰</span>. "Yetan Zhongguo Kunqu zuowei wenhua yichan de baocun wenti <span lang="zh">也谈中国昆曲作为文化遗产的保存问题</span> (Discussion on the Preservation of Kun Opera as Cultural Heritage in China)." *Xiju yishu* <span lang="zh">戏剧艺术</span> (*Theatre Arts*), no. 1 (2005): 52–61.
 - Chunru yaoshan bisiwei <span lang="zh">春入遥山碧四围</span>. "Jijian Kunqu rukeng zhinan (san): Dangjin bada kuntuan ji qi yuanliu <span lang="zh">极简昆曲入坑指南</span>(<span lang="zh">三</span>)<span lang="zh">当今八大昆团及其源流</span> (Minimalist Guide to Getting into Kun Opera (Part 3): Today's Eight Kun Opera Troupes and Their Origins)." [Bilibili](https://www.bilibili.com/video/BV1pc411K79M/), 2023. Accessed 8 Aug 2025.
+- Fu Jin <span lang="zh">傅谨</span>, ed. *Bai Xianyong yu Qingchunban Mudan Ting* <span lang="zh">白先勇与青春版</span>《<span lang="zh">牡丹亭</span>》(*Bai Xianyong and The Peony Pavilion: The Youth Edition*). Beijing: Central Compilation & Translation Press, 2014.
+- Lam, Joseph S. C. *Kunqu: A Classical Opera of Twenty-First-Century China*. Hong Kong University Press, 2023.
+- Liao Ben <span lang="zh">廖奔</span>. *Zhongguo gudai juchang shi* <span lang="zh">中国古代剧场史</span> (*The History of Ancient Chinese Theater*). Beijing: People's Literature Publishing House, 2012.
+- Sieber, Patricia, and Regina Llamas, eds. *How to Read Chinese Drama: A Guided Anthology*. How to Read Chinese Literature Series. Columbia University Press, 2022.
+- Wu Xinlei <span lang="zh">吴新雷</span>, ed. *Kunqu yishu gailun* <span lang="zh">昆曲艺术概论</span> (*An Introduction to Kun Opera Art*). Taiyuan: Shanxi Education Press, 2011.
+- Xie Boliang <span lang="zh">谢柏梁</span>. "Chuantong xiju wenhua yichan baohu de Zhongguo moshi <span lang="zh">传统戏剧文化遗产保护的中国模式</span> (The Chinese Model of Preserving Traditional Theater as Cultural Heritage)." *Zhongguo Wenyi Pinglun* <span lang="zh">中国文艺评论</span> (*China Literature and Art Review*), no. 3 (2016): 60–67.
+- Xie Yufeng <span lang="zh">解玉峰</span>. "Yetan Zhongguo Kunqu zuowei wenhua yichan de baocun wenti <span lang="zh">也谈中国昆曲作为文化遗产的保存问题</span> (Discussion on the Preservation of Kun Opera as Cultural Heritage in China)." *Xiju yishu* <span lang="zh">戏剧艺术</span> (*Theater Arts*), no. 1 (2005): 52–61.
 </details>
 
 <h2>Author</h2>
