@@ -115,7 +115,7 @@ Once Du Liniang awakens, the comic reverts to a realistic style that is common i
 </details>
 
 <figure class="module-figure">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg" alt="Line drawing: Du Liniang stands hand-to-chin by a bamboo-blind window and a long bare table in near-empty space.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/1986-comic/Mudanting_1986_Comic_5.jpg" alt="Line drawing: Du Liniang stands hand-to-chin by a bamboo-blind window and a long wooden couch in near-empty space.">
   <figcaption><strong>Fig. 5.</strong> Panel 31, Du Liniang remembers garden delights and sulks next to the window. Source: Liu Changhua <span lang="zh">刘昌华</span> (illustrator) and Liang Chen <span lang="zh">良辰</span> (text adaptation). <span lang="zh">牡丹亭</span> Mudanting (Peony Pavilion). Jiangsu Fine Arts Press, 1986. Credit: Scan by author; production assistance by Julia Biller, OSU ASC Technology Services.</figcaption>
 </figure>
 
