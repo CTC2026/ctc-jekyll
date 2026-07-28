@@ -6,7 +6,7 @@ permalink: /media/recorded-performances/
 
 <figure class="module-figure">
   <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/media/MediaType_RecordedPerf_1.png" alt="Recordings of Live Performances">
-  <figcaption>Fig. 1: Feeling exploited, Little Demon and Divine Judge use jokes to complain. Credit: Screenshot by CTC Project Team.</figcaption>
+  <figcaption>Fig. 1: Feeling exploited, Little Demon and Divine Judge use jokes to complain. Source: The Yongjia Kunju Troupe <span lang="zh">永嘉昆剧团</span> performance of <em>Top Graduate Zhang Xie</em> found on <a href="https://www.bilibili.com/video/BV18y4y117k9/?from=search&amp;seid=12338660077758531882&amp;spm_id_from=333.337.0.0">Bilibili</a>. Credit: Screenshot by CTC Project Team.</figcaption>
 </figure>
 
 We feature recordings of live performances of traditional Chinese theater (also known as "Chinese Opera"). In this scenario, the live performance takes place in a designated theatrical space with a live audience. The liveness of the performance is an important facet of the theatrical communication. The recording of the performance is often an ancillary aspect of the production.
