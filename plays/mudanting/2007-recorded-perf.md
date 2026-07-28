@@ -15,7 +15,7 @@ media_subtype: Youth Edition
 - [A video of the performance with Mandarin Chinese Subtitles on bilibili](https://www.bilibili.com/video/BV1KW4y1Y7ZA/?spm_id_from=333.337.search-card.all.click&vd_source=0cab89c802c4384c8761ec22d2600027).
 
 <figure class="module-figure-right">
-  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Two Kunqu performers in a garden; a scholar in a black cap holds a willow sprig beside a woman in a jeweled headdress.">
+  <img src="https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mudanting/2007-recorded-perf/Mudanting_2007_RecordedPerf_1.jpg" alt="Liu Mengmei in a black cap holds out a willow sprig to Du Liniang in a jeweled headdress and cream robe, in a garden.">
   <figcaption><strong>Fig. 1.</strong> Promotion photo featuring Yu Jiulin <span lang="zh">俞玖林</span> (as Liu Mengmei) and Shen Fengying <span lang="zh">沈豐英</span> (as Du Liniang). Source: This image can be found on the <a href="https://culture.cnjiwang.com/gxt/201609/2221076.html">Culture CNJWANG <span lang="zh">中国吉林网</span> website</a>.</figcaption>
 </figure>
 
