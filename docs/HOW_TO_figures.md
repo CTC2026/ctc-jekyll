@@ -2,7 +2,7 @@
 
 This guide covers where an image sits on the page — floated left or right, or centered full width — and how to avoid the most common layout problem: an empty column of blank space beside a floated figure. It is about **placement**; for the words inside the image tag (alt text) and under it (figcaption), see the [alt text guide](HOW_TO_alt_text.md).
 
-Pages are built from **text content** (the essay lives on this site now; there is no source PDF or laid-out original to copy a figure arrangement from). So placement follows the **house conventions** in this guide, using the essay text as your guide to *which* paragraph a figure belongs beside. Two rules anchor it:
+Pages are built from **text content**, so placement follows the **house conventions** in this guide — use the essay text as your guide to *which* paragraph a figure belongs beside. Two rules anchor it:
 
 - On a **play adaptation module** (film/TV/opera-film/recorded-performance), the first figure floats **right, beside the Information box** (next section).
 - Every other figure sits **next to the paragraph that discusses it** — where the essay names it (e.g. "(Fig. 2)") or describes that image — floated right/left down the page, or centered full width when it's a wide or lead image.
