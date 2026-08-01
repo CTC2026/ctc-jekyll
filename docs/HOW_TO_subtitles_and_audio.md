@@ -474,7 +474,7 @@ The resulting video code will look like:
     <button class="sub-btn" data-lang="off">Off</button>
     <button class="sub-btn" data-lang="ad">Audio Description</button>
   </div>
-  <p class="clip-caption">Clip 4: [description]. Source: [source].</p>
+  <p class="clip-caption">Clip 4: The scene of denouement. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 </div>
 ```
 
@@ -492,6 +492,12 @@ The last line inside every `clip-section` is the **clip note** — the caption s
 
 ```html
 <p class="clip-caption">Clip N: [one sentence describing what happens in the clip]. Source: The film on <a target="_blank" href="[VIDEO URL]">[YouTube / Bilibili]</a>. Credit: [who cut or supplied the clip].</p>
+```
+
+**A real example** — Feiyimeng (1964), Clip 1:
+
+```html
+<p class="clip-caption">Clip 1: The opening scene of The Crimson Palm. Source: The Crimson Palm on <a target="_blank" href="https://www.youtube.com/watch?v=Z2RdZfkeo6k&t=4163s">YouTube</a>. Credit: Clipped by CTC team.</p>
 ```
 
 **Each part:**
