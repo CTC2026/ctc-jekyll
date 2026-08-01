@@ -558,6 +558,8 @@ The prompt above creates the text. For the **frontmatter** to paste in, and for 
 - **About-section or standalone page** → Section 8
 - **Media Type / Opera Style page** → [HOW_TO_media.md](HOW_TO_media.md)
 
+> **Pages with figures have a second source document.** The essay doc holds the text; a separate **figures document** (`..._Figures.docx`) holds each image's caption, Source, Credit, and **alt text**, and the essay marks where each figure goes with the image's base name. Building figures from it is covered in Section 7, Step 5.
+
 > **Why "preserve, don't rewrite" matters.** These pages are scholarly writing. A dropped citation, or a title that loses its italics, is an **error, not a style choice** — the `.md` must match the Word document, even where the document differs from how other pages happen to read. The only things you deliberately change: wrap Chinese in `<span lang="zh">…</span>`, and fix any obvious grammar or spelling error in the source rather than reproduce it. (An image's caption — description plus any Source and Credit line — is kept exactly as written; it just goes inside an HTML `<figcaption>`, which is standard figure formatting, not a change to the text.) When Claude Code finishes, open the Word document next to the new page and skim it for any citation or italic that got lost.
 >
 > **A short page with no Word document** (a brief note, a simple standalone page) can still be written directly in Markdown — start from the frontmatter in the relevant section and type the content.
@@ -721,7 +723,8 @@ Save your finished Word document and all processed media to Teams:
 
 ```
 Teams: CTC Project Files / Processed / [play-name] / [year]-[type] /
-    [PlayName]_[Year]_module.docx        ← your written module
+    [PlayName]_[Year]_module.docx        ← your written module (the essay text)
+    [PlayName]_[Year]_Figures.docx       ← the figures list (each figure's caption, Source, Credit, and Alt text)
     [PlayName]_[Year]_[Type]_1.jpg       ← images (numbered)
     [PlayName]_[Year]_Clip_1.mp4         ← video clips (numbered)
 ```
@@ -731,7 +734,7 @@ Teams: CTC Project Files / Processed / [play-name] / [year]-[type] /
 ### Step 2 — Download files to your computer
 
 Download from Teams to your computer:
-- The Word document
+- The module Word document **and** the figures document (`..._Figures.docx`)
 - All image files — place them in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]/`
 - All video clip files — place them in the same folder
 
@@ -762,7 +765,10 @@ Include:
 - A Works Consulted section
 - The author credit at the bottom
 
-Do not add images or videos yet — just the text content.
+Do not add images or videos yet — just the text content. Where the module
+document marks a figure with an image's base name on its own line (e.g.
+Mulan_1956_OperaFilm_1), keep it as a visible placeholder so I can see where
+each figure goes — the images themselves are added in Step 5.
 Wrap all Chinese characters in <span lang="zh">...</span> tags.
 
 Preserve the Word document's formatting exactly: keep every inline
@@ -797,17 +803,40 @@ bash upload_images_to_r2.sh
 
 ### Step 5 — Ask Claude Code to add images to the page
 
+**The captions and alt text come from the figures document — do not write them by hand.** Each figure's caption, Source, Credit, and alt text live in the `..._Figures.docx` you downloaded in Step 2. A figure entry in that document looks like this:
+
 ```
-The images for plays/mulan/1956-opera-film.md have been uploaded to 
-Cloudflare R2. The files are:
+Fig. 1: Panel 23, Du Liniang eyes the reader.
+Source: Liu Changhua … Jiangsu Fine Arts Press, 1986.
+Credit: Scan by CTC Project Team …
+Alt: A woman in Ming-dynasty robes turns to gaze directly out at the reader.
+```
 
-- Mulan_1956_OperaFilm_1.jpg — caption: "Fig. 1. [your caption]", float right
-- Mulan_1956_OperaFilm_2.jpg — caption: "Fig. 2. [your caption]", full width
+- **The caption** — the `Fig. N:` line together with its Source and Credit — goes into the `<figcaption>` **exactly as written** (see the [Source/Credit note in Section 6](#6-how-to-add-a-new-play): this text is preserved verbatim, only wrapped in `<figcaption>`).
+- **The `Alt:` line** becomes the image's `alt` attribute. If a figure has **no** `Alt:` line, write one using the [alt text guide](HOW_TO_alt_text.md) (under 120 characters, name the characters shown, do not repeat the caption).
+- **Placement** — put each figure where the module document marks it (the image base name on its own line, from Step 3).
 
-Please add these images to the page in the appropriate sections.
+Give Claude Code both the R2 confirmation and the figures document:
+
+```
+The images for plays/mulan/1956-opera-film.md have been uploaded to
+Cloudflare R2. Their captions, Source, Credit, and alt text are in the
+figures document at [path to ..._Figures.docx].
+
+For each figure:
+- Place it where the module text marks it (the image base name on its
+  own line).
+- Put the "Fig. N" caption, Source, and Credit into the <figcaption>,
+  exactly as written in the figures document.
+- Use the figure's "Alt:" line as the image alt text. If a figure has no
+  Alt: line, stop and tell me so I can supply one — do not invent alt text.
+- Use float-right or full-width per the figure layout guide.
+
 The R2 base URL is:
 https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/
 ```
+
+> **No separate figures document?** For an older module, or a page with just one or two images, you can instead give Claude the caption, Source, Credit, and alt text for each image directly in the prompt — but a `..._Figures.docx` with an `Alt:` line per figure is the standard going forward. See the [figure layout guide](HOW_TO_figures.md) for float-right vs. full-width placement.
 
 ---
 
