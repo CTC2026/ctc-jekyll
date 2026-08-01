@@ -544,7 +544,9 @@ formatting exactly:
 - Keep bold, the original paragraph breaks, and any verse/quotation line
   breaks (end each blockquote line with two trailing spaces).
 - Wrap all Chinese characters in <span lang="zh">…</span>.
-- Do not reword, summarize, or drop anything.
+- Do not reword, summarize, or drop anything — with one exception: if the
+  source has an obvious grammar or spelling mistake (a genuine error, not
+  an unusual but deliberate style choice), fix it rather than reproduce it.
 ```
 
 ### Which frontmatter and extra steps to use
@@ -556,7 +558,7 @@ The prompt above creates the text. For the **frontmatter** to paste in, and for 
 - **About-section or standalone page** → Section 8
 - **Media Type / Opera Style page** → [HOW_TO_media.md](HOW_TO_media.md)
 
-> **Why "preserve, don't rewrite" matters.** These pages are scholarly writing. A dropped citation, or a title that loses its italics, is an **error, not a style choice** — the `.md` must match the Word document, even where the document differs from how other pages happen to read. The only things you deliberately change: wrap Chinese in `<span lang="zh">…</span>`, and move any image Source/Credit line into the figure caption. When Claude Code finishes, open the Word document next to the new page and skim it for any citation or italic that got lost.
+> **Why "preserve, don't rewrite" matters.** These pages are scholarly writing. A dropped citation, or a title that loses its italics, is an **error, not a style choice** — the `.md` must match the Word document, even where the document differs from how other pages happen to read. The only things you deliberately change: wrap Chinese in `<span lang="zh">…</span>`, and fix any obvious grammar or spelling error in the source rather than reproduce it. (An image's caption — description plus any Source and Credit line — is kept exactly as written; it just goes inside an HTML `<figcaption>`, which is standard figure formatting, not a change to the text.) When Claude Code finishes, open the Word document next to the new page and skim it for any citation or italic that got lost.
 >
 > **A short page with no Word document** (a brief note, a simple standalone page) can still be written directly in Markdown — start from the frontmatter in the relevant section and type the content.
 
@@ -641,7 +643,9 @@ Please create a new play intro page for a play called "[Full English Title]"
 8. Preserve the Word document's formatting exactly: keep every inline
    citation, all italics (work titles and romanized/pinyin terms), bold
    text, the original paragraph divisions, and any verse or quotation
-   line breaks. Do not reword, summarize, or drop anything.
+   line breaks. Do not reword, summarize, or drop anything. One exception:
+   if the source has an obvious grammar or spelling mistake, fix it rather
+   than reproduce it.
 ```
 
 > **Important — keep the original formatting.** The `.md` file must reproduce the Word document faithfully, not just its words. Carry over:
@@ -650,7 +654,7 @@ Please create a new play intro page for a play called "[Full English Title]"
 > - **Bold** text, **paragraph breaks**, and **verse/quotation line breaks** (in a Markdown blockquote, end each line with two trailing spaces so the line break shows).
 > - Match the source even where it differs from other pages' house style.
 >
-> The only things *not* copied verbatim: wrap Chinese characters in `<span lang="zh">…</span>`, and move image Source/Credit lines into the figure caption rather than the body. When Claude Code finishes, open the Word document next to the page and skim for any citation or italic that got dropped.
+> The only things *not* copied verbatim: wrap Chinese characters in `<span lang="zh">…</span>`, and fix any obvious grammar or spelling error in the source rather than reproduce it. (Each image's caption — its description plus any Source and Credit line — is kept exactly as written; it just goes inside an HTML `<figcaption>`, which is standard figure formatting, not a change to the text.) When Claude Code finishes, open the Word document next to the page and skim for any citation or italic that got dropped.
 
 ---
 
@@ -764,10 +768,12 @@ Wrap all Chinese characters in <span lang="zh">...</span> tags.
 Preserve the Word document's formatting exactly: keep every inline
 citation, all italics (work titles and romanized/pinyin terms such as
 zaju, huangmei, qingyi), bold text, the original paragraph divisions,
-and any verse or quotation line breaks. Do not reword or omit anything.
+and any verse or quotation line breaks. Do not reword or omit anything —
+except that if the source has an obvious grammar or spelling mistake, fix
+it rather than reproduce it.
 ```
 
-> **Important — keep the original formatting.** As with a play page, the module `.md` must faithfully reproduce the Word document: every inline citation, italics on each occurrence of titles and romanized terms, bold, paragraph breaks, and verse/quotation line breaks (end each blockquote line with two trailing spaces). Match the source even where it differs from other pages. Only exceptions: wrap Chinese in `<span lang="zh">…</span>`, and put image Source/Credit text in the figure caption. Afterward, compare the page against the Word document and confirm no citation or italic was lost.
+> **Important — keep the original formatting.** As with a play page, the module `.md` must faithfully reproduce the Word document: every inline citation, italics on each occurrence of titles and romanized terms, bold, paragraph breaks, and verse/quotation line breaks (end each blockquote line with two trailing spaces). Match the source even where it differs from other pages. Only exceptions: wrap Chinese in `<span lang="zh">…</span>`, and fix any obvious grammar or spelling error in the source rather than reproduce it. (Each image's caption — its description plus any Source and Credit line — is kept exactly as written; it just goes inside an HTML `<figcaption>`.) Afterward, compare the page against the Word document and confirm no citation or italic was lost.
 
 ---
 
