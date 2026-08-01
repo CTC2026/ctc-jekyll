@@ -19,47 +19,53 @@ The CTC website uses four separate systems. It is important to understand what e
 
 ### Microsoft Teams folder structure
 
-Teams is organized into two subfolders to keep source and processed files separate:
+At the top level, Teams keeps documents/tools separate from media, and splits the clip media into the authored originals vs. the processed outputs:
 
 ```
 Teams: CTC Project Files/
 │
-├── Source/                    ← Original, untouched files
-│   ├── mulan/
-│   │   ├── 1956-opera-film/
-│   │   │   ├── Mulan_1956_raw_scan_1.tif
-│   │   │   └── Mulan_1956_fullvideo.mov
-│   │   └── ...
-│   └── ...
+├── About/            ← site-level documents (About, Contribute, Organization…)
+├── Accessibility/    ← the accessibility checklist and testing tools
 │
-└── Processed/                 ← Edited, web-ready files (correct size, format, trimmed)
-    ├── mulan/
-    │   ├── 1956-opera-film/
-    │   │   ├── Mulan_1956_OperaFilm_1.jpg
-    │   │   └── Mulan_1956_Clip_1.mp4
-    │   └── ...
-    └── ...
+├── Source/           ← the AUTHORED inputs: the 3 docs + images + the original clips
+│   ├── Plays/mulan/Mulan_1956_OperaFilm/
+│   │     Mulan_1956_OperaFilm.docx              ← essay
+│   │     Mulan_1956_OperaFilm_Figures.docx      ← figures (caption/Source/Credit/Alt)
+│   │     Mulan_1956_OperaFilm_TransCharts.docx  ← clip translations
+│   │     Mulan_1956_OperaFilm_1.jpg …           ← images
+│   │     Mulan_1956_OperaFilm_Clip_1_original.mp4  ← original clip, as first sourced
+│   └── Media Types/Kun Opera/  OperaType_Kun.docx, OperaType_Kun_Figures.docx, images
+│
+└── Processed/        ← the VIDEO-PROCESSING outputs: better clips + subtitles + audio descriptions
+    └── Plays/mulan/Mulan_1956_OperaFilm/
+          Mulan_1956_OperaFilm_Clip_1_2x.mp4           ← better-sourced / upscaled clip (goes to R2)
+          Mulan_1956_OperaFilm_Clip_1_captions_ch.vtt  ← Chinese subtitles
+          Mulan_1956_OperaFilm_Clip_1_captions_en.vtt  ← English subtitles
+          Mulan_1956_OperaFilm_Clip_1_audiodesc.vtt    ← audio-description cues (+ cue_*.mp3)
 ```
 
-- **Source/** — raw files exactly as received (high-res scans, full-length recordings). Do not modify these.
-- **Processed/** — files that have been resized, cropped, or trimmed and are ready to upload to the website. These are the files you upload to Cloudflare R2.
+- **Source/** — the authored materials: the three module `.docx` files, the images, and the original clips as first sourced. This is what a page author downloads to build the page.
+- **Processed/** — the outputs of the clip work: the re-sourced/upscaled video plus each clip's subtitle and audio-description files. The processed clip is what gets uploaded to Cloudflare R2.
+- **Source/** and **Processed/** mirror each other's `Plays/…` paths, so a clip's original and its processed version sit one folder-swap apart.
+
+> **Full spec:** naming conventions, the general-intro layout, what does *not* go on Teams, and how to migrate the current folders are in the **[Teams Folder Structure guide](TEAMS_STRUCTURE.md)**.
 
 ### The typical workflow
 
 ```
-Teams/Source    →   Teams/Processed   →   Cloudflare R2   →   Reclaim Hosting
-─────────────       ───────────────       ─────────────       ───────────────
-Raw originals   →   Edit/trim/resize  →   Upload for web  →   Live website
-                                          + GitHub for
-                                            .md files
+Teams/Source           →   Teams/Processed          →   Cloudflare R2   →   Reclaim Hosting
+──────────────             ────────────────             ─────────────       ───────────────
+docs + images +        →   re-sourced/upscaled clips →   Upload for web  →   Live website
+original clips             + subtitles + audio desc.     + GitHub for
+                                                          .md files
 ```
 
 **Step by step:**
 
-1. Find your raw source files in **Teams / Source/**
-2. Edit, resize, or trim them as needed and save to **Teams / Processed/**
+1. Save the authored materials — the three `.docx` files, images, and original clips — to **Teams / Source/**
+2. Re-source/upscale each clip and create its subtitles and audio description; save those outputs to **Teams / Processed/**
 3. Download files from Teams and write or edit the page content in `.md` files **locally on your computer**
-4. Upload processed images and video clips from your computer to **Cloudflare R2**
+4. Upload the processed clips (and images) from your computer to **Cloudflare R2**
 5. Test your changes locally on your own computer (see Section 3)
 6. Run the accessibility check using the tools in **Teams / Accessibility/** (see Section 9)
 7. Push your finished `.md` files to **GitHub**
@@ -726,13 +732,15 @@ An adaptation module is a page about one specific film, opera, TV show, comic, o
 Save everything for the module — **three Word documents plus the media** — together in one folder on Teams. Name every file from the same base, `[PlayName]_[Year]_[Type]` (e.g. `Mulan_1956_OperaFilm`):
 
 ```
-Teams: CTC Project Files / Processed / [play-name] / [year]-[type] /
+Teams: CTC Project Files / Source / Plays / [play-slug] / [PlayName]_[Year]_[Type] /
     [PlayName]_[Year]_[Type].docx            ← the essay (module prose)
     [PlayName]_[Year]_[Type]_Figures.docx    ← figures list: each figure's caption, Source, Credit, Alt text
     [PlayName]_[Year]_[Type]_TransCharts.docx ← clip translations: one Chinese/English table per clip
     [PlayName]_[Year]_[Type]_1.jpg           ← images (numbered)
-    [PlayName]_[Year]_[Type]_Clip_1.mp4      ← video clips (numbered)
+    [PlayName]_[Year]_[Type]_Clip_1_original.mp4  ← the clip as first sourced (numbered)
 ```
+
+The docs, images, and original clips are the **Source** side. When each clip is later re-sourced/upscaled and given subtitles and an audio description, those outputs go in the mirror path under `Processed/Plays/[play-slug]/[PlayName]_[Year]_[Type]/`. See the [Teams Folder Structure guide](TEAMS_STRUCTURE.md) for the full layout and naming rules.
 
 The **three `.docx` files always travel together** in the module folder: the essay supplies the prose, `_Figures.docx` supplies the images and their captions/alt text (Step 5), and `_TransCharts.docx` supplies the clip subtitles and translation-notes tables ([subtitles guide](HOW_TO_subtitles_and_audio.md), Part 0). A module with no video clips omits the TransCharts doc; one with no images omits the Figures doc.
 
