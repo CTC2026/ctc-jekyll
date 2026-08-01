@@ -61,7 +61,7 @@ Raw originals   →   Edit/trim/resize  →   Upload for web  →   Live website
 3. Download files from Teams and write or edit the page content in `.md` files **locally on your computer**
 4. Upload processed images and video clips from your computer to **Cloudflare R2**
 5. Test your changes locally on your own computer (see Section 3)
-6. Run the accessibility check using the tools in **Teams / Accessibility/** (see Section 8)
+6. Run the accessibility check using the tools in **Teams / Accessibility/** (see Section 9)
 7. Push your finished `.md` files to **GitHub**
 8. The project manager publishes the final site to **Reclaim Hosting**
 
@@ -76,9 +76,12 @@ Raw originals   →   Edit/trim/resize  →   Upload for web  →   Live website
 5. [How to Edit an Existing Page](#5-how-to-edit-an-existing-page)
 6. [How to Add a New Play](#6-how-to-add-a-new-play)
 7. [How to Add an Adaptation Module](#7-how-to-add-an-adaptation-module)
-8. [Run the Accessibility Check](#8-run-the-accessibility-check)
-9. [How to Publish Your Changes](#9-how-to-publish-your-changes)
-10. [Using Claude Code (AI) to Generate and Edit Content](#10-using-claude-code-ai-to-generate-and-edit-content)
+8. [How to Add Another Page (About or Standalone)](#8-how-to-add-another-page-about-or-standalone)
+9. [Run the Accessibility Check](#9-run-the-accessibility-check)
+10. [How to Publish Your Changes](#10-how-to-publish-your-changes)
+11. [Using Claude Code (AI) to Generate and Edit Content](#11-using-claude-code-ai-to-generate-and-edit-content)
+
+> **Not sure which section you need?** See the [quick guide below](#which-section-do-i-need) — it maps each kind of page to the right section or companion guide.
 
 ### Companion Guides
 
@@ -498,9 +501,25 @@ Each page on the website is a **text file** ending in `.md`. You write the conte
 
 ---
 
+## Which Section Do I Need?
+
+The site has more than one kind of page, and each has its own workflow. Find what you are doing in the table below and go straight to the right section or companion guide.
+
+| What you are doing | Where to go |
+|---|---|
+| A small change to a page that already exists (typo, link, a sentence) | Section 5 — Edit an Existing Page |
+| Adding a whole **new play** (its intro page) | Section 6 — Add a New Play |
+| Adding a **film, opera, TV show, comic, or recording** of a play | Section 7 — Add an Adaptation Module |
+| Adding an **About-section page** or any other **standalone page** | Section 8 — Add Another Page |
+| Adding a **Media Type / Opera Style** page (Opera Film, Lianhuanhua, Kun Opera, …) | [HOW_TO_media.md](HOW_TO_media.md) |
+
+> **The underlying pattern is the same for every page.** No matter which kind you are adding, a page is always a `.md` text file: you create the file, copy the frontmatter from an existing page of the same kind, write the content in Markdown below it, add it to the right menu, preview locally (Section 3), and publish (Section 10). The sections below are just that same pattern with the specifics filled in for each page type — so if your page does not fit neatly into one, follow the closest section and adapt it.
+
+---
+
 ## 5. How to Edit an Existing Page
 
-Use this section for **small changes** to pages that already exist — fixing a typo, updating a link, or adding a sentence. For adding new pages, see Sections 6 and 7.
+Use this section for **small changes** to pages that already exist — fixing a typo, updating a link, or adding a sentence. For adding new pages, see Sections 6, 7, and 8.
 
 1. Open VS Code and open the `ctc-jekyll` folder: **File → Open Folder**
 2. In the left panel, find the `.md` file you want to edit (for example: `plays/mulan/index.md`)
@@ -854,7 +873,93 @@ Open your browser at `http://localhost:4000/ctc-jekyll/` and check:
 
 ---
 
-## 8. Run the Accessibility Check
+## 8. How to Add Another Page (About or Standalone)
+
+Not every new page is a play, a module, or a media type. You may need to add a page to the **About** section (Project Team, Organization, Permissions, and so on) or a general **standalone** page that stands on its own (like the Resources page). These use the same "create a `.md` file" pattern as everything else — only the layout, the URL, and how you link to the page differ.
+
+First decide which kind you are adding:
+
+| Kind | Layout | Lives in | Example |
+|---|---|---|---|
+| **About-section page** — part of the About area, shares the About sidebar | `about` | `about/[slug].md` | `about/permissions.md` |
+| **Standalone page** — its own page, no shared sidebar | `page` | root of the project, `[slug].md` | `resources.md` |
+
+---
+
+### Step 1 — Create the page file
+
+Copy the frontmatter from an existing page **of the same kind** and change the details. The easiest way is to open a sibling page (for an About page, open any file in `about/`; for a standalone page, open `resources.md`) and use its top block as a template.
+
+**An About-section page** — create `about/[slug].md` with:
+
+```yaml
+---
+layout: about
+title: Your Page Title
+permalink: /about/[slug]/
+---
+```
+
+**A standalone page** — create `[slug].md` in the project root with:
+
+```yaml
+---
+layout: page
+title: Your Page Title
+permalink: /[slug]/
+---
+```
+
+Below the second `---`, write the page content in Markdown, exactly as for any other page. Wrap all Chinese characters in `<span lang="zh">…</span>`, and if you add figures use the standard figure classes — see the [figure layout guide](HOW_TO_figures.md) and the [alt text guide](HOW_TO_alt_text.md).
+
+> **Using Claude Code:** paste a prompt like —
+> *"Create a new About-section page at `about/permissions.md` titled 'Permissions'. Use `layout: about` and `permalink: /about/permissions/`. Here is the text: [paste]. Wrap Chinese in `<span lang=\"zh\">` and keep every citation, italic, and paragraph break from the source."*
+
+---
+
+### Step 2 — Add the page to its menu
+
+This step is different from plays and media, because the About sidebar is **not** driven by a `_data/*.yml` file.
+
+- **About-section page** — the sidebar links are written directly in the layout file `_layouts/about.html`. To make your new page appear in the About sidebar, add a link to that list. Because it is HTML, the simplest way is to ask Claude Code:
+
+  ```
+  In _layouts/about.html, add a new item to the About sidebar list:
+  a link to /about/[slug]/ with the label "Your Page Title",
+  placed after the "Permissions" entry. Follow the exact same format
+  as the existing <li> items, including the sidebar-active / aria-current
+  highlighting logic.
+  ```
+
+- **Standalone page** — there is no shared sidebar to update. Instead, add a link to it from wherever it should be reachable — for example a card on the Resources page, or an existing navigation menu. Ask Claude Code:
+
+  ```
+  Add a link to my new page at /[slug]/ from [where it should appear,
+  e.g. "the Resources page card grid"], following the same format as the
+  other links there.
+  ```
+
+---
+
+### Step 3 — Images (if any)
+
+If your page includes images, upload them to Cloudflare R2 the same way as any other image (see Section 7, Step 4), and give every image a meaningful `alt` text — see the [alt text guide](HOW_TO_alt_text.md).
+
+---
+
+### Step 4 — Preview and check
+
+Open your browser at `http://localhost:4000/ctc-jekyll/` and check:
+- The page loads at its URL (`/about/[slug]/` or `/[slug]/`)
+- For an About page: it appears in the About sidebar and its own entry is highlighted
+- For a standalone page: the link you added reaches it
+- Chinese text renders correctly and any citations and italics carried over from your source
+
+Then publish following Section 10.
+
+---
+
+## 9. Run the Accessibility Check
 
 Before publishing, check that your new page meets accessibility standards. This ensures the site is usable by people with visual impairments or who use screen readers.
 
@@ -875,7 +980,7 @@ Common things the check looks for:
 
 ---
 
-## 9. How to Publish Your Changes
+## 10. How to Publish Your Changes
 
 Publishing happens in two stages: you push your files to GitHub, then the project manager deploys to the live site on Reclaim Hosting.
 
@@ -912,7 +1017,7 @@ The live website is at: [your Reclaim Hosting URL]
 
 ---
 
-## 10. Using Claude Code (AI) to Generate and Edit Content
+## 11. Using Claude Code (AI) to Generate and Edit Content
 
 **Claude Code** is an AI assistant made by Anthropic that can read your project files and write or edit code for you. Instead of writing the website code by hand, you can describe what you want in plain English and Claude Code will do it.
 
@@ -941,7 +1046,7 @@ You do not need to know any code. Just describe what you want.
 
 ### Example Prompts for Additional Tasks
 
-These prompts cover tasks not already described in Sections 6 and 7.
+These prompts cover tasks not already described in Sections 6, 7, and 8.
 
 ---
 
@@ -1005,7 +1110,7 @@ need updating and suggest better alt text for each.
 1. **Check the preview** — go to your browser at `http://localhost:4000/ctc-jekyll/` to see how it looks (Jekyll must be running — see Section 3)
 2. **Read the changes** — Claude Code will show you exactly what it changed; review it before publishing
 3. **Ask for corrections** — if something looks wrong, just describe the problem in plain English and it will fix it
-4. **Publish when ready** — follow Section 9 to publish your changes
+4. **Publish when ready** — follow Section 10 to publish your changes
 
 ---
 

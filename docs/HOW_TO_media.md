@@ -97,7 +97,7 @@ Run the local preview (HOW_TO.md Section 3) and open `http://localhost:4000/ctc-
 - Chinese text renders correctly and every citation and italic carried over from the source
 - The module list at the bottom links to the right pages
 
-Then publish following HOW_TO.md Section 9.
+Then publish following HOW_TO.md Section 10.
 
 ---
 
