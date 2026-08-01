@@ -80,7 +80,7 @@ Pages to finish (check off when the clip, subtitles, and AD are all done and upl
 - [ ] Add figures from the page's **figures document** (`..._Figures.docx`): place each where the essay marks it, put the caption/Source/Credit in the `<figcaption>` verbatim, and use each figure's `Alt:` line as the image alt text — [HOW_TO.md Section 7, Step 5](docs/HOW_TO.md), [figure layout guide](docs/HOW_TO_figures.md), [alt text guide](docs/HOW_TO_alt_text.md)
 - [ ] Preview locally and confirm layout, sidebar highlight, and Chinese rendering
 
-> **New convention — figure captions and alt text live in a `_Figures.docx`.** Each module/media page now has a separate figures document beside its essay doc. Every figure entry gives the image's base name (which also marks the figure's spot in the essay), its `Fig. N` caption, a `Source:` line, a `Credit:` line, and — new — an `Alt:` line:
+> **📣 Update for new authors — figure captions and alt text now live in a `_Figures.docx`.** If you are writing source material for a page, this changes what you hand off. Each module/media page has a separate **figures document** beside its essay doc, and you are responsible for filling it in. Every figure entry gives the image's base name (which also marks the figure's spot in the essay), its `Fig. N` caption, a `Source:` line, a `Credit:` line, and — new — an `Alt:` line:
 >
 > ```
 > Fig. 1: Panel 23, Du Liniang eyes the reader.
