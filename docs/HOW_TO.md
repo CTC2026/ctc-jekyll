@@ -723,22 +723,25 @@ An adaptation module is a page about one specific film, opera, TV show, comic, o
 
 ### Step 1 — Prepare your files on Teams
 
-Save your finished Word document and all processed media to Teams:
+Save everything for the module — **three Word documents plus the media** — together in one folder on Teams. Name every file from the same base, `[PlayName]_[Year]_[Type]` (e.g. `Mulan_1956_OperaFilm`):
 
 ```
 Teams: CTC Project Files / Processed / [play-name] / [year]-[type] /
-    [PlayName]_[Year]_module.docx        ← your written module (the essay text)
-    [PlayName]_[Year]_Figures.docx       ← the figures list (each figure's caption, Source, Credit, and Alt text)
-    [PlayName]_[Year]_[Type]_1.jpg       ← images (numbered)
-    [PlayName]_[Year]_Clip_1.mp4         ← video clips (numbered)
+    [PlayName]_[Year]_[Type].docx            ← the essay (module prose)
+    [PlayName]_[Year]_[Type]_Figures.docx    ← figures list: each figure's caption, Source, Credit, Alt text
+    [PlayName]_[Year]_[Type]_TransCharts.docx ← clip translations: one Chinese/English table per clip
+    [PlayName]_[Year]_[Type]_1.jpg           ← images (numbered)
+    [PlayName]_[Year]_[Type]_Clip_1.mp4      ← video clips (numbered)
 ```
+
+The **three `.docx` files always travel together** in the module folder: the essay supplies the prose, `_Figures.docx` supplies the images and their captions/alt text (Step 5), and `_TransCharts.docx` supplies the clip subtitles and translation-notes tables ([subtitles guide](HOW_TO_subtitles_and_audio.md), Part 0). A module with no video clips omits the TransCharts doc; one with no images omits the Figures doc.
 
 ---
 
 ### Step 2 — Download files to your computer
 
 Download from Teams to your computer:
-- The module Word document **and** the figures document (`..._Figures.docx`)
+- All three Word documents: the essay, the figures document (`..._Figures.docx`), and — if the module has clips — the translation charts (`..._TransCharts.docx`)
 - All image files — place them in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]/`
 - All video clip files — place them in the same folder
 
