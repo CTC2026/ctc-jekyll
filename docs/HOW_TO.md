@@ -27,7 +27,7 @@ Teams: CTC Project Files/
 ├── About/            ← site-level documents (About, Contribute, Organization…)
 ├── Accessibility/    ← the accessibility checklist and testing tools
 │
-├── Source/           ← the AUTHORED inputs: the 3 docs + images + the original clips
+├── Source/           ← the AUTHORED inputs: the docs + images + the original clips
 │   ├── Plays/mulan/Mulan_1956_OperaFilm/
 │   │     Mulan_1956_OperaFilm.docx              ← essay
 │   │     Mulan_1956_OperaFilm_Figures.docx      ← figures (caption/Source/Credit/Alt)
@@ -468,6 +468,17 @@ You will see a live preview of the website. Every time you save a file, the prev
 To stop the preview, press **Ctrl + C** in the VS Code terminal.
 
 > **Tip:** Keep the preview running in one window while you edit files in Visual Studio Code. Switch to the browser to check your changes after each save.
+
+### The two versions of the site
+
+There are two places you can view the site — use the local one while you work, and the GitHub one to confirm what has actually been pushed:
+
+| Version | Link | What it shows |
+|---|---|---|
+| **Local preview** | [http://localhost:4000/ctc-jekyll/](http://localhost:4000/ctc-jekyll/) | Your own unsaved/unpushed edits, live on your computer. Only works while `bundle exec jekyll serve` is running, and only you can see it. |
+| **GitHub version** | [https://ctc2026.github.io/ctc-jekyll/](https://ctc2026.github.io/ctc-jekyll/) | The site built from what has been **pushed to GitHub** (Section 10). Anyone on the team can open it; it updates a minute or two after each push. This is *not* the final public site — that is Reclaim Hosting, published by the project manager. |
+
+> Check your work in the **local preview** first. After you push, open the **GitHub version** to confirm the change went up and looks right.
 
 ---
 
