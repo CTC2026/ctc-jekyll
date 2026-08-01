@@ -117,6 +117,28 @@ Adjust the wording as needed before adding it to the file.
 
 ---
 
+## Part 1.5 — Where the Alt Text Lives: the Figures Document
+
+For a module or media page, each figure's alt text belongs in the **figures document** (`..._Figures.docx`) — the same file that holds that figure's caption, Source, and Credit. Add it on an `Alt:` line under the figure:
+
+```
+Fig. 1: Panel 23, Du Liniang eyes the reader.
+Source: Liu Changhua … Jiangsu Fine Arts Press, 1986.
+Credit: Scan by CTC Project Team …
+Alt: A woman in Ming-dynasty robes turns to gaze directly out at the reader.
+```
+
+You can produce that alt text **either way — both are fine:**
+
+1. **Write it yourself,** following the rules above.
+2. **Ask Claude Code to draft it** (see Part 1, Step 2), then read it and edit it until it is accurate.
+
+Whichever you choose, put the final alt text — your own wording, or Claude's draft after you have checked it — back into that figure's `Alt:` line in the figures document. When the page is built, the alt text is pulled straight from there (see HOW_TO.md Section 7, Step 5), so no figure is left blank or gets alt text invented at build time.
+
+> If a page has no figures document (an older module, or a one-off image added on its own), write the alt text directly into the page instead — see Part 2 below.
+
+---
+
 ## Part 2 — Adding Alt Text to the Website Code
 
 ### Option A — When adding a new image (via Claude Code)
@@ -200,7 +222,7 @@ When you add a **new** play (or a media page with a banner), add its banner's al
 
 ## Part 4 — Running an Alt Text Check Before Publishing
 
-Before publishing any new or updated page, run an accessibility check to catch missing or poor alt text. See **HOW_TO.md, Section 8** for the full accessibility check process.
+Before publishing any new or updated page, run an accessibility check to catch missing or poor alt text. See **HOW_TO.md, Section 9** for the full accessibility check process.
 
 You can also ask Claude Code to do a quick check:
 
