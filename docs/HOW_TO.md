@@ -937,6 +937,8 @@ https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-oper
 
 > **The clip embed and the translation-notes table are documented in the [subtitles & audio guide](HOW_TO_subtitles_and_audio.md).** That guide has the exact `<div class="clip-section">` markup (video, subtitle-language buttons, `clip-caption`) and the `<details class="translation" markdown="1">` block. **Each clip that has dialogue gets its own translation-notes table directly below its clip** — a collapsible two-column table (`Chinese Captions | CTC Translation`) whose text comes from that clip's verified subtitles/TransChart, not from the essay. A clip with no dialogue (a montage or a purely musical number) has no translation-notes table.
 
+> **The TransChart is where those clip translations live.** It is a **separate, standalone Word document — one per module** (e.g. `Feiyimeng_1964_OperaFilm_TransCharts.docx`), holding a two-column Chinese/English table for each clip. Save it with the module's other **source materials** (not in the git repo — `.docx` files are gitignored); the subtitle and translation-notes files are generated from it. How to write one, and its exact table layout, is in **Part 0 of the [subtitles & audio guide](HOW_TO_subtitles_and_audio.md)**.
+
 ---
 
 ### Note — Lazy loading and video preloading are automatic

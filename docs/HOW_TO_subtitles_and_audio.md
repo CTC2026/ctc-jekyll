@@ -105,6 +105,45 @@ The Claude Code prompts in this guide require file paths. To get the correct pat
 
 ---
 
+## Part 0 — Writing the TransChart (the translation source)
+
+The **TransChart** is the document that holds a module's clip translations. Everything downstream — the English VTT (Part 2) and the on-page translation-notes table (Part 7) — is generated from it, so write it before you start on the clips.
+
+### It is a separate, standalone `.docx`
+
+The TransChart is its **own independent Word document — one per module**, *not* part of the essay doc or the `_Figures.docx`. Save it with that module's **source materials** (the same folder as the essay and figures documents), and name it to match:
+
+```
+[PlayName]_[Year]_[Type]_TransCharts.docx
+```
+for example `Feiyimeng_1964_OperaFilm_TransCharts.docx`.
+
+> **Do not commit the TransChart to the git repo** — Word documents are gitignored. It is a working source file; only the VTTs generated from it end up in `assets/subtitles/…`.
+
+### How to structure it
+
+For **each clip**, put two things in the document, in clip order (clip 1, clip 2, …):
+
+1. A short heading paragraph that contains the words **"clip N"** — e.g. `Translation notes for clip 2`. The scripts find a clip's table by searching for this text, so the clip number must appear here.
+2. Immediately below it, a **two-column table** with a header row, then one row per caption line:
+
+| Chinese Captions | CTC Translation |
+|---|---|
+| [森林小路，夜] | [A forest path at night.] |
+| 林肇德 [唱]: 夜沉沉，聲悄悄，月色昏暗。 | Lin Zhaode (singing): The night is dark, all is still, and the moonlight is dim. |
+| 林肇德: 雪春… | Lin Zhaode: Xuechun… |
+
+Rules for the rows:
+
+- **One row per caption line**, in the order it is spoken. Split sung verses at punctuation (`，。！？`) so each line is a readable caption.
+- **Left column — Chinese, verbatim**, with the **speaker label** on each line (`林肇德 [唱]:` for sung lines, `林肇德:` for spoken). Put bracketed **stage / location directions** in their own rows (`[森林小路，夜]`).
+- **Right column — the CTC English translation** of that same line, with the matching English speaker label (`Lin Zhaode (singing):`) and any bracketed direction in English (`[A forest path at night.]`).
+- **Keep the header row** (`Chinese Captions | CTC Translation`) — the scripts skip it. Leave a cell blank rather than inventing text; empty cells are dropped.
+
+That layout is exactly what `transchart_to_zh_text.py` (pulls the Chinese for Arctime, Part 1 Step 1) and `transchart_to_en_vtt.py` (builds the English VTT, Part 2 Option A) expect. If a play has **no** TransChart, you translate by hand instead — see Part 2, Option B.
+
+---
+
 ## Part 1 — Chinese Subtitles with Arctime
 
 Subtitles are created in two stages: first get the subtitle text, then use Arctime to assign timestamps.
