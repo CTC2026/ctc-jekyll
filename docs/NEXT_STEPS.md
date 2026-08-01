@@ -21,13 +21,16 @@ _Handoff prepared: 2026-08-01_
 
 The pages listed below already exist, but their **videos are not done**. For each one you need to: source a **better-quality version** of the clip, upscale it for **clarity**, create **subtitles** and an **audio description**, and then upload the finished media to R2. Only two pages are already complete — the **Feiyimeng (1964 opera film)** page and the **landing page** — skip those; every other video page still needs the full treatment.
 
-> **📣 Update for new authors — you complete the whole video workflow yourself, except the upload.** For every clip on your page you are responsible for four things: **sourcing** a better-quality version of the clip, **upscaling** it for clarity with Topaz, creating the **subtitles** (`.vtt`, Chinese + English), and creating the **audio description**. Do all of these and hand off the finished files. The one step that is **not** yours is the **Cloudflare R2 upload** (Section 2 below) — that is a separate, more technical step handled by whoever has Cloudflare access. Guides for your part: [clip sourcing & alignment](HOW_TO_clip_source_and_alignment.md), [Topaz upscaling](HOW_TO_topaz_upscaling.md), [subtitles & audio description](HOW_TO_subtitles_and_audio.md).
+> **📣 Update for new authors — you complete the whole video workflow yourself, except the upload.** For every clip on your page you are responsible for three things: **sourcing** a better-quality version of the clip (**or**, as a fallback, upscaling it for clarity with Topaz), creating the **subtitles** (`.vtt`, Chinese + English), and creating the **audio description**. Do all of these and hand off the finished files. The one step that is **not** yours is the **Cloudflare R2 upload** (Section 2 below) — that is a separate, more technical step handled by whoever has Cloudflare access. Guides for your part: [clip sourcing & alignment](HOW_TO_clip_source_and_alignment.md), [Topaz upscaling](HOW_TO_topaz_upscaling.md), [subtitles & audio description](HOW_TO_subtitles_and_audio.md).
+>
+> **⚠️ On Topaz:** We prefer **not** to use Topaz because sometimes it doesn't work well. Always try to **source a genuinely higher-quality version** of the clip first, and only fall back to Topaz upscaling if no better source can be found.
 
 For every video page below:
 
-- [ ] **Better source & clarity** — replace the current clip with a higher-quality source, then upscale with Topaz — [clip sourcing & alignment guide](HOW_TO_clip_source_and_alignment.md), [Topaz upscaling guide](HOW_TO_topaz_upscaling.md)
+- [ ] **Better source & clarity** — replace the current clip with a higher-quality source (preferred); only fall back to Topaz upscaling if no better source exists — [clip sourcing & alignment guide](HOW_TO_clip_source_and_alignment.md), [Topaz upscaling guide](HOW_TO_topaz_upscaling.md)
 - [ ] **Subtitles** — Chinese + English `.vtt` captions, aligned to the clip — [subtitles & audio guide](HOW_TO_subtitles_and_audio.md)
 - [ ] **Audio description** — AD cues in the silence windows only (never overlapping dialogue), rendered to MP3 — [subtitles & audio guide](HOW_TO_subtitles_and_audio.md)
+- [ ] **Clip note** — the hand-written caption under the clip (`Clip N: description. Source: … Credit: …`), added as the last line inside the clip's `clip-section` — [subtitles & audio guide](HOW_TO_subtitles_and_audio.md)
 - [ ] **Upload** the finished video + AD MP3s to R2 (see Section 2 below) and confirm they play on the local preview
 
 Pages to finish (check off when the clip, subtitles, and AD are all done and uploaded):
@@ -97,7 +100,7 @@ New pages follow the **full workflow** — text, images, video, audio/subtitles,
   - Media type / opera style overview → [docs/HOW_TO_media.md](HOW_TO_media.md)
 - [ ] Add each page to the correct sidebar nav (`_data/play_nav.yml` or `_data/media_nav.yml`)
 - [ ] Add figures from the page's **figures document** (`..._Figures.docx`): place each where the essay marks it, put the caption/Source/Credit in the `<figcaption>` verbatim, and use each figure's `Alt:` line as the image alt text — [HOW_TO.md Section 7, Step 5](HOW_TO.md), [figure layout guide](HOW_TO_figures.md), [alt text guide](HOW_TO_alt_text.md)
-- [ ] If the page has video: source and upscale the clip, create subtitles and audio description, then **upload all media to R2 (Section 2)** — the same steps as the in-progress work in Section 1
+- [ ] If the page has video: source and upscale the clip, create subtitles and audio description, write the **clip note** under each clip, then **upload all media to R2 (Section 2)** — the same steps as the in-progress work in Section 1
 - [ ] Preview locally and confirm layout, sidebar highlight, and Chinese rendering
 
 > **📣 Update for new authors — figure captions and alt text now live in a `_Figures.docx`.** If you are writing source material for a page, this changes what you hand off. Each module/media page has a separate **figures document** beside its essay doc, and you are responsible for filling it in. Every figure entry gives the image's base name (which also marks the figure's spot in the essay), its `Fig. N` caption, a `Source:` line, a `Credit:` line, and — new — an `Alt:` line:

@@ -2,6 +2,8 @@
 
 Topaz Video AI is a tool that improves the quality of older or low-resolution video clips before they are uploaded to the CTC website. This guide covers the basic workflow for upscaling video clips for web use.
 
+> **⚠️ We prefer *not* to use Topaz because sometimes it doesn't work well.** Always try to **source a genuinely higher-quality version** of the clip first (see the [clip sourcing and alignment guide](HOW_TO_clip_source_and_alignment.md)). Only fall back to Topaz upscaling if no better source can be found — and always compare the result against the original before accepting it.
+
 ---
 
 ## When to Use Topaz
