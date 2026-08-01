@@ -1,8 +1,27 @@
 # How to Find a Clearer Clip Source and Re-cut It
 
-The site's policy is to look for a clearer source before upscaling anything (see the [Topaz upscaling guide](HOW_TO_topaz_upscaling.md)). This guide covers what to do once you go looking: how to tell whether a candidate source is genuinely better, and how to re-cut a clip from it so the existing subtitles and audio description still line up.
+The site's policy is to look for a clearer source before upscaling anything (see the [Topaz upscaling guide](HOW_TO_topaz_upscaling.md)). This guide covers what to do once you go looking: how to tell whether a candidate source is genuinely better, and how to cut a clip from it — whether you are making a **brand-new clip** for a new page or **re-cutting one to replace** an existing clip so its subtitles and audio description still line up.
 
 Replacing a clip that already has subtitles and audio description is the delicate part. Those files are timed to the clip's timeline. If the new cut starts even slightly off, every caption and every AD cue drifts with it — so most of this guide is about getting the timing right.
+
+---
+
+## Two Situations: Cutting a New Clip vs. Replacing One
+
+This guide covers two jobs — check which you are doing before you start.
+
+**1. Cutting a brand-new clip — you are adding a new page or a new video.** There is no existing clip, subtitle, or audio-description file yet, so **none of the alignment work applies**: you choose your own start and end. And you do **not** download the whole film and trim it afterward — you cut just the segment you want straight from the source:
+
+- **Check the source quality first.** [Step 1](#step-1--find-out-what-the-source-really-offers) (`yt-dlp -F`) and the [resolution-can-lie](#a-resolution-number-can-lie) warning apply to any clip, new or replacement.
+- **Cut the segment** with `clip_from_youtube.sh`, choosing your **own** `--start` and `--end` — see [The Script](#the-script). Run it with `--no-upload` first so it just makes the file locally.
+- **Save the finished clip** under `assets/plays/[play]/[year]-[type]/` locally **and** to **Teams / Processed / [play] / [year]-[type] /**. A cut clip is a processed, web-ready file, so it goes in the Processed backup like any other trimmed media (see [HOW_TO.md Section 7, Step 1](HOW_TO.md)).
+- **The R2 upload is a separate step.** Putting the clip on the live site — `clip_from_youtube.sh` with a `--key`, or `wrangler` (HOW_TO.md Section 7, Step 6) — is the upload step. As a content author you can hand off the finished clip rather than uploading it yourself.
+- **Skip Steps 3–5** — those exist only to line a new cut up with an *existing* timeline, which a brand-new clip doesn't have.
+- **Then make the accessibility files** — create the clip's subtitles and audio description from scratch, per the [subtitles & audio guide](HOW_TO_subtitles_and_audio.md).
+
+**2. Replacing an existing clip with a clearer source.** The clip already has subtitles and audio description timed to it, and those files must keep lining up. This is the delicate case the rest of the guide walks through — Steps 3–5 put the new cut onto the same timeline so nothing drifts.
+
+> **The source does not have to be YouTube.** Everything here runs on **yt-dlp**, which supports Bilibili, Vimeo, and hundreds of other sites — so any `--url` that yt-dlp can open works. The script is named `clip_from_youtube.sh` for historical reasons only; it is not limited to YouTube.
 
 ---
 
@@ -126,7 +145,7 @@ After uploading, open the play page and **hard-refresh** (**Cmd+Shift+R** on Mac
 
 ## The Script
 
-`clip_from_youtube.sh` in the project root does the download, transcode, and upload in one command:
+`clip_from_youtube.sh` in the project root does the download, transcode, and upload in one command (despite the name, its `--url` accepts any yt-dlp-supported site — Bilibili, Vimeo, and so on — not only YouTube):
 
 ```
 ./clip_from_youtube.sh \

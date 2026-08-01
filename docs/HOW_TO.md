@@ -92,7 +92,7 @@ Detailed guides for specific tasks. This document links to each one where it com
 | [Media Types (Opera Styles) Pages](HOW_TO_media.md) | Adding or editing a format-level page in the Media Types section (Opera Film, Lianhuanhua, Kun Opera, …) |
 | [Figure Placement and Sizing](HOW_TO_figures.md) | Deciding where an image sits on the page, or fixing empty space beside a floated figure |
 | [Subtitles, Sound Labels, and Audio Descriptions](HOW_TO_subtitles_and_audio.md) | Creating the accessibility files for a video clip |
-| [Clip Sourcing and Alignment](HOW_TO_clip_source_and_alignment.md) | Looking for a clearer source for a clip, or re-cutting one so its subtitles and audio description still line up |
+| [Clip Sourcing and Alignment](HOW_TO_clip_source_and_alignment.md) | Cutting a new clip for a page, finding a clearer source, or re-cutting one so its subtitles and audio description still line up |
 | [Topaz Upscaling](HOW_TO_topaz_upscaling.md) | Improving a clip's quality when no clearer source exists |
 | [Alt Text](HOW_TO_alt_text.md) | Writing the description of an image for screen readers |
 
