@@ -513,7 +513,52 @@ The site has more than one kind of page, and each has its own workflow. Find wha
 | Adding an **About-section page** or any other **standalone page** | Section 8 — Add Another Page |
 | Adding a **Media Type / Opera Style** page (Opera Film, Lianhuanhua, Kun Opera, …) | [HOW_TO_media.md](HOW_TO_media.md) |
 
-> **The underlying pattern is the same for every page.** No matter which kind you are adding, a page is always a `.md` text file: you create the file, copy the frontmatter from an existing page of the same kind, write the content in Markdown below it, add it to the right menu, preview locally (Section 3), and publish (Section 10). The sections below are just that same pattern with the specifics filled in for each page type — so if your page does not fit neatly into one, follow the closest section and adapt it.
+> **The underlying pattern is the same for every page.** No matter which kind you are adding, a page is always a `.md` text file: you create the file, copy the frontmatter from an existing page of the same kind, fill the body — **usually converted from a Word document** (see [Starting From a Word Document](#starting-from-a-word-document-the-usual-case) below) — add it to the right menu, preview locally (Section 3), and publish (Section 10). The sections below are just that same pattern with the specifics filled in for each page type — so if your page does not fit neatly into one, follow the closest section and adapt it.
+
+---
+
+## Starting From a Word Document (the Usual Case)
+
+Most new pages are **not typed from scratch in the editor.** The contributor has already written the content in a **Word document** (`.docx`) — with its citations, italics, headings, and paragraph structure — and your job is to turn that document into a web page **without retyping it and without losing any of that formatting.**
+
+The reliable way to do this is to let **Claude Code read the Word file directly** and convert it into a Markdown page. Do **not** just copy-paste from Word: a plain paste drops the italics, the citation formatting, and the line breaks. Instead you give Claude Code the path to the `.docx` file plus the frontmatter for the page type you are adding, and it produces the `.md` file for you.
+
+### The general conversion prompt
+
+Every page type uses a version of this. Fill in the file path, the target page path, and the frontmatter block from the section for your page type (linked below).
+
+```
+I have a Word document at [full path to the .docx file].
+
+Please create a new page at [target path, e.g. plays/orphan-of-zhao/index.md].
+
+Use this frontmatter:
+[paste the frontmatter block for this page type — see the section below]
+
+Fill the page body from the Word document. Preserve the document's
+formatting exactly:
+- Keep every inline citation as written, e.g. (Sieber 2022) or (Li 2022, 133).
+- Keep italics on every occurrence — work titles (*The Peony Pavilion*) and
+  romanized/pinyin terms (*zaju*, *huangmei*, *qingyi*). If a term is italic
+  once in the source, it stays italic every time it appears.
+- Keep bold, the original paragraph breaks, and any verse/quotation line
+  breaks (end each blockquote line with two trailing spaces).
+- Wrap all Chinese characters in <span lang="zh">…</span>.
+- Do not reword, summarize, or drop anything.
+```
+
+### Which frontmatter and extra steps to use
+
+The prompt above creates the text. For the **frontmatter** to paste in, and for the extra steps that page type needs (images, sidebar, links), go to:
+
+- **Play intro page** → Section 6
+- **Adaptation module** (a film, opera, TV show, comic, or recording) → Section 7
+- **About-section or standalone page** → Section 8
+- **Media Type / Opera Style page** → [HOW_TO_media.md](HOW_TO_media.md)
+
+> **Why "preserve, don't rewrite" matters.** These pages are scholarly writing. A dropped citation, or a title that loses its italics, is an **error, not a style choice** — the `.md` must match the Word document, even where the document differs from how other pages happen to read. The only things you deliberately change: wrap Chinese in `<span lang="zh">…</span>`, and move any image Source/Credit line into the figure caption. When Claude Code finishes, open the Word document next to the new page and skim it for any citation or italic that got lost.
+>
+> **A short page with no Word document** (a brief note, a simple standalone page) can still be written directly in Markdown — start from the frontmatter in the relevant section and type the content.
 
 ---
 
@@ -889,6 +934,8 @@ First decide which kind you are adding:
 ### Step 1 — Create the page file
 
 Copy the frontmatter from an existing page **of the same kind** and change the details. The easiest way is to open a sibling page (for an About page, open any file in `about/`; for a standalone page, open `resources.md`) and use its top block as a template.
+
+If the page content comes from a Word document, use the conversion prompt in [Starting From a Word Document](#starting-from-a-word-document-the-usual-case) together with the frontmatter shown below — do not retype the text by hand.
 
 **An About-section page** — create `about/[slug].md` with:
 
