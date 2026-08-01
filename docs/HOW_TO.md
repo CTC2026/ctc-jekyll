@@ -820,7 +820,9 @@ Alt: A woman in Ming-dynasty robes turns to gaze directly out at the reader.
 
 - **The caption** — the `Fig. N:` line together with its Source and Credit — goes into the `<figcaption>` **exactly as written** (see the [Source/Credit note in Section 6](#6-how-to-add-a-new-play): this text is preserved verbatim, only wrapped in `<figcaption>`).
 - **The `Alt:` line** becomes the image's `alt` attribute. If a figure has **no** `Alt:` line, write one using the [alt text guide](HOW_TO_alt_text.md) (under 120 characters, name the characters shown, do not repeat the caption).
-- **Placement** — put each figure where the module document marks it (the image base name on its own line, from Step 3).
+- **Placement** — the essay Word document is **text only**; it does not lay out images. So placement follows two rules:
+  - **The first figure** (almost always the film **poster**, Fig. 1) floats **right, beside the Information box**: put the `<figure class="module-figure-right">` **just before** the `<div class="module-info">` block. See the [figure layout guide](HOW_TO_figures.md).
+  - **Every other figure** goes next to the paragraph that discusses it — where the essay names it (e.g. "(Fig. 2)") or describes that still/scene — floated right or left (alternating down the page) or centered full-width per the [figure layout guide](HOW_TO_figures.md).
 
 Give Claude Code both the R2 confirmation and the figures document:
 
@@ -830,13 +832,17 @@ Cloudflare R2. Their captions, Source, Credit, and alt text are in the
 figures document at [path to ..._Figures.docx].
 
 For each figure:
-- Place it where the module text marks it (the image base name on its
-  own line).
+- Place the FIRST figure (the poster, Fig. 1) as <figure
+  class="module-figure-right"> immediately BEFORE the <div
+  class="module-info"> box, so it floats right beside the Information
+  section.
+- Place every other figure next to the paragraph that discusses it (where
+  the essay names it, e.g. "(Fig. 2)", or describes that still), floated
+  right/left or full-width per the figure layout guide.
 - Put the "Fig. N" caption, Source, and Credit into the <figcaption>,
   exactly as written in the figures document.
 - Use the figure's "Alt:" line as the image alt text. If a figure has no
   Alt: line, stop and tell me so I can supply one — do not invent alt text.
-- Use float-right or full-width per the figure layout guide.
 
 The R2 base URL is:
 https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/
@@ -910,16 +916,26 @@ Repeat for each clip, replacing the filename each time.
 
 ### Step 7 — Ask Claude Code to add video clips to the page
 
+**Where clips go.** The essay Word document is text only and does not mark clip positions — clips are organized by the page's own **Theme** section, not by the prose. Each clip is one scene: it gets its own `###` sub-heading with the scene name and the **timecode range** it covers (e.g. `### Path on the Outskirts (26:40–29:08)`), a short paragraph of context, and then the clip embed. Put the clips in the order the scenes occur in the film. A single framing clip (a trailer, a cover-song performance) can instead sit inside the **Introduction**.
+
+Tell Claude which scene each clip belongs to and where in the film it falls:
+
 ```
 The following video clips for plays/mulan/1956-opera-film.md have been 
-uploaded to Cloudflare R2:
+uploaded to Cloudflare R2. Add each under the Theme section as its own
+scene sub-heading (### Scene name (timecodes)), in film order:
 
-- Mulan_1956_Clip_1.mp4 — place this after the paragraph ending "...military armor"
-- Mulan_1956_Clip_2.mp4 — place this after the paragraph ending "...returns home"
+- Mulan_1956_Clip_1.mp4 — scene "Mulan tries on her father's armor" (29:43–31:40)
+- Mulan_1956_Clip_2.mp4 — scene "Mulan returns home" (1:22:10–1:24:05)
+
+Use the standard clip-section embed (video + subtitle buttons + clip
+caption) from the subtitles guide.
 
 The R2 base URL is:
 https://pub-41c640610b8146e0a2c6dc8915ac1f9d.r2.dev/assets/plays/mulan/1956-opera-film/
 ```
+
+> **The clip embed and the translation-notes table are documented in the [subtitles & audio guide](HOW_TO_subtitles_and_audio.md).** That guide has the exact `<div class="clip-section">` markup (video, subtitle-language buttons, `clip-caption`) and the `<details class="translation" markdown="1">` block. **Each clip that has dialogue gets its own translation-notes table directly below its clip** — a collapsible two-column table (`Chinese Captions | CTC Translation`) whose text comes from that clip's verified subtitles/TransChart, not from the essay. A clip with no dialogue (a montage or a purely musical number) has no translation-notes table.
 
 ---
 

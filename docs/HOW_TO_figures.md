@@ -2,7 +2,37 @@
 
 This guide covers where an image sits on the page — floated left or right, or centered full width — and how to avoid the most common layout problem: an empty column of blank space beside a floated figure. It is about **placement**; for the words inside the image tag (alt text) and under it (figcaption), see the [alt text guide](HOW_TO_alt_text.md).
 
-The guiding rule for every module and media page: **match the source PDF.** If the author's source document floats a figure on the right at roughly half the text width, do the same. Don't impose a house layout the source didn't use.
+Two things decide placement, depending on the page:
+
+- **Media-type pages and comic/print modules built from a source PDF:** **match the source PDF.** If the author's document floats a figure on the right at roughly half the text width, do the same. Don't impose a house layout the source didn't use.
+- **Play adaptation modules (film/TV/opera-film/recorded-performance pages):** the source is a **text-only Word document** — it has no figures, no layout, and no marks saying where an image or clip goes. So you follow the **house conventions** below instead of matching a source layout. The first of these is fixed: the first figure floats right beside the Information box.
+
+---
+
+## The first figure on a play module: float it right beside the Information box
+
+On a play adaptation module, the **first figure** — almost always the film **poster** (Fig. 1) — is placed **immediately before the `<div class="module-info">` box** and given `class="module-figure-right"`. Because it floats right while the Information box stays in normal flow, the poster sits in the top-right corner **beside the Information section**, and the details list fills the column to its left. This is the standard opening layout on every play module page.
+
+```html
+## Links to the Film
+
+- …links…
+
+<figure class="module-figure-right">
+  <img src="https://…/Feiyimeng_1964_OperaFilm_1.jpg"
+       alt="Film poster: characters before a dark gate with crimson handprints; title in large red characters.">
+  <figcaption><strong>Fig. 1.</strong> Film poster of <em>The Crimson Palm</em>. Source: … Credit: …</figcaption>
+</figure>
+
+<div class="module-info">
+<h2>Information</h2>
+<dl> … </dl>
+</div>
+
+## Introduction
+```
+
+Put the `<figure>` **above** the `module-info` div in the source, exactly as shown — that ordering is what makes the poster land to the right of the Information box rather than below it.
 
 ---
 
@@ -31,9 +61,9 @@ The markup is identical across all of them — only the class on the `<figure>` 
 
 ---
 
-## Enlarge and center the lead figure
+## Enlarge and center a lead figure (source-PDF pages)
 
-When the source PDF opens with one figure shown large and centered — commonly Fig. 1 — give it `class="module-figure"` rather than floating it small. This is the "center/enlarge Fig. 1" pattern used across the media and play pages. It reads as the opening image of the article instead of a small aside.
+This is for **media-type pages and comic/print modules**, not play modules — on a play module the first figure floats right beside the Information box (see above). When such a source PDF opens with one figure shown large and centered — commonly Fig. 1 — give it `class="module-figure"` rather than floating it small. It reads as the opening image of the article instead of a small aside.
 
 ```html
 <figure class="module-figure">
@@ -81,9 +111,10 @@ When a source article alternates figures left and right down the page, reproduce
 
 On a wide desktop preview window, confirm:
 
-- Each figure is on the same side (left/right/centered) and roughly the same relative size as in the source PDF
+- **Play module:** the first figure (poster) floats **right, beside the Information box** — placed before the `module-info` div, with `class="module-figure-right"`
+- Each figure is on the same side (left/right/centered) and roughly the same relative size as in the source (for source-PDF pages) or per the house rhythm (for play modules)
 - No empty column of blank space beside any floated figure
-- The lead figure is centered and enlarged if the source shows it that way
+- On a source-PDF page, the lead figure is centered and enlarged if the source shows it that way
 - Figures still stack cleanly when you narrow the window (mobile view)
 - Every figure has alt text and a figcaption — see the [alt text guide](HOW_TO_alt_text.md)
 
