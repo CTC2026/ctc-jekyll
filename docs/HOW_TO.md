@@ -439,6 +439,8 @@ Teams (originals)  →  Your computer (edit/process)  →  Cloudflare R2 (web-re
 
 You do not need to log in to Cloudflare R2 to browse files. Uploading is covered in Sections 6 and 7.
 
+> **The R2 upload is a separate, more technical step.** If you are a **content author**, your job is to prepare the finished files (processed images, upscaled clips, audio-description MP3s) — you can hand these off to whoever manages the Cloudflare account rather than uploading them yourself. The upload commands in Sections 6 and 7 are for whoever does that step; a project maintainer will typically run them.
+
 ---
 
 ## 3. Preview the Website on Your Computer
@@ -662,6 +664,8 @@ Please create a new play intro page for a play called "[Full English Title]"
 
 ### Step 4 — Upload the banner image to Cloudflare R2
 
+> **Content authors can hand this off.** Uploading to R2 is the separate technical step — if you are a content author, pass your finished banner image to whoever manages the Cloudflare account instead of running this yourself. The command below is for whoever does the upload.
+
 In the VS Code terminal, run:
 
 **🍎 Mac**
@@ -785,6 +789,8 @@ it rather than reproduce it.
 
 ### Step 4 — Upload images to Cloudflare R2
 
+> **Content authors can hand this off.** Uploading to R2 is the separate technical step — if you are a content author, pass your finished, processed images to whoever manages the Cloudflare account instead of running this yourself. The command below is for whoever does the upload.
+
 In the VS Code terminal, run:
 
 **🍎 Mac**
@@ -856,6 +862,8 @@ Place the `_4k` video file in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]
 > **A resolution number can lie.** A clip stored as `1920x1080` may be an upscale of a low-resolution source: high pixel count, no real detail. Judge a source by looking at it, not by its label. The [clip sourcing and alignment guide](HOW_TO_clip_source_and_alignment.md) covers how to check what a source really offers, and how to re-cut a clip so its existing subtitles and audio description still line up.
 
 #### 6b — Upload to R2
+
+> **Content authors can hand this off.** Getting the clip ready (steps 6a above — sourcing, upscaling, subtitles, audio description) is the author's work. The upload itself is the separate technical step — if you are a content author, pass your finished video and audio-description files to whoever manages the Cloudflare account instead of running the commands below yourself.
 
 **Preferred: ask Claude Code to do the upload for you**
 
