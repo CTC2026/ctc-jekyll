@@ -2,10 +2,10 @@
 
 This guide covers where an image sits on the page — floated left or right, or centered full width — and how to avoid the most common layout problem: an empty column of blank space beside a floated figure. It is about **placement**; for the words inside the image tag (alt text) and under it (figcaption), see the [alt text guide](HOW_TO_alt_text.md).
 
-Two things decide placement, depending on the page:
+Pages are built from **text content** (the essay lives on this site now; there is no source PDF or laid-out original to copy a figure arrangement from). So placement follows the **house conventions** in this guide, using the essay text as your guide to *which* paragraph a figure belongs beside. Two rules anchor it:
 
-- **Media-type pages and comic/print modules built from a source PDF:** **match the source PDF.** If the author's document floats a figure on the right at roughly half the text width, do the same. Don't impose a house layout the source didn't use.
-- **Play adaptation modules (film/TV/opera-film/recorded-performance pages):** the source is a **text-only Word document** — it has no figures, no layout, and no marks saying where an image or clip goes. So you follow the **house conventions** below instead of matching a source layout. The first of these is fixed: the first figure floats right beside the Information box.
+- On a **play adaptation module** (film/TV/opera-film/recorded-performance), the first figure floats **right, beside the Information box** (next section).
+- Every other figure sits **next to the paragraph that discusses it** — where the essay names it (e.g. "(Fig. 2)") or describes that image — floated right/left down the page, or centered full width when it's a wide or lead image.
 
 ---
 
@@ -43,8 +43,8 @@ Every figure is a `<figure>` with one of these classes. The class decides the pl
 | Class | Placement | Use it for |
 |---|---|---|
 | `module-figure-right` | Floats to the **right**; text wraps down its left side. ~300px wide (wider on the Kun Opera page). | The default for most figures — a portrait or a figure the text discusses as it flows past. |
-| `module-figure-left` | Floats to the **left**; text wraps down its right side. ~300px wide. | Alternating with right-floated figures down a long article, to match a source that does the same. |
-| `module-figure` | **Centered, full width** (up to 560px), clears the text above and below. | A lead/hero figure (often Fig. 1) that the source presents large and prominently, or a wide image that would be too small floated. |
+| `module-figure-left` | Floats to the **left**; text wraps down its right side. ~300px wide. | Alternating with right-floated figures down a long article, so the page doesn't lean all to one side. |
+| `module-figure` | **Centered, full width** (up to 560px), clears the text above and below. | A lead/hero image you want shown large and prominently, or a wide image that would be too small floated. |
 | `figure-stack-right` | Floats **right** and stacks several `<figure>`s in one column. | Two or three related small images that belong together beside one block of text. |
 
 The markup is identical across all of them — only the class on the `<figure>` changes:
@@ -61,9 +61,9 @@ The markup is identical across all of them — only the class on the `<figure>` 
 
 ---
 
-## Enlarge and center a lead figure (source-PDF pages)
+## Enlarge and center a lead figure
 
-This is for **media-type pages and comic/print modules**, not play modules — on a play module the first figure floats right beside the Information box (see above). When such a source PDF opens with one figure shown large and centered — commonly Fig. 1 — give it `class="module-figure"` rather than floating it small. It reads as the opening image of the article instead of a small aside.
+This is **not** for the first figure on a play module — that one floats right beside the Information box (see above). But elsewhere — a media-type page, a comic/print module, or any spot where one image should open a section large and prominently — give it `class="module-figure"` rather than floating it small. It reads as the opening image of the article instead of a small aside.
 
 ```html
 <figure class="module-figure">
@@ -101,9 +101,53 @@ The heading and the paragraphs after it then wrap up the right (or left) side of
 
 ---
 
-## Match the source's left/right rhythm
+## Alternate figures left and right down the page
 
-When a source article alternates figures left and right down the page, reproduce that: alternate `module-figure-left` and `module-figure-right` so the layout tracks the original. Keep sizes consistent within a page unless the source deliberately varies them (the Kun Opera page, for example, sizes its floated photos larger — at ~46% of the text column — to match its source; that enlargement is enabled by its `page_class: media-kun-opera`).
+When a page has several floated figures, alternate `module-figure-right` and `module-figure-left` so the page doesn't lean all to one side. Keep sizes consistent within a page unless one image genuinely needs to be larger (the Kun Opera page, for example, sizes its floated photos larger — at ~46% of the text column; that enlargement is enabled by its `page_class: media-kun-opera`).
+
+---
+
+## Check the size and position in the preview, then adjust
+
+There is no original layout to match, so **you are the judge of how the visuals look.** After the figures are on the page, open the local preview (HOW_TO.md Section 3) on a wide desktop window and **look at every image and video**: is it on the side you want, the right size, and beside the paragraph it belongs to — with no blank column next to it? If anything looks off, don't hand-edit the HTML — describe the change to **Claude Code** and let it make the adjustment. Paste one of these prompts (edit the file path and figure name to match yours):
+
+**Move a figure to the other side**
+```
+In plays/[play]/[module].md, change Fig. 3 from floating right to floating
+left (module-figure-right → module-figure-left) so it alternates with the
+figure above it.
+```
+
+**Make a figure bigger, smaller, or full-width**
+```
+In plays/[play]/[module].md, Fig. 2 looks too small floated. Make it a
+centered, full-width figure instead (use class="module-figure").
+```
+
+**Move a figure next to a different paragraph**
+```
+In plays/[play]/[module].md, move Fig. 4 down so it sits beside the
+paragraph that begins "When he arrives at the residence…", instead of
+where it is now.
+```
+
+**Fix a blank column of empty space beside a figure**
+```
+In plays/[play]/[module].md, there is a tall blank space beside the image
+before the "Theme" heading. Fix the empty column beside that floated
+figure using one of the three fixes in the figure layout guide (let the
+heading sit beside it with {: .beside-figure }, move the figure next to
+more text, or make it full-width).
+```
+
+**Adjust a video clip's placement**
+```
+In plays/[play]/[module].md, move the Clip 2 video so it comes right after
+its scene heading and context paragraph, and keep its translation-notes
+table directly below the clip.
+```
+
+Preview again after each change to confirm it looks right. Repeat until every visual sits where you want it.
 
 ---
 
@@ -112,9 +156,8 @@ When a source article alternates figures left and right down the page, reproduce
 On a wide desktop preview window, confirm:
 
 - **Play module:** the first figure (poster) floats **right, beside the Information box** — placed before the `module-info` div, with `class="module-figure-right"`
-- Each figure is on the same side (left/right/centered) and roughly the same relative size as in the source (for source-PDF pages) or per the house rhythm (for play modules)
+- Each figure sits beside the paragraph that discusses it, floated figures alternate left/right, and sizes are consistent within the page
 - No empty column of blank space beside any floated figure
-- On a source-PDF page, the lead figure is centered and enlarged if the source shows it that way
 - Figures still stack cleanly when you narrow the window (mobile view)
 - Every figure has alt text and a figcaption — see the [alt text guide](HOW_TO_alt_text.md)
 
