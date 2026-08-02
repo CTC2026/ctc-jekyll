@@ -14,7 +14,7 @@ CTC Project Files/
 ├── About/            ← site-level documents (About, Contribute, Organization, Permissions, How-to-teach…)
 ├── Accessibility/    ← the accessibility checklist and testing tools
 │
-├── Source/           ← the authored inputs: the 3 docs + images + the original clips
+├── Source/           ← the authored inputs: the docs + images + the original clips
 └── Processed/        ← the video-processing outputs: better clips + subtitles + audio descriptions
 ```
 
@@ -25,7 +25,7 @@ CTC Project Files/
 
 | Folder | What it holds | Who touches it |
 |---|---|---|
-| **Source/** | The originally authored inputs: the 3 Word documents (essay, `_Figures`, `_TransCharts`), the images, and the **original** video clips as first sourced. | Authors — this is where the writing and the first-pass media live. |
+| **Source/** | The originally authored inputs: the Word documents (essay, `_Figures`, `_TransCharts`, `_ClipNotes`), the images, and the **original** video clips as first sourced. | Authors — this is where the writing and the first-pass media live. |
 | **Processed/** | The **video-processing outputs only**: the better-sourced / upscaled clips, plus each clip's **subtitle** files (`_captions_ch.vtt`, `_captions_en.vtt`) and **audio-description** files (`_audiodesc.vtt` + `cue_*.mp3`). | Whoever re-sources, upscales, subtitles, and audio-describes the clips. |
 
 The workflow always runs one direction:
@@ -63,12 +63,13 @@ Source/
             ├── Mulan_1956_OperaFilm.docx            ← essay (module prose)
             ├── Mulan_1956_OperaFilm_Figures.docx    ← figures: caption, Source, Credit, Alt per figure
             ├── Mulan_1956_OperaFilm_TransCharts.docx ← clip translations: one Chinese/English table per clip
+            ├── Mulan_1956_OperaFilm_ClipNotes.docx   ← clip notes: per-clip caption (description, Source, Credit)
             ├── Mulan_1956_OperaFilm_1.jpg           ← images (numbered)
             ├── Mulan_1956_OperaFilm_2.jpg
             └── Mulan_1956_OperaFilm_Clip_1_original.mp4  ← the original clip, as first sourced
 ```
 
-The **three `.docx` files travel together** in the module folder: the essay (prose), `_Figures.docx` (images + captions/alt), and `_TransCharts.docx` (clip subtitles/translations). A module with no clips omits the TransCharts doc; one with no images omits the Figures doc.
+The **`.docx` files travel together** in the module folder: the essay (prose), `_Figures.docx` (images + captions/alt), `_TransCharts.docx` (clip subtitles/translations), and `_ClipNotes.docx` (the caption under each clip). A module with no clips omits the `_TransCharts` and `_ClipNotes` docs; one with no images omits the `_Figures` doc.
 
 ### Processed/Plays/ — the video-processing outputs, same path
 
@@ -113,6 +114,7 @@ They have nothing in `Processed/` unless a media-type page ever gains a video cl
 | Essay doc | `[Base].docx` | `Mulan_1956_OperaFilm.docx` | Source |
 | Figures doc | `[Base]_Figures.docx` | `Mulan_1956_OperaFilm_Figures.docx` | Source |
 | TransCharts doc | `[Base]_TransCharts.docx` | `Mulan_1956_OperaFilm_TransCharts.docx` | Source |
+| Clip-notes doc | `[Base]_ClipNotes.docx` | `Mulan_1956_OperaFilm_ClipNotes.docx` | Source |
 | Images | `[Base]_N.jpg`/`.png` | `Mulan_1956_OperaFilm_1.jpg` | Source |
 | Original clip | `[Base]_Clip_N_original.mp4` | `Mulan_1956_OperaFilm_Clip_1_original.mp4` | Source |
 | Processed clip | `[Base]_Clip_N_[suffix].mp4` (Topaz suffix, e.g. `_2x`) | `Mulan_1956_OperaFilm_Clip_1_2x.mp4` | Processed |

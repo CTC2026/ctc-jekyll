@@ -32,6 +32,7 @@ Teams: CTC Project Files/
 │   │     Mulan_1956_OperaFilm.docx              ← essay
 │   │     Mulan_1956_OperaFilm_Figures.docx      ← figures (caption/Source/Credit/Alt)
 │   │     Mulan_1956_OperaFilm_TransCharts.docx  ← clip translations
+│   │     Mulan_1956_OperaFilm_ClipNotes.docx    ← clip notes (per-clip caption)
 │   │     Mulan_1956_OperaFilm_1.jpg …           ← images
 │   │     Mulan_1956_OperaFilm_Clip_1_original.mp4  ← original clip, as first sourced
 │   └── Media Types/Kun Opera/  OperaType_Kun.docx, OperaType_Kun_Figures.docx, images
@@ -44,7 +45,7 @@ Teams: CTC Project Files/
           Mulan_1956_OperaFilm_Clip_1_audiodesc.vtt    ← audio-description cues (+ cue_*.mp3)
 ```
 
-- **Source/** — the authored materials: the three module `.docx` files, the images, and the original clips as first sourced. This is what a page author downloads to build the page.
+- **Source/** — the authored materials: the module `.docx` files, the images, and the original clips as first sourced. This is what a page author downloads to build the page.
 - **Processed/** — the outputs of the clip work: the re-sourced/upscaled video plus each clip's subtitle and audio-description files. The processed clip is what gets uploaded to Cloudflare R2.
 - **Source/** and **Processed/** mirror each other's `Plays/…` paths, so a clip's original and its processed version sit one folder-swap apart.
 
@@ -740,27 +741,28 @@ An adaptation module is a page about one specific film, opera, TV show, comic, o
 
 ### Step 1 — Prepare your files on Teams
 
-Save everything for the module — **three Word documents plus the media** — together in one folder on Teams. Name every file from the same base, `[PlayName]_[Year]_[Type]` (e.g. `Mulan_1956_OperaFilm`):
+Save everything for the module — **the Word documents plus the media** — together in one folder on Teams. Name every file from the same base, `[PlayName]_[Year]_[Type]` (e.g. `Mulan_1956_OperaFilm`):
 
 ```
 Teams: CTC Project Files / Source / Plays / [play-slug] / [PlayName]_[Year]_[Type] /
     [PlayName]_[Year]_[Type].docx            ← the essay (module prose)
     [PlayName]_[Year]_[Type]_Figures.docx    ← figures list: each figure's caption, Source, Credit, Alt text
     [PlayName]_[Year]_[Type]_TransCharts.docx ← clip translations: one Chinese/English table per clip
+    [PlayName]_[Year]_[Type]_ClipNotes.docx  ← clip notes: per-clip caption (description, Source, Credit)
     [PlayName]_[Year]_[Type]_1.jpg           ← images (numbered)
     [PlayName]_[Year]_[Type]_Clip_1_original.mp4  ← the clip as first sourced (numbered)
 ```
 
 The docs, images, and original clips are the **Source** side. When each clip is later re-sourced/upscaled and given subtitles and an audio description, those outputs go in the mirror path under `Processed/Plays/[play-slug]/[PlayName]_[Year]_[Type]/`. See the [Teams Folder Structure guide](TEAMS_STRUCTURE.md) for the full layout and naming rules.
 
-The **three `.docx` files always travel together** in the module folder: the essay supplies the prose, `_Figures.docx` supplies the images and their captions/alt text (Step 5), and `_TransCharts.docx` supplies the clip subtitles and translation-notes tables ([subtitles guide](HOW_TO_subtitles_and_audio.md), Part 0). A module with no video clips omits the TransCharts doc; one with no images omits the Figures doc.
+The **`.docx` files always travel together** in the module folder: the essay supplies the prose, `_Figures.docx` supplies the images and their captions/alt text (Step 5), `_TransCharts.docx` supplies the clip subtitles and translation-notes tables ([subtitles guide](HOW_TO_subtitles_and_audio.md), Part 0), and `_ClipNotes.docx` supplies the caption under each clip (the subtitles guide, "The clip note"). A module with no video clips omits the `_TransCharts` and `_ClipNotes` docs; one with no images omits the `_Figures` doc.
 
 ---
 
 ### Step 2 — Download files to your computer
 
 Download from Teams to your computer:
-- All three Word documents: the essay, the figures document (`..._Figures.docx`), and — if the module has clips — the translation charts (`..._TransCharts.docx`)
+- All the Word documents: the essay, the figures document (`..._Figures.docx`), and — if the module has clips — the translation charts (`..._TransCharts.docx`) and the clip-notes doc (`..._ClipNotes.docx`)
 - All image files — place them in `ctc-jekyll/assets/plays/[play-name]/[year]-[type]/`
 - All video clip files — place them in the same folder
 
