@@ -144,6 +144,15 @@ Two stages: push to GitHub, then deploy to the live site.
 
 ---
 
+## 6. Consider: rename and restructure the Teams folders
+
+Optional but worth doing when there's time. The current Teams storage still uses the old folder names and layout (`Resource_for_plays`, `Modules, Media Types and Opera Styles`, etc.), which don't match how the project actually works now. Consider renaming and restructuring the Teams folders and files to the canonical layout — About/, Accessibility/, and the mirrored Source/ and Processed/ trees — described in [docs/TEAMS_STRUCTURE.md](TEAMS_STRUCTURE.md). Doing this makes every contributor find files in the same place and name them the same way.
+
+- [ ] Review the target layout in [TEAMS_STRUCTURE.md](TEAMS_STRUCTURE.md)
+- [ ] Rename/restructure the Teams folders and files to match it
+
+---
+
 ## Ongoing
 
 - Keep this file current — add new tasks as they come up so nothing is lost between sessions.
