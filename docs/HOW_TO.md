@@ -72,6 +72,13 @@ original clips             + subtitles + audio desc.     + GitHub for
 7. Push your finished `.md` files to **GitHub**
 8. The project manager publishes the final site to **Reclaim Hosting**
 
+### Keep the docs and memory current when plans change
+
+These guides only help if they match how the project actually works. Whenever a workflow, tool, or decision changes:
+
+- **Update the docs in the same session.** Fix the matching `HOW_TO_*.md` guide, plus [NEXT_STEPS.md](NEXT_STEPS.md) and [TEAMS_STRUCTURE.md](TEAMS_STRUCTURE.md) if they're affected. A change isn't done until its guide reflects it — otherwise the next contributor follows stale instructions.
+- **Keep Claude Code's memory current.** If you use Claude Code, save durable decisions, preferences, and conventions to its memory so they carry across sessions, and update or delete a memory when a plan changes or turns out wrong — stale memory is worse than none. Memory holds the *why* and the conventions; the step-by-step *how* belongs in these `HOW_TO_*.md` files.
+
 ---
 
 ## Table of Contents

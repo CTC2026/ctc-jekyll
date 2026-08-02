@@ -156,5 +156,5 @@ Optional but worth doing when there's time. The current Teams storage still uses
 ## Ongoing
 
 - Keep this file current — add new tasks as they come up so nothing is lost between sessions.
-- When a workflow or tool changes, update the matching guide in [this folder](.) so it stays accurate.
+- **When plans change, update the docs and Claude Code's memory to match** — see [HOW_TO.md → "Keep the docs and memory current when plans change"](HOW_TO.md#keep-the-docs-and-memory-current-when-plans-change).
 - Questions or blockers: contact the project manager.
