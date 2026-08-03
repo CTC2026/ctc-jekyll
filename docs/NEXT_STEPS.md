@@ -123,7 +123,7 @@ _Pages still to add (fill in specifics):_
 
 ## 4. Complete the accessibility test
 
-Do this on every new or edited page (after its media is uploaded) and before publishing. Target conformance is **WCAG 2.1 AA**. See [HOW_TO.md Section 9](HOW_TO.md) and the [OSU compliance doc](OSU_AI_compliance_and_tool_alternatives.md).
+Do this on every new or edited page (after its media is uploaded) and before publishing. Target conformance is **WCAG 2.2 AA** (Level A + AA). See [HOW_TO.md Section 9](HOW_TO.md) and the [OSU compliance doc](OSU_AI_compliance_and_tool_alternatives.md).
 
 - [ ] Run the axe check (`node a11y-axe.mjs`) against each page
 - [ ] Every image has descriptive `alt` text, under 120 chars, not a copy of the figcaption — [alt text guide](HOW_TO_alt_text.md)

@@ -1102,6 +1102,12 @@ Then publish following Section 10.
 
 Before publishing, check that your new page meets accessibility standards. This ensures the site is usable by people with visual impairments or who use screen readers.
 
+**Standard and reference docs.** The site must conform to **WCAG Level A and AA**. Use these three sources when running or learning the accessibility test:
+
+- **OSU MDAS-M tests** — <https://dac.osu.edu/mdas-m/tests/> — videos and detailed step-by-step test instructions.
+- **OSU accessibility resources** — <https://accessibility.osu.edu/> — Ohio State University's accessibility resource hub.
+- **WCAG 2.2** — <https://www.w3.org/TR/WCAG22/> — the success-criteria standard; conform to Level **A** and **AA**.
+
 The accessibility tools and checklist for this project are stored in **Microsoft Teams**:
 
 1. Open Microsoft Teams and go to the **CTC project channel**
