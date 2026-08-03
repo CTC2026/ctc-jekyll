@@ -56,12 +56,12 @@ Source/
 └── Plays/
     └── mulan/                              ← play slug: lowercase, hyphens (matches the repo)
         ├── _General-Intro/
-        │   ├── Mulan_Intro.docx
-        │   └── Mulan_Intro_Figures.docx
+        │   ├── Mulan_Intro.docx                     ← the play's general-intro prose
+        │   └── Mulan_Intro_Figures.docx             ← general-intro figures: each needs a figcaption (Source + Credit built in) and Alt text, same as a module
         │
         └── Mulan_1956_OperaFilm/           ← one folder per module (the module base name)
             ├── Mulan_1956_OperaFilm.docx            ← essay (module prose)
-            ├── Mulan_1956_OperaFilm_Figures.docx    ← figures: caption, Source, Credit, Alt per figure
+            ├── Mulan_1956_OperaFilm_Figures.docx    ← figures: per image, one figcaption (with Source + Credit built in) + Alt text
             ├── Mulan_1956_OperaFilm_TransCharts.docx ← clip translations: one Chinese/English table per clip
             ├── Mulan_1956_OperaFilm_ClipNotes.docx   ← clip notes: per-clip caption (description, Source, Credit)
             ├── Mulan_1956_OperaFilm_1.jpg           ← images (numbered)
@@ -69,7 +69,9 @@ Source/
             └── Mulan_1956_OperaFilm_Clip_1_original.mp4  ← the original clip, as first sourced
 ```
 
-The **`.docx` files travel together** in the module folder: the essay (prose), `_Figures.docx` (images + captions/alt), `_TransCharts.docx` (clip subtitles/translations), and `_ClipNotes.docx` (the caption under each clip). A module with no clips omits the `_TransCharts` and `_ClipNotes` docs; one with no images omits the `_Figures` doc.
+The **`.docx` files travel together** in the module folder: the essay (prose), `_Figures.docx` (each image's figcaption + alt text), `_TransCharts.docx` (clip subtitles/translations), and `_ClipNotes.docx` (the caption under each clip). A module with no clips omits the `_TransCharts` and `_ClipNotes` docs; one with no images omits the `_Figures` doc.
+
+> **Every figure carries exactly two things: a figcaption and alt text.** In each `_Figures.docx`, the **Source and Credit are part of the figcaption** — they render inside the same `<figcaption>` on the page, so write them into the caption rather than laying them out as separate parallel fields. The **alt text** is a short visual description that does not repeat the caption or its source/credit. This is the same for a play's **`_General-Intro/[Play]_Intro_Figures.docx`**: those general-intro figures need figcaptions and alt text just like the module figures. See [HOW_TO_alt_text.md](HOW_TO_alt_text.md).
 
 ### Processed/Plays/ — the video-processing outputs, same path
 
@@ -112,7 +114,7 @@ They have nothing in `Processed/` unless a media-type page ever gains a video cl
 | Module folder & file base | `[PlayName]_[Year]_[Type]`, PascalCase | `Mulan_1956_OperaFilm` | both |
 | `[Type]` values | `OperaFilm`, `Film`, `TV`, `RecordedPerf`, `Comic`, `ModernTheater`, `Print`, `Card` | — | — |
 | Essay doc | `[Base].docx` | `Mulan_1956_OperaFilm.docx` | Source |
-| Figures doc | `[Base]_Figures.docx` | `Mulan_1956_OperaFilm_Figures.docx` | Source |
+| Figures doc | `[Base]_Figures.docx` — per image, a figcaption (Source + Credit built in) + Alt text | `Mulan_1956_OperaFilm_Figures.docx` | Source |
 | TransCharts doc | `[Base]_TransCharts.docx` | `Mulan_1956_OperaFilm_TransCharts.docx` | Source |
 | Clip-notes doc | `[Base]_ClipNotes.docx` | `Mulan_1956_OperaFilm_ClipNotes.docx` | Source |
 | Images | `[Base]_N.jpg`/`.png` | `Mulan_1956_OperaFilm_1.jpg` | Source |
@@ -120,7 +122,7 @@ They have nothing in `Processed/` unless a media-type page ever gains a video cl
 | Processed clip | `[Base]_Clip_N_[suffix].mp4` (Topaz suffix, e.g. `_2x`) | `Mulan_1956_OperaFilm_Clip_1_2x.mp4` | Processed |
 | Subtitles | `[Base]_Clip_N_captions_ch.vtt` / `_captions_en.vtt` | `..._Clip_1_captions_en.vtt` | Processed |
 | Audio description | `[Base]_Clip_N_audiodesc.vtt` (+ `_audiodesc/cue_*.mp3`) | `..._Clip_1_audiodesc.vtt` | Processed |
-| General intro | `_General-Intro/[Play]_Intro.docx` (+ `_Figures`) | `_General-Intro/Mulan_Intro.docx` | Source |
+| General intro | `_General-Intro/[Play]_Intro.docx` (+ `_Figures` — its figures also need figcaptions + alt text) | `_General-Intro/Mulan_Intro.docx` | Source |
 | Media-type doc | `MediaType_[X].docx` / `OperaType_[X].docx` (+ `_Figures`) | `OperaType_Kun.docx` | Source |
 
 Every file for a module shares the same `[Base]` — so a clip, its subtitles, and its audio description sort together, and the Source and Processed copies sit at the same path in each tree.
